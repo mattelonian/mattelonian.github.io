@@ -3333,194 +3333,279 @@
 		},
 		]
 	[RareSlot(1)]
-	2 Houndcrafter Savant
-		2 Jacques, Harsh Conductor
-		2 Grand Overture
-		2 Song of Creation
-		2 Odette L'or, Fickle Painter
-		2 Niels, Cogmaster
-		2 Elven Glassblower
-		2 Diego, Slam Poet
-		2 Michel, Strummer of Heartstrings
-		2 Conceptual Orrery
-		2 Retrospection
-		2 Waxbreath Youngling
-		2 Concordia, Angel of Glass
-		2 Stormsinger
-		2 The Bardenmoot
-		2 Showstopper
-		2 Ancestral Guidance
-		2 Ambrosian Tower
-		2 Cogturn Laboratory
-		2 Festival Puppeteer
-		2 Roland's Solo
-		2 Festival Revelry
-		2 Severin, Kitchen Tyrant
-		2 Hymn to the Wilds
-		2 Stew
-		2 Reconceptualize
-		2 Flamesweeper
-		2 Chicken Coop
-		2 Sauce Flinger
-		2 Balcony Chanteur
-		2 La Chaconne de Soupir No 3
-		2 Gustatorie Mixer
-		2 Solid Fundamentals
-		2 Sylvie, Garden Tender
-		2 Gleeful Amateur
-		2 Body of Literature
-		2 Writer's Desk
-		2 Invocation of Creativity
-		2 Chromatic Lantern
-		2 Lyon's Contemplation
-		2 Parkland Flautist
-		2 Gastronomical Hubris
-		2 Chorus Machine
-		2 Belphegor, Infernal Publisher
-		2 Serenade
-		2 Inkblot Familiar
-		2 Skilled Animancy
-		2 Diviner of the Dessert
-		2 Lament
-		2 Alabaster Guardian
-		2 Tidy Up
-		2 Velda, Opera Diva
-		2 Starlit Horizons
-		2 Scrapsmelt Foundry
-		2 Food Flood
-		2 Davriel's Bargain
-		2 Break from Stress
-		2 Inkshaping
-		2 Stage Fright
-		2 Vivid Expression
-		2 Gallery Curator
-		2 Songweaver Adept
-		2 First Chair Violinist
-		2 Phoenixsong
-		2 Far-off Places
-		2 Frymaster's Pan
-		2 Oft-Told Tales
-		2 Swaying Smorgasbord
-		2 Plan by Committee
-		2 Skystone Sculptory
-		2 Avian Augmenteers
-		2 Show of Strength
-		1 Creativity
-		1 Marquis Vaasco de Moraes
-		1 Pascal, Critics' Favorite
-		1 Lyon, Aged Inventor
-		1 Brasio, Bardic Chronicler
-		1 Isabella, City Builder
-		1 Preserve the Moment
-		1 Hearthsong
-		1 Esteemed Author Davriel Cane
-		1 Ingenuity
-		1 Antoine, Chef Extraordinaire
-		1 Elaphia, Full of Wonder
-		1 Nicola, Inspired Artist
-		1 Roland, Second Fiddle
-		1 Monument to Ascension
-		1 Soup Serpent
-		1 Dramatis Personae
-		[UncommonSlot(1)]
-	9 Back-Alley Theatre
-		9 Sunlit Park
-		9 Discreet Gallery
-		9 Vibrant Concourse
-		9 Delightful Patisserie
-		9 Forlorn Author
-		9 Dancing Troupe
-		9 Wandering Connoisseur
-		9 Meticulous Sculptor
-		9 Turnip Trimmer
-		9 Free-Range Foraging
-		9 Valiant Versemaker
-		9 Blood Artist
-		9 Merrymaker
-		9 Skillful Landscapist
-		9 Civil Engineer
-		9 Dreamquill
-		9 Gnomish Tinkerer
-		9 Worksite Visionary
-		9 Distracting Charcuterie
-		9 Sunstreet Clocktower
-		9 Encore
-		9 Flamethumper
-		9 Opening Act
-		9 Spirit of the Opera
-		9 Fine Diner
-		9 Ironflow Forge
-		9 Heartblaze Theatre
-		9 Audition
-		9 Reptilian Rhymester
-		9 Dragonsong
-		9 Waxcrafter
-		9 Soliloquist
-		9 Operahouse Headliner
-		9 Discouraging Flop
-		9 Second Showing
-		9 Dour Chorister
-		9 Benevolent Florist
-		9 Wolfsong
-		9 Tend the Garden
-		9 Gemcrafter
-		9 Birdsong
-		9 Artist's Easel
-		9 Stew Stirrer
-		9 Trash-eater Gnome
-		9 Inkbottle
-		9 Skilled Sous-Chef
-		9 Castleway Crane
-		9 Hunt for Inspiration
-		9 Teatime Two
-		9 Grow from Instruction
-		9 Angel of Iteration
-		9 Stunning Soprano
-		9 Bombastic Performance
-		9 Petite Patissier
-		9 Partners in Rhyme
-		9 Atelier Exemplar
-		9 Sparks of Invention
-		9 Stained Glass Sentinel
-		9 Cost of Perfection
-		9 Gustbrook Library
-		9 Songcrafting
-		9 Keeper of the Archives
-		9 Redesign
-		9 Wicked Wordsmith
-		9 Enraged Essayist
-		9 Constructed Whelp
-		9 Distracted Apprentice
-		9 The Founding of the City
-		9 Criticize
-		9 Parts Picker
-		9 Witch of Forbidden Treats
-		9 Stonework Behemoth
-		9 Dishearten
-		9 Profane Performer
-		9 Flute of Harmony
-		9 Impassioned Singer
-		9 Spectral Scribe
-		9 The Flourishing
-		9 Vicious Animancer
-		9 Bolstering Chefbot
-		9 Kitty Connoisseur
-		9 The Grand Festival
-		9 Secret Ingredients
-		9 The Rejection of the Monarchy
-		[CommonSlot(1)]
-	30 Congregation Aspirant
-		30 Operahouse Gossip
-		30 Pudding Cat
-		30 Paper Familiars
-		30 Blase Cuisinier
-		30 Mechanical Racer
-		30 Bardic Historian
-		30 Inspirational Performer
-		30 Skystone Seraph
-		30 Colossal Puppetry
-		30 Deride
-		30 Forgefire Spray
+		9 Houndcrafter Savant
+		9 Jacques, Harsh Conductor
+		9 Grand Overture
+		9 Song of Creation
+		9 Odette L'or, Fickle Painter
+		9 Niels, Cogmaster
+		9 Elven Glassblower
+		9 Diego, Slam Poet
+		9 Michel, Strummer of Heartstrings
+		9 Conceptual Orrery
+		9 Retrospection
+		9 Waxbreath Youngling
+		9 Concordia, Angel of Glass
+		9 Stormsinger
+		9 The Bardenmoot
+		9 Showstopper
+		9 Ancestral Guidance
+		9 Ambrosian Tower
+		9 Cogturn Laboratory
+		9 Festival Puppeteer
+		9 Roland's Solo
+		9 Show of Strength
+		9 Festival Revelry
+		9 Severin, Kitchen Tyrant
+		9 Hymn to the Wilds
+		9 Stew
+		9 Reconceptualize
+		9 Flamesweeper
+		9 Chicken Coop
+		9 Sauce Flinger
+		9 Balcony Chanteur
+		9 La Chaconne de Soupir No 3
+		9 Gustatorie Mixer
+		9 Solid Fundamentals
+		9 Sylvie, Garden Tender
+		9 Swaying Smorgasbord
+		9 Gleeful Amateur
+		9 Body of Literature
+		9 Writer's Desk
+		9 Invocation of Creativity
+		9 Chromatic Lantern
+		9 Lyon's Contemplation
+		9 Plan by Committee
+		9 Parkland Flautist
+		9 Gastronomical Hubris
+		9 Chorus Machine
+		9 Belphegor, Infernal Publisher
+		9 Serenade
+		9 Inkblot Familiar
+		9 Avian Augmenteers
+		9 Skilled Animancy
+		9 Diviner of the Dessert
+		9 Lament
+		9 Alabaster Guardian
+		9 Tidy Up
+		9 Velda, Opera Diva
+		9 Skystone Sculptory
+		9 Starlit Horizons
+		9 Scrapsmelt Foundry
+		9 Food Flood
+		9 Davriel's Bargain
+		9 Break from Stress
+		9 Inkshaping
+		9 Stage Fright
+		9 Vivid Expression
+		9 Gallery Curator
+		9 Songweaver Adept
+		9 First Chair Violinist
+		9 Phoenixsong
+		9 Far-off Places
+		9 Frymaster's Pan
+		9 Oft-Told Tales
+		3 Creativity
+		3 Marquis Vaasco de Moraes
+		3 Pascal, Critics' Favorite
+		3 Lyon, Aged Inventor
+		3 Brasio, Bardic Chronicler
+		3 Isabella, City Builder
+		3 Preserve the Moment
+		3 Hearthsong
+		3 Esteemed Author Davriel Cane
+		3 Ingenuity
+		3 Antoine, Chef Extraordinaire
+		3 Elaphia, Full of Wonder
+		3 Nicola, Inspired Artist
+		3 Dramatis Personae
+		3 Roland, Second Fiddle
+		3 Monument to Ascension
+		3 Soup Serpent
+	[UncommonSlot(3)]
+		20 Forlorn Author
+		20 Dancing Troupe
+		20 Wandering Connoisseur
+		20 Meticulous Sculptor
+		20 Turnip Trimmer
+		20 Free-Range Foraging
+		20 Valiant Versemaker
+		20 Blood Artist
+		20 Merrymaker
+		20 Skillful Landscapist
+		20 Civil Engineer
+		20 Dreamquill
+		20 Gnomish Tinkerer
+		20 Worksite Visionary
+		20 Bolstering Chefbot
+		20 Distracting Charcuterie
+		20 Sunstreet Clocktower
+		20 Encore
+		20 Secret Ingredients
+		20 Flamethumper
+		20 Opening Act
+		20 Spirit of the Opera
+		20 Fine Diner
+		20 Ironflow Forge
+		20 Kitty Connoisseur
+		20 Heartblaze Theatre
+		20 Audition
+		20 Reptilian Rhymester
+		20 Dragonsong
+		20 Waxcrafter
+		20 Soliloquist
+		20 Operahouse Headliner
+		20 Discouraging Flop
+		20 Second Showing
+		20 Dour Chorister
+		20 Benevolent Florist
+		20 Wolfsong
+		20 Tend the Garden
+		20 The Rejection of the Monarchy
+		20 Gemcrafter
+		20 Birdsong
+		20 Artist's Easel
+		20 Stew Stirrer
+		20 Trash-eater Gnome
+		20 Inkbottle
+		20 Skilled Sous-Chef
+		20 Castleway Crane
+		20 Hunt for Inspiration
+		20 Teatime Two
+		20 Grow from Instruction
+		20 Angel of Iteration
+		20 The Flourishing
+		20 The Grand Festival
+		20 Stunning Soprano
+		20 Bombastic Performance
+		20 Petite Patissier
+		20 Partners in Rhyme
+		20 Atelier Exemplar
+		20 Sparks of Invention
+		20 Stained Glass Sentinel
+		20 Cost of Perfection
+		20 Gustbrook Library
+		20 Songcrafting
+		20 Vicious Animancer
+		20 Keeper of the Archives
+		20 Redesign
+		20 Wicked Wordsmith
+		20 Enraged Essayist
+		20 Constructed Whelp
+		20 Distracted Apprentice
+		20 The Founding of the City
+		20 Criticize
+		20 Parts Picker
+		20 Witch of Forbidden Treats
+		20 Stonework Behemoth
+		20 Dishearten
+		20 Profane Performer
+		20 Flute of Harmony
+		20 Impassioned Singer
+		20 Spectral Scribe
+	[CommonSlot(10)]
+		25 Congregation Aspirant
+		25 Operahouse Gossip
+		25 Pudding Cat
+		25 Paper Familiars
+		25 Blase Cuisinier
+		25 Mechanical Racer
+		25 Bardic Historian
+		25 Inspirational Performer
+		25 Skystone Seraph
+		25 Colossal Puppetry
+		25 Deride
+		25 Forgefire Spray
+		25 Gorge on Snacks
+		25 Change Perspective
+		25 Rushed Production
+		25 Clash of Egos
+		25 Soup Elemental
+		25 Mechanical Strix
+		25 Prolific Novelist
+		25 Atelier Artisan
+		25 Prevent Catastrophe
+		25 Annul
+		25 Fiendish Fromager
+		25 Artistic Benefactor
+		25 Motivation Sapper
+		25 Exhausting Rehearsal
+		25 Macabre Prop
+		25 Overworked
+		25 Casting Call
+		25 Understudy
+		25 Aspiring Performer
+		25 Leading Lady
+		25 Forge Gnome
+		25 Harbinger of Festivity
+		25 Spit Fire
+		25 Fiery Setpiece
+		25 Dramatic Organ
+		25 Jaunty Tune
+		25 Forgehammer
+		25 Spoil the Broth
+		25 Bite Down on Treats
+		25 Inspired Reader
+		25 Librarian's Assistant
+		25 Cartographer's Eyes
+		25 Gnomestack
+		25 Rancid Meal
+		25 Prophetic Prism
+		25 Rebuild from Scratch
+		25 Tragic Soloist
+		25 Fanciful Flier
+		25 Keen Guardcog
+		25 Merry Troubadour
+		25 Bookwyrm
+		25 Cheerful Painter
+		25 Candied Colossus
+		25 Colorful Rendition
+		25 Inspiring Melody
+		25 Highbrow Critic
+		25 Storybook Serpent
+		25 Distracting Song
+		25 Gustatorie Tastemaker
+		25 Greenpark Strummer
+		25 Belligerence
+		25 Natural Harmony
+		25 Farmstead Butcher
+		25 Tavern Talesmith
+		25 Cookie Snatcher
+		25 Avian Auteur
+		25 Garden Guardian
+		25 Parapet Percher
+		25 Cogwrench
+		25 Lunch Rush
+		25 Vamp
+		25 Fencer's Foil
+		25 Gobsmack
+		25 Arboreal Artist
+		25 Inspiring Walk
+		25 Extravagant Channeler
+		25 Haunting Lullaby
+		25 Moonridge Tailors
+		25 Skystone Gargoyle
+		25 Rousing Read
+		25 Slinking Scribbler
+		25 Rooftop Rapscallion
+		25 Season to Perfection
+		25 Deafening Duo
+		25 Sate the Critics
+		25 See the Sights
+		25 Ironstreet Welders
+		25 Foundry Assistant
+		25 Blueprints
+		25 Footlight Fiend
+		25 Tear Through
+		25 Stage Double
+		25 Enraptured Watcher
+		25 Tavern Reveler
+		25 Green Thumbed Growth
+		25 Gustatorie Explorateur
+		25 Moment of Craving
+		25 Diligent Architect
+		25 Pompous Thespian
+	[LandSlot(1)]
 		30 Serene Museum
 		30 Hushed Library
 		30 Charming Playhouse
@@ -3528,96 +3613,16 @@
 		30 Abundant Garden
 		30 Muted Auditorium
 		30 Seedy Kitchen
+		30 Painter's Studio
 		30 Lively Tavern
 		30 Artificer's Workshop
-		30 Gorge on Snacks
-		30 Change Perspective
-		30 Rushed Production
-		30 Clash of Egos
-		30 Soup Elemental
-		30 Mechanical Strix
-		30 Prolific Novelist
-		30 Atelier Artisan
-		30 Prevent Catastrophe
-		30 Annul
-		30 Fiendish Fromager
-		30 Artistic Benefactor
-		30 Motivation Sapper
-		30 Exhausting Rehearsal
-		30 Macabre Prop
-		30 Overworked
-		30 Casting Call
-		30 Understudy
-		30 Aspiring Performer
-		30 Leading Lady
-		30 Forge Gnome
-		30 Harbinger of Festivity
-		30 Spit Fire
-		30 Fiery Setpiece
-		30 Spoil the Broth
-		30 Inspired Reader
-		30 Librarian's Assistant
-		30 Cartographer's Eyes
-		30 Gnomestack
-		30 Rancid Meal
-		30 Prophetic Prism
-		30 Rebuild from Scratch
-		30 Tragic Soloist
-		30 Fanciful Flier
-		30 Keen Guardcog
-		30 Merry Troubadour
-		30 Bookwyrm
-		30 Cheerful Painter
-		30 Candied Colossus
-		30 Colorful Rendition
-		30 Inspiring Melody
-		30 Highbrow Critic
-		30 Storybook Serpent
-		30 Distracting Song
-		30 Gustatorie Tastemaker
-		30 Greenpark Strummer
-		30 Belligerence
-		30 Natural Harmony
-		30 Farmstead Butcher
-		30 Tavern Talesmith
-		30 Avian Auteur
-		30 Garden Guardian
-		30 Parapet Percher
-		30 Cogwrench
-		30 Lunch Rush
-		30 Vamp
-		30 Fencer's Foil
-		30 Painter's Studio
-		30 Gobsmack
-		30 Arboreal Artist
-		30 Inspiring Walk
-		30 Extravagant Channeler
-		30 Haunting Lullaby
-		30 Moonridge Tailors
-		30 Skystone Gargoyle
-		30 Rousing Read
-		30 Slinking Scribbler
-		30 Rooftop Rapscallion
-		30 Season to Perfection
-		30 Deafening Duo
-		30 Sate the Critics
-		30 See the Sights
-		30 Ironstreet Welders
-		30 Foundry Assistant
-		30 Blueprints
-		30 Footlight Fiend
-		30 Tear Through
-		30 Stage Double
-		30 Enraptured Watcher
-		30 Tavern Reveler
-		30 Green Thumbed Growth
-		30 Gustatorie Explorateur
-		30 Moment of Craving
-		30 Diligent Architect
-		30 Pompous Thespian
-		30 Forgehammer
-		30 Jaunty Tune
-		30 Bite Down on Treats
-		30 Dramatic Organ
-		30 Cookie Snatcher
-		
+		6 Back-Alley Theatre
+		6 Sunlit Park
+		6 Discreet Gallery
+		6 Vibrant Concourse
+		6 Delightful Patisserie
+		3 PROMO Back-Alley Theatre
+		3 PROMO Sunlit Park
+		3 PROMO Discreet Gallery
+		3 PROMO Vibrant Concourse
+		3 PROMO Delightful Patisserie
