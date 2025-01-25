@@ -1,6 +1,11 @@
 {
 	"gradients":[
 	{
+		"name":"Aubergine",
+		"color1":"#61045f",
+		"color2":"#aa076b"
+	},
+	{
 		"name":"Kashmir",
 		"color1":"#614385",
 		"color2":"#516395"
@@ -164,10 +169,5 @@
 		"name":"Orange Coral",
 		"color1":"#ff5e62",
 		"color2":"#ff9966"
-	},
-	{
-		"name":"Aubergine",
-		"color1":"#61045f",
-		"color2":"#aa076b"
 	}
 ]}
