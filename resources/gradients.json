@@ -1,6 +1,11 @@
 {
 	"gradients":[
 	{
+		"name":"Kashmir",
+		"color1":"#614385",
+		"color2":"#516395"
+	},
+	{
 		"name":"Purple White",
 		"color1":"#ba5370",
 		"color2":"#f4e2d8"
@@ -59,11 +64,6 @@
 		"name":"Lush",
 		"color1":"#56ab2f",
 		"color2":"#a8e063"
-	},
-	{
-		"name":"Kashmir",
-		"color1":"#614385",
-		"color2":"#516395"
 	},
 	{
 		"name":"Tranquil",
