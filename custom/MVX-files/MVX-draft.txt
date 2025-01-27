@@ -3348,7 +3348,7 @@
 		9 Concordia, Angel of Glass
 		9 Stormsinger
 		9 The Bardenmoot
-		9 Showstopper
+		9 Knockout Performance
 		9 Ancestral Guidance
 		9 Ambrosian Tower
 		9 Cogturn Laboratory

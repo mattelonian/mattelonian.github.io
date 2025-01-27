@@ -3003,7 +3003,7 @@
 		3 Banefeather Griffin
 		3 Craneriders
 		3 Lifestep Caribou
-		3 Territorial Arnyx
+		3 Territorial Arynx
 		3 Aspect of Radiance
 		3 Eiyo's Understanding
 		3 Alexa's Catharsis
