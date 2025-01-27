@@ -1190,23 +1190,23 @@
 			}
 		},
 		{
-			"name": "TKN Elk",
+			"name": "Elk Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elk ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/10_TKN Elk.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/10_Elk Token.png"
 			}
 		},
 		{
-			"name": "TKN Wolf",
+			"name": "Wolf Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf ",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/13_TKN Wolf.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/13_Wolf Token.png"
 			}
 		},
 		{
@@ -1300,13 +1300,13 @@
 			}
 		},
 		{
-			"name": "TKN Bird",
+			"name": "Bird Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/3_TKN Bird.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/3_Bird Token.png"
 			}
 		},
 		{
@@ -1502,7 +1502,7 @@
 		{
 			"name": "Eiyo Ascendant",
 			"rarity": "mythic",
-			"mana_cost": "{3}{R}{W}",
+			"mana_cost": "{4}{R}{W}",
 			"type": "Legendary Planeswalker — Eiyo ",
 			"collector_number": "197",
 			"image_uris": {
@@ -1660,13 +1660,13 @@
 			}
 		},
 		{
-			"name": "TKN Elemental",
+			"name": "Elemental Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/6_TKN Elemental.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/6_Elemental Token.png"
 			}
 		},
 		{
@@ -1700,13 +1700,13 @@
 			}
 		},
 		{
-			"name": "TKN Rabbit",
+			"name": "Rabbit Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rabbit ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/12_TKN Rabbit.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/12_Rabbit Token.png"
 			}
 		},
 		{
@@ -1790,23 +1790,23 @@
 			}
 		},
 		{
-			"name": "TKN Plant",
+			"name": "Plant Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Plant ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/11_TKN Plant.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/11_Plant Token.png"
 			}
 		},
 		{
-			"name": "TKN Beast",
+			"name": "Beast Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/9_TKN Beast.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/9_Beast Token.png"
 			}
 		},
 		{
@@ -1870,13 +1870,13 @@
 			}
 		},
 		{
-			"name": "TKN Treasure",
+			"name": "Treasure Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/15_TKN Treasure.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/15_Treasure Token.png"
 			}
 		},
 		{
@@ -1900,16 +1900,6 @@
 			}
 		},
 		{
-			"name": "Alexa, Whose Steps Blossom",
-			"rarity": "mythic",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Planeswalker — Alexa ",
-			"collector_number": "182",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/182_Alexa, Whose Steps Blossom.png"
-			}
-		},
-		{
 			"name": "Aurora Reminder",
 			"rarity": "common",
 			"mana_cost": "",
@@ -1920,13 +1910,13 @@
 			}
 		},
 		{
-			"name": "TKN Land",
+			"name": "Everywhere",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/16_TKN Land.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/16_Everywhere.png"
 			}
 		},
 		{
@@ -2220,13 +2210,13 @@
 			}
 		},
 		{
-			"name": "TKN Fungus",
+			"name": "Fungus Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Fungus ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/7_TKN Fungus.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/7_Fungus Token.png"
 			}
 		},
 		{
@@ -2392,7 +2382,7 @@
 		{
 			"name": "Aether Invigoration",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "181",
 			"image_uris": {
@@ -2460,23 +2450,13 @@
 			}
 		},
 		{
-			"name": "TKN Crocodile",
+			"name": "Crocodile Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Crocodile ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/8_TKN Crocodile.png"
-			}
-		},
-		{
-			"name": "Rend and Tear",
-			"rarity": "rare",
-			"mana_cost": "{X}{R}",
-			"type": "Sorcery",
-			"collector_number": "135",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/135_Rend and Tear.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/8_Crocodile Token.png"
 			}
 		},
 		{
@@ -2642,7 +2622,7 @@
 		{
 			"name": "Dawn's Inexorable Creep",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Kindred Sorcery — Bird Revelation ",
 			"collector_number": "10",
 			"image_uris": {
@@ -2790,16 +2770,6 @@
 			}
 		},
 		{
-			"name": "Simul's Exploration",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "169",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/169_Simul's Exploration.png"
-			}
-		},
-		{
 			"name": "Florescence",
 			"rarity": "mythic",
 			"mana_cost": "{5}{G}{G}",
@@ -2830,13 +2800,13 @@
 			}
 		},
 		{
-			"name": "TKN Swamp Forest",
+			"name": "Swamp Forest Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land — Swamp Forest ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/17_TKN Swamp Forest.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/17_Swamp Forest Token.png"
 			}
 		},
 		{
@@ -2880,13 +2850,13 @@
 			}
 		},
 		{
-			"name": "TKN Bear",
+			"name": "Bear Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bear ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/5_TKN Bear.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/5_Bear Token.png"
 			}
 		},
 		{
@@ -2950,13 +2920,43 @@
 			}
 		},
 		{
-			"name": "TKN Squirrel",
+			"name": "Squirrel Token",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Squirrel ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/AUR-files/img/4_TKN Squirrel.png"
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/4_Squirrel Token.png"
+			}
+		},
+		{
+			"name": "Rend and Tear",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/135_Rend and Tear.png"
+			}
+		},
+		{
+			"name": "Simul's Exploration",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/169_Simul's Exploration.png"
+			}
+		},
+		{
+			"name": "Alexa, Whose Steps Blossom",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Planeswalker — Alexa ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/AUR-files/img/182_Alexa, Whose Steps Blossom.png"
 			}
 		},
 		]
