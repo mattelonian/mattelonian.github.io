@@ -1,4 +1,4 @@
-﻿[CustomCards]
+[CustomCards]
 	[	{
 			"name": "Hungering Lights",
 			"rarity": "common",
@@ -2961,270 +2961,270 @@
 		},
 		]
 	[RareSlot(1)]
-		3 Coruscating Lynx
-		3 Fleeting Memories
-		3 Lone Spirit
-		3 Rampaging Hipposaur
-		3 Stampede of Beasts
-		3 Quiet Never Truly Falls
-		3 Manifest from Beyond
-		3 Crest the Stars
-		3 Stalk the Mind
-		3 Manablossom
-		3 Final Confrontation
-		3 Hunter of Streams
-		3 Unearthed Past
-		3 Burn the Sky Down
-		3 Howl of Ancestry
-		3 Dolnjar Terror
-		3 Doln, End of All Things
-		3 Shardback Leviathan
-		3 Manahunter Griffin
-		3 Vali's Yearning
-		3 Writ in Starlight
-		3 Aethergorged Condor
-		3 Step Among Clouds
-		3 Trek Upwards
-		3 Time's Waves Ripple
-		3 Permanence Is Temporary
-		3 The Unending Never Began
-		3 Unity Through Difference
-		3 Repel with Flame
-		3 Winter's Stash
-		3 Vulpine Razer
-		3 Hydroid Krasis
-		3 Mold Frog
-		3 Refraction Lynx
-		3 Rend and Tear
-		3 Cruel Survival
-		3 The Dreadmold
-		3 Askalla, Stars' Conduit
-		3 Skorag, Toskari Elder
-		3 Banefeather Griffin
-		3 Craneriders
-		3 Lifestep Caribou
-		3 Territorial Arynx
-		3 Aspect of Radiance
-		3 Eiyo's Understanding
-		3 Alexa's Catharsis
-		3 Wei Ji's Judgement
-		3 Prowling Wolfshark
-		3 Celestial Swallower
-		3 Unbreakable Ironhide
-		3 Forgotten Idol
-		3 Herald the End
-		3 Simul's Exploration
-		3 Perdition Mare
-		3 Infected Touch
-		3 Aetherflame Pouncer
-		3 Seek the Rift
-		1 Prismatic Rage
-		1 The Unseen Eternity of Night
-		1 The Body Masters The Mind
-		1 The Sun Rises As It Falls
-		1 The Circle Of Life Is A Spiral
-		1 The End of Infinity
-		1 The Space Between Moments
-		1 Growth Is Mere Perspective
-		1 Eiyo Ascendant
-		1 Vali the Curious
-		1 Light Too Casts Shadow
-		1 Become What Always Was
-		1 Alexa, Whose Steps Blossom
-		1 Only Love Births True Hate
-		1 Simul, Aether Scholar
-		1 Vorzanthirax, the Riftdweller
-		1 Beyond the Aurora
-		1 Transplanar Epiphany
-		1 Frostarmor Wolf
-		1 Florescence
-		1 Wei Ji of the Veil
+		9 Coruscating Lynx
+		9 Fleeting Memories
+		9 Lone Spirit
+		9 Rampaging Hipposaur
+		9 Stampede of Beasts
+		9 Quiet Never Truly Falls
+		9 Manifest from Beyond
+		9 Crest the Stars
+		9 Stalk the Mind
+		9 Manablossom
+		9 Final Confrontation
+		9 Hunter of Streams
+		9 Unearthed Past
+		9 Burn the Sky Down
+		9 Howl of Ancestry
+		9 Dolnjar Terror
+		9 Doln, End of All Things
+		9 Shardback Leviathan
+		9 Manahunter Griffin
+		9 Vali's Yearning
+		9 Writ in Starlight
+		9 Aethergorged Condor
+		9 Step Among Clouds
+		9 Trek Upwards
+		9 Time's Waves Ripple
+		9 Permanence Is Temporary
+		9 The Unending Never Began
+		9 Unity Through Difference
+		9 Repel with Flame
+		9 Winter's Stash
+		9 Vulpine Razer
+		9 Hydroid Krasis
+		9 Mold Frog
+		9 Refraction Lynx
+		9 Rend and Tear
+		9 Cruel Survival
+		9 The Dreadmold
+		9 Askalla, Stars' Conduit
+		9 Skorag, Toskari Elder
+		9 Banefeather Griffin
+		9 Craneriders
+		9 Lifestep Caribou
+		9 Territorial Arynx
+		9 Aspect of Radiance
+		9 Eiyo's Understanding
+		9 Alexa's Catharsis
+		9 Wei Ji's Judgement
+		9 Prowling Wolfshark
+		9 Celestial Swallower
+		9 Unbreakable Ironhide
+		9 Forgotten Idol
+		9 Herald the End
+		9 Simul's Exploration
+		9 Perdition Mare
+		9 Infected Touch
+		9 Aetherflame Pouncer
+		9 Seek the Rift
+		3 Prismatic Rage
+		3 The Unseen Eternity of Night
+		3 The Body Masters The Mind
+		3 The Sun Rises As It Falls
+		3 The Circle Of Life Is A Spiral
+		3 The End of Infinity
+		3 The Space Between Moments
+		3 Growth Is Mere Perspective
+		3 Eiyo Ascendant
+		3 Vali the Curious
+		3 Light Too Casts Shadow
+		3 Become What Always Was
+		3 Alexa, Whose Steps Blossom
+		3 Only Love Births True Hate
+		3 Simul, Aether Scholar
+		3 Vorzanthirax, the Riftdweller
+		3 Beyond the Aurora
+		3 Transplanar Epiphany
+		3 Frostarmor Wolf
+		3 Florescence
+		3 Wei Ji of the Veil
 	[UncommonSlot(3)]
-		5 Spirit of the Canyon
-		5 Molten Infusion
-		5 Wandering Lustre
-		5 Eiyo's Guardian
-		5 Igneous Tiger
-		5 Return Through Rot
-		5 Starvation
-		5 Aether Parasite
-		5 Skolweald Veteran
-		5 Cragskin Rhino
-		5 Firebelly Frogan
-		5 Mire Blossoms
-		5 Memories of Forgotten Heroes
-		5 Ashcrystal Moloch
-		5 Slag Gorger
-		5 Solar Eclipse
-		5 Young Hipposaur
-		5 Tidemare
-		5 Borealis Swimmer
-		5 Icicle Tromper
-		5 Fledgeling Forager
-		5 Polar Moose
-		5 Apprentice Luminant
-		5 Run with the Spirit Pack
-		5 Swooping Strix
-		5 Lies Are Themselves A Truth
-		5 Walker of Starlit Paths
-		5 Hellfire Maw
-		5 Empyrean Stalker
-		5 Fungal Glow
-		5 Frosthorn Akhos
-		5 The Reflection Gazes Back
-		5 Plaguewolf
-		5 To Fall Forever Is To Fly
-		5 Adaptive Combat
-		5 Autumnal Summons
-		5 Humiliate
-		5 Reefcrown Drake
-		5 Efferpheasant
-		5 A Calm Rage Simmers
-		5 Dreadbore
-		5 Light of the Phoenix
-		5 Eddies In The Stream Of Fate
-		5 Peculiar Pollywogs
-		5 Toskari Aetherblade
-		5 Pondstepper Chick
-		5 Ascend
-		5 Glow
-		5 Toskari Trueshot
-		5 Essence Gouger
-		5 Quag Festerer
-		5 Bloodleecher Drake
-		5 Effigy of Tranquility
-		5 Autumn Strider
-		5 Suffocate in Aether
-		5 Shadecrawler
-		5 Shimmer Pack
-		5 Keep Vigil
-		5 Spirits' Protection
-		5 Aether Invigoration
-		5 Wings of the Aurora
-		5 Gemstone Tyrant
-		5 Return from Ash
-		5 Firemane Charger
-		5 Borewurm
-		5 Phantasmal Stride
-		5 Spirits of the Weald
-		5 Start Over
-		5 Chosen of the Heavens
-		5 Dawn's Inexorable Creep
-		5 A Fragment Contains The Whole
-		5 Fall for the Bait
-		5 Dandecrab
+		20 Spirit of the Canyon
+		20 Molten Infusion
+		20 Wandering Lustre
+		20 Eiyo's Guardian
+		20 Igneous Tiger
+		20 Return Through Rot
+		20 Starvation
+		20 Aether Parasite
+		20 Skolweald Veteran
+		20 Cragskin Rhino
+		20 Firebelly Frogan
+		20 Mire Blossoms
+		20 Memories of Forgotten Heroes
+		20 Ashcrystal Moloch
+		20 Slag Gorger
+		20 Solar Eclipse
+		20 Young Hipposaur
+		20 Tidemare
+		20 Borealis Swimmer
+		20 Icicle Tromper
+		20 Fledgeling Forager
+		20 Polar Moose
+		20 Apprentice Luminant
+		20 Run with the Spirit Pack
+		20 Swooping Strix
+		20 Lies Are Themselves A Truth
+		20 Walker of Starlit Paths
+		20 Hellfire Maw
+		20 Empyrean Stalker
+		20 Fungal Glow
+		20 Frosthorn Akhos
+		20 The Reflection Gazes Back
+		20 Plaguewolf
+		20 To Fall Forever Is To Fly
+		20 Adaptive Combat
+		20 Autumnal Summons
+		20 Humiliate
+		20 Reefcrown Drake
+		20 Efferpheasant
+		20 A Calm Rage Simmers
+		20 Dreadbore
+		20 Light of the Phoenix
+		20 Eddies In The Stream Of Fate
+		20 Peculiar Pollywogs
+		20 Toskari Aetherblade
+		20 Pondstepper Chick
+		20 Ascend
+		20 Glow
+		20 Toskari Trueshot
+		20 Essence Gouger
+		20 Quag Festerer
+		20 Bloodleecher Drake
+		20 Effigy of Tranquility
+		20 Autumn Strider
+		20 Suffocate in Aether
+		20 Shadecrawler
+		20 Shimmer Pack
+		20 Keep Vigil
+		20 Spirits' Protection
+		20 Aether Invigoration
+		20 Wings of the Aurora
+		20 Gemstone Tyrant
+		20 Return from Ash
+		20 Firemane Charger
+		20 Borewurm
+		20 Phantasmal Stride
+		20 Spirits of the Weald
+		20 Start Over
+		20 Chosen of the Heavens
+		20 Dawn's Inexorable Creep
+		20 A Fragment Contains The Whole
+		20 Fall for the Bait
+		20 Dandecrab
 	[CommonSlot(10)]
-		12 Hungering Lights
-		12 Prophetic Prism
-		12 Skullcreeper Blossom
-		12 Gorehorn Baloth
-		12 Bloodmark Beetle
-		12 Carrion Shrieker
-		12 Sporespewer
-		12 Gore
-		12 Drag Below
-		12 Hyperventilate
-		12 Toskari Lookout
-		12 Crystalglow Brute
-		12 Pinewreathed Prowler
-		12 King of the Forest
-		12 Suffuse with Power
-		12 Predate the Skies
-		12 Magmashell Turtle
-		12 Volcanic Toad
-		12 Dolnjar Crusher
-		12 Conflagration Wurm
-		12 Volatile Leap
-		12 Ephemeral Civet
-		12 Berryfield Drakeling
-		12 Everfrost Hawk
-		12 Adventurous Ursine
-		12 Wavecrash Colossus
-		12 Negate
-		12 Luminous Communion
-		12 Return to Aether
-		12 Berry Picker
-		12 Pack Scrounger
-		12 Witness of the Skies
-		12 Toskari Hero
-		12 Infused Owlbear
-		12 Dawnfeather Roc
-		12 Protector of the Meek
-		12 Pick Off
-		12 The Self Is A Reflection
-		12 The Mind's Eye Slips All Bonds
-		12 Crystal Carapace
-		12 Prey On The Frailty of Strength
-		12 Passion's Warmth Burns
-		12 The Careful Designs of Instinct
-		12 The Forest Of A Tree
-		12 Bask in Sunlight
-		12 Veil of the Aurora
-		12 Touch of Flame
-		12 Majestic Frosthorn
-		12 Invoke the Lights
-		12 Phoenixfire
-		12 Radiant Rebuff
-		12 Inferno Breath
-		12 Lifter Griffin
-		12 Grassland Jackalope
-		12 Honeyfield Shepherd
-		12 Wyrmsbane
-		12 Vanguard Longsword
-		12 Deathbloom
-		12 Ambling Dewdrop
-		12 Lustrous Lurker
-		12 Charging Visceram
-		12 Gloomstep Panther
-		12 Lurking in the Shallows
-		12 Feverbloom
-		12 Stormshrike
-		12 Omen of Woe
-		12 The Illusion of a Chill
-		12 Bloomwarden
-		12 Treetop Pangolin
-		12 The Moon Howls Back
-		12 Aether Scrounger
-		12 Elemental Burst
-		12 Tectonic Hazard
-		12 Fox of the Verdant Grove
-		12 Kitstealer
-		12 Flamewalker Hart
-		12 Glimmerstalker
-		12 Myriad Shades of Silence
-		12 Skolweald Vanguard
-		12 Pouncing Jackewolf
-		12 Rocktusk Boar
-		12 Parasitize
-		12 Hunted by the Pack
-		12 Gemeye Crab
-		12 Tunnelling Slugmole
-		12 Silence of the Drowned
-		12 Distraction
-		12 Transfixed by Wonder
-		12 Curiosity
-		12 Crystal Breath
-		12 Aetherflame Hunting
-		12 Violent Thrash
-		12 Aether Figment
-		12 Verdant Bloom
-		12 Imbued with Aether
-		12 Nurturing Shelter
-		12 Effigy of Shelter
-		12 Gilded Flower
-		12 Fluffle
-		12 The Still Breeze Blows
+		25 Hungering Lights
+		25 Prophetic Prism
+		25 Skullcreeper Blossom
+		25 Gorehorn Baloth
+		25 Bloodmark Beetle
+		25 Carrion Shrieker
+		25 Sporespewer
+		25 Gore
+		25 Drag Below
+		25 Hyperventilate
+		25 Toskari Lookout
+		25 Crystalglow Brute
+		25 Pinewreathed Prowler
+		25 King of the Forest
+		25 Suffuse with Power
+		25 Predate the Skies
+		25 Magmashell Turtle
+		25 Volcanic Toad
+		25 Dolnjar Crusher
+		25 Conflagration Wurm
+		25 Volatile Leap
+		25 Ephemeral Civet
+		25 Berryfield Drakeling
+		25 Everfrost Hawk
+		25 Adventurous Ursine
+		25 Wavecrash Colossus
+		25 Negate
+		25 Luminous Communion
+		25 Return to Aether
+		25 Berry Picker
+		25 Pack Scrounger
+		25 Witness of the Skies
+		25 Toskari Hero
+		25 Infused Owlbear
+		25 Dawnfeather Roc
+		25 Protector of the Meek
+		25 Pick Off
+		25 The Self Is A Reflection
+		25 The Mind's Eye Slips All Bonds
+		25 Crystal Carapace
+		25 Prey On The Frailty of Strength
+		25 Passion's Warmth Burns
+		25 The Careful Designs of Instinct
+		25 The Forest Of A Tree
+		25 Bask in Sunlight
+		25 Veil of the Aurora
+		25 Touch of Flame
+		25 Majestic Frosthorn
+		25 Invoke the Lights
+		25 Phoenixfire
+		25 Radiant Rebuff
+		25 Inferno Breath
+		25 Lifter Griffin
+		25 Grassland Jackalope
+		25 Honeyfield Shepherd
+		25 Wyrmsbane
+		25 Vanguard Longsword
+		25 Deathbloom
+		25 Ambling Dewdrop
+		25 Lustrous Lurker
+		25 Charging Visceram
+		25 Gloomstep Panther
+		25 Lurking in the Shallows
+		25 Feverbloom
+		25 Stormshrike
+		25 Omen of Woe
+		25 The Illusion of a Chill
+		25 Bloomwarden
+		25 Treetop Pangolin
+		25 The Moon Howls Back
+		25 Aether Scrounger
+		25 Elemental Burst
+		25 Tectonic Hazard
+		25 Fox of the Verdant Grove
+		25 Kitstealer
+		25 Flamewalker Hart
+		25 Glimmerstalker
+		25 Myriad Shades of Silence
+		25 Skolweald Vanguard
+		25 Pouncing Jackewolf
+		25 Rocktusk Boar
+		25 Parasitize
+		25 Hunted by the Pack
+		25 Gemeye Crab
+		25 Tunnelling Slugmole
+		25 Silence of the Drowned
+		25 Distraction
+		25 Transfixed by Wonder
+		25 Curiosity
+		25 Crystal Breath
+		25 Aetherflame Hunting
+		25 Violent Thrash
+		25 Aether Figment
+		25 Verdant Bloom
+		25 Imbued with Aether
+		25 Nurturing Shelter
+		25 Effigy of Shelter
+		25 Gilded Flower
+		25 Fluffle
+		25 The Still Breeze Blows
 	[LandSlot(1)]
-		12 Lucent Quag
-		12 Sundappled Cove
-		12 Glistering Canopy
-		12 Boreal Expanse
-		12 Celestial Grotto
-		12 Infernal Morass
-		12 Spiring Rime
-		12 Flowering Vista
-		12 Autumnal Thicket
-		12 Shrouded Heath
+		15 Lucent Quag
+		15 Sundappled Cove
+		15 Glistering Canopy
+		15 Boreal Expanse
+		15 Celestial Grotto
+		15 Infernal Morass
+		15 Spiring Rime
+		15 Flowering Vista
+		15 Autumnal Thicket
+		15 Shrouded Heath
 		9 Wayfarer's Shrine
 		5 Luminous Pasture
 		5 Luminous Sheets
