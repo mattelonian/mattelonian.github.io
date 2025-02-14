@@ -24,7 +24,7 @@ def convertList(setCode):
 	#F: This gets any alt-arts in a single set and adds their card number to a list of cards to skip.
 	for i in range(len(cards)):
 		for j in range(i):
-			if cards[i]['card_name'] == cards[j]['card_name'] and "token" not in cards[j]['shape'] and "Basic" not in cards[j]['type']:
+			if cards[i]['card_name'] == cards[j]['card_name'] and "token" not in cards[i]['shape'] and "Basic" not in cards[i]['type']:
 				skipdex.append(cards[j]['number'])
 	
 	master_list = []
@@ -34,6 +34,7 @@ def convertList(setCode):
 	cards_land = []
 	cards_basic = []
 	cards_token = []
+	cards_last = []
 	
 	#F: now go over the cards again
 	for i in range(len(cards)):
@@ -46,7 +47,7 @@ def convertList(setCode):
 		if '!sort' in notes:
 			#F: notes = index of !sort + 6 to the end of the string
 			card['notes'] = notes[notes.index('!sort') + 6:]
-		else:
+		elif '!last' not in notes:
 			card['notes'] = 'zzz'
 
 		# clean rarities
@@ -61,9 +62,15 @@ def convertList(setCode):
 		else:
 			card['rarity'] = 5
 
+		# clean shape
+		if 'Battle' in card['type']:
+			card['shape'] = card['shape'] + ' split'
+
 		# sort types
 		#EDIT - replace the array index with JSON keys; 10 = shape, 1 = color, 3 = type
-		if 'token' in card['shape']:
+		if '!last' in card['notes']:
+			cards_last.append(card)
+		elif 'token' in card['shape']:
 			cards_token.append(card)
 		elif len(card['color']) > 1:
 			cards_multi.append(card)
@@ -467,7 +474,7 @@ def convertList(setCode):
 				ca = card_arr[row]
 				master_list.append({'card_name':ca['card_name'],'number':ca['number'],'shape':ca['shape']})
 
-	if land_shard_count >= 5 or land_wedge_count >= 5:
+	if (land_shard_count >= 5 and land_wedge_count > 0) or (land_shard_count > 0 and land_wedge_count >= 5):
 		for x in range(5):
 			master_list.append(blank2)
 
@@ -493,7 +500,7 @@ def convertList(setCode):
 			for x in range(5 - ((land_shard_count + land_wedge_count) % 5)):
 				master_list.append(blank1)
 
-	if len(cards_land) - len(lands_other) > 0:
+	if land_wedge_count > 0 and len(cards_land) - len(lands_other) > 0:
 		for x in range(5):
 			master_list.append(blank2)
 
@@ -537,7 +544,7 @@ def convertList(setCode):
 				ca = cards_basic[x]
 				master_list.append({'card_name':ca['card_name'],'number':ca['number'],'shape':ca['shape']})
 
-	if len(cards_basic) % 5 != 0:
+	if len(cards_basic) % 5 != 0 and len(cards_basic) > 0:
 		for x in range(5 - (len(cards_basic) % 5)):
 			master_list.append(blank1)
 
@@ -555,8 +562,22 @@ def convertList(setCode):
 		#EDIT - you know the deal
 		master_list.append({'card_name':card['card_name'],'number':card['number'],'shape':card['shape']})
 
-	if len(cards_token) % 5 != 0:
+	if len(cards_token) % 5 != 0 and len(cards_token) > 0:
 		for x in range(5 - (len(cards_token) % 5)):
+			master_list.append(blank1)
+
+	if len(cards_last) > 0:
+		for x in range(5):
+			master_list.append(blank2)
+
+	# !last
+	cards_last = sorted(cards_last, key=lambda x : (x['number']))
+
+	for card in cards_last:
+		master_list.append({'card_name':card['card_name'],'number':card['number'],'shape':card['shape']})
+
+	if len(cards_last) % 5 != 0 and len(cards_last) > 0:
+		for x in range(5 - (len(cards_last) % 5)):
 			master_list.append(blank1)
 
 	#F: lists/SET-list.txt finally comes into play
@@ -564,5 +585,4 @@ def convertList(setCode):
 		json.dump(master_list, f)
 
 def colorEquals(color, match):
-
 	return sorted("".join(dict.fromkeys(color))) == sorted("".join(dict.fromkeys(match)))

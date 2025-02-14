@@ -61,8 +61,13 @@ This updates your buffer so you can upload all of your images with no timeout is
 
 ```
 python3 -m pip install pillow
+python3 -m pip install markdown
 python3 scripts/build_site.py
 ```
+
+> :memo: **Note:** If at this point `python3` prompts you to install through the Windows Store, do so. It's the path of least resistance.
+
+> :memo: **Note:** If `python3` can't be found, try running the same command with `py` or `python` instead.
 
 This will spit out a bunch of confirmation lines for different site elements being built. The first time it runs, it will take a few minutes to process through each image. Subsequent runs will be much quicker, unless you update the images with new files. After the command finishes, navigate back to Github desktop and you should see plenty of new artifacts in the "Changes" sidebar. In the bottom left, type a title for your change (this is for versioning), then click "Commit to main". Once you've done so, a big "Push origin" button will appear in the middle of the window. Click that, wait for the push to finish, and voila! Your site is deployed.
 
@@ -72,6 +77,8 @@ To track the process of your site deployment, navigate to https://github.com/USE
 
 To get updates to the scripts or resources, from Github Desktop, select "Fetch origin" in the bar along the top and wait for that process to complete. Once it's done, select "Current branch" in the same bar, then at the bottom of the opened menu click "Choose a branch to merge into **main**". On the next modal, select "upstream/main", then click "Create a merge commit". This will bring all new code in the main repo into your forked repo, and it will be ready to push the next time you push the contents of your site to main.
 
+If it's indicated that the new change comes with a change to the exporter, you can find the updated exporter in the `resources` directory. Make sure to copy it into your MSE's `data` folder.
+
 ## Appendix
 
 ### Updating your custom site
@@ -80,17 +87,32 @@ To update a set, re-export it using Egg's All-in-One exporter, then replace the 
 
 ### Custom assets
 
-If you want to replace default or generated assets, You can use the "custom" folder in your Github checkout. Put any files you'd like to replace in similarly named directories within "custom". For instance, to replace a set's logo, create "\<code>-files" within your "custom" folder, then put a new "logo.png" within it. Any assets replaced this way will be brought over once you run `build_site.py`.
+If you want to replace default or generated assets, You can use the "custom" folder in your Github checkout. Put any files you'd like to replace in similarly named directories within "custom". For instance, to replace a set's logo, create "sets/\<code>-files" within your "custom" folder, then put a new "logo.png" within it. Any assets replaced this way will be brought over once you run `build_site.py`.
 
-This is specifically useful for backgrounds on preview pages, which are by default blank. If you want a background, add "bg.png" to that set's "custom/\<code>-files" directory and rebuild the site.
+This is specifically useful for backgrounds on preview pages, which are by default blank. If you want a background, add "bg.png" to that set's "custom/sets/\<code>-files" directory and rebuild the site.
 
 ### Custom tags
 
 The search page supports custom tags, which can be queried using "tag:\<foo>". In your MSE file, add "!tag \<foo>" to the card notes. The exporter and site builder will do the rest.
 
+### Custom preview sorting
+
+If you want cards to sort to the same row, add "!sort <foo>" to their notes. If you want cards to sort to the end of the preview gallery, add "!last" to their notes.
+
+### Set splash pages
+
+Sets now support splash pages written in markdown! If you want to add one, add `splash.md` to your "custom/sets/\<code>-files" directory. It will automatically show up as the default view on the set's page. You can shortcut adding set logos/icons and card images by putting their name between `%` symbols. It'll look something like this:
+```
+![alt text](%Card Name Goes Here% "hover-over text")
+```
+
+### Designer Notes
+
+To add designer notes to a card, add `card-notes/<cardname>.md` to "custom/sets/\<code>-files" to your custom directory. This markdown file will automatically append to the card's page when you build your site.
+
 ### Changing the homepage's background gradient
 
-There are 34 gradients you can choose from on the homepage, which are stored in `resources/gradients.txt`. You can always switch between them using the select in the top left of the homepage. If you'd like to set a new gradient as the default, simply edit `gradients.txt` and move your favorite gradient's row to the top of the text file.
+There are 34 gradients you can choose from on the homepage, which are stored in `resources/gradients.json`. You can always switch between them using the select in the top left of the homepage. If you'd like to set a new gradient as the default, simply edit `gradients.json` and move your favorite gradient's entry to the top of the text file.
 
 ### HTML addenda
 
