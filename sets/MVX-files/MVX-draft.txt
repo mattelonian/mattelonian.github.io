@@ -6,7 +6,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/5_Congregation Aspirant.png"
+				"en": "https:///sets/MVX-files/img/5_Congregation Aspirant.png"
 			}
 		},
 		{
@@ -16,7 +16,7 @@
 			"type": "Creature — Vampire Actor Warlock ",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/252_Operahouse Gossip.png"
+				"en": "https:///sets/MVX-files/img/252_Operahouse Gossip.png"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 			"type": "Artifact Creature — Food Cat ",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/255_Pudding Cat.png"
+				"en": "https:///sets/MVX-files/img/255_Pudding Cat.png"
 			}
 		},
 		{
@@ -36,7 +36,7 @@
 			"type": "Artifact Creature — Cat ",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/253_Paper Familiars.png"
+				"en": "https:///sets/MVX-files/img/253_Paper Familiars.png"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"type": "Creature — Dwarf Druid ",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/248_Blase Cuisinier.png"
+				"en": "https:///sets/MVX-files/img/248_Blase Cuisinier.png"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 			"type": "Artifact Creature — Bird ",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/251_Mechanical Racer.png"
+				"en": "https:///sets/MVX-files/img/251_Mechanical Racer.png"
 			}
 		},
 		{
@@ -66,7 +66,7 @@
 			"type": "Creature — Elf Bard ",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/247_Bardic Historian.png"
+				"en": "https:///sets/MVX-files/img/247_Bardic Historian.png"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/1_MVX DRAFT ARCHETYPES.png"
+				"en": "https:///sets/MVX-files/img/1_MVX DRAFT ARCHETYPES.png"
 			}
 		},
 		{
@@ -86,7 +86,7 @@
 			"type": "Creature — Elf Bard Warlock ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/15_Inspirational Performer.png"
+				"en": "https:///sets/MVX-files/img/15_Inspirational Performer.png"
 			}
 		},
 		{
@@ -96,7 +96,7 @@
 			"type": "Creature — Angel Artificer ",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/28_Skystone Seraph.png"
+				"en": "https:///sets/MVX-files/img/28_Skystone Seraph.png"
 			}
 		},
 		{
@@ -106,7 +106,7 @@
 			"type": "Artifact Creature — Cat Dog Scarecrow ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/4_Colossal Puppetry.png"
+				"en": "https:///sets/MVX-files/img/4_Colossal Puppetry.png"
 			}
 		},
 		{
@@ -116,7 +116,7 @@
 			"type": "Instant",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/6_Deride.png"
+				"en": "https:///sets/MVX-files/img/6_Deride.png"
 			}
 		},
 		{
@@ -126,7 +126,7 @@
 			"type": "Instant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/13_Forgefire Spray.png"
+				"en": "https:///sets/MVX-files/img/13_Forgefire Spray.png"
 			}
 		},
 		{
@@ -136,7 +136,7 @@
 			"type": "Legendary Enchantment Creature — Incarnation ",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/189_Creativity.png"
+				"en": "https:///sets/MVX-files/img/189_Creativity.png"
 			}
 		},
 		{
@@ -146,13 +146,13 @@
 			"type": "Legendary Creature — Zombie Warlock ",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/93_Marquis Vaasco de Moraes_front.png"
+				"en": "https:///sets/MVX-files/img/93_Marquis Vaasco de Moraes_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/93_Marquis Vaasco de Moraes_back.png"
+					"en": "https:///sets/MVX-files/img/93_Marquis Vaasco de Moraes_back.png"
 				}
 			}
 		},
@@ -163,7 +163,7 @@
 			"type": "Legendary Planeswalker — Pascal ",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/222_Pascal, Critics' Favorite.png"
+				"en": "https:///sets/MVX-files/img/222_Pascal, Critics' Favorite.png"
 			}
 		},
 		{
@@ -173,7 +173,7 @@
 			"type": "Legendary Planeswalker — Lyon ",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/213_Lyon, Aged Inventor.png"
+				"en": "https:///sets/MVX-files/img/213_Lyon, Aged Inventor.png"
 			}
 		},
 		{
@@ -183,7 +183,7 @@
 			"type": "Land",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/2_PROMO Back-Alley Theatre.png"
+				"en": "https:///sets/MVX-files/img/2_PROMO Back-Alley Theatre.png"
 			}
 		},
 		{
@@ -193,7 +193,7 @@
 			"type": "Land",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/9_PROMO Sunlit Park.png"
+				"en": "https:///sets/MVX-files/img/9_PROMO Sunlit Park.png"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 			"type": "Land",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/4_PROMO Discreet Gallery.png"
+				"en": "https:///sets/MVX-files/img/4_PROMO Discreet Gallery.png"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 			"type": "Land",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/11_PROMO Vibrant Concourse.png"
+				"en": "https:///sets/MVX-files/img/11_PROMO Vibrant Concourse.png"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 			"type": "Land",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/3_PROMO Delightful Patisserie.png"
+				"en": "https:///sets/MVX-files/img/3_PROMO Delightful Patisserie.png"
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			"type": "Land",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/273_Back-Alley Theatre.png"
+				"en": "https:///sets/MVX-files/img/273_Back-Alley Theatre.png"
 			}
 		},
 		{
@@ -243,7 +243,7 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/284_Sunlit Park.png"
+				"en": "https:///sets/MVX-files/img/284_Sunlit Park.png"
 			}
 		},
 		{
@@ -253,7 +253,7 @@
 			"type": "Land",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/276_Discreet Gallery.png"
+				"en": "https:///sets/MVX-files/img/276_Discreet Gallery.png"
 			}
 		},
 		{
@@ -263,7 +263,7 @@
 			"type": "Land",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/285_Vibrant Concourse.png"
+				"en": "https:///sets/MVX-files/img/285_Vibrant Concourse.png"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 			"type": "Land",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/275_Delightful Patisserie.png"
+				"en": "https:///sets/MVX-files/img/275_Delightful Patisserie.png"
 			}
 		},
 		{
@@ -283,7 +283,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/283_Serene Museum.png"
+				"en": "https:///sets/MVX-files/img/283_Serene Museum.png"
 			}
 		},
 		{
@@ -293,7 +293,7 @@
 			"type": "Land",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/277_Hushed Library.png"
+				"en": "https:///sets/MVX-files/img/277_Hushed Library.png"
 			}
 		},
 		{
@@ -303,7 +303,7 @@
 			"type": "Land",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/274_Charming Playhouse.png"
+				"en": "https:///sets/MVX-files/img/274_Charming Playhouse.png"
 			}
 		},
 		{
@@ -313,7 +313,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/280_Orator's Forum.png"
+				"en": "https:///sets/MVX-files/img/280_Orator's Forum.png"
 			}
 		},
 		{
@@ -323,7 +323,7 @@
 			"type": "Land",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/271_Abundant Garden.png"
+				"en": "https:///sets/MVX-files/img/271_Abundant Garden.png"
 			}
 		},
 		{
@@ -333,7 +333,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/279_Muted Auditorium.png"
+				"en": "https:///sets/MVX-files/img/279_Muted Auditorium.png"
 			}
 		},
 		{
@@ -343,7 +343,7 @@
 			"type": "Land",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/282_Seedy Kitchen.png"
+				"en": "https:///sets/MVX-files/img/282_Seedy Kitchen.png"
 			}
 		},
 		{
@@ -353,7 +353,7 @@
 			"type": "Land",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/278_Lively Tavern.png"
+				"en": "https:///sets/MVX-files/img/278_Lively Tavern.png"
 			}
 		},
 		{
@@ -363,7 +363,7 @@
 			"type": "Land",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/272_Artificer's Workshop.png"
+				"en": "https:///sets/MVX-files/img/272_Artificer's Workshop.png"
 			}
 		},
 		{
@@ -373,7 +373,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/158_Gorge on Snacks.png"
+				"en": "https:///sets/MVX-files/img/158_Gorge on Snacks.png"
 			}
 		},
 		{
@@ -383,7 +383,7 @@
 			"type": "Sorcery",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/41_Change Perspective.png"
+				"en": "https:///sets/MVX-files/img/41_Change Perspective.png"
 			}
 		},
 		{
@@ -393,7 +393,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/23_Rushed Production.png"
+				"en": "https:///sets/MVX-files/img/23_Rushed Production.png"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 			"type": "Instant",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/108_Clash of Egos.png"
+				"en": "https:///sets/MVX-files/img/108_Clash of Egos.png"
 			}
 		},
 		{
@@ -413,7 +413,7 @@
 			"type": "Artifact Creature — Food Elemental ",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/29_Soup Elemental.png"
+				"en": "https:///sets/MVX-files/img/29_Soup Elemental.png"
 			}
 		},
 		{
@@ -423,7 +423,7 @@
 			"type": "Artifact Creature — Bird ",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/55_Mechanical Strix.png"
+				"en": "https:///sets/MVX-files/img/55_Mechanical Strix.png"
 			}
 		},
 		{
@@ -433,13 +433,13 @@
 			"type": "Creature — Dwarf Artist Wizard ",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/59_Prolific Novelist_front.png"
+				"en": "https:///sets/MVX-files/img/59_Prolific Novelist_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/59_Prolific Novelist_back.png"
+					"en": "https:///sets/MVX-files/img/59_Prolific Novelist_back.png"
 				}
 			}
 		},
@@ -450,7 +450,7 @@
 			"type": "Creature — Human Artist Wizard ",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/37_Atelier Artisan.png"
+				"en": "https:///sets/MVX-files/img/37_Atelier Artisan.png"
 			}
 		},
 		{
@@ -460,7 +460,7 @@
 			"type": "Instant",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/58_Prevent Catastrophe.png"
+				"en": "https:///sets/MVX-files/img/58_Prevent Catastrophe.png"
 			}
 		},
 		{
@@ -470,7 +470,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/36_Annul.png"
+				"en": "https:///sets/MVX-files/img/36_Annul.png"
 			}
 		},
 		{
@@ -480,7 +480,7 @@
 			"type": "Creature — Human Warlock Druid ",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/86_Fiendish Fromager.png"
+				"en": "https:///sets/MVX-files/img/86_Fiendish Fromager.png"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 			"type": "Creature — Vampire Actor Warlock ",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/71_Artistic Benefactor.png"
+				"en": "https:///sets/MVX-files/img/71_Artistic Benefactor.png"
 			}
 		},
 		{
@@ -500,7 +500,7 @@
 			"type": "Creature — Vampire Warlock ",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/95_Motivation Sapper.png"
+				"en": "https:///sets/MVX-files/img/95_Motivation Sapper.png"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 			"type": "Sorcery",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/85_Exhausting Rehearsal.png"
+				"en": "https:///sets/MVX-files/img/85_Exhausting Rehearsal.png"
 			}
 		},
 		{
@@ -520,7 +520,7 @@
 			"type": "Artifact",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/92_Macabre Prop.png"
+				"en": "https:///sets/MVX-files/img/92_Macabre Prop.png"
 			}
 		},
 		{
@@ -530,7 +530,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/97_Overworked.png"
+				"en": "https:///sets/MVX-files/img/97_Overworked.png"
 			}
 		},
 		{
@@ -540,7 +540,7 @@
 			"type": "Enchantment",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/75_Casting Call.png"
+				"en": "https:///sets/MVX-files/img/75_Casting Call.png"
 			}
 		},
 		{
@@ -550,7 +550,7 @@
 			"type": "Instant",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/103_Understudy.png"
+				"en": "https:///sets/MVX-files/img/103_Understudy.png"
 			}
 		},
 		{
@@ -560,13 +560,13 @@
 			"type": "Creature — Human Actor Warlock ",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/72_Aspiring Performer_front.png"
+				"en": "https:///sets/MVX-files/img/72_Aspiring Performer_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/72_Aspiring Performer_back.png"
+					"en": "https:///sets/MVX-files/img/72_Aspiring Performer_back.png"
 				}
 			}
 		},
@@ -577,7 +577,7 @@
 			"type": "Creature — Azra Bard Warlock ",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/127_Leading Lady.png"
+				"en": "https:///sets/MVX-files/img/127_Leading Lady.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Artifact Creature — Gnome ",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/117_Forge Gnome.png"
+				"en": "https:///sets/MVX-files/img/117_Forge Gnome.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Creature — Human Bard ",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/119_Harbinger of Festivity.png"
+				"en": "https:///sets/MVX-files/img/119_Harbinger of Festivity.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/137_Spit Fire.png"
+				"en": "https:///sets/MVX-files/img/137_Spit Fire.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Sorcery",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/115_Fiery Setpiece.png"
+				"en": "https:///sets/MVX-files/img/115_Fiery Setpiece.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/169_Spoil the Broth.png"
+				"en": "https:///sets/MVX-files/img/169_Spoil the Broth.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Creature — Orc Wizard ",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/162_Inspired Reader.png"
+				"en": "https:///sets/MVX-files/img/162_Inspired Reader.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/266_Librarian's Assistant.png"
+				"en": "https:///sets/MVX-files/img/266_Librarian's Assistant.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Artifact Creature — Bird ",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/257_Cartographer's Eyes.png"
+				"en": "https:///sets/MVX-files/img/257_Cartographer's Eyes.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Artifact Creature — Gnome ",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/263_Gnomestack.png"
+				"en": "https:///sets/MVX-files/img/263_Gnomestack.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Artifact — Food ",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/268_Rancid Meal.png"
+				"en": "https:///sets/MVX-files/img/268_Rancid Meal.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Artifact",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/267_Prophetic Prism.png"
+				"en": "https:///sets/MVX-files/img/267_Prophetic Prism.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/22_Rebuild from Scratch.png"
+				"en": "https:///sets/MVX-files/img/22_Rebuild from Scratch.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Creature — Azra Bard ",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/70_Tragic Soloist.png"
+				"en": "https:///sets/MVX-files/img/70_Tragic Soloist.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Creature — Bird Bard ",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/45_Fanciful Flier.png"
+				"en": "https:///sets/MVX-files/img/45_Fanciful Flier.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Creature — Human Artist Wizard ",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/197_Forlorn Author.png"
+				"en": "https:///sets/MVX-files/img/197_Forlorn Author.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Creature — Azra Bard Warlock ",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/190_Dancing Troupe.png"
+				"en": "https:///sets/MVX-files/img/190_Dancing Troupe.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Creature — Ogre Ranger ",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/244_Wandering Connoisseur.png"
+				"en": "https:///sets/MVX-files/img/244_Wandering Connoisseur.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/215_Meticulous Sculptor.png"
+				"en": "https:///sets/MVX-files/img/215_Meticulous Sculptor.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Devil Druid ",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/240_Turnip Trimmer.png"
+				"en": "https:///sets/MVX-files/img/240_Turnip Trimmer.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Sorcery",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/198_Free-Range Foraging.png"
+				"en": "https:///sets/MVX-files/img/198_Free-Range Foraging.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Azra Bard ",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/241_Valiant Versemaker.png"
+				"en": "https:///sets/MVX-files/img/241_Valiant Versemaker.png"
 			}
 		},
 		{
@@ -797,13 +797,13 @@
 			"type": "Artifact Creature — Dog ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/17_Keen Guardcog_front.png"
+				"en": "https:///sets/MVX-files/img/17_Keen Guardcog_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/17_Keen Guardcog_back.png"
+					"en": "https:///sets/MVX-files/img/17_Keen Guardcog_back.png"
 				}
 			}
 		},
@@ -814,7 +814,7 @@
 			"type": "Creature — Human Bard ",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/128_Merry Troubadour.png"
+				"en": "https:///sets/MVX-files/img/128_Merry Troubadour.png"
 			}
 		},
 		{
@@ -824,7 +824,7 @@
 			"type": "Creature — Dragon ",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/40_Bookwyrm.png"
+				"en": "https:///sets/MVX-files/img/40_Bookwyrm.png"
 			}
 		},
 		{
@@ -834,7 +834,7 @@
 			"type": "Creature — Gnome Artist Wizard ",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/150_Cheerful Painter.png"
+				"en": "https:///sets/MVX-files/img/150_Cheerful Painter.png"
 			}
 		},
 		{
@@ -844,7 +844,7 @@
 			"type": "Artifact Creature — Food Elemental ",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/149_Candied Colossus.png"
+				"en": "https:///sets/MVX-files/img/149_Candied Colossus.png"
 			}
 		},
 		{
@@ -854,7 +854,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/151_Colorful Rendition.png"
+				"en": "https:///sets/MVX-files/img/151_Colorful Rendition.png"
 			}
 		},
 		{
@@ -864,7 +864,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/123_Inspiring Melody.png"
+				"en": "https:///sets/MVX-files/img/123_Inspiring Melody.png"
 			}
 		},
 		{
@@ -874,7 +874,7 @@
 			"type": "Creature — Azra Advisor ",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/91_Highbrow Critic.png"
+				"en": "https:///sets/MVX-files/img/91_Highbrow Critic.png"
 			}
 		},
 		{
@@ -884,7 +884,7 @@
 			"type": "Artifact Creature — Serpent ",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/69_Storybook Serpent.png"
+				"en": "https:///sets/MVX-files/img/69_Storybook Serpent.png"
 			}
 		},
 		{
@@ -894,7 +894,7 @@
 			"type": "Creature — Gnome Artificer ",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/52_Houndcrafter Savant.png"
+				"en": "https:///sets/MVX-files/img/52_Houndcrafter Savant.png"
 			}
 		},
 		{
@@ -904,7 +904,7 @@
 			"type": "Legendary Creature — Human Bard ",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/209_Jacques, Harsh Conductor.png"
+				"en": "https:///sets/MVX-files/img/209_Jacques, Harsh Conductor.png"
 			}
 		},
 		{
@@ -914,7 +914,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/43_Distracting Song.png"
+				"en": "https:///sets/MVX-files/img/43_Distracting Song.png"
 			}
 		},
 		{
@@ -924,7 +924,7 @@
 			"type": "Creature — Vampire Artist ",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/74_Blood Artist.png"
+				"en": "https:///sets/MVX-files/img/74_Blood Artist.png"
 			}
 		},
 		{
@@ -934,7 +934,7 @@
 			"type": "Creature — Satyr Bard ",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/129_Merrymaker.png"
+				"en": "https:///sets/MVX-files/img/129_Merrymaker.png"
 			}
 		},
 		{
@@ -944,13 +944,13 @@
 			"type": "Creature — Human Artist Wizard ",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/63_Skillful Landscapist_front.png"
+				"en": "https:///sets/MVX-files/img/63_Skillful Landscapist_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/63_Skillful Landscapist_back.png"
+					"en": "https:///sets/MVX-files/img/63_Skillful Landscapist_back.png"
 				}
 			}
 		},
@@ -961,7 +961,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/42_Civil Engineer.png"
+				"en": "https:///sets/MVX-files/img/42_Civil Engineer.png"
 			}
 		},
 		{
@@ -971,7 +971,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/44_Dreamquill.png"
+				"en": "https:///sets/MVX-files/img/44_Dreamquill.png"
 			}
 		},
 		{
@@ -981,7 +981,7 @@
 			"type": "Creature — Gnome Artificer ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/14_Gnomish Tinkerer.png"
+				"en": "https:///sets/MVX-files/img/14_Gnomish Tinkerer.png"
 			}
 		},
 		{
@@ -991,7 +991,7 @@
 			"type": "Creature — Elf Artificer Advisor ",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/35_Worksite Visionary.png"
+				"en": "https:///sets/MVX-files/img/35_Worksite Visionary.png"
 			}
 		},
 		{
@@ -1001,7 +1001,7 @@
 			"type": "Artifact — Food ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/9_Distracting Charcuterie.png"
+				"en": "https:///sets/MVX-files/img/9_Distracting Charcuterie.png"
 			}
 		},
 		{
@@ -1011,7 +1011,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/32_Sunstreet Clocktower.png"
+				"en": "https:///sets/MVX-files/img/32_Sunstreet Clocktower.png"
 			}
 		},
 		{
@@ -1021,7 +1021,7 @@
 			"type": "Sorcery",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/10_Encore.png"
+				"en": "https:///sets/MVX-files/img/10_Encore.png"
 			}
 		},
 		{
@@ -1031,13 +1031,13 @@
 			"type": "Creature — Elf Druid ",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/161_Gustatorie Tastemaker_front.png"
+				"en": "https:///sets/MVX-files/img/161_Gustatorie Tastemaker_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/161_Gustatorie Tastemaker_back.png"
+					"en": "https:///sets/MVX-files/img/161_Gustatorie Tastemaker_back.png"
 				}
 			}
 		},
@@ -1048,7 +1048,7 @@
 			"type": "Creature — Cat Bard ",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/160_Greenpark Strummer.png"
+				"en": "https:///sets/MVX-files/img/160_Greenpark Strummer.png"
 			}
 		},
 		{
@@ -1058,7 +1058,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/145_Belligerence.png"
+				"en": "https:///sets/MVX-files/img/145_Belligerence.png"
 			}
 		},
 		{
@@ -1068,7 +1068,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/164_Natural Harmony.png"
+				"en": "https:///sets/MVX-files/img/164_Natural Harmony.png"
 			}
 		},
 		{
@@ -1078,7 +1078,7 @@
 			"type": "Creature — Dwarf Ranger ",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/154_Farmstead Butcher.png"
+				"en": "https:///sets/MVX-files/img/154_Farmstead Butcher.png"
 			}
 		},
 		{
@@ -1088,7 +1088,7 @@
 			"type": "Creature — Orc Bard ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/172_Tavern Talesmith.png"
+				"en": "https:///sets/MVX-files/img/172_Tavern Talesmith.png"
 			}
 		},
 		{
@@ -1098,7 +1098,7 @@
 			"type": "Creature — Dragon Bard ",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/196_Flamethumper.png"
+				"en": "https:///sets/MVX-files/img/196_Flamethumper.png"
 			}
 		},
 		{
@@ -1108,7 +1108,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/220_Opening Act.png"
+				"en": "https:///sets/MVX-files/img/220_Opening Act.png"
 			}
 		},
 		{
@@ -1118,7 +1118,7 @@
 			"type": "Enchantment",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/202_Grand Overture.png"
+				"en": "https:///sets/MVX-files/img/202_Grand Overture.png"
 			}
 		},
 		{
@@ -1128,7 +1128,7 @@
 			"type": "Creature — Spirit ",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/30_Spirit of the Opera.png"
+				"en": "https:///sets/MVX-files/img/30_Spirit of the Opera.png"
 			}
 		},
 		{
@@ -1138,7 +1138,7 @@
 			"type": "Creature — Dwarf Cleric ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/12_Fine Diner.png"
+				"en": "https:///sets/MVX-files/img/12_Fine Diner.png"
 			}
 		},
 		{
@@ -1148,7 +1148,7 @@
 			"type": "Enchantment",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/233_Song of Creation.png"
+				"en": "https:///sets/MVX-files/img/233_Song of Creation.png"
 			}
 		},
 		{
@@ -1158,7 +1158,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/208_Ironflow Forge.png"
+				"en": "https:///sets/MVX-files/img/208_Ironflow Forge.png"
 			}
 		},
 		{
@@ -1168,7 +1168,7 @@
 			"type": "Legendary Creature — Human Artist Wizard ",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/218_Odette L'or, Fickle Painter.png"
+				"en": "https:///sets/MVX-files/img/218_Odette L'or, Fickle Painter.png"
 			}
 		},
 		{
@@ -1178,7 +1178,7 @@
 			"type": "Legendary Creature — Dwarf Artificer ",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/217_Niels, Cogmaster.png"
+				"en": "https:///sets/MVX-files/img/217_Niels, Cogmaster.png"
 			}
 		},
 		{
@@ -1188,7 +1188,7 @@
 			"type": "Creature — Elf Artificer ",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/112_Elven Glassblower.png"
+				"en": "https:///sets/MVX-files/img/112_Elven Glassblower.png"
 			}
 		},
 		{
@@ -1198,7 +1198,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/120_Heartblaze Theatre.png"
+				"en": "https:///sets/MVX-files/img/120_Heartblaze Theatre.png"
 			}
 		},
 		{
@@ -1208,7 +1208,7 @@
 			"type": "Sorcery ",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/106_Audition.png"
+				"en": "https:///sets/MVX-files/img/106_Audition.png"
 			}
 		},
 		{
@@ -1218,7 +1218,7 @@
 			"type": "Creature — Dragon Bard ",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/132_Reptilian Rhymester.png"
+				"en": "https:///sets/MVX-files/img/132_Reptilian Rhymester.png"
 			}
 		},
 		{
@@ -1228,7 +1228,7 @@
 			"type": "Enchantment Creature — Dragon Illusion ",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/110_Dragonsong.png"
+				"en": "https:///sets/MVX-files/img/110_Dragonsong.png"
 			}
 		},
 		{
@@ -1238,7 +1238,7 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/140_Waxcrafter.png"
+				"en": "https:///sets/MVX-files/img/140_Waxcrafter.png"
 			}
 		},
 		{
@@ -1248,7 +1248,7 @@
 			"type": "Creature — Elf Actor Warlock ",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/232_Soliloquist.png"
+				"en": "https:///sets/MVX-files/img/232_Soliloquist.png"
 			}
 		},
 		{
@@ -1258,7 +1258,7 @@
 			"type": "Creature — Bird Artist Wizard ",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/73_Avian Auteur.png"
+				"en": "https:///sets/MVX-files/img/73_Avian Auteur.png"
 			}
 		},
 		{
@@ -1268,7 +1268,7 @@
 			"type": "Creature — Azra Actor Warlock ",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/96_Operahouse Headliner.png"
+				"en": "https:///sets/MVX-files/img/96_Operahouse Headliner.png"
 			}
 		},
 		{
@@ -1278,7 +1278,7 @@
 			"type": "Enchantment",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/79_Discouraging Flop.png"
+				"en": "https:///sets/MVX-files/img/79_Discouraging Flop.png"
 			}
 		},
 		{
@@ -1288,7 +1288,7 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/101_Second Showing.png"
+				"en": "https:///sets/MVX-files/img/101_Second Showing.png"
 			}
 		},
 		{
@@ -1298,7 +1298,7 @@
 			"type": "Creature — Treefolk ",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/157_Garden Guardian.png"
+				"en": "https:///sets/MVX-files/img/157_Garden Guardian.png"
 			}
 		},
 		{
@@ -1308,13 +1308,13 @@
 			"type": "Creature — Vampire Actor Warlock ",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/82_Dour Chorister_front.png"
+				"en": "https:///sets/MVX-files/img/82_Dour Chorister_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/82_Dour Chorister_back.png"
+					"en": "https:///sets/MVX-files/img/82_Dour Chorister_back.png"
 				}
 			}
 		},
@@ -1325,7 +1325,7 @@
 			"type": "Creature — Azra Druid ",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/146_Benevolent Florist.png"
+				"en": "https:///sets/MVX-files/img/146_Benevolent Florist.png"
 			}
 		},
 		{
@@ -1335,7 +1335,7 @@
 			"type": "Enchantment Creature — Wolf Illusion ",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/175_Wolfsong.png"
+				"en": "https:///sets/MVX-files/img/175_Wolfsong.png"
 			}
 		},
 		{
@@ -1345,7 +1345,7 @@
 			"type": "Enchantment",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/173_Tend the Garden.png"
+				"en": "https:///sets/MVX-files/img/173_Tend the Garden.png"
 			}
 		},
 		{
@@ -1355,7 +1355,7 @@
 			"type": "Creature — Dwarf Artificer ",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/200_Gemcrafter.png"
+				"en": "https:///sets/MVX-files/img/200_Gemcrafter.png"
 			}
 		},
 		{
@@ -1365,7 +1365,7 @@
 			"type": "Enchantment Creature — Bird Illusion ",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/38_Birdsong.png"
+				"en": "https:///sets/MVX-files/img/38_Birdsong.png"
 			}
 		},
 		{
@@ -1375,7 +1375,7 @@
 			"type": "Legendary Creature — Satyr Bard ",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/191_Diego, Slam Poet.png"
+				"en": "https:///sets/MVX-files/img/191_Diego, Slam Poet.png"
 			}
 		},
 		{
@@ -1385,7 +1385,7 @@
 			"type": "Legendary Creature — Mouse Bard ",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/216_Michel, Strummer of Heartstrings.png"
+				"en": "https:///sets/MVX-files/img/216_Michel, Strummer of Heartstrings.png"
 			}
 		},
 		{
@@ -1395,7 +1395,7 @@
 			"type": "Token Creature — Bard ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/6_Bard.png"
+				"en": "https:///sets/MVX-files/img/6_Bard.png"
 			}
 		},
 		{
@@ -1405,7 +1405,7 @@
 			"type": "Token Creature — Boar ",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/9_Boar.png"
+				"en": "https:///sets/MVX-files/img/9_Boar.png"
 			}
 		},
 		{
@@ -1415,7 +1415,7 @@
 			"type": "Token Artifact Creature — Dog ",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/14_Dog.png"
+				"en": "https:///sets/MVX-files/img/14_Dog.png"
 			}
 		},
 		{
@@ -1425,7 +1425,7 @@
 			"type": "Token Artifact Creature — Elemental ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/7_Elemental.png"
+				"en": "https:///sets/MVX-files/img/7_Elemental.png"
 			}
 		},
 		{
@@ -1435,7 +1435,7 @@
 			"type": "Token Artifact — Food ",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/15_Food.png"
+				"en": "https:///sets/MVX-files/img/15_Food.png"
 			}
 		},
 		{
@@ -1445,7 +1445,7 @@
 			"type": "Token Artifact Creature — Gnome ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/16_Gnome.png"
+				"en": "https:///sets/MVX-files/img/16_Gnome.png"
 			}
 		},
 		{
@@ -1455,7 +1455,7 @@
 			"type": "Token Enchantment Creature — Illusion ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/3_Illusion.png"
+				"en": "https:///sets/MVX-files/img/3_Illusion.png"
 			}
 		},
 		{
@@ -1465,7 +1465,7 @@
 			"type": "Token Creature — Inkling ",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/4_Inkling.png"
+				"en": "https:///sets/MVX-files/img/4_Inkling.png"
 			}
 		},
 		{
@@ -1475,7 +1475,7 @@
 			"type": "Token Creature — Plant ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/10_Plant.png"
+				"en": "https:///sets/MVX-files/img/10_Plant.png"
 			}
 		},
 		{
@@ -1485,7 +1485,7 @@
 			"type": "Token Artifact Creature — Sculpture ",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/17_Sculpture.png"
+				"en": "https:///sets/MVX-files/img/17_Sculpture.png"
 			}
 		},
 		{
@@ -1495,7 +1495,7 @@
 			"type": "Token Artifact Creature — Thopter ",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/18_Thopter.png"
+				"en": "https:///sets/MVX-files/img/18_Thopter.png"
 			}
 		},
 		{
@@ -1505,7 +1505,7 @@
 			"type": "Token Artifact — Treasure ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/19_Treasure.png"
+				"en": "https:///sets/MVX-files/img/19_Treasure.png"
 			}
 		},
 		{
@@ -1515,7 +1515,7 @@
 			"type": "Token Creature — Vampire Actor ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/5_Vampire Actor.png"
+				"en": "https:///sets/MVX-files/img/5_Vampire Actor.png"
 			}
 		},
 		{
@@ -1525,7 +1525,7 @@
 			"type": "Artifact",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/143_Artist's Easel.png"
+				"en": "https:///sets/MVX-files/img/143_Artist's Easel.png"
 			}
 		},
 		{
@@ -1535,13 +1535,13 @@
 			"type": "Legendary Creature — Goblin Bard ",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/107_Brasio, Bardic Chronicler_front.png"
+				"en": "https:///sets/MVX-files/img/107_Brasio, Bardic Chronicler_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/107_Brasio, Bardic Chronicler_back.png"
+					"en": "https:///sets/MVX-files/img/107_Brasio, Bardic Chronicler_back.png"
 				}
 			}
 		},
@@ -1552,13 +1552,13 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/170_Stew Stirrer_front.png"
+				"en": "https:///sets/MVX-files/img/170_Stew Stirrer_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/170_Stew Stirrer_back.png"
+					"en": "https:///sets/MVX-files/img/170_Stew Stirrer_back.png"
 				}
 			}
 		},
@@ -1569,7 +1569,7 @@
 			"type": "Artifact Creature — Gnome ",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/270_Trash-eater Gnome.png"
+				"en": "https:///sets/MVX-files/img/270_Trash-eater Gnome.png"
 			}
 		},
 		{
@@ -1579,7 +1579,7 @@
 			"type": "Artifact",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/265_Inkbottle.png"
+				"en": "https:///sets/MVX-files/img/265_Inkbottle.png"
 			}
 		},
 		{
@@ -1589,7 +1589,7 @@
 			"type": "Artifact",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/259_Conceptual Orrery.png"
+				"en": "https:///sets/MVX-files/img/259_Conceptual Orrery.png"
 			}
 		},
 		{
@@ -1599,7 +1599,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/166_Retrospection.png"
+				"en": "https:///sets/MVX-files/img/166_Retrospection.png"
 			}
 		},
 		{
@@ -1609,7 +1609,7 @@
 			"type": "Creature — Elf Druid ",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/167_Skilled Sous-Chef.png"
+				"en": "https:///sets/MVX-files/img/167_Skilled Sous-Chef.png"
 			}
 		},
 		{
@@ -1619,7 +1619,7 @@
 			"type": "Artifact Creature — Gargoyle ",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/254_Parapet Percher.png"
+				"en": "https:///sets/MVX-files/img/254_Parapet Percher.png"
 			}
 		},
 		{
@@ -1629,7 +1629,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/3_Cogwrench.png"
+				"en": "https:///sets/MVX-files/img/3_Cogwrench.png"
 			}
 		},
 		{
@@ -1639,7 +1639,7 @@
 			"type": "Instant",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/18_Lunch Rush.png"
+				"en": "https:///sets/MVX-files/img/18_Lunch Rush.png"
 			}
 		},
 		{
@@ -1649,7 +1649,7 @@
 			"type": "Sorcery",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/104_Vamp.png"
+				"en": "https:///sets/MVX-files/img/104_Vamp.png"
 			}
 		},
 		{
@@ -1659,7 +1659,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/261_Fencer's Foil.png"
+				"en": "https:///sets/MVX-files/img/261_Fencer's Foil.png"
 			}
 		},
 		{
@@ -1669,7 +1669,7 @@
 			"type": "Token",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/13_Copy.png"
+				"en": "https:///sets/MVX-files/img/13_Copy.png"
 			}
 		},
 		{
@@ -1679,7 +1679,7 @@
 			"type": "Basic Land — Forest ",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/290_Forest MVX.png"
+				"en": "https:///sets/MVX-files/img/290_Forest MVX.png"
 			}
 		},
 		{
@@ -1689,7 +1689,7 @@
 			"type": "Basic Land — Island ",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/287_Island MVX.png"
+				"en": "https:///sets/MVX-files/img/287_Island MVX.png"
 			}
 		},
 		{
@@ -1699,7 +1699,7 @@
 			"type": "Basic Land — Plains ",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/286_Plains MVX.png"
+				"en": "https:///sets/MVX-files/img/286_Plains MVX.png"
 			}
 		},
 		{
@@ -1709,7 +1709,7 @@
 			"type": "Basic Land — Swamp ",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/288_Swamp MVX.png"
+				"en": "https:///sets/MVX-files/img/288_Swamp MVX.png"
 			}
 		},
 		{
@@ -1719,7 +1719,7 @@
 			"type": "Creature — Dragon Artificer ",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/34_Waxbreath Youngling.png"
+				"en": "https:///sets/MVX-files/img/34_Waxbreath Youngling.png"
 			}
 		},
 		{
@@ -1729,7 +1729,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/185_Castleway Crane.png"
+				"en": "https:///sets/MVX-files/img/185_Castleway Crane.png"
 			}
 		},
 		{
@@ -1739,7 +1739,7 @@
 			"type": "Basic Land — Mountain ",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/289_Mountain MVX.png"
+				"en": "https:///sets/MVX-files/img/289_Mountain MVX.png"
 			}
 		},
 		{
@@ -1749,7 +1749,7 @@
 			"type": "Sorcery",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/205_Hunt for Inspiration.png"
+				"en": "https:///sets/MVX-files/img/205_Hunt for Inspiration.png"
 			}
 		},
 		{
@@ -1759,7 +1759,7 @@
 			"type": "Land",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/281_Painter's Studio.png"
+				"en": "https:///sets/MVX-files/img/281_Painter's Studio.png"
 			}
 		},
 		{
@@ -1769,7 +1769,7 @@
 			"type": "Creature — Azra Orc Druid ",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/239_Teatime Two.png"
+				"en": "https:///sets/MVX-files/img/239_Teatime Two.png"
 			}
 		},
 		{
@@ -1779,7 +1779,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/203_Grow from Instruction.png"
+				"en": "https:///sets/MVX-files/img/203_Grow from Instruction.png"
 			}
 		},
 		{
@@ -1789,7 +1789,7 @@
 			"type": "Artifact Creature — Angel ",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/179_Angel of Iteration.png"
+				"en": "https:///sets/MVX-files/img/179_Angel of Iteration.png"
 			}
 		},
 		{
@@ -1799,7 +1799,7 @@
 			"type": "Instant",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/49_Gobsmack.png"
+				"en": "https:///sets/MVX-files/img/49_Gobsmack.png"
 			}
 		},
 		{
@@ -1809,13 +1809,13 @@
 			"type": "Legendary Creature — Dwarf Artificer ",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/16_Isabella, City Builder_front.png"
+				"en": "https:///sets/MVX-files/img/16_Isabella, City Builder_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/16_Isabella, City Builder_back.png"
+					"en": "https:///sets/MVX-files/img/16_Isabella, City Builder_back.png"
 				}
 			}
 		},
@@ -1826,7 +1826,7 @@
 			"type": "Legendary Creature — Angel Artificer ",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/188_Concordia, Angel of Glass.png"
+				"en": "https:///sets/MVX-files/img/188_Concordia, Angel of Glass.png"
 			}
 		},
 		{
@@ -1836,7 +1836,7 @@
 			"type": "Creature — Vampire Actor Warlock ",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/138_Stunning Soprano.png"
+				"en": "https:///sets/MVX-files/img/138_Stunning Soprano.png"
 			}
 		},
 		{
@@ -1846,7 +1846,7 @@
 			"type": "Creature — Elf Bard ",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/237_Stormsinger.png"
+				"en": "https:///sets/MVX-files/img/237_Stormsinger.png"
 			}
 		},
 		{
@@ -1856,7 +1856,7 @@
 			"type": "Creature — Elf Artist Wizard ",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/142_Arboreal Artist.png"
+				"en": "https:///sets/MVX-files/img/142_Arboreal Artist.png"
 			}
 		},
 		{
@@ -1866,7 +1866,7 @@
 			"type": "Sorcery",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/57_Preserve the Moment.png"
+				"en": "https:///sets/MVX-files/img/57_Preserve the Moment.png"
 			}
 		},
 		{
@@ -1876,7 +1876,7 @@
 			"type": "Sorcery",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/250_Inspiring Walk.png"
+				"en": "https:///sets/MVX-files/img/250_Inspiring Walk.png"
 			}
 		},
 		{
@@ -1886,7 +1886,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/121_Hearthsong.png"
+				"en": "https:///sets/MVX-files/img/121_Hearthsong.png"
 			}
 		},
 		{
@@ -1896,7 +1896,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/181_The Bardenmoot.png"
+				"en": "https:///sets/MVX-files/img/181_The Bardenmoot.png"
 			}
 		},
 		{
@@ -1906,17 +1906,7 @@
 			"type": "Instant",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/210_Knockout Performance.png"
-			}
-		},
-		{
-			"name": "Ancestral Guidance",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}{G}",
-			"type": "Sorcery",
-			"collector_number": "178",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/178_Ancestral Guidance.png"
+				"en": "https:///sets/MVX-files/img/210_Knockout Performance.png"
 			}
 		},
 		{
@@ -1926,7 +1916,7 @@
 			"type": "Artifact — Food ",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/177_Ambrosian Tower.png"
+				"en": "https:///sets/MVX-files/img/177_Ambrosian Tower.png"
 			}
 		},
 		{
@@ -1936,7 +1926,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/187_Cogturn Laboratory.png"
+				"en": "https:///sets/MVX-files/img/187_Cogturn Laboratory.png"
 			}
 		},
 		{
@@ -1946,7 +1936,7 @@
 			"type": "Creature — Human Actor Warlock ",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/195_Festival Puppeteer.png"
+				"en": "https:///sets/MVX-files/img/195_Festival Puppeteer.png"
 			}
 		},
 		{
@@ -1956,7 +1946,7 @@
 			"type": "Enchantment",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/227_Roland's Solo.png"
+				"en": "https:///sets/MVX-files/img/227_Roland's Solo.png"
 			}
 		},
 		{
@@ -1966,7 +1956,7 @@
 			"type": "Enchantment",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/183_Bombastic Performance.png"
+				"en": "https:///sets/MVX-files/img/183_Bombastic Performance.png"
 			}
 		},
 		{
@@ -1976,7 +1966,7 @@
 			"type": "Creature — Rat Druid ",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/98_Petite Patissier.png"
+				"en": "https:///sets/MVX-files/img/98_Petite Patissier.png"
 			}
 		},
 		{
@@ -1986,7 +1976,7 @@
 			"type": "Creature — Azra Bard ",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/221_Partners in Rhyme.png"
+				"en": "https:///sets/MVX-files/img/221_Partners in Rhyme.png"
 			}
 		},
 		{
@@ -1996,7 +1986,7 @@
 			"type": "Creature — Vampire Actor Warlock ",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/113_Extravagant Channeler.png"
+				"en": "https:///sets/MVX-files/img/113_Extravagant Channeler.png"
 			}
 		},
 		{
@@ -2006,7 +1996,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/114_Festival Revelry.png"
+				"en": "https:///sets/MVX-files/img/114_Festival Revelry.png"
 			}
 		},
 		{
@@ -2016,7 +2006,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/51_Haunting Lullaby.png"
+				"en": "https:///sets/MVX-files/img/51_Haunting Lullaby.png"
 			}
 		},
 		{
@@ -2026,7 +2016,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/20_Moonridge Tailors.png"
+				"en": "https:///sets/MVX-files/img/20_Moonridge Tailors.png"
 			}
 		},
 		{
@@ -2036,7 +2026,7 @@
 			"type": "Artifact Creature — Gargoyle ",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/26_Skystone Gargoyle.png"
+				"en": "https:///sets/MVX-files/img/26_Skystone Gargoyle.png"
 			}
 		},
 		{
@@ -2046,7 +2036,7 @@
 			"type": "Enchantment — Aura ",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/61_Rousing Read.png"
+				"en": "https:///sets/MVX-files/img/61_Rousing Read.png"
 			}
 		},
 		{
@@ -2056,7 +2046,7 @@
 			"type": "Creature — Orc Artist Wizard ",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/144_Atelier Exemplar.png"
+				"en": "https:///sets/MVX-files/img/144_Atelier Exemplar.png"
 			}
 		},
 		{
@@ -2066,7 +2056,7 @@
 			"type": "Token Land — Forest Plains ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/21_Forest Plains.png"
+				"en": "https:///sets/MVX-files/img/21_Forest Plains.png"
 			}
 		},
 		{
@@ -2076,7 +2066,7 @@
 			"type": "Legendary Creature — Dwarf Druid ",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/230_Severin, Kitchen Tyrant.png"
+				"en": "https:///sets/MVX-files/img/230_Severin, Kitchen Tyrant.png"
 			}
 		},
 		{
@@ -2086,7 +2076,7 @@
 			"type": "Instant",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/206_Hymn to the Wilds.png"
+				"en": "https:///sets/MVX-files/img/206_Hymn to the Wilds.png"
 			}
 		},
 		{
@@ -2096,7 +2086,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/136_Sparks of Invention.png"
+				"en": "https:///sets/MVX-files/img/136_Sparks of Invention.png"
 			}
 		},
 		{
@@ -2106,7 +2096,7 @@
 			"type": "Token Artifact — Vehicle ",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/20_Vehicle.png"
+				"en": "https:///sets/MVX-files/img/20_Vehicle.png"
 			}
 		},
 		{
@@ -2116,7 +2106,7 @@
 			"type": "Sorcery",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/236_Stew.png"
+				"en": "https:///sets/MVX-files/img/236_Stew.png"
 			}
 		},
 		{
@@ -2126,7 +2116,7 @@
 			"type": "Instant",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/225_Reconceptualize.png"
+				"en": "https:///sets/MVX-files/img/225_Reconceptualize.png"
 			}
 		},
 		{
@@ -2136,7 +2126,7 @@
 			"type": "Creature — Human Artist Wizard ",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/64_Slinking Scribbler.png"
+				"en": "https:///sets/MVX-files/img/64_Slinking Scribbler.png"
 			}
 		},
 		{
@@ -2146,7 +2136,7 @@
 			"type": "Creature — Human Bard ",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/133_Rooftop Rapscallion.png"
+				"en": "https:///sets/MVX-files/img/133_Rooftop Rapscallion.png"
 			}
 		},
 		{
@@ -2156,7 +2146,7 @@
 			"type": "Artifact Creature — Gargoyle ",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/234_Stained Glass Sentinel.png"
+				"en": "https:///sets/MVX-files/img/234_Stained Glass Sentinel.png"
 			}
 		},
 		{
@@ -2166,7 +2156,7 @@
 			"type": "Creature — Human Actor Warlock ",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/116_Flamesweeper.png"
+				"en": "https:///sets/MVX-files/img/116_Flamesweeper.png"
 			}
 		},
 		{
@@ -2176,7 +2166,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/153_Cost of Perfection.png"
+				"en": "https:///sets/MVX-files/img/153_Cost of Perfection.png"
 			}
 		},
 		{
@@ -2186,7 +2176,7 @@
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/25_Season to Perfection.png"
+				"en": "https:///sets/MVX-files/img/25_Season to Perfection.png"
 			}
 		},
 		{
@@ -2196,7 +2186,7 @@
 			"type": "Token Creature — Bird ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/2_Bird.png"
+				"en": "https:///sets/MVX-files/img/2_Bird.png"
 			}
 		},
 		{
@@ -2206,7 +2196,7 @@
 			"type": "Enchantment",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/186_Chicken Coop.png"
+				"en": "https:///sets/MVX-files/img/186_Chicken Coop.png"
 			}
 		},
 		{
@@ -2216,7 +2206,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/50_Gustbrook Library.png"
+				"en": "https:///sets/MVX-files/img/50_Gustbrook Library.png"
 			}
 		},
 		{
@@ -2226,7 +2216,7 @@
 			"type": "Creature — Elf Dwarf Bard ",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/109_Deafening Duo.png"
+				"en": "https:///sets/MVX-files/img/109_Deafening Duo.png"
 			}
 		},
 		{
@@ -2236,7 +2226,7 @@
 			"type": "Enchantment",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/66_Songcrafting.png"
+				"en": "https:///sets/MVX-files/img/66_Songcrafting.png"
 			}
 		},
 		{
@@ -2246,7 +2236,7 @@
 			"type": "Creature — Elf Druid ",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/24_Sauce Flinger.png"
+				"en": "https:///sets/MVX-files/img/24_Sauce Flinger.png"
 			}
 		},
 		{
@@ -2256,7 +2246,7 @@
 			"type": "Creature — Spirit Bard ",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/1_Balcony Chanteur.png"
+				"en": "https:///sets/MVX-files/img/1_Balcony Chanteur.png"
 			}
 		},
 		{
@@ -2266,7 +2256,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/211_La Chaconne de Soupir No 3.png"
+				"en": "https:///sets/MVX-files/img/211_La Chaconne de Soupir No 3.png"
 			}
 		},
 		{
@@ -2276,7 +2266,7 @@
 			"type": "Creature — Bear Druid ",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/204_Gustatorie Mixer.png"
+				"en": "https:///sets/MVX-files/img/204_Gustatorie Mixer.png"
 			}
 		},
 		{
@@ -2286,7 +2276,7 @@
 			"type": "Token Creature — Spirit Elemental ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/8_Spirit Elemental.png"
+				"en": "https:///sets/MVX-files/img/8_Spirit Elemental.png"
 			}
 		},
 		{
@@ -2296,7 +2286,7 @@
 			"type": "Creature — Sphinx ",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/54_Keeper of the Archives.png"
+				"en": "https:///sets/MVX-files/img/54_Keeper of the Archives.png"
 			}
 		},
 		{
@@ -2306,7 +2296,7 @@
 			"type": "Token Artifact Creature — Construct ",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/12_Construct.png"
+				"en": "https:///sets/MVX-files/img/12_Construct.png"
 			}
 		},
 		{
@@ -2316,7 +2306,7 @@
 			"type": "Enchantment",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/65_Solid Fundamentals.png"
+				"en": "https:///sets/MVX-files/img/65_Solid Fundamentals.png"
 			}
 		},
 		{
@@ -2326,7 +2316,7 @@
 			"type": "Legendary Creature — Satyr Druid ",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/238_Sylvie, Garden Tender.png"
+				"en": "https:///sets/MVX-files/img/238_Sylvie, Garden Tender.png"
 			}
 		},
 		{
@@ -2336,7 +2326,7 @@
 			"type": "Creature — Gnome Artist Wizard ",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/48_Gleeful Amateur.png"
+				"en": "https:///sets/MVX-files/img/48_Gleeful Amateur.png"
 			}
 		},
 		{
@@ -2346,7 +2336,7 @@
 			"type": "Creature — Inkling Elemental ",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/148_Body of Literature.png"
+				"en": "https:///sets/MVX-files/img/148_Body of Literature.png"
 			}
 		},
 		{
@@ -2356,7 +2346,7 @@
 			"type": "Artifact",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/246_Writer's Desk.png"
+				"en": "https:///sets/MVX-files/img/246_Writer's Desk.png"
 			}
 		},
 		{
@@ -2366,7 +2356,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/100_Sate the Critics.png"
+				"en": "https:///sets/MVX-files/img/100_Sate the Critics.png"
 			}
 		},
 		{
@@ -2376,7 +2366,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/60_Redesign.png"
+				"en": "https:///sets/MVX-files/img/60_Redesign.png"
 			}
 		},
 		{
@@ -2386,7 +2376,7 @@
 			"type": "Creature — Human Artist Wizard ",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/245_Wicked Wordsmith.png"
+				"en": "https:///sets/MVX-files/img/245_Wicked Wordsmith.png"
 			}
 		},
 		{
@@ -2396,7 +2386,7 @@
 			"type": "Legendary Planeswalker — Davriel ",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/193_Esteemed Author Davriel Cane.png"
+				"en": "https:///sets/MVX-files/img/193_Esteemed Author Davriel Cane.png"
 			}
 		},
 		{
@@ -2406,7 +2396,7 @@
 			"type": "Artifact",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/1_PROMO Chromatic Lantern.png"
+				"en": "https:///sets/MVX-files/img/1_PROMO Chromatic Lantern.png"
 			}
 		},
 		{
@@ -2416,7 +2406,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/124_Invocation of Creativity.png"
+				"en": "https:///sets/MVX-files/img/124_Invocation of Creativity.png"
 			}
 		},
 		{
@@ -2426,7 +2416,7 @@
 			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/134_See the Sights.png"
+				"en": "https:///sets/MVX-files/img/134_See the Sights.png"
 			}
 		},
 		{
@@ -2436,7 +2426,7 @@
 			"type": "Creature — Goblin Artificer ",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/125_Ironstreet Welders.png"
+				"en": "https:///sets/MVX-files/img/125_Ironstreet Welders.png"
 			}
 		},
 		{
@@ -2446,7 +2436,7 @@
 			"type": "Legendary Artifact Creature — Incarnation ",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/264_Ingenuity.png"
+				"en": "https:///sets/MVX-files/img/264_Ingenuity.png"
 			}
 		},
 		{
@@ -2456,13 +2446,13 @@
 			"type": "Legendary Creature — Orc Druid ",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/141_Antoine, Chef Extraordinaire_front.png"
+				"en": "https:///sets/MVX-files/img/141_Antoine, Chef Extraordinaire_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/141_Antoine, Chef Extraordinaire_back.png"
+					"en": "https:///sets/MVX-files/img/141_Antoine, Chef Extraordinaire_back.png"
 				}
 			}
 		},
@@ -2473,7 +2463,7 @@
 			"type": "Artifact",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/258_Chromatic Lantern.png"
+				"en": "https:///sets/MVX-files/img/258_Chromatic Lantern.png"
 			}
 		},
 		{
@@ -2483,7 +2473,7 @@
 			"type": "Instant",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/214_Lyon's Contemplation.png"
+				"en": "https:///sets/MVX-files/img/214_Lyon's Contemplation.png"
 			}
 		},
 		{
@@ -2493,7 +2483,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/47_Foundry Assistant.png"
+				"en": "https:///sets/MVX-files/img/47_Foundry Assistant.png"
 			}
 		},
 		{
@@ -2503,7 +2493,7 @@
 			"type": "Artifact",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/39_Blueprints.png"
+				"en": "https:///sets/MVX-files/img/39_Blueprints.png"
 			}
 		},
 		{
@@ -2513,7 +2503,7 @@
 			"type": "Creature — Devil ",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/249_Footlight Fiend.png"
+				"en": "https:///sets/MVX-files/img/249_Footlight Fiend.png"
 			}
 		},
 		{
@@ -2523,7 +2513,7 @@
 			"type": "Creature — Dwarf Artist Wizard ",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/84_Enraged Essayist.png"
+				"en": "https:///sets/MVX-files/img/84_Enraged Essayist.png"
 			}
 		},
 		{
@@ -2533,7 +2523,7 @@
 			"type": "Instant",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/256_Tear Through.png"
+				"en": "https:///sets/MVX-files/img/256_Tear Through.png"
 			}
 		},
 		{
@@ -2543,7 +2533,7 @@
 			"type": "Artifact Creature — Dragon ",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/260_Constructed Whelp.png"
+				"en": "https:///sets/MVX-files/img/260_Constructed Whelp.png"
 			}
 		},
 		{
@@ -2553,7 +2543,7 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/102_Stage Double.png"
+				"en": "https:///sets/MVX-files/img/102_Stage Double.png"
 			}
 		},
 		{
@@ -2563,7 +2553,7 @@
 			"type": "Creature — Dryad Bard ",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/165_Parkland Flautist.png"
+				"en": "https:///sets/MVX-files/img/165_Parkland Flautist.png"
 			}
 		},
 		{
@@ -2573,13 +2563,13 @@
 			"type": "Creature — Human Artificer ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/8_Distracted Apprentice_front.png"
+				"en": "https:///sets/MVX-files/img/8_Distracted Apprentice_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/8_Distracted Apprentice_back.png"
+					"en": "https:///sets/MVX-files/img/8_Distracted Apprentice_back.png"
 				}
 			}
 		},
@@ -2590,7 +2580,7 @@
 			"type": "Enchantment",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/89_Gastronomical Hubris.png"
+				"en": "https:///sets/MVX-files/img/89_Gastronomical Hubris.png"
 			}
 		},
 		{
@@ -2600,7 +2590,7 @@
 			"type": "Legendary Planeswalker — Elaphia ",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/192_Elaphia, Full of Wonder.png"
+				"en": "https:///sets/MVX-files/img/192_Elaphia, Full of Wonder.png"
 			}
 		},
 		{
@@ -2610,13 +2600,13 @@
 			"type": "Legendary Creature — Human Artist Wizard ",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/56_Nicola, Inspired Artist_front.png"
+				"en": "https:///sets/MVX-files/img/56_Nicola, Inspired Artist_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/56_Nicola, Inspired Artist_back.png"
+					"en": "https:///sets/MVX-files/img/56_Nicola, Inspired Artist_back.png"
 				}
 			}
 		},
@@ -2627,7 +2617,7 @@
 			"type": "Artifact",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/76_Chorus Machine.png"
+				"en": "https:///sets/MVX-files/img/76_Chorus Machine.png"
 			}
 		},
 		{
@@ -2637,7 +2627,7 @@
 			"type": "Creature — Human Citizen ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/11_Enraptured Watcher.png"
+				"en": "https:///sets/MVX-files/img/11_Enraptured Watcher.png"
 			}
 		},
 		{
@@ -2647,13 +2637,13 @@
 			"type": "Creature — Satyr Bard ",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/139_Tavern Reveler_front.png"
+				"en": "https:///sets/MVX-files/img/139_Tavern Reveler_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/139_Tavern Reveler_back.png"
+					"en": "https:///sets/MVX-files/img/139_Tavern Reveler_back.png"
 				}
 			}
 		},
@@ -2664,7 +2654,7 @@
 			"type": "Legendary Creature — Demon Advisor ",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/182_Belphegor, Infernal Publisher.png"
+				"en": "https:///sets/MVX-files/img/182_Belphegor, Infernal Publisher.png"
 			}
 		},
 		{
@@ -2674,7 +2664,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/156_The Founding of the City.png"
+				"en": "https:///sets/MVX-files/img/156_The Founding of the City.png"
 			}
 		},
 		{
@@ -2684,7 +2674,7 @@
 			"type": "Sorcery",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/159_Green Thumbed Growth.png"
+				"en": "https:///sets/MVX-files/img/159_Green Thumbed Growth.png"
 			}
 		},
 		{
@@ -2694,7 +2684,7 @@
 			"type": "Instant",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/62_Serenade.png"
+				"en": "https:///sets/MVX-files/img/62_Serenade.png"
 			}
 		},
 		{
@@ -2704,7 +2694,7 @@
 			"type": "Creature — Inkling Beast ",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/207_Inkblot Familiar.png"
+				"en": "https:///sets/MVX-files/img/207_Inkblot Familiar.png"
 			}
 		},
 		{
@@ -2714,7 +2704,7 @@
 			"type": "Creature — Orc Druid ",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/90_Gustatorie Explorateur.png"
+				"en": "https:///sets/MVX-files/img/90_Gustatorie Explorateur.png"
 			}
 		},
 		{
@@ -2724,7 +2714,7 @@
 			"type": "Sorcery",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/77_Criticize.png"
+				"en": "https:///sets/MVX-files/img/77_Criticize.png"
 			}
 		},
 		{
@@ -2734,7 +2724,7 @@
 			"type": "Enchantment",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/135_Skilled Animancy.png"
+				"en": "https:///sets/MVX-files/img/135_Skilled Animancy.png"
 			}
 		},
 		{
@@ -2744,7 +2734,7 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/81_Diviner of the Dessert.png"
+				"en": "https:///sets/MVX-files/img/81_Diviner of the Dessert.png"
 			}
 		},
 		{
@@ -2754,7 +2744,7 @@
 			"type": "Sorcery",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/212_Lament.png"
+				"en": "https:///sets/MVX-files/img/212_Lament.png"
 			}
 		},
 		{
@@ -2764,7 +2754,7 @@
 			"type": "Artifact Creature — Gnome ",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/21_Parts Picker.png"
+				"en": "https:///sets/MVX-files/img/21_Parts Picker.png"
 			}
 		},
 		{
@@ -2774,7 +2764,7 @@
 			"type": "Instant",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/94_Moment of Craving.png"
+				"en": "https:///sets/MVX-files/img/94_Moment of Craving.png"
 			}
 		},
 		{
@@ -2784,7 +2774,7 @@
 			"type": "Artifact Creature — Dog Sculpture ",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/176_Alabaster Guardian.png"
+				"en": "https:///sets/MVX-files/img/176_Alabaster Guardian.png"
 			}
 		},
 		{
@@ -2794,7 +2784,7 @@
 			"type": "Enchantment",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/33_Tidy Up.png"
+				"en": "https:///sets/MVX-files/img/33_Tidy Up.png"
 			}
 		},
 		{
@@ -2804,7 +2794,7 @@
 			"type": "Creature — Human Druid ",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/105_Witch of Forbidden Treats.png"
+				"en": "https:///sets/MVX-files/img/105_Witch of Forbidden Treats.png"
 			}
 		},
 		{
@@ -2814,7 +2804,7 @@
 			"type": "Legendary Creature — Vampire Actor Warlock ",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/242_Velda, Opera Diva.png"
+				"en": "https:///sets/MVX-files/img/242_Velda, Opera Diva.png"
 			}
 		},
 		{
@@ -2824,13 +2814,13 @@
 			"type": "Legendary Creature — Azra Bard ",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/226_Roland, Second Fiddle_front.png"
+				"en": "https:///sets/MVX-files/img/226_Roland, Second Fiddle_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/226_Roland, Second Fiddle_back.png"
+					"en": "https:///sets/MVX-files/img/226_Roland, Second Fiddle_back.png"
 				}
 			}
 		},
@@ -2841,7 +2831,7 @@
 			"type": "Artifact Creature — Construct ",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/269_Stonework Behemoth.png"
+				"en": "https:///sets/MVX-files/img/269_Stonework Behemoth.png"
 			}
 		},
 		{
@@ -2851,7 +2841,7 @@
 			"type": "Creature — Orc Artificer ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/7_Diligent Architect.png"
+				"en": "https:///sets/MVX-files/img/7_Diligent Architect.png"
 			}
 		},
 		{
@@ -2861,7 +2851,7 @@
 			"type": "Artifact Creature — Griffin ",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/19_Monument to Ascension.png"
+				"en": "https:///sets/MVX-files/img/19_Monument to Ascension.png"
 			}
 		},
 		{
@@ -2871,7 +2861,7 @@
 			"type": "Legendary Enchantment Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/235_Starlit Horizons.png"
+				"en": "https:///sets/MVX-files/img/235_Starlit Horizons.png"
 			}
 		},
 		{
@@ -2881,7 +2871,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/228_Scrapsmelt Foundry.png"
+				"en": "https:///sets/MVX-files/img/228_Scrapsmelt Foundry.png"
 			}
 		},
 		{
@@ -2891,7 +2881,7 @@
 			"type": "Sorcery",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/155_Food Flood.png"
+				"en": "https:///sets/MVX-files/img/155_Food Flood.png"
 			}
 		},
 		{
@@ -2901,7 +2891,7 @@
 			"type": "Instant",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/78_Davriel's Bargain.png"
+				"en": "https:///sets/MVX-files/img/78_Davriel's Bargain.png"
 			}
 		},
 		{
@@ -2911,7 +2901,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/184_Break from Stress.png"
+				"en": "https:///sets/MVX-files/img/184_Break from Stress.png"
 			}
 		},
 		{
@@ -2921,7 +2911,7 @@
 			"type": "Enchantment",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/53_Inkshaping.png"
+				"en": "https:///sets/MVX-files/img/53_Inkshaping.png"
 			}
 		},
 		{
@@ -2931,7 +2921,7 @@
 			"type": "Enchantment",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/31_Stage Fright.png"
+				"en": "https:///sets/MVX-files/img/31_Stage Fright.png"
 			}
 		},
 		{
@@ -2941,7 +2931,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/80_Dishearten.png"
+				"en": "https:///sets/MVX-files/img/80_Dishearten.png"
 			}
 		},
 		{
@@ -2951,7 +2941,7 @@
 			"type": "Enchantment",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/174_Vivid Expression.png"
+				"en": "https:///sets/MVX-files/img/174_Vivid Expression.png"
 			}
 		},
 		{
@@ -2961,7 +2951,7 @@
 			"type": "Creature — Azra Advisor ",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/88_Gallery Curator.png"
+				"en": "https:///sets/MVX-files/img/88_Gallery Curator.png"
 			}
 		},
 		{
@@ -2971,7 +2961,7 @@
 			"type": "Creature — Azra Bard ",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/67_Songweaver Adept.png"
+				"en": "https:///sets/MVX-files/img/67_Songweaver Adept.png"
 			}
 		},
 		{
@@ -2981,7 +2971,7 @@
 			"type": "Artifact Creature — Food Snake ",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/168_Soup Serpent.png"
+				"en": "https:///sets/MVX-files/img/168_Soup Serpent.png"
 			}
 		},
 		{
@@ -2991,7 +2981,7 @@
 			"type": "Enchantment Creature — Phoenix Illusion ",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/130_Phoenixsong.png"
+				"en": "https:///sets/MVX-files/img/130_Phoenixsong.png"
 			}
 		},
 		{
@@ -3001,7 +2991,7 @@
 			"type": "Legendary Enchantment Artifact",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/194_Far-off Places.png"
+				"en": "https:///sets/MVX-files/img/194_Far-off Places.png"
 			}
 		},
 		{
@@ -3011,7 +3001,7 @@
 			"type": "Creature — Vampire Actor Warlock ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/99_Pompous Thespian.png"
+				"en": "https:///sets/MVX-files/img/99_Pompous Thespian.png"
 			}
 		},
 		{
@@ -3021,7 +3011,7 @@
 			"type": "Creature — Vampire Bard Warlock ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/224_Profane Performer.png"
+				"en": "https:///sets/MVX-files/img/224_Profane Performer.png"
 			}
 		},
 		{
@@ -3031,7 +3021,7 @@
 			"type": "Artifact",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/199_Frymaster's Pan.png"
+				"en": "https:///sets/MVX-files/img/199_Frymaster's Pan.png"
 			}
 		},
 		{
@@ -3041,7 +3031,7 @@
 			"type": "Enchantment",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/219_Oft-Told Tales.png"
+				"en": "https:///sets/MVX-files/img/219_Oft-Told Tales.png"
 			}
 		},
 		{
@@ -3051,7 +3041,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/262_Flute of Harmony.png"
+				"en": "https:///sets/MVX-files/img/262_Flute of Harmony.png"
 			}
 		},
 		{
@@ -3061,13 +3051,13 @@
 			"type": "Creature — Elf Bard ",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/122_Impassioned Singer_front.png"
+				"en": "https:///sets/MVX-files/img/122_Impassioned Singer_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/122_Impassioned Singer_back.png"
+					"en": "https:///sets/MVX-files/img/122_Impassioned Singer_back.png"
 				}
 			}
 		},
@@ -3078,7 +3068,7 @@
 			"type": "Creature — Spirit Artist ",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/68_Spectral Scribe.png"
+				"en": "https:///sets/MVX-files/img/68_Spectral Scribe.png"
 			}
 		},
 		{
@@ -3088,7 +3078,7 @@
 			"type": "Artifact — Equipment ",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/118_Forgehammer.png"
+				"en": "https:///sets/MVX-files/img/118_Forgehammer.png"
 			}
 		},
 		{
@@ -3098,7 +3088,7 @@
 			"type": "Artifact Creature — Food Elemental ",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/171_Swaying Smorgasbord.png"
+				"en": "https:///sets/MVX-files/img/171_Swaying Smorgasbord.png"
 			}
 		},
 		{
@@ -3108,7 +3098,7 @@
 			"type": "Basic Land — Swamp ",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/10_PROMO Swamp.png"
+				"en": "https:///sets/MVX-files/img/10_PROMO Swamp.png"
 			}
 		},
 		{
@@ -3118,7 +3108,7 @@
 			"type": "Basic Land — Plains ",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/8_PROMO Plains.png"
+				"en": "https:///sets/MVX-files/img/8_PROMO Plains.png"
 			}
 		},
 		{
@@ -3128,7 +3118,7 @@
 			"type": "Basic Land — Mountain ",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/7_PROMO Mountain.png"
+				"en": "https:///sets/MVX-files/img/7_PROMO Mountain.png"
 			}
 		},
 		{
@@ -3138,7 +3128,7 @@
 			"type": "Basic Land — Island ",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/6_PROMO Island.png"
+				"en": "https:///sets/MVX-files/img/6_PROMO Island.png"
 			}
 		},
 		{
@@ -3148,7 +3138,7 @@
 			"type": "Basic Land — Forest ",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/5_PROMO Forest.png"
+				"en": "https:///sets/MVX-files/img/5_PROMO Forest.png"
 			}
 		},
 		{
@@ -3158,7 +3148,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/126_Jaunty Tune.png"
+				"en": "https:///sets/MVX-files/img/126_Jaunty Tune.png"
 			}
 		},
 		{
@@ -3168,7 +3158,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/46_The Flourishing.png"
+				"en": "https:///sets/MVX-files/img/46_The Flourishing.png"
 			}
 		},
 		{
@@ -3178,7 +3168,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/147_Bite Down on Treats.png"
+				"en": "https:///sets/MVX-files/img/147_Bite Down on Treats.png"
 			}
 		},
 		{
@@ -3188,7 +3178,7 @@
 			"type": "Artifact",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/111_Dramatic Organ.png"
+				"en": "https:///sets/MVX-files/img/111_Dramatic Organ.png"
 			}
 		},
 		{
@@ -3198,7 +3188,7 @@
 			"type": "Instant",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/223_Plan by Committee.png"
+				"en": "https:///sets/MVX-files/img/223_Plan by Committee.png"
 			}
 		},
 		{
@@ -3208,7 +3198,7 @@
 			"type": "Creature — Vampire Warlock ",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/243_Vicious Animancer.png"
+				"en": "https:///sets/MVX-files/img/243_Vicious Animancer.png"
 			}
 		},
 		{
@@ -3218,7 +3208,7 @@
 			"type": "Creature — Lizard ",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/152_Cookie Snatcher.png"
+				"en": "https:///sets/MVX-files/img/152_Cookie Snatcher.png"
 			}
 		},
 		{
@@ -3228,7 +3218,7 @@
 			"type": "Artifact Creature — Druid ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/2_Bolstering Chefbot.png"
+				"en": "https:///sets/MVX-files/img/2_Bolstering Chefbot.png"
 			}
 		},
 		{
@@ -3238,7 +3228,7 @@
 			"type": "Creature — Cat ",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/163_Kitty Connoisseur.png"
+				"en": "https:///sets/MVX-files/img/163_Kitty Connoisseur.png"
 			}
 		},
 		{
@@ -3248,7 +3238,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/201_The Grand Festival.png"
+				"en": "https:///sets/MVX-files/img/201_The Grand Festival.png"
 			}
 		},
 		{
@@ -3258,7 +3248,7 @@
 			"type": "Enchantment",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/229_Secret Ingredients.png"
+				"en": "https:///sets/MVX-files/img/229_Secret Ingredients.png"
 			}
 		},
 		{
@@ -3268,7 +3258,7 @@
 			"type": "Enchantment — Saga ",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/131_The Rejection of the Monarchy.png"
+				"en": "https:///sets/MVX-files/img/131_The Rejection of the Monarchy.png"
 			}
 		},
 		{
@@ -3278,7 +3268,7 @@
 			"type": "Token Artifact — Equipment ",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/11_Chisel.png"
+				"en": "https:///sets/MVX-files/img/11_Chisel.png"
 			}
 		},
 		{
@@ -3288,7 +3278,7 @@
 			"type": "Artifact — Building ",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/27_Skystone Sculptory.png"
+				"en": "https:///sets/MVX-files/img/27_Skystone Sculptory.png"
 			}
 		},
 		{
@@ -3298,7 +3288,7 @@
 			"type": "Creature — Bird Artificer ",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/180_Avian Augmenteers.png"
+				"en": "https:///sets/MVX-files/img/180_Avian Augmenteers.png"
 			}
 		},
 		{
@@ -3308,7 +3298,7 @@
 			"type": "Sorcery",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/231_Show of Strength.png"
+				"en": "https:///sets/MVX-files/img/231_Show of Strength.png"
 			}
 		},
 		{
@@ -3318,7 +3308,7 @@
 			"type": "Creature — Avatar ",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/83_Dramatis Personae.png"
+				"en": "https:///sets/MVX-files/img/83_Dramatis Personae.png"
 			}
 		},
 		{
@@ -3328,301 +3318,18 @@
 			"type": "Creature — Elf Bard Warlock ",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/87_First Chair Violinist.png"
+				"en": "https:///sets/MVX-files/img/87_First Chair Violinist.png"
+			}
+		},
+		{
+			"name": "Ancestral Guidance",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https:///sets/MVX-files/img/178_Ancestral Guidance.png"
 			}
 		},
 		]
-	[RareSlot(1)]
-		9 Houndcrafter Savant
-		9 Jacques, Harsh Conductor
-		9 Grand Overture
-		9 Song of Creation
-		9 Odette L'or, Fickle Painter
-		9 Niels, Cogmaster
-		9 Elven Glassblower
-		9 Diego, Slam Poet
-		9 Michel, Strummer of Heartstrings
-		9 Conceptual Orrery
-		9 Retrospection
-		9 Waxbreath Youngling
-		9 Concordia, Angel of Glass
-		9 Stormsinger
-		9 The Bardenmoot
-		9 Knockout Performance
-		9 Ancestral Guidance
-		9 Ambrosian Tower
-		9 Cogturn Laboratory
-		9 Festival Puppeteer
-		9 Roland's Solo
-		9 Show of Strength
-		9 Festival Revelry
-		9 Severin, Kitchen Tyrant
-		9 Hymn to the Wilds
-		9 Stew
-		9 Reconceptualize
-		9 Flamesweeper
-		9 Chicken Coop
-		9 Sauce Flinger
-		9 Balcony Chanteur
-		9 La Chaconne de Soupir No 3
-		9 Gustatorie Mixer
-		9 Solid Fundamentals
-		9 Sylvie, Garden Tender
-		9 Swaying Smorgasbord
-		9 Gleeful Amateur
-		9 Body of Literature
-		9 Writer's Desk
-		9 Invocation of Creativity
-		9 Chromatic Lantern
-		9 Lyon's Contemplation
-		9 Plan by Committee
-		9 Parkland Flautist
-		9 Gastronomical Hubris
-		9 Chorus Machine
-		9 Belphegor, Infernal Publisher
-		9 Serenade
-		9 Inkblot Familiar
-		9 Avian Augmenteers
-		9 Skilled Animancy
-		9 Diviner of the Dessert
-		9 Lament
-		9 Alabaster Guardian
-		9 Tidy Up
-		9 Velda, Opera Diva
-		9 Skystone Sculptory
-		9 Starlit Horizons
-		9 Scrapsmelt Foundry
-		9 Food Flood
-		9 Davriel's Bargain
-		9 Break from Stress
-		9 Inkshaping
-		9 Stage Fright
-		9 Vivid Expression
-		9 Gallery Curator
-		9 Songweaver Adept
-		9 First Chair Violinist
-		9 Phoenixsong
-		9 Far-off Places
-		9 Frymaster's Pan
-		9 Oft-Told Tales
-		3 Creativity
-		3 Marquis Vaasco de Moraes
-		3 Pascal, Critics' Favorite
-		3 Lyon, Aged Inventor
-		3 Brasio, Bardic Chronicler
-		3 Isabella, City Builder
-		3 Preserve the Moment
-		3 Hearthsong
-		3 Esteemed Author Davriel Cane
-		3 Ingenuity
-		3 Antoine, Chef Extraordinaire
-		3 Elaphia, Full of Wonder
-		3 Nicola, Inspired Artist
-		3 Dramatis Personae
-		3 Roland, Second Fiddle
-		3 Monument to Ascension
-		3 Soup Serpent
-	[UncommonSlot(3)]
-		20 Forlorn Author
-		20 Dancing Troupe
-		20 Wandering Connoisseur
-		20 Meticulous Sculptor
-		20 Turnip Trimmer
-		20 Free-Range Foraging
-		20 Valiant Versemaker
-		20 Blood Artist
-		20 Merrymaker
-		20 Skillful Landscapist
-		20 Civil Engineer
-		20 Dreamquill
-		20 Gnomish Tinkerer
-		20 Worksite Visionary
-		20 Bolstering Chefbot
-		20 Distracting Charcuterie
-		20 Sunstreet Clocktower
-		20 Encore
-		20 Secret Ingredients
-		20 Flamethumper
-		20 Opening Act
-		20 Spirit of the Opera
-		20 Fine Diner
-		20 Ironflow Forge
-		20 Kitty Connoisseur
-		20 Heartblaze Theatre
-		20 Audition
-		20 Reptilian Rhymester
-		20 Dragonsong
-		20 Waxcrafter
-		20 Soliloquist
-		20 Operahouse Headliner
-		20 Discouraging Flop
-		20 Second Showing
-		20 Dour Chorister
-		20 Benevolent Florist
-		20 Wolfsong
-		20 Tend the Garden
-		20 The Rejection of the Monarchy
-		20 Gemcrafter
-		20 Birdsong
-		20 Artist's Easel
-		20 Stew Stirrer
-		20 Trash-eater Gnome
-		20 Inkbottle
-		20 Skilled Sous-Chef
-		20 Castleway Crane
-		20 Hunt for Inspiration
-		20 Teatime Two
-		20 Grow from Instruction
-		20 Angel of Iteration
-		20 The Flourishing
-		20 The Grand Festival
-		20 Stunning Soprano
-		20 Bombastic Performance
-		20 Petite Patissier
-		20 Partners in Rhyme
-		20 Atelier Exemplar
-		20 Sparks of Invention
-		20 Stained Glass Sentinel
-		20 Cost of Perfection
-		20 Gustbrook Library
-		20 Songcrafting
-		20 Vicious Animancer
-		20 Keeper of the Archives
-		20 Redesign
-		20 Wicked Wordsmith
-		20 Enraged Essayist
-		20 Constructed Whelp
-		20 Distracted Apprentice
-		20 The Founding of the City
-		20 Criticize
-		20 Parts Picker
-		20 Witch of Forbidden Treats
-		20 Stonework Behemoth
-		20 Dishearten
-		20 Profane Performer
-		20 Flute of Harmony
-		20 Impassioned Singer
-		20 Spectral Scribe
-	[CommonSlot(10)]
-		25 Congregation Aspirant
-		25 Operahouse Gossip
-		25 Pudding Cat
-		25 Paper Familiars
-		25 Blase Cuisinier
-		25 Mechanical Racer
-		25 Bardic Historian
-		25 Inspirational Performer
-		25 Skystone Seraph
-		25 Colossal Puppetry
-		25 Deride
-		25 Forgefire Spray
-		25 Gorge on Snacks
-		25 Change Perspective
-		25 Rushed Production
-		25 Clash of Egos
-		25 Soup Elemental
-		25 Mechanical Strix
-		25 Prolific Novelist
-		25 Atelier Artisan
-		25 Prevent Catastrophe
-		25 Annul
-		25 Fiendish Fromager
-		25 Artistic Benefactor
-		25 Motivation Sapper
-		25 Exhausting Rehearsal
-		25 Macabre Prop
-		25 Overworked
-		25 Casting Call
-		25 Understudy
-		25 Aspiring Performer
-		25 Leading Lady
-		25 Forge Gnome
-		25 Harbinger of Festivity
-		25 Spit Fire
-		25 Fiery Setpiece
-		25 Dramatic Organ
-		25 Jaunty Tune
-		25 Forgehammer
-		25 Spoil the Broth
-		25 Bite Down on Treats
-		25 Inspired Reader
-		25 Librarian's Assistant
-		25 Cartographer's Eyes
-		25 Gnomestack
-		25 Rancid Meal
-		25 Prophetic Prism
-		25 Rebuild from Scratch
-		25 Tragic Soloist
-		25 Fanciful Flier
-		25 Keen Guardcog
-		25 Merry Troubadour
-		25 Bookwyrm
-		25 Cheerful Painter
-		25 Candied Colossus
-		25 Colorful Rendition
-		25 Inspiring Melody
-		25 Highbrow Critic
-		25 Storybook Serpent
-		25 Distracting Song
-		25 Gustatorie Tastemaker
-		25 Greenpark Strummer
-		25 Belligerence
-		25 Natural Harmony
-		25 Farmstead Butcher
-		25 Tavern Talesmith
-		25 Cookie Snatcher
-		25 Avian Auteur
-		25 Garden Guardian
-		25 Parapet Percher
-		25 Cogwrench
-		25 Lunch Rush
-		25 Vamp
-		25 Fencer's Foil
-		25 Gobsmack
-		25 Arboreal Artist
-		25 Inspiring Walk
-		25 Extravagant Channeler
-		25 Haunting Lullaby
-		25 Moonridge Tailors
-		25 Skystone Gargoyle
-		25 Rousing Read
-		25 Slinking Scribbler
-		25 Rooftop Rapscallion
-		25 Season to Perfection
-		25 Deafening Duo
-		25 Sate the Critics
-		25 See the Sights
-		25 Ironstreet Welders
-		25 Foundry Assistant
-		25 Blueprints
-		25 Footlight Fiend
-		25 Tear Through
-		25 Stage Double
-		25 Enraptured Watcher
-		25 Tavern Reveler
-		25 Green Thumbed Growth
-		25 Gustatorie Explorateur
-		25 Moment of Craving
-		25 Diligent Architect
-		25 Pompous Thespian
-	[LandSlot(1)]
-		30 Serene Museum
-		30 Hushed Library
-		30 Charming Playhouse
-		30 Orator's Forum
-		30 Abundant Garden
-		30 Muted Auditorium
-		30 Seedy Kitchen
-		30 Painter's Studio
-		30 Lively Tavern
-		30 Artificer's Workshop
-		6 Back-Alley Theatre
-		6 Sunlit Park
-		6 Discreet Gallery
-		6 Vibrant Concourse
-		6 Delightful Patisserie
-		3 PROMO Back-Alley Theatre
-		3 PROMO Sunlit Park
-		3 PROMO Discreet Gallery
-		3 PROMO Vibrant Concourse
-		3 PROMO Delightful Patisserie
+	
