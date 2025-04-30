@@ -181,9 +181,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/2_PROMO Back-Alley Theatre.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/1_PROMO Back-Alley Theatre.png"
 			}
 		},
 		{
@@ -191,9 +191,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/9_PROMO Sunlit Park.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/8_PROMO Sunlit Park.png"
 			}
 		},
 		{
@@ -201,9 +201,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/4_PROMO Discreet Gallery.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/3_PROMO Discreet Gallery.png"
 			}
 		},
 		{
@@ -211,9 +211,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/11_PROMO Vibrant Concourse.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/10_PROMO Vibrant Concourse.png"
 			}
 		},
 		{
@@ -221,9 +221,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/3_PROMO Delightful Patisserie.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/2_PROMO Delightful Patisserie.png"
 			}
 		},
 		{
@@ -2397,16 +2397,6 @@
 			"collector_number": "193",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/193_Esteemed Author Davriel Cane.png"
-			}
-		},
-		{
-			"name": "PROMO Chromatic Lantern",
-			"rarity": "special",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/1_PROMO Chromatic Lantern.png"
 			}
 		},
 		{
