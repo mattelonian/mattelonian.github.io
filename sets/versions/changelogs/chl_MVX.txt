@@ -1,4 +1,80 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Marquis Vaasco de Moraes
+rules_text: When Marquis Vaasco de Moraes enters, you may return target non-Zombie creature card from your graveyard to the battlefield.
+Legacy {R}{W}{B} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => When Vaasco enters, you may return target non-Zombie creature card from your graveyard to the battlefield.
+Legacy {R}{W}{B}
+
+Brasio, Bardic Chronicler
+rules_text: Regale — {T}: Scry 1. Brasio deals 1 damage to each opponent. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+Legacy {G}{U}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => Regale — {T}: Scry 1. Brasio deals 1 damage to each opponent. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+Legacy {G}{U}{R}
+
+Isabella, City Builder
+rules_text: Vigilance
+Whenever Isabella, City Builder attacks, untap each artifact you control.
+Legacy {2}{U}{R}{W} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => Vigilance
+Whenever Isabella attacks, untap each artifact you control.
+Legacy {2}{U}{R}{W}
+
+Antoine, Chef Extraordinaire
+rules_text: Trample
+Whenever one or more creatures you control deal combat damage to a player, create a Food token.
+Legacy {1}{W}{B}{G} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => Trample
+Whenever one or more creatures you control deal combat damage to a player, create a Food token.
+Legacy {1}{W}{B}{G}
+
+Nicola, Inspired Artist
+rules_text: Whenever Nicola, Inspired Artist attacks, you may draw a card. If you do, discard a card.
+Legacy {1}{B}{G}{U} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => Whenever Nicola attacks, you may draw a card. If you do, discard a card.
+Legacy {1}{B}{G}{U}
+
+Tavern Reveler
+rules_text: Tavern Reveler can't block.
+Legacy 2R => Tavern Reveler can't block.
+Legacy {2}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Witch of Forbidden Treats
+
+Food Flood
+
+Jaunty Tune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II, III — Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II, III — Draw a card.
+​
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Create a 1/1 blue Illusion enchantment creature token with flying.
+III — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Create a 1/1 blue Illusion enchantment creature token with flying.
+III — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.
