@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>MVX visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -82,7 +86,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -120,36 +124,49 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -163,7 +180,7 @@
 	<img class="preload-hidden" src="/sets/AUR-files/icon.png" />
 		<img class="preload-hidden" src="/sets/MVX-files/icon.png" />
 		<img class="preload-hidden" id="bg" src="/sets/MVX-files/bg.png" />
-		
+
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -175,404 +192,405 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="AUR"><img src="/sets/AUR-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="MVX"><img src="/sets/MVX-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="MVX"><img src="/sets/MVX-files/icon.png">Merveaux</a>
+	
+		<a class="set-bar inactive" href="AUR"><img src="/sets/AUR-files/icon.png">Beyond the Aurora</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/MVX-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img data-alt_src="/sets\MVX-files\img\16_Isabella, City Builder_back.png" alt="/sets\MVX-files\img\16_Isabella, City Builder_front.png" id="16_Isabella, City Builder" data-flag="@XD" onclick="openSidebar('16_Isabella, City Builder',false)"><button class="flip-btn" onclick="imgFlip('16_Isabella, City Builder')"></button></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\56_Nicola, Inspired Artist_back.png" alt="/sets\MVX-files\img\56_Nicola, Inspired Artist_front.png" id="56_Nicola, Inspired Artist" data-flag="@XD" onclick="openSidebar('56_Nicola, Inspired Artist',false)"><button class="flip-btn" onclick="imgFlip('56_Nicola, Inspired Artist')"></button></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\93_Marquis Vaasco de Moraes_back.png" alt="/sets\MVX-files\img\93_Marquis Vaasco de Moraes_front.png" id="93_Marquis Vaasco de Moraes" data-flag="@XD" onclick="openSidebar('93_Marquis Vaasco de Moraes',false)"><button class="flip-btn" onclick="imgFlip('93_Marquis Vaasco de Moraes')"></button></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\108_Brasio, Bardic Chronicler_back.png" alt="/sets\MVX-files\img\108_Brasio, Bardic Chronicler_front.png" id="108_Brasio, Bardic Chronicler" data-flag="@XD" onclick="openSidebar('108_Brasio, Bardic Chronicler',false)"><button class="flip-btn" onclick="imgFlip('108_Brasio, Bardic Chronicler')"></button></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\141_Antoine, Chef Extraordinaire_back.png" alt="/sets\MVX-files\img\141_Antoine, Chef Extraordinaire_front.png" id="141_Antoine, Chef Extraordinaire" data-flag="@XD" onclick="openSidebar('141_Antoine, Chef Extraordinaire',false)"><button class="flip-btn" onclick="imgFlip('141_Antoine, Chef Extraordinaire')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\19_Monument to Ascension.png" id="19_Monument to Ascension" data-flag="@X" onclick="openSidebar('19_Monument to Ascension',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\57_Preserve the Moment.png" id="57_Preserve the Moment" data-flag="@X" onclick="openSidebar('57_Preserve the Moment',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\83_Dramatis Personae.png" id="83_Dramatis Personae" data-flag="@X" onclick="openSidebar('83_Dramatis Personae',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\122_Hearthsong.png" id="122_Hearthsong" data-flag="@X" onclick="openSidebar('122_Hearthsong',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\168_Soup Serpent.png" id="168_Soup Serpent" data-flag="@X" onclick="openSidebar('168_Soup Serpent',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\1_Balcony Chanteur.png" id="1_Balcony Chanteur" data-flag="@X" onclick="openSidebar('1_Balcony Chanteur',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\48_Gleeful Amateur.png" id="48_Gleeful Amateur" data-flag="@X" onclick="openSidebar('48_Gleeful Amateur',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\76_Chorus Machine.png" id="76_Chorus Machine" data-flag="@X" onclick="openSidebar('76_Chorus Machine',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\106_Animancy.png" id="106_Animancy" data-flag="@X" onclick="openSidebar('106_Animancy',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\148_Body of Literature.png" id="148_Body of Literature" data-flag="@X" onclick="openSidebar('148_Body of Literature',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\24_Sauce Flinger.png" id="24_Sauce Flinger" data-flag="@X" onclick="openSidebar('24_Sauce Flinger',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\52_Houndcrafter Savant.png" id="52_Houndcrafter Savant" data-flag="@X" onclick="openSidebar('52_Houndcrafter Savant',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\78_Davriel's Bargain.png" id="78_Davriels Bargain" data-flag="@X" onclick="openSidebar('78_Davriels Bargain',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\113_Elven Glassblower.png" id="113_Elven Glassblower" data-flag="@X" onclick="openSidebar('113_Elven Glassblower',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\155_Food Flood.png" id="155_Food Flood" data-flag="@X" onclick="openSidebar('155_Food Flood',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\27_Skystone Sculptory.png" id="27_Skystone Sculptory" data-flag="@X" onclick="openSidebar('27_Skystone Sculptory',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\53_Inkshaping.png" id="53_Inkshaping" data-flag="@X" onclick="openSidebar('53_Inkshaping',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\81_Diviner of the Dessert.png" id="81_Diviner of the Dessert" data-flag="@X" onclick="openSidebar('81_Diviner of the Dessert',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\115_Festival Revelry.png" id="115_Festival Revelry" data-flag="@X" onclick="openSidebar('115_Festival Revelry',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\165_Parkland Flautist.png" id="165_Parkland Flautist" data-flag="@X" onclick="openSidebar('165_Parkland Flautist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\31_Stage Fright.png" id="31_Stage Fright" data-flag="@X" onclick="openSidebar('31_Stage Fright',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\62_Serenade.png" id="62_Serenade" data-flag="@X" onclick="openSidebar('62_Serenade',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\87_First Chair Violinist.png" id="87_First Chair Violinist" data-flag="@X" onclick="openSidebar('87_First Chair Violinist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\117_Flamesweeper.png" id="117_Flamesweeper" data-flag="@X" onclick="openSidebar('117_Flamesweeper',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\166_Retrospection.png" id="166_Retrospection" data-flag="@X" onclick="openSidebar('166_Retrospection',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\33_Tidy Up.png" id="33_Tidy Up" data-flag="@X" onclick="openSidebar('33_Tidy Up',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\65_Solid Fundamentals.png" id="65_Solid Fundamentals" data-flag="@X" onclick="openSidebar('65_Solid Fundamentals',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\88_Gallery Curator.png" id="88_Gallery Curator" data-flag="@X" onclick="openSidebar('88_Gallery Curator',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\125_Invocation of Creativity.png" id="125_Invocation of Creativity" data-flag="@X" onclick="openSidebar('125_Invocation of Creativity',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\171_Swaying Smorgasbord.png" id="171_Swaying Smorgasbord" data-flag="@X" onclick="openSidebar('171_Swaying Smorgasbord',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\34_Waxbreath Youngling.png" id="34_Waxbreath Youngling" data-flag="@X" onclick="openSidebar('34_Waxbreath Youngling',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\67_Songweaver Adept.png" id="67_Songweaver Adept" data-flag="@X" onclick="openSidebar('67_Songweaver Adept',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\89_Gastronomical Hubris.png" id="89_Gastronomical Hubris" data-flag="@X" onclick="openSidebar('89_Gastronomical Hubris',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\131_Phoenixsong.png" id="131_Phoenixsong" data-flag="@X" onclick="openSidebar('131_Phoenixsong',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\174_Vivid Expression.png" id="174_Vivid Expression" data-flag="@X" onclick="openSidebar('174_Vivid Expression',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\2_Bolstering Chefbot.png" id="2_Bolstering Chefbot" data-flag="@X" onclick="openSidebar('2_Bolstering Chefbot',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\38_Birdsong.png" id="38_Birdsong" data-flag="@X" onclick="openSidebar('38_Birdsong',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\74_Blood Artist.png" id="74_Blood Artist" data-flag="@X" onclick="openSidebar('74_Blood Artist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\107_Audition.png" id="107_Audition" data-flag="@X" onclick="openSidebar('107_Audition',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\143_Artist's Easel.png" id="143_Artists Easel" data-flag="@X" onclick="openSidebar('143_Artists Easel',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\8_Distracted Apprentice_back.png" alt="/sets\MVX-files\img\8_Distracted Apprentice_front.png" id="8_Distracted Apprentice" data-flag="@XD" onclick="openSidebar('8_Distracted Apprentice',false)"><button class="flip-btn" onclick="imgFlip('8_Distracted Apprentice')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\42_Civil Engineer.png" id="42_Civil Engineer" data-flag="@X" onclick="openSidebar('42_Civil Engineer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\77_Criticize.png" id="77_Criticize" data-flag="@X" onclick="openSidebar('77_Criticize',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\111_Dragonsong.png" id="111_Dragonsong" data-flag="@X" onclick="openSidebar('111_Dragonsong',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\144_Atelier Exemplar.png" id="144_Atelier Exemplar" data-flag="@X" onclick="openSidebar('144_Atelier Exemplar',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\9_Distracting Charcuterie.png" id="9_Distracting Charcuterie" data-flag="@X" onclick="openSidebar('9_Distracting Charcuterie',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\44_Dreamquill.png" id="44_Dreamquill" data-flag="@X" onclick="openSidebar('44_Dreamquill',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\79_Discouraging Flop.png" id="79_Discouraging Flop" data-flag="@X" onclick="openSidebar('79_Discouraging Flop',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\121_Heartblaze Theatre.png" id="121_Heartblaze Theatre" data-flag="@X" onclick="openSidebar('121_Heartblaze Theatre',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\146_Benevolent Florist.png" id="146_Benevolent Florist" data-flag="@X" onclick="openSidebar('146_Benevolent Florist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\10_Encore.png" id="10_Encore" data-flag="@X" onclick="openSidebar('10_Encore',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\46_The Flourishing.png" id="46_The Flourishing" data-flag="@X" onclick="openSidebar('46_The Flourishing',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\80_Dishearten.png" id="80_Dishearten" data-flag="@X" onclick="openSidebar('80_Dishearten',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\123_Impassioned Singer_back.png" alt="/sets\MVX-files\img\123_Impassioned Singer_front.png" id="123_Impassioned Singer" data-flag="@XD" onclick="openSidebar('123_Impassioned Singer',false)"><button class="flip-btn" onclick="imgFlip('123_Impassioned Singer')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\153_Cost of Perfection.png" id="153_Cost of Perfection" data-flag="@X" onclick="openSidebar('153_Cost of Perfection',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\12_Fine Diner.png" id="12_Fine Diner" data-flag="@X" onclick="openSidebar('12_Fine Diner',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\50_Gustbrook Library.png" id="50_Gustbrook Library" data-flag="@X" onclick="openSidebar('50_Gustbrook Library',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\82_Dour Chorister_back.png" alt="/sets\MVX-files\img\82_Dour Chorister_front.png" id="82_Dour Chorister" data-flag="@XD" onclick="openSidebar('82_Dour Chorister',false)"><button class="flip-btn" onclick="imgFlip('82_Dour Chorister')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\130_Merrymaker.png" id="130_Merrymaker" data-flag="@X" onclick="openSidebar('130_Merrymaker',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\156_The Founding of the City.png" id="156_The Founding of the City" data-flag="@X" onclick="openSidebar('156_The Founding of the City',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\14_Gnomish Tinkerer.png" id="14_Gnomish Tinkerer" data-flag="@X" onclick="openSidebar('14_Gnomish Tinkerer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\54_Keeper of the Archives.png" id="54_Keeper of the Archives" data-flag="@X" onclick="openSidebar('54_Keeper of the Archives',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\84_Enraged Essayist.png" id="84_Enraged Essayist" data-flag="@X" onclick="openSidebar('84_Enraged Essayist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\132_The Rejection of the Monarchy.png" id="132_The Rejection of the Monarchy" data-flag="@X" onclick="openSidebar('132_The Rejection of the Monarchy',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\163_Kitty Connoisseur.png" id="163_Kitty Connoisseur" data-flag="@X" onclick="openSidebar('163_Kitty Connoisseur',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\21_Parts Picker.png" id="21_Parts Picker" data-flag="@X" onclick="openSidebar('21_Parts Picker',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\60_Redesign.png" id="60_Redesign" data-flag="@X" onclick="openSidebar('60_Redesign',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\96_Operahouse Headliner.png" id="96_Operahouse Headliner" data-flag="@X" onclick="openSidebar('96_Operahouse Headliner',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\133_Reptilian Rhymester.png" id="133_Reptilian Rhymester" data-flag="@X" onclick="openSidebar('133_Reptilian Rhymester',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\167_Skilled Sous-Chef.png" id="167_Skilled Sous-Chef" data-flag="@X" onclick="openSidebar('167_Skilled Sous-Chef',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\30_Spirit of the Opera.png" id="30_Spirit of the Opera" data-flag="@X" onclick="openSidebar('30_Spirit of the Opera',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\63_Skillful Landscapist_back.png" alt="/sets\MVX-files\img\63_Skillful Landscapist_front.png" id="63_Skillful Landscapist" data-flag="@XD" onclick="openSidebar('63_Skillful Landscapist',false)"><button class="flip-btn" onclick="imgFlip('63_Skillful Landscapist')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\98_Petite Patissier.png" id="98_Petite Patissier" data-flag="@X" onclick="openSidebar('98_Petite Patissier',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\136_Sparks of Invention.png" id="136_Sparks of Invention" data-flag="@X" onclick="openSidebar('136_Sparks of Invention',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\170_Stew Stirrer_back.png" alt="/sets\MVX-files\img\170_Stew Stirrer_front.png" id="170_Stew Stirrer" data-flag="@XD" onclick="openSidebar('170_Stew Stirrer',false)"><button class="flip-btn" onclick="imgFlip('170_Stew Stirrer')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\32_Sunstreet Clocktower.png" id="32_Sunstreet Clocktower" data-flag="@X" onclick="openSidebar('32_Sunstreet Clocktower',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\66_Songcrafting.png" id="66_Songcrafting" data-flag="@X" onclick="openSidebar('66_Songcrafting',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\101_Second Showing.png" id="101_Second Showing" data-flag="@X" onclick="openSidebar('101_Second Showing',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\138_Stunning Soprano.png" id="138_Stunning Soprano" data-flag="@X" onclick="openSidebar('138_Stunning Soprano',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\173_Tend the Garden.png" id="173_Tend the Garden" data-flag="@X" onclick="openSidebar('173_Tend the Garden',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\35_Worksite Visionary.png" id="35_Worksite Visionary" data-flag="@X" onclick="openSidebar('35_Worksite Visionary',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\68_Spectral Scribe.png" id="68_Spectral Scribe" data-flag="@X" onclick="openSidebar('68_Spectral Scribe',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\105_Witch of Forbidden Treats.png" id="105_Witch of Forbidden Treats" data-flag="@X" onclick="openSidebar('105_Witch of Forbidden Treats',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\140_Waxcrafter.png" id="140_Waxcrafter" data-flag="@X" onclick="openSidebar('140_Waxcrafter',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\175_Wolfsong.png" id="175_Wolfsong" data-flag="@X" onclick="openSidebar('175_Wolfsong',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\3_Cogwrench.png" id="3_Cogwrench" data-flag="@X" onclick="openSidebar('3_Cogwrench',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\36_Annul.png" id="36_Annul" data-flag="@X" onclick="openSidebar('36_Annul',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\71_Artistic Benefactor.png" id="71_Artistic Benefactor" data-flag="@X" onclick="openSidebar('71_Artistic Benefactor',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\109_Clash of Egos.png" id="109_Clash of Egos" data-flag="@X" onclick="openSidebar('109_Clash of Egos',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\142_Arboreal Artist.png" id="142_Arboreal Artist" data-flag="@X" onclick="openSidebar('142_Arboreal Artist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\4_Colossal Puppetry.png" id="4_Colossal Puppetry" data-flag="@X" onclick="openSidebar('4_Colossal Puppetry',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\37_Atelier Artisan.png" id="37_Atelier Artisan" data-flag="@X" onclick="openSidebar('37_Atelier Artisan',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\72_Aspiring Performer_back.png" alt="/sets\MVX-files\img\72_Aspiring Performer_front.png" id="72_Aspiring Performer" data-flag="@XD" onclick="openSidebar('72_Aspiring Performer',false)"><button class="flip-btn" onclick="imgFlip('72_Aspiring Performer')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\110_Deafening Duo.png" id="110_Deafening Duo" data-flag="@X" onclick="openSidebar('110_Deafening Duo',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\145_Belligerence.png" id="145_Belligerence" data-flag="@X" onclick="openSidebar('145_Belligerence',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\5_Congregation Aspirant.png" id="5_Congregation Aspirant" data-flag="@X" onclick="openSidebar('5_Congregation Aspirant',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\39_Blueprints.png" id="39_Blueprints" data-flag="@X" onclick="openSidebar('39_Blueprints',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\73_Avian Auteur.png" id="73_Avian Auteur" data-flag="@X" onclick="openSidebar('73_Avian Auteur',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\112_Dramatic Organ.png" id="112_Dramatic Organ" data-flag="@X" onclick="openSidebar('112_Dramatic Organ',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\147_Bite Down on Treats.png" id="147_Bite Down on Treats" data-flag="@X" onclick="openSidebar('147_Bite Down on Treats',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\6_Deride.png" id="6_Deride" data-flag="@X" onclick="openSidebar('6_Deride',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\40_Bookwyrm.png" id="40_Bookwyrm" data-flag="@X" onclick="openSidebar('40_Bookwyrm',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\75_Casting Call.png" id="75_Casting Call" data-flag="@X" onclick="openSidebar('75_Casting Call',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\114_Extravagant Channeler.png" id="114_Extravagant Channeler" data-flag="@X" onclick="openSidebar('114_Extravagant Channeler',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\149_Candied Colossus.png" id="149_Candied Colossus" data-flag="@X" onclick="openSidebar('149_Candied Colossus',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\7_Diligent Architect.png" id="7_Diligent Architect" data-flag="@X" onclick="openSidebar('7_Diligent Architect',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\41_Change Perspective.png" id="41_Change Perspective" data-flag="@X" onclick="openSidebar('41_Change Perspective',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\85_Exhausting Rehearsal.png" id="85_Exhausting Rehearsal" data-flag="@X" onclick="openSidebar('85_Exhausting Rehearsal',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\116_Fiery Setpiece.png" id="116_Fiery Setpiece" data-flag="@X" onclick="openSidebar('116_Fiery Setpiece',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\150_Cheerful Painter.png" id="150_Cheerful Painter" data-flag="@X" onclick="openSidebar('150_Cheerful Painter',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\11_Enraptured Watcher.png" id="11_Enraptured Watcher" data-flag="@X" onclick="openSidebar('11_Enraptured Watcher',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\43_Distracting Song.png" id="43_Distracting Song" data-flag="@X" onclick="openSidebar('43_Distracting Song',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\86_Fiendish Fromager.png" id="86_Fiendish Fromager" data-flag="@X" onclick="openSidebar('86_Fiendish Fromager',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\118_Forge Gnome.png" id="118_Forge Gnome" data-flag="@X" onclick="openSidebar('118_Forge Gnome',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\151_Colorful Rendition.png" id="151_Colorful Rendition" data-flag="@X" onclick="openSidebar('151_Colorful Rendition',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\13_Forgefire Spray.png" id="13_Forgefire Spray" data-flag="@X" onclick="openSidebar('13_Forgefire Spray',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\45_Fanciful Flier.png" id="45_Fanciful Flier" data-flag="@X" onclick="openSidebar('45_Fanciful Flier',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\90_Gustatorie Explorateur.png" id="90_Gustatorie Explorateur" data-flag="@X" onclick="openSidebar('90_Gustatorie Explorateur',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\119_Forgehammer.png" id="119_Forgehammer" data-flag="@X" onclick="openSidebar('119_Forgehammer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\152_Cookie Snatcher.png" id="152_Cookie Snatcher" data-flag="@X" onclick="openSidebar('152_Cookie Snatcher',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\15_Inspirational Performer.png" id="15_Inspirational Performer" data-flag="@X" onclick="openSidebar('15_Inspirational Performer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\47_Foundry Assistant.png" id="47_Foundry Assistant" data-flag="@X" onclick="openSidebar('47_Foundry Assistant',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\91_Highbrow Critic.png" id="91_Highbrow Critic" data-flag="@X" onclick="openSidebar('91_Highbrow Critic',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\120_Harbinger of Festivity.png" id="120_Harbinger of Festivity" data-flag="@X" onclick="openSidebar('120_Harbinger of Festivity',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\154_Farmstead Butcher.png" id="154_Farmstead Butcher" data-flag="@X" onclick="openSidebar('154_Farmstead Butcher',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\17_Keen Guardcog_back.png" alt="/sets\MVX-files\img\17_Keen Guardcog_front.png" id="17_Keen Guardcog" data-flag="@XD" onclick="openSidebar('17_Keen Guardcog',false)"><button class="flip-btn" onclick="imgFlip('17_Keen Guardcog')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\49_Gobsmack.png" id="49_Gobsmack" data-flag="@X" onclick="openSidebar('49_Gobsmack',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\92_Macabre Prop.png" id="92_Macabre Prop" data-flag="@X" onclick="openSidebar('92_Macabre Prop',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\124_Inspiring Melody.png" id="124_Inspiring Melody" data-flag="@X" onclick="openSidebar('124_Inspiring Melody',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\157_Garden Guardian.png" id="157_Garden Guardian" data-flag="@X" onclick="openSidebar('157_Garden Guardian',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\18_Lunch Rush.png" id="18_Lunch Rush" data-flag="@X" onclick="openSidebar('18_Lunch Rush',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\51_Haunting Lullaby.png" id="51_Haunting Lullaby" data-flag="@X" onclick="openSidebar('51_Haunting Lullaby',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\94_Moment of Craving.png" id="94_Moment of Craving" data-flag="@X" onclick="openSidebar('94_Moment of Craving',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\126_Ironstreet Welders.png" id="126_Ironstreet Welders" data-flag="@X" onclick="openSidebar('126_Ironstreet Welders',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\158_Gorge on Snacks.png" id="158_Gorge on Snacks" data-flag="@X" onclick="openSidebar('158_Gorge on Snacks',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\20_Moonridge Tailors.png" id="20_Moonridge Tailors" data-flag="@X" onclick="openSidebar('20_Moonridge Tailors',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\55_Mechanical Strix.png" id="55_Mechanical Strix" data-flag="@X" onclick="openSidebar('55_Mechanical Strix',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\95_Motivation Sapper.png" id="95_Motivation Sapper" data-flag="@X" onclick="openSidebar('95_Motivation Sapper',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\127_Jaunty Tune.png" id="127_Jaunty Tune" data-flag="@X" onclick="openSidebar('127_Jaunty Tune',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\159_Green Thumbed Growth.png" id="159_Green Thumbed Growth" data-flag="@X" onclick="openSidebar('159_Green Thumbed Growth',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\22_Rebuild from Scratch.png" id="22_Rebuild from Scratch" data-flag="@X" onclick="openSidebar('22_Rebuild from Scratch',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\58_Prevent Catastrophe.png" id="58_Prevent Catastrophe" data-flag="@X" onclick="openSidebar('58_Prevent Catastrophe',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\97_Overworked.png" id="97_Overworked" data-flag="@X" onclick="openSidebar('97_Overworked',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\128_Leading Lady.png" id="128_Leading Lady" data-flag="@X" onclick="openSidebar('128_Leading Lady',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\160_Greenpark Strummer.png" id="160_Greenpark Strummer" data-flag="@X" onclick="openSidebar('160_Greenpark Strummer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\23_Rushed Production.png" id="23_Rushed Production" data-flag="@X" onclick="openSidebar('23_Rushed Production',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\59_Prolific Novelist_back.png" alt="/sets\MVX-files\img\59_Prolific Novelist_front.png" id="59_Prolific Novelist" data-flag="@XD" onclick="openSidebar('59_Prolific Novelist',false)"><button class="flip-btn" onclick="imgFlip('59_Prolific Novelist')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\99_Pompous Thespian.png" id="99_Pompous Thespian" data-flag="@X" onclick="openSidebar('99_Pompous Thespian',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\129_Merry Troubadour.png" id="129_Merry Troubadour" data-flag="@X" onclick="openSidebar('129_Merry Troubadour',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\161_Gustatorie Tastemaker_back.png" alt="/sets\MVX-files\img\161_Gustatorie Tastemaker_front.png" id="161_Gustatorie Tastemaker" data-flag="@XD" onclick="openSidebar('161_Gustatorie Tastemaker',false)"><button class="flip-btn" onclick="imgFlip('161_Gustatorie Tastemaker')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\25_Season to Perfection.png" id="25_Season to Perfection" data-flag="@X" onclick="openSidebar('25_Season to Perfection',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\61_Rousing Read.png" id="61_Rousing Read" data-flag="@X" onclick="openSidebar('61_Rousing Read',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\100_Sate the Critics.png" id="100_Sate the Critics" data-flag="@X" onclick="openSidebar('100_Sate the Critics',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\134_Rooftop Rapscallion.png" id="134_Rooftop Rapscallion" data-flag="@X" onclick="openSidebar('134_Rooftop Rapscallion',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\162_Inspired Reader.png" id="162_Inspired Reader" data-flag="@X" onclick="openSidebar('162_Inspired Reader',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\26_Skystone Gargoyle.png" id="26_Skystone Gargoyle" data-flag="@X" onclick="openSidebar('26_Skystone Gargoyle',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\64_Slinking Scribbler.png" id="64_Slinking Scribbler" data-flag="@X" onclick="openSidebar('64_Slinking Scribbler',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\102_Stage Double.png" id="102_Stage Double" data-flag="@X" onclick="openSidebar('102_Stage Double',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\135_See the Sights.png" id="135_See the Sights" data-flag="@X" onclick="openSidebar('135_See the Sights',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\164_Natural Harmony.png" id="164_Natural Harmony" data-flag="@X" onclick="openSidebar('164_Natural Harmony',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\28_Skystone Seraph.png" id="28_Skystone Seraph" data-flag="@X" onclick="openSidebar('28_Skystone Seraph',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\69_Storybook Serpent.png" id="69_Storybook Serpent" data-flag="@X" onclick="openSidebar('69_Storybook Serpent',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\103_Understudy.png" id="103_Understudy" data-flag="@X" onclick="openSidebar('103_Understudy',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\137_Spit Fire.png" id="137_Spit Fire" data-flag="@X" onclick="openSidebar('137_Spit Fire',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\169_Spoil the Broth.png" id="169_Spoil the Broth" data-flag="@X" onclick="openSidebar('169_Spoil the Broth',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\29_Soup Elemental.png" id="29_Soup Elemental" data-flag="@X" onclick="openSidebar('29_Soup Elemental',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\70_Tragic Soloist.png" id="70_Tragic Soloist" data-flag="@X" onclick="openSidebar('70_Tragic Soloist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\104_Vamp.png" id="104_Vamp" data-flag="@X" onclick="openSidebar('104_Vamp',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\139_Tavern Reveler_back.png" alt="/sets\MVX-files\img\139_Tavern Reveler_front.png" id="139_Tavern Reveler" data-flag="@XD" onclick="openSidebar('139_Tavern Reveler',false)"><button class="flip-btn" onclick="imgFlip('139_Tavern Reveler')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\172_Tavern Talesmith.png" id="172_Tavern Talesmith" data-flag="@X" onclick="openSidebar('172_Tavern Talesmith',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="gold" class="anchor"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\213_Lyon, Aged Inventor.png" id="213_Lyon, Aged Inventor" data-flag="@X" onclick="openSidebar('213_Lyon, Aged Inventor',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\193_Esteemed Author Davriel Cane.png" id="193_Esteemed Author Davriel Cane" data-flag="@X" onclick="openSidebar('193_Esteemed Author Davriel Cane',false)"></div>
-			<div class="container"><img data-alt_src="/sets\MVX-files\img\226_Roland, Second Fiddle_back.png" alt="/sets\MVX-files\img\226_Roland, Second Fiddle_front.png" id="226_Roland, Second Fiddle" data-flag="@XD" onclick="openSidebar('226_Roland, Second Fiddle',false)"><button class="flip-btn" onclick="imgFlip('226_Roland, Second Fiddle')"></button></div>
-			<div class="container"><img alt="/sets\MVX-files\img\192_Elaphia, Full of Wonder.png" id="192_Elaphia, Full of Wonder" data-flag="@X" onclick="openSidebar('192_Elaphia, Full of Wonder',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\222_Pascal, Critics' Favorite.png" id="222_Pascal, Critics Favorite" data-flag="@X" onclick="openSidebar('222_Pascal, Critics Favorite',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\188_Concordia, Angel of Glass.png" id="188_Concordia, Angel of Glass" data-flag="@X" onclick="openSidebar('188_Concordia, Angel of Glass',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\182_Belphegor, Infernal Publisher.png" id="182_Belphegor, Infernal Publisher" data-flag="@X" onclick="openSidebar('182_Belphegor, Infernal Publisher',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\242_Velda, Opera Diva.png" id="242_Velda, Opera Diva" data-flag="@X" onclick="openSidebar('242_Velda, Opera Diva',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\191_Diego, Slam Poet.png" id="191_Diego, Slam Poet" data-flag="@X" onclick="openSidebar('191_Diego, Slam Poet',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\238_Sylvie, Garden Tender.png" id="238_Sylvie, Garden Tender" data-flag="@X" onclick="openSidebar('238_Sylvie, Garden Tender',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\187_Cogturn Laboratory.png" id="187_Cogturn Laboratory" data-flag="@X" onclick="openSidebar('187_Cogturn Laboratory',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\246_Writer's Desk.png" id="246_Writers Desk" data-flag="@X" onclick="openSidebar('246_Writers Desk',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\227_Roland's Solo.png" id="227_Rolands Solo" data-flag="@X" onclick="openSidebar('227_Rolands Solo',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\219_Oft-Told Tales.png" id="219_Oft-Told Tales" data-flag="@X" onclick="openSidebar('219_Oft-Told Tales',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\186_Chicken Coop.png" id="186_Chicken Coop" data-flag="@X" onclick="openSidebar('186_Chicken Coop',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\214_Lyon's Contemplation.png" id="214_Lyons Contemplation" data-flag="@X" onclick="openSidebar('214_Lyons Contemplation',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\184_Break from Stress.png" id="184_Break from Stress" data-flag="@X" onclick="openSidebar('184_Break from Stress',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\212_Lament.png" id="212_Lament" data-flag="@X" onclick="openSidebar('212_Lament',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\231_Show of Strength.png" id="231_Show of Strength" data-flag="@X" onclick="openSidebar('231_Show of Strength',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\204_Gustatorie Mixer.png" id="204_Gustatorie Mixer" data-flag="@X" onclick="openSidebar('204_Gustatorie Mixer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\185_Castleway Crane.png" id="185_Castleway Crane" data-flag="@X" onclick="openSidebar('185_Castleway Crane',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\197_Forlorn Author.png" id="197_Forlorn Author" data-flag="@X" onclick="openSidebar('197_Forlorn Author',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\183_Bombastic Performance.png" id="183_Bombastic Performance" data-flag="@X" onclick="openSidebar('183_Bombastic Performance',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\196_Flamethumper.png" id="196_Flamethumper" data-flag="@X" onclick="openSidebar('196_Flamethumper',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\229_Secret Ingredients.png" id="229_Secret Ingredients" data-flag="@X" onclick="openSidebar('229_Secret Ingredients',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\215_Meticulous Sculptor.png" id="215_Meticulous Sculptor" data-flag="@X" onclick="openSidebar('215_Meticulous Sculptor',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\245_Wicked Wordsmith.png" id="245_Wicked Wordsmith" data-flag="@X" onclick="openSidebar('245_Wicked Wordsmith',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\232_Soliloquist.png" id="232_Soliloquist" data-flag="@X" onclick="openSidebar('232_Soliloquist',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\220_Opening Act.png" id="220_Opening Act" data-flag="@X" onclick="openSidebar('220_Opening Act',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\240_Turnip Trimmer.png" id="240_Turnip Trimmer" data-flag="@X" onclick="openSidebar('240_Turnip Trimmer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\254_Parapet Percher.png" id="254_Parapet Percher" data-flag="@X" onclick="openSidebar('254_Parapet Percher',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\253_Paper Familiars.png" id="253_Paper Familiars" data-flag="@X" onclick="openSidebar('253_Paper Familiars',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\249_Footlight Fiend.png" id="249_Footlight Fiend" data-flag="@X" onclick="openSidebar('249_Footlight Fiend',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\256_Tear Through.png" id="256_Tear Through" data-flag="@X" onclick="openSidebar('256_Tear Through',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\255_Pudding Cat.png" id="255_Pudding Cat" data-flag="@X" onclick="openSidebar('255_Pudding Cat',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\209_Jacques, Harsh Conductor.png" id="209_Jacques, Harsh Conductor" data-flag="@X" onclick="openSidebar('209_Jacques, Harsh Conductor',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\216_Michel, Strummer of Heartstrings.png" id="216_Michel, Strummer of Heartstrings" data-flag="@X" onclick="openSidebar('216_Michel, Strummer of Heartstrings',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\230_Severin, Kitchen Tyrant.png" id="230_Severin, Kitchen Tyrant" data-flag="@X" onclick="openSidebar('230_Severin, Kitchen Tyrant',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\217_Niels, Cogmaster.png" id="217_Niels, Cogmaster" data-flag="@X" onclick="openSidebar('217_Niels, Cogmaster',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\218_Odette L'or, Fickle Painter.png" id="218_Odette Lor, Fickle Painter" data-flag="@X" onclick="openSidebar('218_Odette Lor, Fickle Painter',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\211_La Chaconne de Soupir No 3.png" id="211_La Chaconne de Soupir No 3" data-flag="@X" onclick="openSidebar('211_La Chaconne de Soupir No 3',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\181_The Bardenmoot.png" id="181_The Bardenmoot" data-flag="@X" onclick="openSidebar('181_The Bardenmoot',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\199_Frymaster's Pan.png" id="199_Frymasters Pan" data-flag="@X" onclick="openSidebar('199_Frymasters Pan',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\228_Scrapsmelt Foundry.png" id="228_Scrapsmelt Foundry" data-flag="@X" onclick="openSidebar('228_Scrapsmelt Foundry',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\235_Starlit Horizons.png" id="235_Starlit Horizons" data-flag="@X" onclick="openSidebar('235_Starlit Horizons',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\195_Festival Puppeteer.png" id="195_Festival Puppeteer" data-flag="@X" onclick="openSidebar('195_Festival Puppeteer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\237_Stormsinger.png" id="237_Stormsinger" data-flag="@X" onclick="openSidebar('237_Stormsinger',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\236_Stew.png" id="236_Stew" data-flag="@X" onclick="openSidebar('236_Stew',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\180_Avian Augmenteers.png" id="180_Avian Augmenteers" data-flag="@X" onclick="openSidebar('180_Avian Augmenteers',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\207_Inkblot Familiar.png" id="207_Inkblot Familiar" data-flag="@X" onclick="openSidebar('207_Inkblot Familiar',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\190_Dancing Troupe.png" id="190_Dancing Troupe" data-flag="@X" onclick="openSidebar('190_Dancing Troupe',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\201_The Grand Festival.png" id="201_The Grand Festival" data-flag="@X" onclick="openSidebar('201_The Grand Festival',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\198_Free-Range Foraging.png" id="198_Free-Range Foraging" data-flag="@X" onclick="openSidebar('198_Free-Range Foraging',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\200_Gemcrafter.png" id="200_Gemcrafter" data-flag="@X" onclick="openSidebar('200_Gemcrafter',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\203_Grow from Instruction.png" id="203_Grow from Instruction" data-flag="@X" onclick="openSidebar('203_Grow from Instruction',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\224_Profane Performer.png" id="224_Profane Performer" data-flag="@X" onclick="openSidebar('224_Profane Performer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\241_Valiant Versemaker.png" id="241_Valiant Versemaker" data-flag="@X" onclick="openSidebar('241_Valiant Versemaker',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\244_Wandering Connoisseur.png" id="244_Wandering Connoisseur" data-flag="@X" onclick="openSidebar('244_Wandering Connoisseur',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\208_Ironflow Forge.png" id="208_Ironflow Forge" data-flag="@X" onclick="openSidebar('208_Ironflow Forge',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\205_Hunt for Inspiration.png" id="205_Hunt for Inspiration" data-flag="@X" onclick="openSidebar('205_Hunt for Inspiration',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\252_Operahouse Gossip.png" id="252_Operahouse Gossip" data-flag="@X" onclick="openSidebar('252_Operahouse Gossip',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\247_Bardic Historian.png" id="247_Bardic Historian" data-flag="@X" onclick="openSidebar('247_Bardic Historian',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\248_Blase Cuisinier.png" id="248_Blase Cuisinier" data-flag="@X" onclick="openSidebar('248_Blase Cuisinier',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\251_Mechanical Racer.png" id="251_Mechanical Racer" data-flag="@X" onclick="openSidebar('251_Mechanical Racer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\250_Inspiring Walk.png" id="250_Inspiring Walk" data-flag="@X" onclick="openSidebar('250_Inspiring Walk',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\202_Grand Overture.png" id="202_Grand Overture" data-flag="@X" onclick="openSidebar('202_Grand Overture',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\233_Song of Creation.png" id="233_Song of Creation" data-flag="@X" onclick="openSidebar('233_Song of Creation',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\177_Ambrosian Tower.png" id="177_Ambrosian Tower" data-flag="@X" onclick="openSidebar('177_Ambrosian Tower',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\176_Alabaster Guardian.png" id="176_Alabaster Guardian" data-flag="@X" onclick="openSidebar('176_Alabaster Guardian',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\194_Far-off Places.png" id="194_Far-off Places" data-flag="@X" onclick="openSidebar('194_Far-off Places',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\210_Knockout Performance.png" id="210_Knockout Performance" data-flag="@X" onclick="openSidebar('210_Knockout Performance',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\206_Hymn to the Wilds.png" id="206_Hymn to the Wilds" data-flag="@X" onclick="openSidebar('206_Hymn to the Wilds',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\178_Ancestral Guidance.png" id="178_Ancestral Guidance" data-flag="@X" onclick="openSidebar('178_Ancestral Guidance',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\223_Plan by Committee.png" id="223_Plan by Committee" data-flag="@X" onclick="openSidebar('223_Plan by Committee',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\225_Reconceptualize.png" id="225_Reconceptualize" data-flag="@X" onclick="openSidebar('225_Reconceptualize',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\243_Vicious Animancer.png" id="243_Vicious Animancer" data-flag="@X" onclick="openSidebar('243_Vicious Animancer',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\221_Partners in Rhyme.png" id="221_Partners in Rhyme" data-flag="@X" onclick="openSidebar('221_Partners in Rhyme',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\239_Teatime Two.png" id="239_Teatime Two" data-flag="@X" onclick="openSidebar('239_Teatime Two',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\234_Stained Glass Sentinel.png" id="234_Stained Glass Sentinel" data-flag="@X" onclick="openSidebar('234_Stained Glass Sentinel',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\179_Angel of Iteration.png" id="179_Angel of Iteration" data-flag="@X" onclick="openSidebar('179_Angel of Iteration',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\189_Creativity.png" id="189_Creativity" data-flag="@X" onclick="openSidebar('189_Creativity',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="colorless" class="anchor"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\264_Ingenuity.png" id="264_Ingenuity" data-flag="@X" onclick="openSidebar('264_Ingenuity',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\258_Chromatic Lantern.png" id="258_Chromatic Lantern" data-flag="@X" onclick="openSidebar('258_Chromatic Lantern',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\259_Conceptual Orrery.png" id="259_Conceptual Orrery" data-flag="@X" onclick="openSidebar('259_Conceptual Orrery',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\260_Constructed Whelp.png" id="260_Constructed Whelp" data-flag="@X" onclick="openSidebar('260_Constructed Whelp',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\262_Flute of Harmony.png" id="262_Flute of Harmony" data-flag="@X" onclick="openSidebar('262_Flute of Harmony',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\265_Inkbottle.png" id="265_Inkbottle" data-flag="@X" onclick="openSidebar('265_Inkbottle',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\269_Stonework Behemoth.png" id="269_Stonework Behemoth" data-flag="@X" onclick="openSidebar('269_Stonework Behemoth',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\270_Trash-eater Gnome.png" id="270_Trash-eater Gnome" data-flag="@X" onclick="openSidebar('270_Trash-eater Gnome',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\257_Cartographer's Eyes.png" id="257_Cartographers Eyes" data-flag="@X" onclick="openSidebar('257_Cartographers Eyes',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\261_Fencer's Foil.png" id="261_Fencers Foil" data-flag="@X" onclick="openSidebar('261_Fencers Foil',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\263_Gnomestack.png" id="263_Gnomestack" data-flag="@X" onclick="openSidebar('263_Gnomestack',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\266_Librarian's Assistant.png" id="266_Librarians Assistant" data-flag="@X" onclick="openSidebar('266_Librarians Assistant',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\267_Prophetic Prism.png" id="267_Prophetic Prism" data-flag="@X" onclick="openSidebar('267_Prophetic Prism',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\268_Rancid Meal.png" id="268_Rancid Meal" data-flag="@X" onclick="openSidebar('268_Rancid Meal',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\283_Serene Museum.png" id="283_Serene Museum" data-flag="@X" onclick="openSidebar('283_Serene Museum',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\277_Hushed Library.png" id="277_Hushed Library" data-flag="@X" onclick="openSidebar('277_Hushed Library',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\274_Charming Playhouse.png" id="274_Charming Playhouse" data-flag="@X" onclick="openSidebar('274_Charming Playhouse',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\280_Orator's Forum.png" id="280_Orators Forum" data-flag="@X" onclick="openSidebar('280_Orators Forum',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\271_Abundant Garden.png" id="271_Abundant Garden" data-flag="@X" onclick="openSidebar('271_Abundant Garden',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\279_Muted Auditorium.png" id="279_Muted Auditorium" data-flag="@X" onclick="openSidebar('279_Muted Auditorium',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\278_Lively Tavern.png" id="278_Lively Tavern" data-flag="@X" onclick="openSidebar('278_Lively Tavern',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\282_Seedy Kitchen.png" id="282_Seedy Kitchen" data-flag="@X" onclick="openSidebar('282_Seedy Kitchen',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\272_Artificer's Workshop.png" id="272_Artificers Workshop" data-flag="@X" onclick="openSidebar('272_Artificers Workshop',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\281_Painter's Studio.png" id="281_Painters Studio" data-flag="@X" onclick="openSidebar('281_Painters Studio',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\273_Back-Alley Theatre.png" id="273_Back-Alley Theatre" data-flag="@X" onclick="openSidebar('273_Back-Alley Theatre',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\275_Delightful Patisserie.png" id="275_Delightful Patisserie" data-flag="@X" onclick="openSidebar('275_Delightful Patisserie',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\276_Discreet Gallery.png" id="276_Discreet Gallery" data-flag="@X" onclick="openSidebar('276_Discreet Gallery',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\284_Sunlit Park.png" id="284_Sunlit Park" data-flag="@X" onclick="openSidebar('284_Sunlit Park',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\285_Vibrant Concourse.png" id="285_Vibrant Concourse" data-flag="@X" onclick="openSidebar('285_Vibrant Concourse',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\1_PROMO Back-Alley Theatre.png" id="1_PROMO Back-Alley Theatre" data-flag="@X" onclick="openSidebar('1_PROMO Back-Alley Theatre',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\2_PROMO Delightful Patisserie.png" id="2_PROMO Delightful Patisserie" data-flag="@X" onclick="openSidebar('2_PROMO Delightful Patisserie',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\3_PROMO Discreet Gallery.png" id="3_PROMO Discreet Gallery" data-flag="@X" onclick="openSidebar('3_PROMO Discreet Gallery',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\8_PROMO Sunlit Park.png" id="8_PROMO Sunlit Park" data-flag="@X" onclick="openSidebar('8_PROMO Sunlit Park',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\10_PROMO Vibrant Concourse.png" id="10_PROMO Vibrant Concourse" data-flag="@X" onclick="openSidebar('10_PROMO Vibrant Concourse',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\290_Forest MVX.png" id="290_Forest MVX" data-flag="@X" onclick="openSidebar('290_Forest MVX',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\287_Island MVX.png" id="287_Island MVX" data-flag="@X" onclick="openSidebar('287_Island MVX',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\286_Plains MVX.png" id="286_Plains MVX" data-flag="@X" onclick="openSidebar('286_Plains MVX',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\288_Swamp MVX.png" id="288_Swamp MVX" data-flag="@X" onclick="openSidebar('288_Swamp MVX',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\289_Mountain MVX.png" id="289_Mountain MVX" data-flag="@X" onclick="openSidebar('289_Mountain MVX',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\9_PROMO Swamp.png" id="9_PROMO Swamp" data-flag="@X" onclick="openSidebar('9_PROMO Swamp',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\7_PROMO Plains.png" id="7_PROMO Plains" data-flag="@X" onclick="openSidebar('7_PROMO Plains',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\6_PROMO Mountain.png" id="6_PROMO Mountain" data-flag="@X" onclick="openSidebar('6_PROMO Mountain',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\5_PROMO Island.png" id="5_PROMO Island" data-flag="@X" onclick="openSidebar('5_PROMO Island',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\4_PROMO Forest.png" id="4_PROMO Forest" data-flag="@X" onclick="openSidebar('4_PROMO Forest',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="token" class="anchor"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\1t_MVX DRAFT ARCHETYPES.png" id="1t_MVX DRAFT ARCHETYPES" data-flag="@X" onclick="openSidebar('1t_MVX DRAFT ARCHETYPES',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\11t_Chisel.png" id="11t_Chisel" data-flag="@X" onclick="openSidebar('11t_Chisel',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\12t_Construct.png" id="12t_Construct" data-flag="@X" onclick="openSidebar('12t_Construct',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\13t_Copy.png" id="13t_Copy" data-flag="@X" onclick="openSidebar('13t_Copy',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\14t_Dog.png" id="14t_Dog" data-flag="@X" onclick="openSidebar('14t_Dog',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\15t_Food.png" id="15t_Food" data-flag="@X" onclick="openSidebar('15t_Food',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\16t_Gnome.png" id="16t_Gnome" data-flag="@X" onclick="openSidebar('16t_Gnome',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\17t_Sculpture.png" id="17t_Sculpture" data-flag="@X" onclick="openSidebar('17t_Sculpture',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\18t_Thopter.png" id="18t_Thopter" data-flag="@X" onclick="openSidebar('18t_Thopter',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\19t_Treasure.png" id="19t_Treasure" data-flag="@X" onclick="openSidebar('19t_Treasure',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\20t_Vehicle.png" id="20t_Vehicle" data-flag="@X" onclick="openSidebar('20t_Vehicle',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\21t_Forest Plains.png" id="21t_Forest Plains" data-flag="@X" onclick="openSidebar('21t_Forest Plains',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\2t_Bird.png" id="2t_Bird" data-flag="@X" onclick="openSidebar('2t_Bird',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\3t_Illusion.png" id="3t_Illusion" data-flag="@X" onclick="openSidebar('3t_Illusion',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\4t_Inkling.png" id="4t_Inkling" data-flag="@X" onclick="openSidebar('4t_Inkling',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\5t_Vampire Actor.png" id="5t_Vampire Actor" data-flag="@X" onclick="openSidebar('5t_Vampire Actor',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\6t_Bard.png" id="6t_Bard" data-flag="@X" onclick="openSidebar('6t_Bard',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\7t_Elemental.png" id="7t_Elemental" data-flag="@X" onclick="openSidebar('7t_Elemental',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\8t_Spirit Elemental.png" id="8t_Spirit Elemental" data-flag="@X" onclick="openSidebar('8t_Spirit Elemental',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\9t_Boar.png" id="9t_Boar" data-flag="@X" onclick="openSidebar('9t_Boar',false)"></div>
-			<div class="container"><img alt="/sets\MVX-files\img\10t_Plant.png" id="10t_Plant" data-flag="@X" onclick="openSidebar('10t_Plant',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img data-alt_src="/sets\MVX-files\img\16_Isabella, City Builder_back.png" alt="/sets\MVX-files\img\16_Isabella, City Builder_front.png" id="16_Isabella, City Builder" data-flag="@XD" onclick="openSidebar('16_Isabella, City Builder',false)"><button class="flip-btn" onclick="imgFlip('16_Isabella, City Builder')"></button></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\56_Nicola, Inspired Artist_back.png" alt="/sets\MVX-files\img\56_Nicola, Inspired Artist_front.png" id="56_Nicola, Inspired Artist" data-flag="@XD" onclick="openSidebar('56_Nicola, Inspired Artist',false)"><button class="flip-btn" onclick="imgFlip('56_Nicola, Inspired Artist')"></button></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\93_Marquis Vaasco de Moraes_back.png" alt="/sets\MVX-files\img\93_Marquis Vaasco de Moraes_front.png" id="93_Marquis Vaasco de Moraes" data-flag="@XD" onclick="openSidebar('93_Marquis Vaasco de Moraes',false)"><button class="flip-btn" onclick="imgFlip('93_Marquis Vaasco de Moraes')"></button></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\108_Brasio, Bardic Chronicler_back.png" alt="/sets\MVX-files\img\108_Brasio, Bardic Chronicler_front.png" id="108_Brasio, Bardic Chronicler" data-flag="@XD" onclick="openSidebar('108_Brasio, Bardic Chronicler',false)"><button class="flip-btn" onclick="imgFlip('108_Brasio, Bardic Chronicler')"></button></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\141_Antoine, Chef Extraordinaire_back.png" alt="/sets\MVX-files\img\141_Antoine, Chef Extraordinaire_front.png" id="141_Antoine, Chef Extraordinaire" data-flag="@XD" onclick="openSidebar('141_Antoine, Chef Extraordinaire',false)"><button class="flip-btn" onclick="imgFlip('141_Antoine, Chef Extraordinaire')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\19_Monument to Ascension.png" id="19_Monument to Ascension" data-flag="@X" onclick="openSidebar('19_Monument to Ascension',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\57_Preserve the Moment.png" id="57_Preserve the Moment" data-flag="@X" onclick="openSidebar('57_Preserve the Moment',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\83_Dramatis Personae.png" id="83_Dramatis Personae" data-flag="@X" onclick="openSidebar('83_Dramatis Personae',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\122_Hearthsong.png" id="122_Hearthsong" data-flag="@X" onclick="openSidebar('122_Hearthsong',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\168_Soup Serpent.png" id="168_Soup Serpent" data-flag="@X" onclick="openSidebar('168_Soup Serpent',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\1_Balcony Chanteur.png" id="1_Balcony Chanteur" data-flag="@X" onclick="openSidebar('1_Balcony Chanteur',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\48_Gleeful Amateur.png" id="48_Gleeful Amateur" data-flag="@X" onclick="openSidebar('48_Gleeful Amateur',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\76_Chorus Machine.png" id="76_Chorus Machine" data-flag="@X" onclick="openSidebar('76_Chorus Machine',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\106_Animancy.png" id="106_Animancy" data-flag="@X" onclick="openSidebar('106_Animancy',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\148_Body of Literature.png" id="148_Body of Literature" data-flag="@X" onclick="openSidebar('148_Body of Literature',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\24_Sauce Flinger.png" id="24_Sauce Flinger" data-flag="@X" onclick="openSidebar('24_Sauce Flinger',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\52_Houndcrafter Savant.png" id="52_Houndcrafter Savant" data-flag="@X" onclick="openSidebar('52_Houndcrafter Savant',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\78_Davriel's Bargain.png" id="78_Davriels Bargain" data-flag="@X" onclick="openSidebar('78_Davriels Bargain',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\113_Elven Glassblower.png" id="113_Elven Glassblower" data-flag="@X" onclick="openSidebar('113_Elven Glassblower',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\155_Food Flood.png" id="155_Food Flood" data-flag="@X" onclick="openSidebar('155_Food Flood',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\27_Skystone Sculptory.png" id="27_Skystone Sculptory" data-flag="@X" onclick="openSidebar('27_Skystone Sculptory',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\53_Inkshaping.png" id="53_Inkshaping" data-flag="@X" onclick="openSidebar('53_Inkshaping',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\81_Diviner of the Dessert.png" id="81_Diviner of the Dessert" data-flag="@X" onclick="openSidebar('81_Diviner of the Dessert',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\115_Festival Revelry.png" id="115_Festival Revelry" data-flag="@X" onclick="openSidebar('115_Festival Revelry',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\165_Parkland Flautist.png" id="165_Parkland Flautist" data-flag="@X" onclick="openSidebar('165_Parkland Flautist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\31_Stage Fright.png" id="31_Stage Fright" data-flag="@X" onclick="openSidebar('31_Stage Fright',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\62_Serenade.png" id="62_Serenade" data-flag="@X" onclick="openSidebar('62_Serenade',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\87_First Chair Violinist.png" id="87_First Chair Violinist" data-flag="@X" onclick="openSidebar('87_First Chair Violinist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\117_Flamesweeper.png" id="117_Flamesweeper" data-flag="@X" onclick="openSidebar('117_Flamesweeper',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\166_Retrospection.png" id="166_Retrospection" data-flag="@X" onclick="openSidebar('166_Retrospection',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\33_Tidy Up.png" id="33_Tidy Up" data-flag="@X" onclick="openSidebar('33_Tidy Up',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\65_Solid Fundamentals.png" id="65_Solid Fundamentals" data-flag="@X" onclick="openSidebar('65_Solid Fundamentals',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\88_Gallery Curator.png" id="88_Gallery Curator" data-flag="@X" onclick="openSidebar('88_Gallery Curator',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\125_Invocation of Creativity.png" id="125_Invocation of Creativity" data-flag="@X" onclick="openSidebar('125_Invocation of Creativity',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\171_Swaying Smorgasbord.png" id="171_Swaying Smorgasbord" data-flag="@X" onclick="openSidebar('171_Swaying Smorgasbord',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\34_Waxbreath Youngling.png" id="34_Waxbreath Youngling" data-flag="@X" onclick="openSidebar('34_Waxbreath Youngling',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\67_Songweaver Adept.png" id="67_Songweaver Adept" data-flag="@X" onclick="openSidebar('67_Songweaver Adept',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\89_Gastronomical Hubris.png" id="89_Gastronomical Hubris" data-flag="@X" onclick="openSidebar('89_Gastronomical Hubris',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\131_Phoenixsong.png" id="131_Phoenixsong" data-flag="@X" onclick="openSidebar('131_Phoenixsong',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\174_Vivid Expression.png" id="174_Vivid Expression" data-flag="@X" onclick="openSidebar('174_Vivid Expression',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\2_Bolstering Chefbot.png" id="2_Bolstering Chefbot" data-flag="@X" onclick="openSidebar('2_Bolstering Chefbot',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\38_Birdsong.png" id="38_Birdsong" data-flag="@X" onclick="openSidebar('38_Birdsong',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\74_Blood Artist.png" id="74_Blood Artist" data-flag="@X" onclick="openSidebar('74_Blood Artist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\107_Audition.png" id="107_Audition" data-flag="@X" onclick="openSidebar('107_Audition',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\143_Artist's Easel.png" id="143_Artists Easel" data-flag="@X" onclick="openSidebar('143_Artists Easel',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\8_Distracted Apprentice_back.png" alt="/sets\MVX-files\img\8_Distracted Apprentice_front.png" id="8_Distracted Apprentice" data-flag="@XD" onclick="openSidebar('8_Distracted Apprentice',false)"><button class="flip-btn" onclick="imgFlip('8_Distracted Apprentice')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\42_Civil Engineer.png" id="42_Civil Engineer" data-flag="@X" onclick="openSidebar('42_Civil Engineer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\77_Criticize.png" id="77_Criticize" data-flag="@X" onclick="openSidebar('77_Criticize',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\111_Dragonsong.png" id="111_Dragonsong" data-flag="@X" onclick="openSidebar('111_Dragonsong',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\144_Atelier Exemplar.png" id="144_Atelier Exemplar" data-flag="@X" onclick="openSidebar('144_Atelier Exemplar',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\9_Distracting Charcuterie.png" id="9_Distracting Charcuterie" data-flag="@X" onclick="openSidebar('9_Distracting Charcuterie',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\44_Dreamquill.png" id="44_Dreamquill" data-flag="@X" onclick="openSidebar('44_Dreamquill',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\79_Discouraging Flop.png" id="79_Discouraging Flop" data-flag="@X" onclick="openSidebar('79_Discouraging Flop',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\121_Heartblaze Theatre.png" id="121_Heartblaze Theatre" data-flag="@X" onclick="openSidebar('121_Heartblaze Theatre',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\146_Benevolent Florist.png" id="146_Benevolent Florist" data-flag="@X" onclick="openSidebar('146_Benevolent Florist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\10_Encore.png" id="10_Encore" data-flag="@X" onclick="openSidebar('10_Encore',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\46_The Flourishing.png" id="46_The Flourishing" data-flag="@X" onclick="openSidebar('46_The Flourishing',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\80_Dishearten.png" id="80_Dishearten" data-flag="@X" onclick="openSidebar('80_Dishearten',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\123_Impassioned Singer_back.png" alt="/sets\MVX-files\img\123_Impassioned Singer_front.png" id="123_Impassioned Singer" data-flag="@XD" onclick="openSidebar('123_Impassioned Singer',false)"><button class="flip-btn" onclick="imgFlip('123_Impassioned Singer')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\153_Cost of Perfection.png" id="153_Cost of Perfection" data-flag="@X" onclick="openSidebar('153_Cost of Perfection',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\12_Fine Diner.png" id="12_Fine Diner" data-flag="@X" onclick="openSidebar('12_Fine Diner',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\50_Gustbrook Library.png" id="50_Gustbrook Library" data-flag="@X" onclick="openSidebar('50_Gustbrook Library',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\82_Dour Chorister_back.png" alt="/sets\MVX-files\img\82_Dour Chorister_front.png" id="82_Dour Chorister" data-flag="@XD" onclick="openSidebar('82_Dour Chorister',false)"><button class="flip-btn" onclick="imgFlip('82_Dour Chorister')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\130_Merrymaker.png" id="130_Merrymaker" data-flag="@X" onclick="openSidebar('130_Merrymaker',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\156_The Founding of the City.png" id="156_The Founding of the City" data-flag="@X" onclick="openSidebar('156_The Founding of the City',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\14_Gnomish Tinkerer.png" id="14_Gnomish Tinkerer" data-flag="@X" onclick="openSidebar('14_Gnomish Tinkerer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\54_Keeper of the Archives.png" id="54_Keeper of the Archives" data-flag="@X" onclick="openSidebar('54_Keeper of the Archives',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\84_Enraged Essayist.png" id="84_Enraged Essayist" data-flag="@X" onclick="openSidebar('84_Enraged Essayist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\132_The Rejection of the Monarchy.png" id="132_The Rejection of the Monarchy" data-flag="@X" onclick="openSidebar('132_The Rejection of the Monarchy',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\163_Kitty Connoisseur.png" id="163_Kitty Connoisseur" data-flag="@X" onclick="openSidebar('163_Kitty Connoisseur',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\21_Parts Picker.png" id="21_Parts Picker" data-flag="@X" onclick="openSidebar('21_Parts Picker',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\60_Redesign.png" id="60_Redesign" data-flag="@X" onclick="openSidebar('60_Redesign',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\96_Operahouse Headliner.png" id="96_Operahouse Headliner" data-flag="@X" onclick="openSidebar('96_Operahouse Headliner',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\133_Reptilian Rhymester.png" id="133_Reptilian Rhymester" data-flag="@X" onclick="openSidebar('133_Reptilian Rhymester',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\167_Skilled Sous-Chef.png" id="167_Skilled Sous-Chef" data-flag="@X" onclick="openSidebar('167_Skilled Sous-Chef',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\30_Spirit of the Opera.png" id="30_Spirit of the Opera" data-flag="@X" onclick="openSidebar('30_Spirit of the Opera',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\63_Skillful Landscapist_back.png" alt="/sets\MVX-files\img\63_Skillful Landscapist_front.png" id="63_Skillful Landscapist" data-flag="@XD" onclick="openSidebar('63_Skillful Landscapist',false)"><button class="flip-btn" onclick="imgFlip('63_Skillful Landscapist')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\98_Petite Patissier.png" id="98_Petite Patissier" data-flag="@X" onclick="openSidebar('98_Petite Patissier',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\136_Sparks of Invention.png" id="136_Sparks of Invention" data-flag="@X" onclick="openSidebar('136_Sparks of Invention',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\170_Stew Stirrer_back.png" alt="/sets\MVX-files\img\170_Stew Stirrer_front.png" id="170_Stew Stirrer" data-flag="@XD" onclick="openSidebar('170_Stew Stirrer',false)"><button class="flip-btn" onclick="imgFlip('170_Stew Stirrer')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\32_Sunstreet Clocktower.png" id="32_Sunstreet Clocktower" data-flag="@X" onclick="openSidebar('32_Sunstreet Clocktower',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\66_Songcrafting.png" id="66_Songcrafting" data-flag="@X" onclick="openSidebar('66_Songcrafting',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\101_Second Showing.png" id="101_Second Showing" data-flag="@X" onclick="openSidebar('101_Second Showing',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\138_Stunning Soprano.png" id="138_Stunning Soprano" data-flag="@X" onclick="openSidebar('138_Stunning Soprano',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\173_Tend the Garden.png" id="173_Tend the Garden" data-flag="@X" onclick="openSidebar('173_Tend the Garden',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\35_Worksite Visionary.png" id="35_Worksite Visionary" data-flag="@X" onclick="openSidebar('35_Worksite Visionary',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\68_Spectral Scribe.png" id="68_Spectral Scribe" data-flag="@X" onclick="openSidebar('68_Spectral Scribe',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\105_Witch of Forbidden Treats.png" id="105_Witch of Forbidden Treats" data-flag="@X" onclick="openSidebar('105_Witch of Forbidden Treats',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\140_Waxcrafter.png" id="140_Waxcrafter" data-flag="@X" onclick="openSidebar('140_Waxcrafter',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\175_Wolfsong.png" id="175_Wolfsong" data-flag="@X" onclick="openSidebar('175_Wolfsong',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\3_Cogwrench.png" id="3_Cogwrench" data-flag="@X" onclick="openSidebar('3_Cogwrench',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\36_Annul.png" id="36_Annul" data-flag="@X" onclick="openSidebar('36_Annul',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\71_Artistic Benefactor.png" id="71_Artistic Benefactor" data-flag="@X" onclick="openSidebar('71_Artistic Benefactor',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\109_Clash of Egos.png" id="109_Clash of Egos" data-flag="@X" onclick="openSidebar('109_Clash of Egos',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\142_Arboreal Artist.png" id="142_Arboreal Artist" data-flag="@X" onclick="openSidebar('142_Arboreal Artist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\4_Colossal Puppetry.png" id="4_Colossal Puppetry" data-flag="@X" onclick="openSidebar('4_Colossal Puppetry',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\37_Atelier Artisan.png" id="37_Atelier Artisan" data-flag="@X" onclick="openSidebar('37_Atelier Artisan',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\72_Aspiring Performer_back.png" alt="/sets\MVX-files\img\72_Aspiring Performer_front.png" id="72_Aspiring Performer" data-flag="@XD" onclick="openSidebar('72_Aspiring Performer',false)"><button class="flip-btn" onclick="imgFlip('72_Aspiring Performer')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\110_Deafening Duo.png" id="110_Deafening Duo" data-flag="@X" onclick="openSidebar('110_Deafening Duo',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\145_Belligerence.png" id="145_Belligerence" data-flag="@X" onclick="openSidebar('145_Belligerence',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\5_Congregation Aspirant.png" id="5_Congregation Aspirant" data-flag="@X" onclick="openSidebar('5_Congregation Aspirant',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\39_Blueprints.png" id="39_Blueprints" data-flag="@X" onclick="openSidebar('39_Blueprints',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\73_Avian Auteur.png" id="73_Avian Auteur" data-flag="@X" onclick="openSidebar('73_Avian Auteur',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\112_Dramatic Organ.png" id="112_Dramatic Organ" data-flag="@X" onclick="openSidebar('112_Dramatic Organ',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\147_Bite Down on Treats.png" id="147_Bite Down on Treats" data-flag="@X" onclick="openSidebar('147_Bite Down on Treats',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\6_Deride.png" id="6_Deride" data-flag="@X" onclick="openSidebar('6_Deride',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\40_Bookwyrm.png" id="40_Bookwyrm" data-flag="@X" onclick="openSidebar('40_Bookwyrm',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\75_Casting Call.png" id="75_Casting Call" data-flag="@X" onclick="openSidebar('75_Casting Call',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\114_Extravagant Channeler.png" id="114_Extravagant Channeler" data-flag="@X" onclick="openSidebar('114_Extravagant Channeler',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\149_Candied Colossus.png" id="149_Candied Colossus" data-flag="@X" onclick="openSidebar('149_Candied Colossus',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\7_Diligent Architect.png" id="7_Diligent Architect" data-flag="@X" onclick="openSidebar('7_Diligent Architect',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\41_Change Perspective.png" id="41_Change Perspective" data-flag="@X" onclick="openSidebar('41_Change Perspective',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\85_Exhausting Rehearsal.png" id="85_Exhausting Rehearsal" data-flag="@X" onclick="openSidebar('85_Exhausting Rehearsal',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\116_Fiery Setpiece.png" id="116_Fiery Setpiece" data-flag="@X" onclick="openSidebar('116_Fiery Setpiece',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\150_Cheerful Painter.png" id="150_Cheerful Painter" data-flag="@X" onclick="openSidebar('150_Cheerful Painter',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\11_Enraptured Watcher.png" id="11_Enraptured Watcher" data-flag="@X" onclick="openSidebar('11_Enraptured Watcher',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\43_Distracting Song.png" id="43_Distracting Song" data-flag="@X" onclick="openSidebar('43_Distracting Song',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\86_Fiendish Fromager.png" id="86_Fiendish Fromager" data-flag="@X" onclick="openSidebar('86_Fiendish Fromager',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\118_Forge Gnome.png" id="118_Forge Gnome" data-flag="@X" onclick="openSidebar('118_Forge Gnome',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\151_Colorful Rendition.png" id="151_Colorful Rendition" data-flag="@X" onclick="openSidebar('151_Colorful Rendition',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\13_Forgefire Spray.png" id="13_Forgefire Spray" data-flag="@X" onclick="openSidebar('13_Forgefire Spray',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\45_Fanciful Flier.png" id="45_Fanciful Flier" data-flag="@X" onclick="openSidebar('45_Fanciful Flier',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\90_Gustatorie Explorateur.png" id="90_Gustatorie Explorateur" data-flag="@X" onclick="openSidebar('90_Gustatorie Explorateur',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\119_Forgehammer.png" id="119_Forgehammer" data-flag="@X" onclick="openSidebar('119_Forgehammer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\152_Cookie Snatcher.png" id="152_Cookie Snatcher" data-flag="@X" onclick="openSidebar('152_Cookie Snatcher',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\15_Inspirational Performer.png" id="15_Inspirational Performer" data-flag="@X" onclick="openSidebar('15_Inspirational Performer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\47_Foundry Assistant.png" id="47_Foundry Assistant" data-flag="@X" onclick="openSidebar('47_Foundry Assistant',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\91_Highbrow Critic.png" id="91_Highbrow Critic" data-flag="@X" onclick="openSidebar('91_Highbrow Critic',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\120_Harbinger of Festivity.png" id="120_Harbinger of Festivity" data-flag="@X" onclick="openSidebar('120_Harbinger of Festivity',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\154_Farmstead Butcher.png" id="154_Farmstead Butcher" data-flag="@X" onclick="openSidebar('154_Farmstead Butcher',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\17_Keen Guardcog_back.png" alt="/sets\MVX-files\img\17_Keen Guardcog_front.png" id="17_Keen Guardcog" data-flag="@XD" onclick="openSidebar('17_Keen Guardcog',false)"><button class="flip-btn" onclick="imgFlip('17_Keen Guardcog')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\49_Gobsmack.png" id="49_Gobsmack" data-flag="@X" onclick="openSidebar('49_Gobsmack',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\92_Macabre Prop.png" id="92_Macabre Prop" data-flag="@X" onclick="openSidebar('92_Macabre Prop',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\124_Inspiring Melody.png" id="124_Inspiring Melody" data-flag="@X" onclick="openSidebar('124_Inspiring Melody',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\157_Garden Guardian.png" id="157_Garden Guardian" data-flag="@X" onclick="openSidebar('157_Garden Guardian',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\18_Lunch Rush.png" id="18_Lunch Rush" data-flag="@X" onclick="openSidebar('18_Lunch Rush',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\51_Haunting Lullaby.png" id="51_Haunting Lullaby" data-flag="@X" onclick="openSidebar('51_Haunting Lullaby',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\94_Moment of Craving.png" id="94_Moment of Craving" data-flag="@X" onclick="openSidebar('94_Moment of Craving',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\126_Ironstreet Welders.png" id="126_Ironstreet Welders" data-flag="@X" onclick="openSidebar('126_Ironstreet Welders',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\158_Gorge on Snacks.png" id="158_Gorge on Snacks" data-flag="@X" onclick="openSidebar('158_Gorge on Snacks',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\20_Moonridge Tailors.png" id="20_Moonridge Tailors" data-flag="@X" onclick="openSidebar('20_Moonridge Tailors',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\55_Mechanical Strix.png" id="55_Mechanical Strix" data-flag="@X" onclick="openSidebar('55_Mechanical Strix',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\95_Motivation Sapper.png" id="95_Motivation Sapper" data-flag="@X" onclick="openSidebar('95_Motivation Sapper',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\127_Jaunty Tune.png" id="127_Jaunty Tune" data-flag="@X" onclick="openSidebar('127_Jaunty Tune',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\159_Green Thumbed Growth.png" id="159_Green Thumbed Growth" data-flag="@X" onclick="openSidebar('159_Green Thumbed Growth',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\22_Rebuild from Scratch.png" id="22_Rebuild from Scratch" data-flag="@X" onclick="openSidebar('22_Rebuild from Scratch',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\58_Prevent Catastrophe.png" id="58_Prevent Catastrophe" data-flag="@X" onclick="openSidebar('58_Prevent Catastrophe',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\97_Overworked.png" id="97_Overworked" data-flag="@X" onclick="openSidebar('97_Overworked',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\128_Leading Lady.png" id="128_Leading Lady" data-flag="@X" onclick="openSidebar('128_Leading Lady',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\160_Greenpark Strummer.png" id="160_Greenpark Strummer" data-flag="@X" onclick="openSidebar('160_Greenpark Strummer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\23_Rushed Production.png" id="23_Rushed Production" data-flag="@X" onclick="openSidebar('23_Rushed Production',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\59_Prolific Novelist_back.png" alt="/sets\MVX-files\img\59_Prolific Novelist_front.png" id="59_Prolific Novelist" data-flag="@XD" onclick="openSidebar('59_Prolific Novelist',false)"><button class="flip-btn" onclick="imgFlip('59_Prolific Novelist')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\99_Pompous Thespian.png" id="99_Pompous Thespian" data-flag="@X" onclick="openSidebar('99_Pompous Thespian',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\129_Merry Troubadour.png" id="129_Merry Troubadour" data-flag="@X" onclick="openSidebar('129_Merry Troubadour',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\161_Gustatorie Tastemaker_back.png" alt="/sets\MVX-files\img\161_Gustatorie Tastemaker_front.png" id="161_Gustatorie Tastemaker" data-flag="@XD" onclick="openSidebar('161_Gustatorie Tastemaker',false)"><button class="flip-btn" onclick="imgFlip('161_Gustatorie Tastemaker')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\25_Season to Perfection.png" id="25_Season to Perfection" data-flag="@X" onclick="openSidebar('25_Season to Perfection',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\61_Rousing Read.png" id="61_Rousing Read" data-flag="@X" onclick="openSidebar('61_Rousing Read',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\100_Sate the Critics.png" id="100_Sate the Critics" data-flag="@X" onclick="openSidebar('100_Sate the Critics',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\134_Rooftop Rapscallion.png" id="134_Rooftop Rapscallion" data-flag="@X" onclick="openSidebar('134_Rooftop Rapscallion',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\162_Inspired Reader.png" id="162_Inspired Reader" data-flag="@X" onclick="openSidebar('162_Inspired Reader',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\26_Skystone Gargoyle.png" id="26_Skystone Gargoyle" data-flag="@X" onclick="openSidebar('26_Skystone Gargoyle',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\64_Slinking Scribbler.png" id="64_Slinking Scribbler" data-flag="@X" onclick="openSidebar('64_Slinking Scribbler',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\102_Stage Double.png" id="102_Stage Double" data-flag="@X" onclick="openSidebar('102_Stage Double',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\135_See the Sights.png" id="135_See the Sights" data-flag="@X" onclick="openSidebar('135_See the Sights',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\164_Natural Harmony.png" id="164_Natural Harmony" data-flag="@X" onclick="openSidebar('164_Natural Harmony',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\28_Skystone Seraph.png" id="28_Skystone Seraph" data-flag="@X" onclick="openSidebar('28_Skystone Seraph',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\69_Storybook Serpent.png" id="69_Storybook Serpent" data-flag="@X" onclick="openSidebar('69_Storybook Serpent',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\103_Understudy.png" id="103_Understudy" data-flag="@X" onclick="openSidebar('103_Understudy',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\137_Spit Fire.png" id="137_Spit Fire" data-flag="@X" onclick="openSidebar('137_Spit Fire',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\169_Spoil the Broth.png" id="169_Spoil the Broth" data-flag="@X" onclick="openSidebar('169_Spoil the Broth',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\29_Soup Elemental.png" id="29_Soup Elemental" data-flag="@X" onclick="openSidebar('29_Soup Elemental',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\70_Tragic Soloist.png" id="70_Tragic Soloist" data-flag="@X" onclick="openSidebar('70_Tragic Soloist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\104_Vamp.png" id="104_Vamp" data-flag="@X" onclick="openSidebar('104_Vamp',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\139_Tavern Reveler_back.png" alt="/sets\MVX-files\img\139_Tavern Reveler_front.png" id="139_Tavern Reveler" data-flag="@XD" onclick="openSidebar('139_Tavern Reveler',false)"><button class="flip-btn" onclick="imgFlip('139_Tavern Reveler')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\172_Tavern Talesmith.png" id="172_Tavern Talesmith" data-flag="@X" onclick="openSidebar('172_Tavern Talesmith',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\213_Lyon, Aged Inventor.png" id="213_Lyon, Aged Inventor" data-flag="@X" onclick="openSidebar('213_Lyon, Aged Inventor',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\193_Esteemed Author Davriel Cane.png" id="193_Esteemed Author Davriel Cane" data-flag="@X" onclick="openSidebar('193_Esteemed Author Davriel Cane',false)"></div>
+				<div class="container"><img data-alt_src="/sets\MVX-files\img\226_Roland, Second Fiddle_back.png" alt="/sets\MVX-files\img\226_Roland, Second Fiddle_front.png" id="226_Roland, Second Fiddle" data-flag="@XD" onclick="openSidebar('226_Roland, Second Fiddle',false)"><button class="flip-btn" onclick="imgFlip('226_Roland, Second Fiddle')"></button></div>
+				<div class="container"><img alt="/sets\MVX-files\img\192_Elaphia, Full of Wonder.png" id="192_Elaphia, Full of Wonder" data-flag="@X" onclick="openSidebar('192_Elaphia, Full of Wonder',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\222_Pascal, Critics' Favorite.png" id="222_Pascal, Critics Favorite" data-flag="@X" onclick="openSidebar('222_Pascal, Critics Favorite',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\188_Concordia, Angel of Glass.png" id="188_Concordia, Angel of Glass" data-flag="@X" onclick="openSidebar('188_Concordia, Angel of Glass',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\182_Belphegor, Infernal Publisher.png" id="182_Belphegor, Infernal Publisher" data-flag="@X" onclick="openSidebar('182_Belphegor, Infernal Publisher',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\242_Velda, Opera Diva.png" id="242_Velda, Opera Diva" data-flag="@X" onclick="openSidebar('242_Velda, Opera Diva',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\191_Diego, Slam Poet.png" id="191_Diego, Slam Poet" data-flag="@X" onclick="openSidebar('191_Diego, Slam Poet',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\238_Sylvie, Garden Tender.png" id="238_Sylvie, Garden Tender" data-flag="@X" onclick="openSidebar('238_Sylvie, Garden Tender',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\187_Cogturn Laboratory.png" id="187_Cogturn Laboratory" data-flag="@X" onclick="openSidebar('187_Cogturn Laboratory',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\246_Writer's Desk.png" id="246_Writers Desk" data-flag="@X" onclick="openSidebar('246_Writers Desk',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\227_Roland's Solo.png" id="227_Rolands Solo" data-flag="@X" onclick="openSidebar('227_Rolands Solo',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\219_Oft-Told Tales.png" id="219_Oft-Told Tales" data-flag="@X" onclick="openSidebar('219_Oft-Told Tales',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\186_Chicken Coop.png" id="186_Chicken Coop" data-flag="@X" onclick="openSidebar('186_Chicken Coop',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\214_Lyon's Contemplation.png" id="214_Lyons Contemplation" data-flag="@X" onclick="openSidebar('214_Lyons Contemplation',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\184_Break from Stress.png" id="184_Break from Stress" data-flag="@X" onclick="openSidebar('184_Break from Stress',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\212_Lament.png" id="212_Lament" data-flag="@X" onclick="openSidebar('212_Lament',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\231_Show of Strength.png" id="231_Show of Strength" data-flag="@X" onclick="openSidebar('231_Show of Strength',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\204_Gustatorie Mixer.png" id="204_Gustatorie Mixer" data-flag="@X" onclick="openSidebar('204_Gustatorie Mixer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\185_Castleway Crane.png" id="185_Castleway Crane" data-flag="@X" onclick="openSidebar('185_Castleway Crane',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\197_Forlorn Author.png" id="197_Forlorn Author" data-flag="@X" onclick="openSidebar('197_Forlorn Author',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\183_Bombastic Performance.png" id="183_Bombastic Performance" data-flag="@X" onclick="openSidebar('183_Bombastic Performance',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\196_Flamethumper.png" id="196_Flamethumper" data-flag="@X" onclick="openSidebar('196_Flamethumper',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\229_Secret Ingredients.png" id="229_Secret Ingredients" data-flag="@X" onclick="openSidebar('229_Secret Ingredients',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\215_Meticulous Sculptor.png" id="215_Meticulous Sculptor" data-flag="@X" onclick="openSidebar('215_Meticulous Sculptor',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\245_Wicked Wordsmith.png" id="245_Wicked Wordsmith" data-flag="@X" onclick="openSidebar('245_Wicked Wordsmith',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\232_Soliloquist.png" id="232_Soliloquist" data-flag="@X" onclick="openSidebar('232_Soliloquist',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\220_Opening Act.png" id="220_Opening Act" data-flag="@X" onclick="openSidebar('220_Opening Act',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\240_Turnip Trimmer.png" id="240_Turnip Trimmer" data-flag="@X" onclick="openSidebar('240_Turnip Trimmer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\254_Parapet Percher.png" id="254_Parapet Percher" data-flag="@X" onclick="openSidebar('254_Parapet Percher',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\253_Paper Familiars.png" id="253_Paper Familiars" data-flag="@X" onclick="openSidebar('253_Paper Familiars',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\249_Footlight Fiend.png" id="249_Footlight Fiend" data-flag="@X" onclick="openSidebar('249_Footlight Fiend',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\256_Tear Through.png" id="256_Tear Through" data-flag="@X" onclick="openSidebar('256_Tear Through',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\255_Pudding Cat.png" id="255_Pudding Cat" data-flag="@X" onclick="openSidebar('255_Pudding Cat',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\209_Jacques, Harsh Conductor.png" id="209_Jacques, Harsh Conductor" data-flag="@X" onclick="openSidebar('209_Jacques, Harsh Conductor',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\216_Michel, Strummer of Heartstrings.png" id="216_Michel, Strummer of Heartstrings" data-flag="@X" onclick="openSidebar('216_Michel, Strummer of Heartstrings',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\230_Severin, Kitchen Tyrant.png" id="230_Severin, Kitchen Tyrant" data-flag="@X" onclick="openSidebar('230_Severin, Kitchen Tyrant',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\217_Niels, Cogmaster.png" id="217_Niels, Cogmaster" data-flag="@X" onclick="openSidebar('217_Niels, Cogmaster',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\218_Odette L'or, Fickle Painter.png" id="218_Odette Lor, Fickle Painter" data-flag="@X" onclick="openSidebar('218_Odette Lor, Fickle Painter',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\211_La Chaconne de Soupir No 3.png" id="211_La Chaconne de Soupir No 3" data-flag="@X" onclick="openSidebar('211_La Chaconne de Soupir No 3',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\181_The Bardenmoot.png" id="181_The Bardenmoot" data-flag="@X" onclick="openSidebar('181_The Bardenmoot',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\199_Frymaster's Pan.png" id="199_Frymasters Pan" data-flag="@X" onclick="openSidebar('199_Frymasters Pan',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\228_Scrapsmelt Foundry.png" id="228_Scrapsmelt Foundry" data-flag="@X" onclick="openSidebar('228_Scrapsmelt Foundry',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\235_Starlit Horizons.png" id="235_Starlit Horizons" data-flag="@X" onclick="openSidebar('235_Starlit Horizons',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\195_Festival Puppeteer.png" id="195_Festival Puppeteer" data-flag="@X" onclick="openSidebar('195_Festival Puppeteer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\237_Stormsinger.png" id="237_Stormsinger" data-flag="@X" onclick="openSidebar('237_Stormsinger',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\236_Stew.png" id="236_Stew" data-flag="@X" onclick="openSidebar('236_Stew',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\180_Avian Augmenteers.png" id="180_Avian Augmenteers" data-flag="@X" onclick="openSidebar('180_Avian Augmenteers',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\207_Inkblot Familiar.png" id="207_Inkblot Familiar" data-flag="@X" onclick="openSidebar('207_Inkblot Familiar',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\190_Dancing Troupe.png" id="190_Dancing Troupe" data-flag="@X" onclick="openSidebar('190_Dancing Troupe',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\201_The Grand Festival.png" id="201_The Grand Festival" data-flag="@X" onclick="openSidebar('201_The Grand Festival',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\198_Free-Range Foraging.png" id="198_Free-Range Foraging" data-flag="@X" onclick="openSidebar('198_Free-Range Foraging',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\200_Gemcrafter.png" id="200_Gemcrafter" data-flag="@X" onclick="openSidebar('200_Gemcrafter',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\203_Grow from Instruction.png" id="203_Grow from Instruction" data-flag="@X" onclick="openSidebar('203_Grow from Instruction',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\224_Profane Performer.png" id="224_Profane Performer" data-flag="@X" onclick="openSidebar('224_Profane Performer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\241_Valiant Versemaker.png" id="241_Valiant Versemaker" data-flag="@X" onclick="openSidebar('241_Valiant Versemaker',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\244_Wandering Connoisseur.png" id="244_Wandering Connoisseur" data-flag="@X" onclick="openSidebar('244_Wandering Connoisseur',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\208_Ironflow Forge.png" id="208_Ironflow Forge" data-flag="@X" onclick="openSidebar('208_Ironflow Forge',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\205_Hunt for Inspiration.png" id="205_Hunt for Inspiration" data-flag="@X" onclick="openSidebar('205_Hunt for Inspiration',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\252_Operahouse Gossip.png" id="252_Operahouse Gossip" data-flag="@X" onclick="openSidebar('252_Operahouse Gossip',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\247_Bardic Historian.png" id="247_Bardic Historian" data-flag="@X" onclick="openSidebar('247_Bardic Historian',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\248_Blase Cuisinier.png" id="248_Blase Cuisinier" data-flag="@X" onclick="openSidebar('248_Blase Cuisinier',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\251_Mechanical Racer.png" id="251_Mechanical Racer" data-flag="@X" onclick="openSidebar('251_Mechanical Racer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\250_Inspiring Walk.png" id="250_Inspiring Walk" data-flag="@X" onclick="openSidebar('250_Inspiring Walk',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\202_Grand Overture.png" id="202_Grand Overture" data-flag="@X" onclick="openSidebar('202_Grand Overture',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\233_Song of Creation.png" id="233_Song of Creation" data-flag="@X" onclick="openSidebar('233_Song of Creation',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\177_Ambrosian Tower.png" id="177_Ambrosian Tower" data-flag="@X" onclick="openSidebar('177_Ambrosian Tower',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\176_Alabaster Guardian.png" id="176_Alabaster Guardian" data-flag="@X" onclick="openSidebar('176_Alabaster Guardian',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\194_Far-off Places.png" id="194_Far-off Places" data-flag="@X" onclick="openSidebar('194_Far-off Places',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\210_Knockout Performance.png" id="210_Knockout Performance" data-flag="@X" onclick="openSidebar('210_Knockout Performance',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\206_Hymn to the Wilds.png" id="206_Hymn to the Wilds" data-flag="@X" onclick="openSidebar('206_Hymn to the Wilds',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\178_Ancestral Guidance.png" id="178_Ancestral Guidance" data-flag="@X" onclick="openSidebar('178_Ancestral Guidance',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\223_Plan by Committee.png" id="223_Plan by Committee" data-flag="@X" onclick="openSidebar('223_Plan by Committee',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\225_Reconceptualize.png" id="225_Reconceptualize" data-flag="@X" onclick="openSidebar('225_Reconceptualize',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\243_Vicious Animancer.png" id="243_Vicious Animancer" data-flag="@X" onclick="openSidebar('243_Vicious Animancer',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\221_Partners in Rhyme.png" id="221_Partners in Rhyme" data-flag="@X" onclick="openSidebar('221_Partners in Rhyme',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\239_Teatime Two.png" id="239_Teatime Two" data-flag="@X" onclick="openSidebar('239_Teatime Two',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\234_Stained Glass Sentinel.png" id="234_Stained Glass Sentinel" data-flag="@X" onclick="openSidebar('234_Stained Glass Sentinel',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\179_Angel of Iteration.png" id="179_Angel of Iteration" data-flag="@X" onclick="openSidebar('179_Angel of Iteration',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\189_Creativity.png" id="189_Creativity" data-flag="@X" onclick="openSidebar('189_Creativity',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\264_Ingenuity.png" id="264_Ingenuity" data-flag="@X" onclick="openSidebar('264_Ingenuity',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\258_Chromatic Lantern.png" id="258_Chromatic Lantern" data-flag="@X" onclick="openSidebar('258_Chromatic Lantern',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\259_Conceptual Orrery.png" id="259_Conceptual Orrery" data-flag="@X" onclick="openSidebar('259_Conceptual Orrery',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\260_Constructed Whelp.png" id="260_Constructed Whelp" data-flag="@X" onclick="openSidebar('260_Constructed Whelp',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\262_Flute of Harmony.png" id="262_Flute of Harmony" data-flag="@X" onclick="openSidebar('262_Flute of Harmony',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\265_Inkbottle.png" id="265_Inkbottle" data-flag="@X" onclick="openSidebar('265_Inkbottle',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\269_Stonework Behemoth.png" id="269_Stonework Behemoth" data-flag="@X" onclick="openSidebar('269_Stonework Behemoth',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\270_Trash-eater Gnome.png" id="270_Trash-eater Gnome" data-flag="@X" onclick="openSidebar('270_Trash-eater Gnome',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\257_Cartographer's Eyes.png" id="257_Cartographers Eyes" data-flag="@X" onclick="openSidebar('257_Cartographers Eyes',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\261_Fencer's Foil.png" id="261_Fencers Foil" data-flag="@X" onclick="openSidebar('261_Fencers Foil',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\263_Gnomestack.png" id="263_Gnomestack" data-flag="@X" onclick="openSidebar('263_Gnomestack',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\266_Librarian's Assistant.png" id="266_Librarians Assistant" data-flag="@X" onclick="openSidebar('266_Librarians Assistant',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\267_Prophetic Prism.png" id="267_Prophetic Prism" data-flag="@X" onclick="openSidebar('267_Prophetic Prism',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\268_Rancid Meal.png" id="268_Rancid Meal" data-flag="@X" onclick="openSidebar('268_Rancid Meal',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\283_Serene Museum.png" id="283_Serene Museum" data-flag="@X" onclick="openSidebar('283_Serene Museum',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\277_Hushed Library.png" id="277_Hushed Library" data-flag="@X" onclick="openSidebar('277_Hushed Library',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\274_Charming Playhouse.png" id="274_Charming Playhouse" data-flag="@X" onclick="openSidebar('274_Charming Playhouse',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\280_Orator's Forum.png" id="280_Orators Forum" data-flag="@X" onclick="openSidebar('280_Orators Forum',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\271_Abundant Garden.png" id="271_Abundant Garden" data-flag="@X" onclick="openSidebar('271_Abundant Garden',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\279_Muted Auditorium.png" id="279_Muted Auditorium" data-flag="@X" onclick="openSidebar('279_Muted Auditorium',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\278_Lively Tavern.png" id="278_Lively Tavern" data-flag="@X" onclick="openSidebar('278_Lively Tavern',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\282_Seedy Kitchen.png" id="282_Seedy Kitchen" data-flag="@X" onclick="openSidebar('282_Seedy Kitchen',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\272_Artificer's Workshop.png" id="272_Artificers Workshop" data-flag="@X" onclick="openSidebar('272_Artificers Workshop',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\281_Painter's Studio.png" id="281_Painters Studio" data-flag="@X" onclick="openSidebar('281_Painters Studio',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\273_Back-Alley Theatre.png" id="273_Back-Alley Theatre" data-flag="@X" onclick="openSidebar('273_Back-Alley Theatre',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\275_Delightful Patisserie.png" id="275_Delightful Patisserie" data-flag="@X" onclick="openSidebar('275_Delightful Patisserie',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\276_Discreet Gallery.png" id="276_Discreet Gallery" data-flag="@X" onclick="openSidebar('276_Discreet Gallery',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\284_Sunlit Park.png" id="284_Sunlit Park" data-flag="@X" onclick="openSidebar('284_Sunlit Park',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\285_Vibrant Concourse.png" id="285_Vibrant Concourse" data-flag="@X" onclick="openSidebar('285_Vibrant Concourse',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\1_PROMO Back-Alley Theatre.png" id="1_PROMO Back-Alley Theatre" data-flag="@X" onclick="openSidebar('1_PROMO Back-Alley Theatre',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\2_PROMO Delightful Patisserie.png" id="2_PROMO Delightful Patisserie" data-flag="@X" onclick="openSidebar('2_PROMO Delightful Patisserie',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\3_PROMO Discreet Gallery.png" id="3_PROMO Discreet Gallery" data-flag="@X" onclick="openSidebar('3_PROMO Discreet Gallery',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\8_PROMO Sunlit Park.png" id="8_PROMO Sunlit Park" data-flag="@X" onclick="openSidebar('8_PROMO Sunlit Park',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\10_PROMO Vibrant Concourse.png" id="10_PROMO Vibrant Concourse" data-flag="@X" onclick="openSidebar('10_PROMO Vibrant Concourse',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\290_Forest MVX.png" id="290_Forest MVX" data-flag="@X" onclick="openSidebar('290_Forest MVX',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\287_Island MVX.png" id="287_Island MVX" data-flag="@X" onclick="openSidebar('287_Island MVX',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\286_Plains MVX.png" id="286_Plains MVX" data-flag="@X" onclick="openSidebar('286_Plains MVX',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\288_Swamp MVX.png" id="288_Swamp MVX" data-flag="@X" onclick="openSidebar('288_Swamp MVX',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\289_Mountain MVX.png" id="289_Mountain MVX" data-flag="@X" onclick="openSidebar('289_Mountain MVX',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\9_PROMO Swamp.png" id="9_PROMO Swamp" data-flag="@X" onclick="openSidebar('9_PROMO Swamp',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\7_PROMO Plains.png" id="7_PROMO Plains" data-flag="@X" onclick="openSidebar('7_PROMO Plains',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\6_PROMO Mountain.png" id="6_PROMO Mountain" data-flag="@X" onclick="openSidebar('6_PROMO Mountain',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\5_PROMO Island.png" id="5_PROMO Island" data-flag="@X" onclick="openSidebar('5_PROMO Island',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\4_PROMO Forest.png" id="4_PROMO Forest" data-flag="@X" onclick="openSidebar('4_PROMO Forest',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\1t_MVX DRAFT ARCHETYPES.png" id="1t_MVX DRAFT ARCHETYPES" data-flag="@X" onclick="openSidebar('1t_MVX DRAFT ARCHETYPES',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\11t_Chisel.png" id="11t_Chisel" data-flag="@X" onclick="openSidebar('11t_Chisel',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\12t_Construct.png" id="12t_Construct" data-flag="@X" onclick="openSidebar('12t_Construct',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\13t_Copy.png" id="13t_Copy" data-flag="@X" onclick="openSidebar('13t_Copy',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\14t_Dog.png" id="14t_Dog" data-flag="@X" onclick="openSidebar('14t_Dog',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\15t_Food.png" id="15t_Food" data-flag="@X" onclick="openSidebar('15t_Food',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\16t_Gnome.png" id="16t_Gnome" data-flag="@X" onclick="openSidebar('16t_Gnome',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\17t_Sculpture.png" id="17t_Sculpture" data-flag="@X" onclick="openSidebar('17t_Sculpture',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\18t_Thopter.png" id="18t_Thopter" data-flag="@X" onclick="openSidebar('18t_Thopter',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\19t_Treasure.png" id="19t_Treasure" data-flag="@X" onclick="openSidebar('19t_Treasure',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\20t_Vehicle.png" id="20t_Vehicle" data-flag="@X" onclick="openSidebar('20t_Vehicle',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\21t_Forest Plains.png" id="21t_Forest Plains" data-flag="@X" onclick="openSidebar('21t_Forest Plains',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\2t_Bird.png" id="2t_Bird" data-flag="@X" onclick="openSidebar('2t_Bird',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\3t_Illusion.png" id="3t_Illusion" data-flag="@X" onclick="openSidebar('3t_Illusion',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\4t_Inkling.png" id="4t_Inkling" data-flag="@X" onclick="openSidebar('4t_Inkling',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\5t_Vampire Actor.png" id="5t_Vampire Actor" data-flag="@X" onclick="openSidebar('5t_Vampire Actor',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\6t_Bard.png" id="6t_Bard" data-flag="@X" onclick="openSidebar('6t_Bard',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\7t_Elemental.png" id="7t_Elemental" data-flag="@X" onclick="openSidebar('7t_Elemental',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\8t_Spirit Elemental.png" id="8t_Spirit Elemental" data-flag="@X" onclick="openSidebar('8t_Spirit Elemental',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\9t_Boar.png" id="9t_Boar" data-flag="@X" onclick="openSidebar('9t_Boar',false)"></div>
+				<div class="container"><img alt="/sets\MVX-files\img\10t_Plant.png" id="10t_Plant" data-flag="@X" onclick="openSidebar('10t_Plant',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
 			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
@@ -603,7 +621,7 @@
 				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -693,7 +711,7 @@
 	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
@@ -724,7 +742,7 @@
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -735,10 +753,28 @@
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {

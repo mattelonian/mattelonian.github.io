@@ -1,1 +1,14 @@
-﻿{"sets": [{"set_code": "AUR", "set_name": "Beyond the Aurora", "formats": ""}, {"set_code": "MVX", "set_name": "Merveaux", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "AUR",
+            "set_name": "Beyond the Aurora",
+            "formats": ""
+        },
+        {
+            "set_code": "MVX",
+            "set_name": "Merveaux",
+            "formats": ""
+        }
+    ]
+}

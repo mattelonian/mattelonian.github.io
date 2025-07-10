@@ -1,4 +1,1206 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Congregation Aspirant
+
+Operahouse Gossip
+
+Pudding Cat
+rules_text: When Pudding Cat dies, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => When Pudding Cat dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Paper Familiars
+
+Blase Cuisinier
+
+Mechanical Racer
+
+Bardic Historian
+
+MVX DRAFT ARCHETYPES
+rules_text: {R}{W}{U} ARTIFACTS 
+     {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+     {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} SAGAS/REGALE
+     {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+     {R}{G} AGGRO Regale your prowess to your opponent’s face by singing and slinging spells!
+{G}{U}{B} DELIRIUM 
+     {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+     {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W} PREPARATION
+     {B}{G} LIFEGAIN [i]Feast[/i] on food with your creatures by paying off lifegain synergies.
+     {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} EXPLOIT
+     {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
+     {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends. => {R}{W}{U} ARTIFACTS 
+ {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+ {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} SAGAS/REGALE
+ {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+ {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!
+{G}{U}{B} DELIRIUM 
+ {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+ {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W} PREPARATION
+ {B}{G} LIFEGAIN [i]Feast[/i] on food with your creatures by paying off lifegain synergies.
+ {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} EXPLOIT
+ {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
+ {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.
+
+Inspirational Performer
+
+Skystone Seraph
+
+Colossal Puppetry
+
+Deride
+
+Forgefire Spray
+
+Creativity
+
+Marquis Vaasco de Moraes
+rules_text: When Marquis Vaasco de Moraes enters, you may return target non-Zombie creature card from your graveyard to the battlefield.
+Legacy {R}{W}{B} => When Marquis Vaasco de Moraes enters, you may return target non-Zombie creature card from your graveyard to the battlefield.
+Legacy {R}{W}{B} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Pascal, Critics' Favorite
+rules_text:  => [+1]: Put a +1/+1 counter on up to one target creature. If it's a token, put an additional 
++1/+1 counter on it.
+[-2]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
+[-3]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of noncreature tokens you control.
+special_text: [+1]: Put a +1/+1 counter on up to one target creature. If it’s a token, put an additional 
++1/+1 counter on it.
+[-2]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
+[-3]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of noncreature tokens you control. => [+1]: Put a +1/+1 counter on up to one target creature. If it's a token, put an additional 
++1/+1 counter on it.
+[-2]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
+[-3]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of noncreature tokens you control.
+
+Lyon, Aged Inventor
+rules_text:  => [+2]: Create a 1/1 colorless Thopter artifact creature token with flying.
+[+1]: You gain 3 life and draw a card.
+[-3]: Return target instant, sorcery, or artifact card from your graveyard to your hand.
+[-7]: Search your hand and/or library for an instant, sorcery, or artifact card. You may cast it without paying its mana cost. If you search your library this way, shuffle.
+
+PROMO Back-Alley Theatre
+rules_text: As Back-Alley Theatre enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {B}.
+{T}, Pay 1 life: Add {R} or {W}. => As Back-Alley Theatre enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {B}.
+{T}, Pay 1 life: Add {R} or {W}.
+
+PROMO Sunlit Park
+rules_text: As Sunlit Park enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {R}.
+{T}, Pay 1 life: Add {G} or {U}. => As Sunlit Park enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {R}.
+{T}, Pay 1 life: Add {G} or {U}.
+
+PROMO Discreet Gallery
+rules_text: As Discreet Gallery enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {U}.
+{T}, Pay 1 life: Add {B} or {G}. => As Discreet Gallery enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {U}.
+{T}, Pay 1 life: Add {B} or {G}.
+
+PROMO Vibrant Concourse
+rules_text: As Vibrant Concourse enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {W}.
+{T}, Pay 1 life: Add {U} or {R}. => As Vibrant Concourse enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {W}.
+{T}, Pay 1 life: Add {U} or {R}.
+
+PROMO Delightful Patisserie
+rules_text: As Delightful Patisserie enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {G}.
+{T}, Pay 1 life: Add {W} or {B}. => As Delightful Patisserie enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {G}.
+{T}, Pay 1 life: Add {W} or {B}.
+
+Back-Alley Theatre
+rules_text: As Back-Alley Theatre enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {B}.
+{T}, Pay 1 life: Add {R} or {W}. => As Back-Alley Theatre enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {B}.
+{T}, Pay 1 life: Add {R} or {W}.
+
+Sunlit Park
+rules_text: As Sunlit Park enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {R}.
+{T}, Pay 1 life: Add {G} or {U}. => As Sunlit Park enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {R}.
+{T}, Pay 1 life: Add {G} or {U}.
+
+Discreet Gallery
+rules_text: As Discreet Gallery enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {U}.
+{T}, Pay 1 life: Add {B} or {G}. => As Discreet Gallery enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {U}.
+{T}, Pay 1 life: Add {B} or {G}.
+
+Vibrant Concourse
+rules_text: As Vibrant Concourse enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {W}.
+{T}, Pay 1 life: Add {U} or {R}. => As Vibrant Concourse enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {W}.
+{T}, Pay 1 life: Add {U} or {R}.
+
+Delightful Patisserie
+rules_text: As Delightful Patisserie enters, you may pay 2 life. If you don’t, it enters tapped.
+{T}: Add {G}.
+{T}, Pay 1 life: Add {W} or {B}. => As Delightful Patisserie enters, you may pay 2 life. If you don't, it enters tapped.
+{T}: Add {G}.
+{T}, Pay 1 life: Add {W} or {B}.
+
+Serene Museum
+rules_text: This land enters tapped.
+When Serene Museum enters, scry 1.
+{T}: Add {W} or {U}. => Serene Museum enters tapped.
+When Serene Museum enters, scry 1.
+{T}: Add {W} or {U}.
+
+Hushed Library
+rules_text: This land enters tapped.
+When Hushed Library enters, scry 1.
+{T}: Add {U} or {B}. => Hushed Library enters tapped.
+When Hushed Library enters, scry 1.
+{T}: Add {U} or {B}.
+
+Charming Playhouse
+rules_text: This land enters tapped.
+When Charming Playhouse enters, scry 1.
+{T}: Add {B} or {R}. => Charming Playhouse enters tapped.
+When Charming Playhouse enters, scry 1.
+{T}: Add {B} or {R}.
+
+Orator's Forum
+rules_text: This land enters tapped.
+When Orator’s Forum enters, scry 1.
+{T}: Add {R} or {G}. => Orator's Forum enters tapped.
+When Orator's Forum enters, scry 1.
+{T}: Add {R} or {G}.
+
+Abundant Garden
+rules_text: This land enters tapped.
+When Abundant Garden enters, scry 1.
+{T}: Add {G} or {W}. => Abundant Garden enters tapped.
+When Abundant Garden enters, scry 1.
+{T}: Add {G} or {W}.
+
+Muted Auditorium
+rules_text: This land enters tapped.
+When Muted Auditorium enters, scry 1.
+{T}: Add {W} or {B}. => Muted Auditorium enters tapped.
+When Muted Auditorium enters, scry 1.
+{T}: Add {W} or {B}.
+
+Seedy Kitchen
+rules_text: This land enters tapped.
+When Seedy Kitchen enters, scry 1.
+{T}: Add {B} or {G}. => Seedy Kitchen enters tapped.
+When Seedy Kitchen enters, scry 1.
+{T}: Add {B} or {G}.
+
+Lively Tavern
+rules_text: This land enters tapped.
+When Lively Tavern enters, scry 1.
+{T}: Add {U} or {R}. => Lively Tavern enters tapped.
+When Lively Tavern enters, scry 1.
+{T}: Add {U} or {R}.
+
+Artificer's Workshop
+rules_text: This land enters tapped.
+When Artificer’s Workshop enters, scry 1.
+{T}: Add {R} or {W}. => Artificer's Workshop enters tapped.
+When Artificer's Workshop enters, scry 1.
+{T}: Add {R} or {W}.
+
+Gorge on Snacks
+
+Change Perspective
+
+Rushed Production
+
+Clash of Egos
+rules_text: Put a +1/+1 counter on target creature you control if {G} was spent to cast this spell. Then it fights target creature you don’t control. => Put a +1/+1 counter on target creature you control if {G} was spent to cast this spell. Then it fights target creature you don't control.
+
+Soup Elemental
+rules_text: When Soup Elemental enters, create a 1/1 green Plant creature token.
+When Soup Elemental dies, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => When Soup Elemental enters, create a 1/1 green Plant creature token.
+When Soup Elemental dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Mechanical Strix
+
+Prolific Novelist
+
+Atelier Artisan
+
+Prevent Catastrophe
+
+Annul
+
+Fiendish Fromager
+rules_text: Menace
+When Fiendish Fromager enters, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Menace
+When Fiendish Fromager enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Artistic Benefactor
+
+Motivation Sapper
+
+Exhausting Rehearsal
+
+Macabre Prop
+
+Overworked
+rules_text: Enchant creature
+Enchanted creature gets -2/-2.
+[i]Delirium[/i] — At the beginning of the upkeep of enchanted creature’s controller, they lose 1 life. If there are four or more card types among cards in your graveyard, they lose 2 life instead. => Enchant creature
+Enchanted creature gets -2/-2.
+[i]Delirium[/i] — At the beginning of the upkeep of enchanted creature's controller, they lose 1 life. If there are four or more card types among cards in your graveyard, they lose 2 life instead.
+
+Casting Call
+
+Understudy
+rules_text: Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.” => Until end of turn, target creature gets +1/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner's control.”
+
+Aspiring Performer
+
+Leading Lady
+
+Forge Gnome
+rules_text: Haste
+When Forge Gnome dies, create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Haste
+When Forge Gnome dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Harbinger of Festivity
+rules_text: Regale — {R}, {T}: Exile the top card of your library. You may play it until the end of your next turn. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Regale — {R}, {T}: Exile the top card of your library. You may play it until the end of your next turn. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Spit Fire
+
+Fiery Setpiece
+rules_text: This spell costs {2} less to cast if you’ve sacrificed a permanent this turn.
+Fiery Setpiece deals 4 damage to any nonplayer target. => This spell costs {2} less to cast if you've sacrificed a permanent this turn.
+Fiery Setpiece deals 4 damage to any nonplayer target.
+
+Spoil the Broth
+rules_text: Choose two —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a single graveyard.
+• Create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Choose two —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a single graveyard.
+• Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Inspired Reader
+
+Librarian's Assistant
+
+Cartographer's Eyes
+rules_text: Flying
+When Cartographer’s Eyes enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Flying
+When Cartographer's Eyes enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Gnomestack
+
+Rancid Meal
+
+Prophetic Prism
+
+Rebuild from Scratch
+
+Tragic Soloist
+rules_text: Regale — {T}: Tap or untap target permanent not named Tragic Soloist. You can’t activate this ability during combat. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Regale — {T}: Tap or untap target permanent not named Tragic Soloist. You can't activate this ability during combat. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Fanciful Flier
+rules_text: Flying
+Regale — Fanciful Flier gets +1/+1. [i](You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Flying
+Regale — Fanciful Flier gets +1/+1. [i](You're regaling if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Forlorn Author
+
+Dancing Troupe
+
+Wandering Connoisseur
+rules_text: Menace, trample
+At the beginning of your end step, if you’ve gained life this turn, put a +1/+1 counter on Wandering Connoisseur. => Menace, trample
+At the beginning of your end step, if you've gained life this turn, put a +1/+1 counter on Wandering Connoisseur.
+
+Meticulous Sculptor
+
+Turnip Trimmer
+
+Free-Range Foraging
+rules_text: Create a 3/2 green Boar creature token. If you’ve gained life this turn, put a +1/+1 counter on it.
+You gain 2 life. => Create a 3/2 green Boar creature token. If you've gained life this turn, put a +1/+1 counter on it.
+You gain 2 life.
+
+Valiant Versemaker
+rules_text: Vigilance
+Regale — {UR}, {T}: Valiant Versemaker deals 2 damage to each opponent. Scry 2. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Vigilance
+Regale — {UR}, {T}: Valiant Versemaker deals 2 damage to each opponent. Scry 2. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Keen Guardcog
+
+Merry Troubadour
+rules_text: Regale — Merry Troubadour gets +1/+1. [i](You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Regale — Merry Troubadour gets +1/+1. [i](You're regaling if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Bookwyrm
+
+Cheerful Painter
+
+Candied Colossus
+rules_text: Trample
+When Candied Colossus dies, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Trample
+When Candied Colossus dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Colorful Rendition
+
+Inspiring Melody
+
+Highbrow Critic
+
+Storybook Serpent
+rules_text: Ward {3}
+{4}{U}: Storybook Serpent can’t be blocked this turn.
+{1}{U}, Discard Storybook Serpent: Draw a card. => Ward {3}
+{4}{U}: Storybook Serpent can't be blocked this turn.
+{1}{U}, Discard Storybook Serpent: Draw a card.
+
+Houndcrafter Savant
+
+Jacques, Harsh Conductor
+
+Distracting Song
+
+Blood Artist
+
+Merrymaker
+rules_text: Regale — {R}, {T}: Create a 1/1 red Bard creature token with prowess. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Regale — {R}, {T}: Create a 1/1 red Bard creature token with prowess. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Skillful Landscapist
+
+Civil Engineer
+
+Dreamquill
+
+Gnomish Tinkerer
+
+Worksite Visionary
+
+Distracting Charcuterie
+
+Sunstreet Clocktower
+rules_text:  => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
+
+Encore
+rules_text: Exile any number of target creatures you control, then return them to the battlefield under their owner’s control.
+Exile Encore. => Exile any number of target creatures you control, then return them to the battlefield under their owner's control.
+Exile Encore.
+
+Gustatorie Tastemaker
+
+Greenpark Strummer
+rules_text: Vigilance
+Regale — {1}{G}, {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Vigilance
+Regale — {1}{G}, {T}: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Belligerence
+rules_text: Enchant creature you control
+When Belligerence enters, enchanted creature fights up to one target creature you don’t control.
+Enchanted creature gets +1/+1 and has trample. => Enchant creature you control
+When Belligerence enters, enchanted creature fights up to one target creature you don't control.
+Enchanted creature gets +1/+1 and has trample.
+
+Natural Harmony
+
+Farmstead Butcher
+rules_text: Farmstead Butcher can’t be blocked by creatures with power 2 or less.
+{2}{B}: This creature gains lifelink until end of turn. => Farmstead Butcher can't be blocked by creatures with power 2 or less.
+{2}{B}: Farmstead Butcher gains lifelink until end of turn.
+
+Tavern Talesmith
+rules_text: Trample
+Regale — Tavern Talesmith gets +1/+1. [i](You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Trample
+Regale — Tavern Talesmith gets +1/+1. [i](You're regaling if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Flamethumper
+rules_text: Trample, haste
+Regale — Flamethumper gets +2/+2. [i](You’re regaling if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Trample, haste
+Regale — Flamethumper gets +2/+2. [i](You're regaling if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Opening Act
+rules_text:  => 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+
+Grand Overture
+rules_text: Whenever a nontoken creature you control enters, create a token that’s a copy of that creature, except it has haste and isn’t legendary. Sacrifice it at the beginning of the next end step. => Whenever a nontoken creature you control enters, create a token that's a copy of that creature, except it has haste and isn't legendary. Sacrifice it at the beginning of the next end step.
+
+Spirit of the Opera
+
+Fine Diner
+rules_text: When Fine Diner enters, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+{1}, Sacrifice a token: Fine Diner gains indestructible until end of turn. Tap it. => When Fine Diner enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+{1}, Sacrifice a token: Fine Diner gains indestructible until end of turn. Tap it.
+
+Song of Creation
+
+Ironflow Forge
+rules_text:  => Gain the next level as a sorcery to add its ability.
+
+Whenever another artifact you control enters, Ironflow Forge deals 1 damage to each opponent, then you may put a brick counter on it. [i](It retains abilities.)[/i]
+ Built 2+
+{R}{W}, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+ Level 3
+​
+
+Odette L'or, Fickle Painter
+
+Niels, Cogmaster
+rules_text: Whenever you cast a noncreature artifact spell, create an X/X colorless Construct artifact creature token, where X is that spell’s mana value.
+Artifact creatures you control have haste. => Whenever you cast a noncreature artifact spell, create an X/X colorless Construct artifact creature token, where X is that spell's mana value.
+Artifact creatures you control have haste.
+
+Elven Glassblower
+
+Heartblaze Theatre
+rules_text:  => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. [i](It retains abilities.)[/i]
+{R}, {T}: Target creature gains haste until end of turn.
+ Built 1+
+{R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+ Built 2+
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+Audition
+
+Reptilian Rhymester
+
+Dragonsong
+rules_text: Flying
+Regale — {R}: Dragonsong gets +1/+0 until end of turn. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Flying
+Regale — {R}: Dragonsong gets +1/+0 until end of turn. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Waxcrafter
+
+Soliloquist
+
+Avian Auteur
+
+Operahouse Headliner
+
+Discouraging Flop
+
+Second Showing
+
+Garden Guardian
+rules_text: Reach
+[i]Feast[/i] — At the beginning of your end step, if you’ve gained life or created a token this turn, untap Garden Guardian. => Reach
+[i]Feast[/i] — At the beginning of your end step, if you've gained life or created a token this turn, untap Garden Guardian.
+
+Dour Chorister
+
+Benevolent Florist
+
+Wolfsong
+rules_text: Trample
+Regale — {1}{G}: Target creature you control gets +3/+3 and gains trample until end of turn. Activate only once each turn and only as a sorcery. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Trample
+Regale — {1}{G}: Target creature you control gets +3/+3 and gains trample until end of turn. Activate only once each turn and only as a sorcery. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Tend the Garden
+
+Gemcrafter
+
+Birdsong
+rules_text: Flying
+Regale — {2}{U}, {T}: Draw two cards, then discard a card. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Flying
+Regale — {2}{U}, {T}: Draw two cards, then discard a card. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Michel, Strummer of Heartstrings
+
+Bard
+
+Boar
+
+Dog
+
+Elemental
+
+Food
+
+Gnome
+
+Illusion
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Artist's Easel
+rules_text: [i]Delirium[/i] — {2}{G}, Sacrifice Artist’s Easel: Mill two cards, then return another card from your graveyard to your hand. This ability costs {2} less to activate if there are four or more card types among cards in your graveyard. => [i]Delirium[/i] — {2}{G}, Sacrifice Artist's Easel: Mill two cards, then return another card from your graveyard to your hand. This ability costs {2} less to activate if there are four or more card types among cards in your graveyard.
+
+Brasio, Bardic Chronicler
+rules_text: Regale — {T}: Scry 1. Brasio deals 1 damage to each opponent. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+Legacy {G}{U}{R} => Regale — {T}: Scry 1. Brasio deals 1 damage to each opponent. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+Legacy {G}{U}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Stew Stirrer
+rules_text: [i]Feast[/i] — At the beginning of your end step, if you’ve gained life or created a token this turn, you may pay {2}. If you do, create a 1/1 green Plant creature token.
+Legacy {2}{G} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => [i]Feast[/i] — At the beginning of your end step, if you've gained life or created a token this turn, you may pay {2}. If you do, create a 1/1 green Plant creature token.
+Legacy {2}{G} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+rules_text: Once each turn, when another artifact you control’s activated ability is activated or its triggered ability triggers, if it isn’t a mana ability, you may copy it. You may choose new targets for the copy. The same is true for enchantments. [i](It triggers once for each type each turn.)[/i] => Once each turn, when another artifact you control's activated ability is activated or its triggered ability triggers, if it isn't a mana ability, you may copy it. You may choose new targets for the copy. The same is true for enchantments. [i](It triggers once for each type each turn.)[/i]
+
+Retrospection
+
+Skilled Sous-Chef
+rules_text: [i]Feast[/i] — At the beginning of your end step, if you’ve gained life or created a token this turn, draw a card. => [i]Feast[/i] — At the beginning of your end step, if you've gained life or created a token this turn, draw a card.
+
+Parapet Percher
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+rules_text: When Fencer’s Foil enters, you may attach it to target creature you control.
+Equipped creature gets +2/+0.
+Equip {2} => When Fencer's Foil enters, you may attach it to target creature you control.
+Equipped creature gets +2/+0.
+Equip {2}
+
+Copy
+
+Waxbreath Youngling
+rules_text: Flying, vigilance
+When Waxbreath Youngling enters, if it was cast, create a token that’s a copy of another target artifact or creature you control, except it’s an artifact and loses all other types. => Flying, vigilance
+When Waxbreath Youngling enters, if it was cast, create a token that's a copy of another target artifact or creature you control, except it's an artifact and loses all other types.
+
+Castleway Crane
+rules_text:  => Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Whenever you cast your first artifact spell each turn, you may draw a card.
+special_text: Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can’t be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Whenever you cast your first artifact spell each turn, you may draw a card. => Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Whenever you cast your first artifact spell each turn, you may draw a card.
+
+Hunt for Inspiration
+
+Painter's Studio
+rules_text: This land enters tapped.
+When Painter’s Studio enters, scry 1.
+{T}: Add {G} or {U}. => Painter's Studio enters tapped.
+When Painter's Studio enters, scry 1.
+{T}: Add {G} or {U}.
+
+Teatime Two
+rules_text: [i]Feast[/i] — At the beginning of your end step, if you’ve gained life or created a token this turn, put a +1/+1 counter on another target creature you control. If you’ve done both, that creature fights up to one target creature you don’t control. => [i]Feast[/i] — At the beginning of your end step, if you've gained life or created a token this turn, put a +1/+1 counter on another target creature you control. If you've done both, that creature fights up to one target creature you don't control.
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+rules_text: Return target nonland permanent to its owner’s hand.
+If you control three or more artifacts and/or enchantments, draw a card. => Return target nonland permanent to its owner's hand.
+If you control three or more artifacts and/or enchantments, draw a card.
+
+Isabella, City Builder
+rules_text: Vigilance
+Whenever Isabella, City Builder attacks, untap each artifact you control.
+Legacy {2}{U}{R}{W} => Vigilance
+Whenever Isabella, City Builder attacks, untap each artifact you control.
+Legacy {2}{U}{R}{W} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Concordia, Angel of Glass
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+The Bardenmoot
+rules_text:  => 
+Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.
+
+Knockout Performance
+rules_text: This spell deals 6 damage to any nonplayer target. When it deals excess damage this way, you may return a creature with mana value less than or equal to that amount of excess damage from your graveyard to the battlefield. It can’t block this turn. => Knockout Performance deals 6 damage to any nonplayer target. When it deals excess damage this way, you may return a creature with mana value less than or equal to that amount of excess damage from your graveyard to the battlefield. It can't block this turn.
+
+Ambrosian Tower
+
+Cogturn Laboratory
+rules_text:  => Whenever Cogturn Laboratory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 2 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery.
+
+Festival Puppeteer
+rules_text: Menace
+Whenever Festival Puppeteer attacks, create a token that’s a copy of another target creature you control, except it’s 1/1 and it’s a Construct artifact in addition to its other types. => Menace
+Whenever Festival Puppeteer attacks, create a token that's a copy of another target creature you control, except it's 1/1 and it's a Construct artifact in addition to its other types.
+
+Roland's Solo
+rules_text: When Roland’s Solo enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever one or more cards you own leave exile, each opponent loses 1 life. => When Roland's Solo enters, exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Whenever one or more cards you own leave exile, each opponent loses 1 life.
+
+Bombastic Performance
+rules_text: Whenever a nontoken creature you control dies during your turn, create a 2/1 red Spirit Elemental creature token with haste and “This creature can’t block.” => Whenever a nontoken creature you control dies during your turn, create a 2/1 red Spirit Elemental creature token with haste and “This creature can't block.”
+
+Petite Patissier
+rules_text: When Petite Pâtissier enters, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Once each turn, when you gain life, you may have Petite Pâtissier gain deathtouch until end of turn. Each opponent loses 1 life. => When Petite Pâtissier enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Once each turn, when you gain life, you may have Petite Pâtissier gain deathtouch until end of turn. Each opponent loses 1 life.
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+rules_text: This spell costs {2} less to cast if it targets a creature with mana value 2 or less.
+Enchant creature
+When Haunting Lullaby enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step. => This spell costs {2} less to cast if it targets a creature with mana value 2 or less.
+Enchant creature
+When Haunting Lullaby enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+
+Moonridge Tailors
+rules_text:  => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Built 2+
+​
+
+Skystone Gargoyle
+
+Rousing Read
+
+Atelier Exemplar
+
+Forest Plains
+
+Severin, Kitchen Tyrant
+rules_text: At the beginning of your end step, create a 1/1 green Plant creature token if you’ve gained 3 or more life this turn. Then put a +1/+1 counter on each other creature you control if you’ve lost 3 or more life this turn. => At the beginning of your end step, create a 1/1 green Plant creature token if you've gained 3 or more life this turn. Then put a +1/+1 counter on each other creature you control if you've lost 3 or more life this turn.
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Vehicle
+
+Stew
+rules_text: As an additional cost to cast this spell, you may pay any amount of life.
+Destroy target nonland permanent if its mana value is X or less, where X is the life paid as you cast this spell plus the amount of life you’ve gained this turn. => As an additional cost to cast this spell, you may pay any amount of life.
+Destroy target nonland permanent if its mana value is X or less, where X is the life paid as you cast this spell plus the amount of life you've gained this turn.
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+
+Flamesweeper
+rules_text: Exploit [i](When this creature enters, you may sacrifice a creature.)[/i]
+When Flamesweeper exploits a creature, exile target instant or sorcery card with mana value less than or equal to the exploited creature’s power from your graveyard. You may cast a copy of it without paying its mana cost. => Exploit [i](When this creature enters, you may sacrifice a creature.)[/i]
+When Flamesweeper exploits a creature, exile target instant or sorcery card with mana value less than or equal to the exploited creature's power from your graveyard. You may cast a copy of it without paying its mana cost.
+
+Cost of Perfection
+
+Season to Perfection
+rules_text: [i]Feast[/i] — This spell costs {2} less to cast if you’ve gained life or created a token this turn.
+Put a +1/+1 counter on each creature you control. => [i]Feast[/i] — This spell costs {2} less to cast if you've gained life or created a token this turn.
+Put a +1/+1 counter on each creature you control.
+
+Bird
+
+Chicken Coop
+rules_text: At the beginning of your end step, if you’ve gained life this turn, create a 1/1 white Bird creature token with flying.
+Whenever three or more creatures you control deal combat damage to a player, create a token that’s a copy of a token you control. => At the beginning of your end step, if you've gained life this turn, create a 1/1 white Bird creature token with flying.
+Whenever three or more creatures you control deal combat damage to a player, create a token that's a copy of a token you control.
+
+Gustbrook Library
+rules_text:  => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. [i](It retains abilities.)[/i]
+{T}: Surveil 1. [i](Look at the top card of your library. You may mill it.)[/i]
+ Built 1+
+{U}, {T}: Draw a card, then discard a card.
+ Built 2+
+{2}{U}, {T}: Draw a card.
+
+Deafening Duo
+rules_text: Haste
+Regale — {1}{R}: Deafening Duo deals 3 damage to each opponent. Activate only once each turn. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Haste
+Regale — {1}{R}: Deafening Duo deals 3 damage to each opponent. Activate only once each turn. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+La Chaconne de Soupir No 3
+rules_text:  => 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+
+Gustatorie Mixer
+
+Spirit Elemental
+rules_text: Haste
+This creature can’t block. => Haste
+This creature can't block.
+
+Keeper of the Archives
+
+Construct
+
+Solid Fundamentals
+
+Sylvie, Garden Tender
+
+Gleeful Amateur
+
+Body of Literature
+rules_text: Vigilance, reach, ward {3}
+This creature gets +2/+2 for each card type among cards in your graveyard. => Vigilance, reach, ward {3}
+Body of Literature gets +2/+2 for each card type among cards in your graveyard.
+
+Writer's Desk
+rules_text: Whenever one or more creatures you control deals combat damage to a player, put that many page counters on Writer’s Desk.
+{U}, {T}, Remove a page counter from Writer’s Desk: Draw a card.
+{1}{B}, {T}, Remove three page counters from Writer’s Desk: Search your library for a card, put it into your hand, then shuffle. => Whenever one or more creatures you control deals combat damage to a player, put that many page counters on Writer's Desk.
+{U}, {T}, Remove a page counter from Writer's Desk: Draw a card.
+{1}{B}, {T}, Remove three page counters from Writer's Desk: Search your library for a card, put it into your hand, then shuffle.
+
+Sate the Critics
+
+Redesign
+rules_text: Choose one. If you control two or more artifacts as you cast this spell, you may choose two instead.
+• Counter target spell.
+• Target player draws three cards, then discards two cards.
+• Return target nonland permanent to its owner’s hand. => Choose one. If you control two or more artifacts as you cast this spell, you may choose two instead.
+• Counter target spell.
+• Target player draws three cards, then discards two cards.
+• Return target nonland permanent to its owner's hand.
+
+Wicked Wordsmith
+
+Esteemed Author Davriel Cane
+rules_text:  => [+1]: Draw a card, then target opponent may pay 2 life. If they do, discard a card.
+[-2]: Return target creature to its owner's hand, then that player discards a card.
+[-6]: You get an emblem with “Your opponents play with cards they own from outside the game revealed. You may play them and spend mana as though it were mana of any type to cast them.”
+special_text: [+1]: Draw a card, then target opponent may pay 2 life. If they do, discard a card.
+[-2]: Return target creature to its owner’s hand, then that player discards a card.
+[-6]: You get an emblem with “Your opponents play with cards they own from outside the game revealed. You may play them and spend mana as though it were mana of any type to cast them.” => [+1]: Draw a card, then target opponent may pay 2 life. If they do, discard a card.
+[-2]: Return target creature to its owner's hand, then that player discards a card.
+[-6]: You get an emblem with “Your opponents play with cards they own from outside the game revealed. You may play them and spend mana as though it were mana of any type to cast them.”
+
+Invocation of Creativity
+rules_text: Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+If you control an artifact and an enchantment, add {W}{U}{B}{R}{G}. This mana can’t be spent to pay generic mana costs. => Exile the top three cards of your library. Until the end of your next turn, you may play those cards.
+If you control an artifact and an enchantment, add {W}{U}{B}{R}{G}. This mana can't be spent to pay generic mana costs.
+
+See the Sights
+
+Ironstreet Welders
+
+Ingenuity
+rules_text: Flying, vigilance, ward {3}
+Once during each of your turns, you may cast a multicolored spell you own from outside the game with mana value 5 or less if you haven’t cast a spell with the same name as that spell this game.
+{3}, {T}: Add {W}{U}{B}{R}{G}. => Flying, vigilance, ward {3}
+Once during each of your turns, you may cast a multicolored spell you own with mana value 5 or less from outside the game if you haven't cast a spell with the same name as that spell this game.
+{3}, {T}: Add {W}{U}{B}{R}{G}.
+
+Antoine, Chef Extraordinaire
+rules_text: Trample
+Whenever one or more creatures you control deal combat damage to a player, create a Food token.
+Legacy {1}{W}{B}{G} => Trample
+Whenever one or more creatures you control deal combat damage to a player, create a Food token.
+Legacy {1}{W}{B}{G} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Chromatic Lantern
+
+Lyon's Contemplation
+
+Foundry Assistant
+rules_text: Defender
+Whenever another artifact you control enters, Foundry Assistant gets +1/+0 and can attack this turn as though it didn’t have defender. => Defender
+Whenever another artifact you control enters, Foundry Assistant gets +1/+0 and can attack this turn as though it didn't have defender.
+
+Blueprints
+rules_text: Flash
+When Blueprints enters, scry 1, then draw a card.
+{2}{U}, {T}, Sacrifice Blueprints: Target creature can’t be blocked this turn. Draw a card. => Flash
+When Blueprints enters, scry 1, then draw a card.
+{2}{U}, {T}, Sacrifice Blueprints: Target creature can't be blocked this turn. Draw a card.
+
+Footlight Fiend
+
+Enraged Essayist
+
+Tear Through
+
+Constructed Whelp
+
+Stage Double
+rules_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+You may pay {R}. If you do, create a token that’s a copy of that creature, except it has haste. Sacrifice that token at the beginning of the next end step. => Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+You may pay {R}. If you do, create a token that's a copy of that creature, except it has haste. Sacrifice that token at the beginning of the next end step.
+
+Parkland Flautist
+
+Distracted Apprentice
+
+Gastronomical Hubris
+rules_text: This enchantment enters with up to three hunger counters on it.
+At the beginning of your upkeep, you lose X life and choose up to X, where X is the number of hunger counters on this —
+• Target creature gets -1/-1 until end of turn.
+• Create a 1/1 green Plant creature token.
+• Create a Food token. => Gastronomical Hubris enters with up to three hunger counters on it.
+At the beginning of your upkeep, you lose X life and choose up to X, where X is the number of hunger counters on this —
+• Target creature gets -1/-1 until end of turn.
+• Create a 1/1 green Plant creature token.
+• Create a Food token.
+
+Elaphia, Full of Wonder
+rules_text:  => [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you've put a counter on a Saga this turn, create two of those tokens instead.
+[-4]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase.
+special_text: [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you’ve put a counter on a Saga this turn, create two of those tokens instead.
+[-4]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase. => [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you've put a counter on a Saga this turn, create two of those tokens instead.
+[-4]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase.
+
+Nicola, Inspired Artist
+rules_text: Whenever Nicola, Inspired Artist attacks, you may draw a card. If you do, discard a card.
+Legacy {1}{B}{G}{U} => Whenever Nicola, Inspired Artist attacks, you may draw a card. If you do, discard a card.
+Legacy {1}{B}{G}{U} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Chorus Machine
+rules_text: Whenever a nontoken, nonland permanent you control enters, if it wasn’t cast from your hand, put a harmony counter on Chorus Machine.
+{B}, {T}, Remove X harmony counters from Chorus Machine and sacrifice it: You draw X cards and you lose X life. => Whenever a nontoken, nonland permanent you control enters, if it wasn't cast from your hand, put a harmony counter on Chorus Machine.
+{B}, {T}, Remove X harmony counters from Chorus Machine and sacrifice it: You draw X cards and you lose X life.
+
+Enraptured Watcher
+
+Tavern Reveler
+rules_text: Tavern Reveler can’t block.
+Legacy {2}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => Tavern Reveler can't block.
+Legacy 2R
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+
+Green Thumbed Growth
+rules_text: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[i]Feast[/i] — As long as you’ve gained life or created a token this turn, Green Thumbed Growth has flashback {G}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+[i]Feast[/i] — As long as you've gained life or created a token this turn, Green Thumbed Growth has flashback {G}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Serenade
+
+Inkblot Familiar
+rules_text: This creature and other multicolored permanents you control have ward {X}, where X is the number of colors they are.
+Inkblot Familiar gets +1/+1 for each color among permanents you control. => Inkblot Familiar and other multicolored permanents you control have ward {X}, where X is the number of colors they are.
+Inkblot Familiar gets +1/+1 for each color among permanents you control.
+
+Gustatorie Explorateur
+rules_text: Menace
+[i]Feast[/i] — At the beginning of your end step, if you’ve gained life or created a token this turn, each opponent loses 2 life. => Menace
+[i]Feast[/i] — At the beginning of your end step, if you've gained life or created a token this turn, each opponent loses 2 life.
+
+Criticize
+
+Animancy
+rules_text: Once each turn, when you sacrifice a creature, you may have the following occur based on its power.
+[b]1+ | [/b]Exile the top card of your library. You may play it this turn.
+[b]2+ |[/b] Add {R}.
+[b]3+ |[/b] Create a 2/1 red Spirit Elemental creature token with haste and “This creature can’t block.”
+[b]4+ |[/b] Animancy deals 2 damage to any target. => Once each turn, when you sacrifice a creature, you may have the following occur based on its power.
+[b]1+ | [/b]Exile the top card of your library. You may play it this turn.
+[b]2+ |[/b] Add {R}.
+[b]3+ |[/b] Create a 2/1 red Spirit Elemental creature token with haste and “This creature can't block.”
+[b]4+ |[/b] Animancy deals 2 damage to any target.
+
+Diviner of the Dessert
+rules_text: When Diviner of the Dessert enters, create two Food tokens.
+At the beginning of each end step, each opponent loses X life unless they discard a card or sacrifice a nonland permanent, where X is the amount of life you’ve gained this turn. => When Diviner of the Dessert enters, create two Food tokens.
+At the beginning of each end step, each opponent loses X life unless they discard a card or sacrifice a nonland permanent, where X is the amount of life you've gained this turn.
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+rules_text: [i]Feast[/i] — When Witch of Forbidden Treats enters, if you’ve gained life or created a token this turn, up to one target creature gets -3/-3 until end of turn. => [i]Feast[/i] — When Witch of Forbidden Treats enters, if you've gained life or created a token this turn, up to one target creature gets -3/-3 until end of turn.
+
+Velda, Opera Diva
+
+Roland, Second Fiddle
+rules_text: When Roland, Second Fiddle enters, target creature gains lifelink, trample, and haste until end of turn.
+Legacy {2}{B}{R} => When Roland, Second Fiddle enters, target creature gains lifelink, trample, and haste until end of turn.
+Legacy {2}{B}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+rules_text: {T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token.
+{1}, {T}, Sacrifice two artifact creatures: Create a 4/4 colorless Construct artifact creature token. => Whenever Scrapsmelt Foundry becomes tapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery.
+
+Food Flood
+rules_text: [i]Feast[/i] — This spell costs {2} less to cast if you’ve gained life or created a token this turn.
+Creatures you control get +2/+2 and gain trample until end of turn. => [i]Feast[/i] — This spell costs {2} less to cast if you've gained life or created a token this turn.
+Creatures you control get +2/+2 and gain trample until end of turn.
+
+Davriel's Bargain
+
+Break from Stress
+rules_text: Exile target creature or planeswalker.
+[i]Delirium[/i] — If there are four or more card types among cards in your graveyard, search the battlefield and its controller’s graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way. => Exile target creature or planeswalker.
+[i]Delirium[/i] — If there are four or more card types among cards in your graveyard, search the battlefield and its controller's graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way.
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+rules_text: [i]Delirium[/i] — At the beginning of your end step, untap up to two target lands. Then if there are four or more card types in your graveyard, you may have a land you control become a 4/4 Elemental creature with vigilance until the beginning of your next end step. It’s still a land. => [i]Delirium[/i] — At the beginning of your end step, untap up to two target lands. Then if there are four or more card types in your graveyard, you may have a land you control become a 4/4 Elemental creature with vigilance until the beginning of your next end step. It's still a land.
+
+Gallery Curator
+
+Songweaver Adept
+rules_text: Regale — {U}, {T}: Exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it. [i](You still pay its costs. Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Regale — {U}, {T}: Exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it. [i](You still pay its costs. Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Soup Serpent
+rules_text: This creature enters with X +1/+1 counters and your choice of a vigilance, deathtouch or trample counter on it.
+When Soup Serpent dies, create a Food token.
+You may cast Soup Serpent from your graveyard by sacrificing two tokens in addition to paying its other costs. => Soup Serpent enters with X +1/+1 counters and your choice of a vigilance, deathtouch or trample counter on it.
+When Soup Serpent dies, create a Food token.
+You may cast Soup Serpent from your graveyard by sacrificing two tokens in addition to paying its other costs.
+
+Phoenixsong
+rules_text: Flying, haste
+This creature can’t block.
+Regale — {2}{R}: Return Phoenixsong from your graveyard to the battlefield. Activate only on your turn. [i](Activate only if you’ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Flying, haste
+Phoenixsong can't block.
+Regale — {2}{R}: Return Phoenixsong from your graveyard to the battlefield. Activate only on your turn. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Far-off Places
+rules_text: If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that’s a copy of it. Activate only during your turn. => If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only during your turn.
+
+Pompous Thespian
+rules_text: When Pompous Thespian enters, each opponent loses 1 life and you gain 1 life.
+{2}{W}, Exile Pompous Thespian from your graveyard: Exile target creature you control, then return it to the battlefield under its owner’s control. Activate only as a sorcery. => When Pompous Thespian enters, each opponent loses 1 life and you gain 1 life.
+{2}{W}, Exile Pompous Thespian from your graveyard: Exile target creature you control, then return it to the battlefield under its owner's control. Activate only as a sorcery.
+
+Profane Performer
+
+Frymaster's Pan
+rules_text: [i]Feast[/i] — Whenever you gain life or create a token, put an oil counter on Frymaster’s Pan.
+{T}, Remove an oil counter from Frymaster’s Pan: Add {B} or {G}.
+{T}, Remove an oil counter from Frymaster’s Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => [i]Feast[/i] — Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.
+{T}, Remove an oil counter from Frymaster's Pan: Add {B} or {G}.
+{T}, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+rules_text: Whenever you cast a noncreature spell, target creature can’t block this turn.
+Legacy {3}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i] => Whenever you cast a noncreature spell, target creature can't block this turn.
+Legacy {3}{R} [i](You may cast this transformed from your graveyard for its legacy cost. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Spectral Scribe
+rules_text: This creature can’t be blocked by creatures with power 3 or less.
+[i]Delirium[/i] — As long as there are four or more card types among cards in your graveyard, Spectral Scribe gets +1/+1 and has flying. => Spectral Scribe can't be blocked by creatures with power 3 or less.
+[i]Delirium[/i] — As long as there are four or more card types among cards in your graveyard, Spectral Scribe gets +1/+1 and has flying.
+
+Forgehammer
+
+Swaying Smorgasbord
+rules_text: Trample
+Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a Food token. You may have it become an X/X creature in addition to its other types, where X is the amount of life you’ve gained this turn. => Trample
+Whenever Swaying Smorgasbord deals combat damage to a player or dies, create a Food token. You may have it become an X/X creature in addition to its other types, where X is the amount of life you've gained this turn.
+
+Jaunty Tune
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.
+
+Bite Down on Treats
+rules_text: Target creature you control deals damage equal to its power to target creature you don’t control. If excess damage was dealt this way, create a Food token. [i](It’s an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Target creature you control deals damage equal to its power to target creature you don't control. If excess damage was dealt this way, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+
+Dramatic Organ
+rules_text: When Dramatic Organ enters, up to two target creatures can’t block this turn.
+{3}{R}, Sacrifice Dramatic Organ: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery. => When Dramatic Organ enters, up to two target creatures can't block this turn.
+{3}{R}, Sacrifice Dramatic Organ: Creatures you control get +2/+0 until end of turn. Activate only as a sorcery.
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+rules_text: Trample
+[i]Feast[/i] — At the beginning of your end step, if you’ve gained life or created a token this turn, put a +1/+1 counter on this creature. => Trample
+[i]Feast[/i] — At the beginning of your end step, if you've gained life or created a token this turn, put a +1/+1 counter on this creature.
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+rules_text:  => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+
+Secret Ingredients
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+This enchantment deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.
+
+Chisel
+
+Skystone Sculptory
+rules_text: When Skystone Sculptory enters the battlefield, create a 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+Whenever you attack with one or more artifact creatures, you may put a double strike counter on one of them. => Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control.
+special_text: Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that’s a copy of an artifact token you control. => Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control.
+
+Avian Augmenteers
+
+Show of Strength
+rules_text: Until end of turn, target creature you control gets +3/+3 and gains “Whenever this creature fights, it fights up to one target creature you don’t control.” Then it fights up to one target creature you don’t control. => Until end of turn, target creature you control gets +3/+3 and gains “Whenever this creature fights, it fights up to one target creature you don't control.” Then it fights up to one target creature you don't control.
+
+Dramatis Personae
+rules_text: Menace
+When Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don’t, each player sacrifices a creature. Then repeat this process three more times. => Menace
+When Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don't, each player sacrifices a creature. Then repeat this process three more times.
+
+First Chair Violinist
+rules_text: Exploit, exploit, exploit [i](When this enters, for each exploit, you may sacrifice a creature. Exploits trigger sequentially.)[/i]
+Whenever a creature you control exploits, exile the top card of target opponent’s library face down. You may look at and play that card for as long as it remains exiled, and mana of any type can be spent to cast it. => Exploit, exploit, exploit [i](When this enters, for each exploit, you may sacrifice a creature. Exploits trigger sequentially.)[/i]
+Whenever a creature you control exploits, exile the top card of target opponent's library face down. You may look at and play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
+
+Ancestral Guidance
+
+Diego, Slam Poet
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
