@@ -3,7 +3,7 @@
     "formats": "",
     "trimmed": "y",
     "image_type": "png",
-    "draft_structure": "play booster",
+    "draft_structure": "draft booster",
     "unpreviewed": "card back",
     "cards": [
         {
@@ -6266,5 +6266,5 @@
             "notes": "!sort 1commanderbait"
         }
     ],
-    "version": 2
+    "version": 8
 }
