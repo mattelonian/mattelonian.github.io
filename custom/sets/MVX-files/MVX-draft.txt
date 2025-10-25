@@ -3258,7 +3258,7 @@
 		25 Pudding Cat
 		25 Paper Familiars
 		25 Blase Cuisinier
-		25 Mechanical Racer
+		25 Festival Shorthopper
 		25 Bardic Historian
 		25 Inspirational Performer
 		25 Skystone Seraph
