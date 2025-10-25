@@ -1256,7 +1256,7 @@
     },
     {
         "card_name": "Footlight Fiend",
-        "number": 249,
+        "number": 250,
         "shape": "normal",
         "set": "MVX"
     },
@@ -1456,14 +1456,14 @@
         "set": "MVX"
     },
     {
-        "card_name": "Mechanical Racer",
-        "number": 251,
+        "card_name": "Festival Shorthopper",
+        "number": 249,
         "shape": "normal",
         "set": "MVX"
     },
     {
         "card_name": "Inspiring Walk",
-        "number": 250,
+        "number": 251,
         "shape": "normal",
         "set": "MVX"
     },

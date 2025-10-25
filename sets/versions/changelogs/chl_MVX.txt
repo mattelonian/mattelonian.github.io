@@ -1,4 +1,200 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+No changes.
+
+VERSION 15 CHANGELOG
+====================
+
+No changes.
+
+VERSION 14 CHANGELOG
+====================
+
+No changes.
+
+VERSION 13 CHANGELOG
+====================
+
+No changes.
+
+VERSION 12 CHANGELOG
+====================
+
+Festival Shorthopper added.
+
+festival shorthopper removed.
+
+Marquis Vaasco de Moraes
+
+Brasio, Bardic Chronicler
+
+Impassioned Singer
+
+
+VERSION 11 CHANGELOG
+====================
+
+festival shorthopper added.
+
+Mechanical Racer removed.
+
+Marquis Vaasco de Moraes
+
+Opening Act
+rules_text: 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+special_text: 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+
+Brasio, Bardic Chronicler
+
+Inspiring Walk
+
+The Bardenmoot
+rules_text: 
+I — Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II, III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy. => 
+Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.
+special_text: 
+I — Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II, III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy. => 
+Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.
+
+Ambrosian Tower
+rules_text: When Ambrosian Tower enters or leaves the battlefield, create a 1/1 green Plant creature token, then put a +1/+1 counter on each creature you control.
+{2}, {T}, Sacrifice Ambrosian Tower: You gain 3 life. Activate only as a sorcery. => When Ambrosian Tower enters and when you sacrifice it, create a 1/1 green Plant creature token, then put a +1/+1 counter on each creature you control.
+{2}, {T}, Sacrifice Ambrosian Tower: You gain 3 life. Activate only as a sorcery.
+
+La Chaconne de Soupir No 3
+rules_text: 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+special_text: 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+
+Footlight Fiend
+
+The Founding of the City
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+
+Impassioned Singer
+
+Jaunty Tune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Create a 1/1 blue Illusion enchantment creature token with flying.
+III — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Create a 1/1 blue Illusion enchantment creature token with flying.
+III — Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.
+
+The Grand Festival
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+type: Creature — Vampire Actor Warlock => Creature — Azra Actor Warlock
+
+Annul
+
+
+VERSION 10 CHANGELOG
 ====================
 
 
