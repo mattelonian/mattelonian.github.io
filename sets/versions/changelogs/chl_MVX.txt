@@ -1,4 +1,329 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Paper Familiars
+
+Rancid Meal
+cost: {1} => {4}
+rules_text: {2}, {T}, Sacrifice Rancid Meal: You gain 3 life.
+{4}, {T}, Sacrifice Rancid Meal: It deals 3 damage to any nonplayer target. => When Rancid Meal enters, it deals 3 damage to any nonplayer target.
+{2}, {T}, Sacrifice Rancid Meal: You gain 3 life.
+
+Bookwyrm
+
+Opening Act
+rules_text: 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+special_text: 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+
+Brasio, Bardic Chronicler
+
+Stew Stirrer
+
+Parapet Percher
+pt: 2/2 => 2/3
+
+Castleway Crane
+rules_text: Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Whenever you cast your first artifact spell each turn, you may draw a card. => Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card.
+special_text: Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Whenever you cast your first artifact spell each turn, you may draw a card. => Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card.
+
+The Bardenmoot
+rules_text: 
+Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy. => 
+I — Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II, III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.
+special_text: 
+Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy. => 
+I — Scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+II, III — When you cast your next noncreature spell this turn, copy that spell. You may choose new targets for the copy.
+
+Cogturn Laboratory
+rules_text: Whenever Cogturn Laboratory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 2 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery. => Whenever Cogturn Laboratory becomes untapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 2 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery.
+special_text: Whenever Cogturn Laboratory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 2 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery. => Whenever Cogturn Laboratory becomes untapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 2 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery.
+
+Moonridge Tailors
+rules_text: 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Built 2+
+​ => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​
+special_text: 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Built 2+
+​ => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​
+
+Balcony Chanteur
+rules_text: Flying
+Exploit [i](When this creature enters, you may sacrifice a creature.)[/i]
+When Balcony Chanteur exploits a creature, target creature you control gets +2/+2 and gains flying, vigilance, lifelink, and first strike until end of turn. => Flying
+Exploit [i](When this creature enters, you may sacrifice a creature.)[/i]
+When Balcony Chanteur exploits a creature, target creature gets +2/+2 and gains flying, first strike, vigilance, and lifelink until end of turn.
+
+La Chaconne de Soupir No 3
+rules_text: 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+special_text: 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+
+Gustatorie Mixer
+
+Redesign
+
+Invocation of Creativity
+
+See the Sights
+rules_text: If {U} was spent to cast this spell, scry 2.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards. => If {U} was spent to cast this spell, scry 3.
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+
+The Founding of the City
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+
+Serenade
+type: Instant => Sorcery
+cost: {3}{U} => {2}{U}
+
+Starlit Horizons
+rules_text: You may look at the top card of your library any time, and you may play lands from the top of your library.
+[i]Delirium[/i] — {GU}, {T}: You may cast spells from the top of your library this turn. Activate only if there are four or more card types among cards in your graveyard. => You may look at the top card of your library any time, and you may play lands from the top of your library.
+[i]Delirium[/i] — {GU}, {T}: As long as you control [i]Starlit Horizons[/i], you may cast spells from the top of your library this turn. Activate only if there are four or more card types among cards in your graveyard.
+
+Scrapsmelt Foundry
+rules_text: Whenever Scrapsmelt Foundry becomes tapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery. => Whenever Scrapsmelt Foundry becomes untapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery.
+special_text: Whenever Scrapsmelt Foundry becomes tapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery. => Whenever Scrapsmelt Foundry becomes untapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery.
+
+Stage Fright
+rules_text: Flash
+When Stage Fright enters, exile target creature until Stage Fright leaves the battlefield. At the beginning of the next end step, sacrifice a creature or Stage Fright. => Flash
+When Stage Fright enters, if you cast it, exile target creature until Stage Fright leaves the battlefield. At the beginning of the next end step, sacrifice a creature or Stage Fright.
+
+Far-off Places
+rules_text: If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only during your turn. => If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only as a sorcery.
+
+Jaunty Tune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II, III — Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II, III — Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​
+
+The Flourishing
+
+Vicious Animancer
+
+Bolstering Chefbot
+rules_text: Vigilance
+[i]Feast[/i] — Once on each of your turns, when you gain life or create a token, other creatures you control get +1/+1 until end of turn. => Vigilance
+[i]Feast[/i] — Once during each of your turns, when you gain life or create a token, other creatures you control get +1/+1 until end of turn.
+
+Kitty Connoisseur
+rules_text: [i]Feast[/i] — Once on each of your turns, when you gain life or create a token, put a +1/+1 counter on Kitty Connoisseur. => [i]Feast[/i] — Once during each of your turns, when you gain life or create a token, put a +1/+1 counter on Kitty Connoisseur.
+
+The Grand Festival
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token.
+
+Skystone Sculptory
+rules_text: Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control. => Whenever Skystone Sculptory becomes untapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control.
+special_text: Whenever Skystone Sculptory becomes tapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control. => Whenever Skystone Sculptory becomes untapped, you may put a brick counter on it.
+{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control.
+
+First Chair Violinist
+pt: 3/3 => 4/3
+
+Songweaver Adept
+cost: {2}{U} => {1}{U}
+rules_text: Regale — {U}, {T}: Exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it. [i](You still pay its costs. Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Vigilance
+Regale — {U}, {T}: Exile target instant or sorcery card from your graveyard. If you do, you may cast a copy of it this turn. [i](You still pay its costs. Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+pt: 2/3 => 1/3
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
