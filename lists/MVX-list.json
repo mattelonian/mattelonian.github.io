@@ -74,7 +74,7 @@
         "number": 28,
         "shape": "class",
         "set": "MVX",
-        "position": "323"
+        "position": "326"
     },
     {
         "card_name": "Preserve the Moment",
@@ -711,7 +711,7 @@
         "number": 38,
         "shape": "normal",
         "set": "MVX",
-        "position": "325"
+        "position": "324"
     },
     {
         "card_name": "Aspiring Performer",
@@ -1487,7 +1487,7 @@
         "number": 259,
         "shape": "normal",
         "set": "MVX",
-        "position": "326"
+        "position": "325"
     },
     {
         "card_name": "Paper Familiars",
@@ -2417,7 +2417,7 @@
         "number": 7,
         "shape": "token",
         "set": "MVX",
-        "position": "324"
+        "position": "323"
     },
     {
         "card_name": "Elemental",
