@@ -1,4 +1,579 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+Berengar, Kitchen Tyrant added.
+Dragon added.
+
+Severin, Kitchen Tyrant removed.
+
+Paper Familiars
+rules_text: Flash
+When Paper Familiars dies, surveil 1. [i](Look at the top card of your library. You may mill it.)[/i] => Flash
+When Paper Familiars dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Marquis Vaasco de Moraes
+
+Prevent Catastrophe
+
+Fiendish Fromager
+
+Artistic Benefactor
+
+Motivation Sapper
+
+Exhausting Rehearsal
+
+Macabre Prop
+
+Overworked
+
+Casting Call
+
+Understudy
+
+Aspiring Performer
+
+Leading Lady
+
+Forge Gnome
+
+Harbinger of Festivity
+
+Spit Fire
+
+Fiery Setpiece
+
+Spoil the Broth
+
+Inspired Reader
+
+Librarian's Assistant
+
+Cartographer's Eyes
+
+Gnomestack
+
+Rancid Meal
+
+Prophetic Prism
+
+Tragic Soloist
+
+Fanciful Flier
+
+Forlorn Author
+
+Dancing Troupe
+
+Wandering Connoisseur
+
+Meticulous Sculptor
+
+Turnip Trimmer
+
+Free-Range Foraging
+
+Valiant Versemaker
+
+Keen Guardcog
+
+Merry Troubadour
+
+Bookwyrm
+
+Cheerful Painter
+
+Candied Colossus
+
+Colorful Rendition
+
+Inspiring Melody
+
+Highbrow Critic
+
+Houndcrafter Savant
+
+Jacques, Harsh Conductor
+
+Distracting Song
+
+Blood Artist
+
+Merrymaker
+
+Skillful Landscapist
+
+Civil Engineer
+
+Dreamquill
+
+Gnomish Tinkerer
+
+Worksite Visionary
+
+Distracting Charcuterie
+
+Sunstreet Clocktower
+
+Encore
+
+Gustatorie Tastemaker
+
+Greenpark Strummer
+
+Belligerence
+
+Natural Harmony
+
+Farmstead Butcher
+
+Tavern Talesmith
+
+Flamethumper
+
+Opening Act
+
+Spirit of the Opera
+
+Fine Diner
+
+Song of Creation
+
+Ironflow Forge
+
+Odette L'or, Fickle Painter
+
+Niels, Cogmaster
+
+Elven Glassblower
+
+Heartblaze Theatre
+
+Audition
+
+Reptilian Rhymester
+
+Dragonsong
+
+Waxcrafter
+
+Soliloquist
+
+Avian Auteur
+
+Operahouse Headliner
+
+Discouraging Flop
+
+Second Showing
+
+Garden Guardian
+
+Dour Chorister
+
+Benevolent Florist
+
+Wolfsong
+
+Tend the Garden
+
+Gemcrafter
+
+Birdsong
+
+Michel, Strummer of Heartstrings
+
+Bard
+
+Boar
+
+Dog
+
+Elemental
+
+Food
+
+Gnome
+
+Illusion
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Artist's Easel
+
+Brasio, Bardic Chronicler
+
+Stew Stirrer
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+
+Retrospection
+
+Skilled Sous-Chef
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+
+Copy
+
+Waxbreath Youngling
+
+Castleway Crane
+
+Hunt for Inspiration
+
+Painter's Studio
+
+Teatime Two
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+
+Isabella, City Builder
+
+Concordia, Angel of Glass
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+Ambrosian Tower
+
+Cogturn Laboratory
+
+Festival Puppeteer
+
+Roland's Solo
+
+Bombastic Performance
+
+Petite Patissier
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+
+Moonridge Tailors
+
+Skystone Gargoyle
+
+Rousing Read
+
+Atelier Exemplar
+
+Forest Plains
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Vehicle
+
+Stew
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+
+Flamesweeper
+
+Cost of Perfection
+
+Season to Perfection
+
+Bird
+
+Chicken Coop
+
+Gustbrook Library
+
+Deafening Duo
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+La Chaconne de Soupir No 3
+
+Gustatorie Mixer
+
+Spirit Elemental
+
+Keeper of the Archives
+
+Construct
+
+Solid Fundamentals
+
+Sylvie, Garden Tender
+
+Gleeful Amateur
+
+Body of Literature
+
+Writer's Desk
+
+Sate the Critics
+
+Redesign
+
+Wicked Wordsmith
+
+Esteemed Author Davriel Cane
+
+Invocation of Creativity
+
+See the Sights
+
+Ironstreet Welders
+
+Ingenuity
+
+Antoine, Chef Extraordinaire
+
+Chromatic Lantern
+
+Lyon's Contemplation
+
+Foundry Assistant
+
+Blueprints
+
+Footlight Fiend
+
+Enraged Essayist
+
+Tear Through
+
+Constructed Whelp
+
+Parkland Flautist
+
+Distracted Apprentice
+
+Gastronomical Hubris
+
+Elaphia, Full of Wonder
+
+Nicola, Inspired Artist
+
+Chorus Machine
+
+Enraptured Watcher
+
+Tavern Reveler
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+
+Green Thumbed Growth
+
+Serenade
+
+Inkblot Familiar
+
+Gustatorie Explorateur
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+
+Velda, Opera Diva
+
+Roland, Second Fiddle
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Frymaster's Pan
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Jaunty Tune
+
+The Flourishing
+
+Bite Down on Treats
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+
+Secret Ingredients
+
+The Rejection of the Monarchy
+
+Chisel
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Annul
+
+Stage Double
+
+Arbiter of Taste
+rules_text: Ward—Pay 3 life
+Menace
+Whenever an opponent gains life, put a +1/+1 counter on Arbiter of Taste. => Ward—Pay 3 life.
+Menace
+Whenever an opponent gains life, put a +1/+1 counter on Arbiter of Taste.
+
+The Bardenmoot
+
+Diego, Slam Poet
+
+Reconstruct
+
+Iterate Over
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Demon of Many Pages
+rules_text: Flying
+When this creature enters, if you cast it, draw X cards, where X is the number of card types among cards in your graveyard. Then if X is six or more, you may cast a noncreature spell from your hand without paying its mana cost. => Flying
+When Demon of Many Pages enters, if you cast it, draw X cards, where X is the number of card types among cards in your graveyard. Then if X is six or more, you may cast a noncreature spell from your hand without paying its mana cost.
+
+First Chair Violinist
+
+Nature's Bounty
+
+Skystone Sculptory
+
+Atelier Artisan
+rules_text: [i]Delirium[/i] — When Atelier Artisan enters, look at the top three cards of your library. Put two of them into your graveyard. Then if there are four or more card types among cards in your graveyard, draw a card. => [i]Delirium[/i] — When Atelier Artisan enters, surveil 3. Then if there are four or more card types among cards in your graveyard, draw a card. [i](To surveil 3, look at the top three cards of your library, then mill any number of them and reorder the rest on top.)[/i]
+
+Parapet Percher
+rules_text: Flying
+When Parapet Percher enters, scry 2. => Flying
+When Parapet Percher enters, scry 3.
+pt: 2/3 => 2/2
+
+
+VERSION 17 CHANGELOG
 ====================
 
 Arbiter of Taste added.
