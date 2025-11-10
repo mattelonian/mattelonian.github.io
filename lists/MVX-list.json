@@ -46,7 +46,7 @@
         "number": 44,
         "shape": "normal",
         "set": "MVX",
-        "position": "320"
+        "position": "319"
     },
     {
         "card_name": "Dramatis Personae",
@@ -60,21 +60,21 @@
         "number": 113,
         "shape": "saga",
         "set": "MVX",
-        "position": "319"
+        "position": "318"
     },
     {
         "card_name": "Nature's Bounty",
         "number": 169,
         "shape": "normal",
         "set": "MVX",
-        "position": "322"
+        "position": "321"
     },
     {
         "card_name": "Skystone Sculptory",
         "number": 28,
         "shape": "class",
         "set": "MVX",
-        "position": "326"
+        "position": "325"
     },
     {
         "card_name": "Preserve the Moment",
@@ -88,7 +88,7 @@
         "number": 89,
         "shape": "normal",
         "set": "MVX",
-        "position": "321"
+        "position": "320"
     },
     {
         "card_name": "Hearthsong",
@@ -144,7 +144,7 @@
         "number": 17,
         "shape": "normal",
         "set": "MVX",
-        "position": "317"
+        "position": "326"
     },
     {
         "card_name": "Houndcrafter Savant",
@@ -298,7 +298,7 @@
         "number": 98,
         "shape": "normal",
         "set": "MVX",
-        "position": "318"
+        "position": "317"
     },
     {
         "card_name": "Phoenixsong",
@@ -711,7 +711,7 @@
         "number": 38,
         "shape": "normal",
         "set": "MVX",
-        "position": "324"
+        "position": "323"
     },
     {
         "card_name": "Aspiring Performer",
@@ -1487,7 +1487,7 @@
         "number": 259,
         "shape": "normal",
         "set": "MVX",
-        "position": "325"
+        "position": "324"
     },
     {
         "card_name": "Paper Familiars",
@@ -2417,7 +2417,7 @@
         "number": 7,
         "shape": "token",
         "set": "MVX",
-        "position": "323"
+        "position": "322"
     },
     {
         "card_name": "Elemental",

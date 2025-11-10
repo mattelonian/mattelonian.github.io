@@ -76,7 +76,7 @@
             "number": 258,
             "color_identity": "UB",
             "cost": "{2}{UB}",
-            "rules_text": "Flash\nWhen Paper Familiars dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
+            "rules_text": "Flash\nWhen Paper Familiars dies, surveil 2. [i](To surveil, look at that many cards from the top of your library. You may mill any number and reorder the rest.)[/i]",
             "flavor_text": "[i]\u201cWait, this wasn't a pop-up book yesterday...\u201d\n\u2014Antonio, apprentice bibliomancer[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -136,7 +136,7 @@
             "number": 1,
             "color_identity": "WUBRG",
             "cost": "",
-            "rules_text": "{R}{W}{U} ARTIFACTS \n {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!\n {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.\n{U}{R}{G} SAGAS/REGALE\n {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.\n {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!\n{G}{U}{B} DELIRIUM \n {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!\n {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.\n{B}{G}{W} PREPARATION\n {B}{G} LIFEGAIN [i]Feast[/i] on food with your creatures by paying off lifegain synergies.\n {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!\n{W}{B}{R} EXPLOIT\n {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.\n {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.",
+            "rules_text": "{R}{W}{U} ARTIFACTS \n {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!\n {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.\n{U}{R}{G} SAGAS/REGALE\n {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.\n {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!\n{G}{U}{B} DELIRIUM \n {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!\n {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.\n{B}{G}{W} FEAST\n {B}{G} LIFEGAIN Devour food with your creatures by paying off lifegain synergies.\n {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!\n{W}{B}{R} EXPLOIT\n {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.\n {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -774,7 +774,7 @@
             "shape": "normal",
             "set": "MVX",
             "loyalty": "",
-            "artist": "Grafit Studios",
+            "artist": "Grafit Studio",
             "alias": "",
             "position": "37",
             "notes": ""
@@ -4336,7 +4336,7 @@
             "artist": "Ginlun Ho",
             "alias": "",
             "position": "210",
-            "notes": "!related Bombastic Performance;Rude Animancer<2>;Skilled Animancy;"
+            "notes": "!related Bombastic Performance;"
         },
         {
             "card_name": "Keeper of the Archives",
@@ -6525,26 +6525,6 @@
             "notes": "congregation"
         },
         {
-            "card_name": "Iterate Over",
-            "color": "W",
-            "rarity": "rare",
-            "type": "Sorcery",
-            "number": 17,
-            "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Choose one \u2014\n\u2022 Exile target creature. Its controller creates a 1/1 colorless Gnome artifact creature token.\n\u2022 Exile target noncreature, nonland permanent. Its controller creates a Treasure token.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Mitch Miller",
-            "alias": "",
-            "position": "317",
-            "notes": ""
-        },
-        {
             "card_name": "Onerous Old-Timer",
             "color": "B",
             "rarity": "rare",
@@ -6561,7 +6541,7 @@
             "loyalty": "",
             "artist": "Sergey Gurskiy",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": "operahouse"
         },
         {
@@ -6581,7 +6561,7 @@
             "loyalty": "",
             "artist": "Zana Arnautovic",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": "troubadours\nnick: imagine dragon"
         },
         {
@@ -6601,7 +6581,7 @@
             "loyalty": "",
             "artist": "Quang Ho",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": "atelier"
         },
         {
@@ -6621,7 +6601,7 @@
             "loyalty": "",
             "artist": "Anastasia",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": ""
         },
         {
@@ -6641,7 +6621,7 @@
             "loyalty": "",
             "artist": "Sonderflex",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": "gustatorie"
         },
         {
@@ -6661,7 +6641,7 @@
             "loyalty": "",
             "artist": "bigboxart",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": "!related Coax the Worldsongs;"
         },
         {
@@ -6672,7 +6652,7 @@
             "number": 38,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "[i]Delirium[/i] \u2014 When Atelier Artisan enters, surveil 3. Then if there are four or more card types among cards in your graveyard, draw a card. [i](To surveil 3, look at the top three cards of your library, then mill any number of them and reorder the rest on top.)[/i]",
+            "rules_text": "[i]Delirium[/i] \u2014 When Atelier Artisan enters, surveil 3. Then if there are four or more card types among cards in your graveyard, draw a card. [i](To surveil, look at that many cards from the top of your library. You may mill any number and reorder the rest.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -6681,7 +6661,7 @@
             "loyalty": "",
             "artist": "Esther Gal\u00e1n",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": ""
         },
         {
@@ -6701,7 +6681,7 @@
             "loyalty": "",
             "artist": "Bruno Cardoso",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": "HYBRID\nKILLFLAG 2/3"
         },
         {
@@ -6720,6 +6700,26 @@
             "set": "MVX",
             "loyalty": "",
             "artist": "Tim Warnock",
+            "alias": "",
+            "position": "325",
+            "notes": ""
+        },
+        {
+            "card_name": "Iterate Over",
+            "color": "W",
+            "rarity": "rare",
+            "type": "Sorcery",
+            "number": 17,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "Choose one \u2014\n\u2022 Exile target creature. Its controller creates a 1/1 colorless Gnome artifact creature token.\n\u2022 Exile target noncreature, nonland permanent. Its controller creates a Treasure token.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "Grafit Studio",
             "alias": "",
             "position": "326",
             "notes": ""

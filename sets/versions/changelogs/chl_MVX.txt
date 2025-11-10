@@ -1,4 +1,77 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+Paper Familiars
+rules_text: Flash
+When Paper Familiars dies, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flash
+When Paper Familiars dies, surveil 2. [i](To surveil, look at that many cards from the top of your library. You may mill any number and reorder the rest.)[/i]
+
+Rushed Production
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Demon of Many Pages
+
+First Chair Violinist
+
+Nature's Bounty
+
+Dragon
+
+Atelier Artisan
+rules_text: [i]Delirium[/i] — When Atelier Artisan enters, surveil 3. Then if there are four or more card types among cards in your graveyard, draw a card. [i](To surveil 3, look at the top three cards of your library, then mill any number of them and reorder the rest on top.)[/i] => [i]Delirium[/i] — When Atelier Artisan enters, surveil 3. Then if there are four or more card types among cards in your graveyard, draw a card. [i](To surveil, look at that many cards from the top of your library. You may mill any number and reorder the rest.)[/i]
+
+Parapet Percher
+
+Skystone Sculptory
+
+Iterate Over
+
+
+VERSION 20 CHANGELOG
+====================
+
+
+
+MVX DRAFT ARCHETYPES
+rules_text: {R}{W}{U} ARTIFACTS 
+ {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+ {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} SAGAS/REGALE
+ {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+ {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!
+{G}{U}{B} DELIRIUM 
+ {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+ {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W} PREPARATION
+ {B}{G} LIFEGAIN [i]Feast[/i] on food with your creatures by paying off lifegain synergies.
+ {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} EXPLOIT
+ {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
+ {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends. => {R}{W}{U} ARTIFACTS 
+ {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+ {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} SAGAS/REGALE
+ {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+ {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!
+{G}{U}{B} DELIRIUM 
+ {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+ {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W} FEAST
+ {B}{G} LIFEGAIN Devour food with your creatures by paying off lifegain synergies.
+ {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} EXPLOIT
+ {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
+ {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.
+
+Spirit Elemental
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
