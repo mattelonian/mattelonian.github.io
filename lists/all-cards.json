@@ -10626,28 +10626,6 @@
             "v_mana": ""
         },
         {
-            "card_name": "Gustatorie Explorateur",
-            "color": "B",
-            "rarity": "common",
-            "type": "Creature \u2013 Orc Druid",
-            "number": 92,
-            "color_identity": "B",
-            "cost": "{5}{B}",
-            "rules_text": "Menace\n[i]Feast[/i] \u2013 At the beginning of your end step, if you've gained life or created a token this turn, each opponent loses 2 life.",
-            "flavor_text": "[i]\u201cEye of newt?\u201d The old orc laughed. \u201cOh, they're just mustard seeds. We figured out newt eyes taste gross a [/i]long[i] time ago.\u201d [/i]",
-            "pt": "5/5",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Adobe Stock",
-            "alias": "",
-            "position": "248",
-            "notes": "",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
             "card_name": "Criticize",
             "color": "B",
             "rarity": "uncommon",
@@ -10664,7 +10642,7 @@
             "loyalty": "",
             "artist": "Caroline Nyman",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "nick: clearly you dont own an air fryer\nhuman\nchangeflag",
             "image_type": "png",
             "v_mana": ""
@@ -10686,7 +10664,7 @@
             "loyalty": "",
             "artist": "Stephen Stark",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10708,7 +10686,7 @@
             "loyalty": "",
             "artist": "Nia Kowalewski",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10730,7 +10708,7 @@
             "loyalty": "",
             "artist": "Zoltan Boros",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10752,7 +10730,7 @@
             "loyalty": "",
             "artist": "Alen Rocha",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10774,7 +10752,7 @@
             "loyalty": "",
             "artist": "Kudos Production",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "!sort 3cae",
             "image_type": "png",
             "v_mana": ""
@@ -10796,7 +10774,7 @@
             "loyalty": "",
             "artist": "Veronika Firsova",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": "goblin",
             "image_type": "png",
             "v_mana": ""
@@ -10818,7 +10796,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10840,7 +10818,7 @@
             "loyalty": "",
             "artist": "Nina-Y",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "!sort 1commanderbait\n\u201cThere's nothing quite as tasty as an applauding audience.\u201d",
             "image_type": "png",
             "v_mana": ""
@@ -10862,7 +10840,7 @@
             "loyalty": "",
             "artist": "Medli20",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "card_name2": "Roland, Stunning Soloist",
             "color2": "",
             "type2": "Legendary Planeswalker \u2013 Roland",
@@ -10895,7 +10873,7 @@
             "loyalty": "",
             "artist": "Maxi Thiemer",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10917,7 +10895,7 @@
             "loyalty": "",
             "artist": "Adrian Amilhat",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10939,7 +10917,7 @@
             "loyalty": "",
             "artist": "Monztre Xenthil",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "Whenever another creature you control becomes tapped, you may put your choice of a +1/+1, flying, brick or charge counter on it. The same is true for artifacts. (Artifact creatures receive two counters.)",
             "image_type": "png",
             "v_mana": ""
@@ -10961,7 +10939,7 @@
             "loyalty": "",
             "artist": "Aja Trier",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": "!exportname Starlit Horizons\n!sort 2cae\nchangeflag",
             "image_type": "png",
             "v_mana": ""
@@ -10983,7 +10961,7 @@
             "loyalty": "",
             "artist": "Alexander Yakovlev",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "!sort 2cae",
             "image_type": "png",
             "v_mana": ""
@@ -11005,7 +10983,7 @@
             "loyalty": "",
             "artist": "Erin Shin, Edit: Me",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11027,7 +11005,7 @@
             "loyalty": "",
             "artist": "Gwen Bassett",
             "alias": "",
-            "position": "265",
+            "position": "264",
             "notes": "demon\nazra\nbelphegor",
             "image_type": "png",
             "v_mana": ""
@@ -11049,7 +11027,7 @@
             "loyalty": "",
             "artist": "Marco Tamura",
             "alias": "",
-            "position": "266",
+            "position": "265",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11071,7 +11049,7 @@
             "loyalty": "",
             "artist": "Yuuza",
             "alias": "",
-            "position": "267",
+            "position": "266",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11093,7 +11071,7 @@
             "loyalty": "",
             "artist": "Olga Krapivina",
             "alias": "",
-            "position": "268",
+            "position": "267",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11115,7 +11093,7 @@
             "loyalty": "",
             "artist": "Marta Meles",
             "alias": "",
-            "position": "269",
+            "position": "268",
             "notes": "human?",
             "image_type": "png",
             "v_mana": ""
@@ -11137,7 +11115,7 @@
             "loyalty": "",
             "artist": "Rhads",
             "alias": "",
-            "position": "270",
+            "position": "269",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11159,7 +11137,7 @@
             "loyalty": "",
             "artist": "Ernesto Carrasquillo",
             "alias": "",
-            "position": "271",
+            "position": "270",
             "notes": "GUEST",
             "image_type": "png",
             "v_mana": ""
@@ -11181,7 +11159,7 @@
             "loyalty": "",
             "artist": "Johanna Rupprecht",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11203,7 +11181,7 @@
             "loyalty": "",
             "artist": "Manjitsingh Pardesh",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11225,7 +11203,7 @@
             "loyalty": "",
             "artist": "Guan Yu",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": "!exportname Far-off Places\n!sort 3cae",
             "image_type": "png",
             "v_mana": ""
@@ -11247,7 +11225,7 @@
             "loyalty": "",
             "artist": "frank-freire",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11269,7 +11247,7 @@
             "loyalty": "",
             "artist": "afda trihatma",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "!sort 2cae",
             "image_type": "png",
             "v_mana": ""
@@ -11291,7 +11269,7 @@
             "loyalty": "",
             "artist": "marabelo",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": "!sort 2cae",
             "image_type": "png",
             "v_mana": ""
@@ -11313,7 +11291,7 @@
             "loyalty": "",
             "artist": "vera tihonova",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11335,7 +11313,7 @@
             "loyalty": "",
             "artist": "lara melo",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "card_name2": "Impassioned Performance",
             "color2": "R",
             "type2": "Enchantment \u2013 Saga",
@@ -11368,7 +11346,7 @@
             "loyalty": "",
             "artist": "Frank Freire",
             "alias": "",
-            "position": "280",
+            "position": "279",
             "notes": "menace",
             "image_type": "png",
             "v_mana": ""
@@ -11390,7 +11368,7 @@
             "loyalty": "",
             "artist": "Dominik Zdenkovic",
             "alias": "",
-            "position": "281",
+            "position": "280",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11412,7 +11390,7 @@
             "loyalty": "",
             "artist": "Anton Zemskov",
             "alias": "",
-            "position": "282",
+            "position": "281",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11434,7 +11412,7 @@
             "loyalty": "",
             "artist": "David Hernandez",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": "!exportname PROMO Swamp",
             "image_type": "png",
             "v_mana": ""
@@ -11456,7 +11434,7 @@
             "loyalty": "",
             "artist": "AAA Game Art",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": "!exportname PROMO Plains",
             "image_type": "png",
             "v_mana": ""
@@ -11478,7 +11456,7 @@
             "loyalty": "",
             "artist": "Mathilde Morcel",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": "!exportname PROMO Mountain",
             "image_type": "png",
             "v_mana": ""
@@ -11500,7 +11478,7 @@
             "loyalty": "",
             "artist": "Xu Wenshu",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": "!exportname PROMO Island",
             "image_type": "png",
             "v_mana": ""
@@ -11522,7 +11500,7 @@
             "loyalty": "",
             "artist": "Cherise Punzalan",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": "!exportname PROMO Forest",
             "image_type": "png",
             "v_mana": ""
@@ -11544,7 +11522,7 @@
             "loyalty": "",
             "artist": "Ekaterina Tambovceva",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": "human",
             "image_type": "png",
             "v_mana": ""
@@ -11566,7 +11544,7 @@
             "loyalty": "",
             "artist": "Jung Yeoll",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": "KILLFLAG",
             "image_type": "png",
             "v_mana": ""
@@ -11588,7 +11566,7 @@
             "loyalty": "",
             "artist": "Devin Elle Kurtz",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": "human",
             "image_type": "png",
             "v_mana": ""
@@ -11610,7 +11588,7 @@
             "loyalty": "",
             "artist": "Miketche",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11632,7 +11610,7 @@
             "loyalty": "",
             "artist": "Dagmara Matuszak",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11654,7 +11632,7 @@
             "loyalty": "",
             "artist": "Tiago Alexandre",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11676,7 +11654,7 @@
             "loyalty": "",
             "artist": "Vitaliy Fyeday",
             "alias": "",
-            "position": "294",
+            "position": "293",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11698,7 +11676,7 @@
             "loyalty": "",
             "artist": "Terrence Gouw",
             "alias": "",
-            "position": "295",
+            "position": "294",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11720,7 +11698,7 @@
             "loyalty": "",
             "artist": "Sam Nassour",
             "alias": "",
-            "position": "296",
+            "position": "295",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11742,7 +11720,7 @@
             "loyalty": "",
             "artist": "Denis Kornev",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11764,7 +11742,7 @@
             "loyalty": "",
             "artist": "Penelope Dominicali",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": "\nnick: inedible virtue\ndwarf",
             "image_type": "png",
             "v_mana": ""
@@ -11786,7 +11764,7 @@
             "loyalty": "",
             "artist": "Celticbotan",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": "FIELDFLAG",
             "image_type": "png",
             "v_mana": ""
@@ -11808,7 +11786,7 @@
             "loyalty": "",
             "artist": "Manuel Castanon",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": "!related Skystone Sculptory;",
             "image_type": "png",
             "v_mana": ""
@@ -11830,7 +11808,7 @@
             "loyalty": "",
             "artist": "Doodle Hound",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11852,7 +11830,7 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "position": "302",
+            "position": "301",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11874,7 +11852,7 @@
             "loyalty": "",
             "artist": "Jon Neimeister",
             "alias": "",
-            "position": "303",
+            "position": "302",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11896,7 +11874,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "304",
+            "position": "303",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11918,7 +11896,7 @@
             "loyalty": "",
             "artist": "Zana Arnautovic",
             "alias": "",
-            "position": "305",
+            "position": "304",
             "notes": "changeflag",
             "image_type": "png",
             "v_mana": ""
@@ -11940,7 +11918,7 @@
             "loyalty": "",
             "artist": "Caio Monteiro",
             "alias": "",
-            "position": "306",
+            "position": "305",
             "notes": "changeflag",
             "image_type": "png",
             "v_mana": ""
@@ -11962,7 +11940,7 @@
             "loyalty": "",
             "artist": "Simon Cardinal",
             "alias": "",
-            "position": "307",
+            "position": "306",
             "notes": "!sort 3cae\nchangeflag\nhuman\nvampire",
             "image_type": "png",
             "v_mana": ""
@@ -11984,7 +11962,7 @@
             "loyalty": "",
             "artist": "Matthieu Tourdes",
             "alias": "",
-            "position": "308",
+            "position": "307",
             "notes": "changeflag",
             "image_type": "png",
             "v_mana": ""
@@ -12006,7 +11984,7 @@
             "loyalty": "",
             "artist": "Loloratura Sopranerd",
             "alias": "",
-            "position": "309",
+            "position": "308",
             "notes": "changeflag",
             "image_type": "png",
             "v_mana": ""
@@ -12028,7 +12006,7 @@
             "loyalty": "",
             "artist": "Samuel Cunha jr",
             "alias": "",
-            "position": "310",
+            "position": "309",
             "notes": "HYBRID\nchangeflag",
             "image_type": "png",
             "v_mana": ""
@@ -12050,7 +12028,7 @@
             "loyalty": "",
             "artist": "Livia Prima",
             "alias": "",
-            "position": "311",
+            "position": "310",
             "notes": "changeflag",
             "image_type": "png",
             "v_mana": ""
@@ -12072,7 +12050,7 @@
             "loyalty": "",
             "artist": "Angelo Bortolini",
             "alias": "",
-            "position": "312",
+            "position": "311",
             "notes": "vampire\nchangeflag\n\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield tapped.\nYou may pay R. If you do, create a token that's a copy of that creature except it has haste. Sacrifice it at the beginning of the next end step.",
             "image_type": "png",
             "v_mana": ""
@@ -12094,7 +12072,7 @@
             "loyalty": "",
             "artist": "Rafael Saito",
             "alias": "",
-            "position": "313",
+            "position": "312",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12116,7 +12094,7 @@
             "loyalty": "",
             "artist": "ade surya",
             "alias": "",
-            "position": "314",
+            "position": "313",
             "notes": "troubadours",
             "image_type": "png",
             "v_mana": ""
@@ -12138,7 +12116,7 @@
             "loyalty": "",
             "artist": "higor pistori",
             "alias": "",
-            "position": "315",
+            "position": "314",
             "notes": "!sort 1commanderbait",
             "image_type": "png",
             "v_mana": ""
@@ -12160,7 +12138,7 @@
             "loyalty": "",
             "artist": "HuoMao Studio",
             "alias": "",
-            "position": "316",
+            "position": "315",
             "notes": "congregation",
             "image_type": "png",
             "v_mana": ""
@@ -12182,7 +12160,7 @@
             "loyalty": "",
             "artist": "Sergey Gurskiy",
             "alias": "",
-            "position": "317",
+            "position": "316",
             "notes": "operahouse",
             "image_type": "png",
             "v_mana": ""
@@ -12204,7 +12182,7 @@
             "loyalty": "",
             "artist": "Zana Arnautovic",
             "alias": "",
-            "position": "318",
+            "position": "317",
             "notes": "troubadours\nnick: imagine dragon",
             "image_type": "png",
             "v_mana": ""
@@ -12226,7 +12204,7 @@
             "loyalty": "",
             "artist": "Quang Ho",
             "alias": "",
-            "position": "319",
+            "position": "318",
             "notes": "atelier",
             "image_type": "png",
             "v_mana": ""
@@ -12248,7 +12226,7 @@
             "loyalty": "",
             "artist": "Anastasia",
             "alias": "",
-            "position": "320",
+            "position": "319",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12270,7 +12248,7 @@
             "loyalty": "",
             "artist": "Sonderflex",
             "alias": "",
-            "position": "321",
+            "position": "320",
             "notes": "gustatorie",
             "image_type": "png",
             "v_mana": ""
@@ -12292,7 +12270,7 @@
             "loyalty": "",
             "artist": "bigboxart",
             "alias": "",
-            "position": "322",
+            "position": "321",
             "notes": "!related Coax the Worldsongs;",
             "image_type": "png",
             "v_mana": ""
@@ -12314,7 +12292,7 @@
             "loyalty": "",
             "artist": "Esther Gal\u00e1n",
             "alias": "",
-            "position": "323",
+            "position": "322",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12336,7 +12314,7 @@
             "loyalty": "",
             "artist": "Bruno Cardoso",
             "alias": "",
-            "position": "324",
+            "position": "323",
             "notes": "HYBRID\nKILLFLAG 2/3",
             "image_type": "png",
             "v_mana": ""
@@ -12358,7 +12336,7 @@
             "loyalty": "",
             "artist": "Tim Warnock",
             "alias": "",
-            "position": "325",
+            "position": "324",
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12379,6 +12357,28 @@
             "set": "MVX",
             "loyalty": "",
             "artist": "Grafit Studio",
+            "alias": "",
+            "position": "325",
+            "notes": "",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Gustatorie Explorateur",
+            "color": "B",
+            "rarity": "common",
+            "type": "Creature \u2013 Ogre Druid",
+            "number": 92,
+            "color_identity": "B",
+            "cost": "{5}{B}",
+            "rules_text": "Menace\n[i]Feast[/i] \u2013 At the beginning of your end step, if you've gained life or created a token this turn, each opponent loses 2 life.",
+            "flavor_text": "[i]\u201cEye of newt?\u201d The old ogre laughed. \u201cOh, they're just mustard seeds. We figured out newt eyes taste gross a [/i]long[i] time ago.\u201d [/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "rayven Studios",
             "alias": "",
             "position": "326",
             "notes": "",

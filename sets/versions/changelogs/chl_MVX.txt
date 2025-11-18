@@ -1,4 +1,167 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+
+Gustatorie Explorateur
+
+
+VERSION 22 CHANGELOG
+====================
+
+
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+
+Velda, Opera Diva
+
+Roland, Second Fiddle
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Frymaster's Pan
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Jaunty Tune
+
+The Flourishing
+
+Bite Down on Treats
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+
+Secret Ingredients
+
+The Rejection of the Monarchy
+
+Chisel
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Annul
+
+Stage Double
+
+Arbiter of Taste
+
+The Bardenmoot
+
+Diego, Slam Poet
+
+Reconstruct
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Demon of Many Pages
+
+First Chair Violinist
+
+Nature's Bounty
+
+Dragon
+
+Atelier Artisan
+
+Parapet Percher
+
+Skystone Sculptory
+
+Iterate Over
+
+Gustatorie Explorateur
+type: Creature — Orc Druid => Creature — Ogre Druid
+
+
+VERSION 21 CHANGELOG
 ====================
 
 

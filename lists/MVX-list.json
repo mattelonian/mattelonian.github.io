@@ -39,42 +39,42 @@
         "number": 20,
         "shape": "normal",
         "set": "MVX",
-        "position": "261"
+        "position": "260"
     },
     {
         "card_name": "Demon of Many Pages",
         "number": 44,
         "shape": "normal",
         "set": "MVX",
-        "position": "319"
+        "position": "318"
     },
     {
         "card_name": "Dramatis Personae",
         "number": 85,
         "shape": "normal",
         "set": "MVX",
-        "position": "303"
+        "position": "302"
     },
     {
         "card_name": "Coax the Worldsongs",
         "number": 113,
         "shape": "saga",
         "set": "MVX",
-        "position": "318"
+        "position": "317"
     },
     {
         "card_name": "Nature's Bounty",
         "number": 169,
         "shape": "normal",
         "set": "MVX",
-        "position": "321"
+        "position": "320"
     },
     {
         "card_name": "Skystone Sculptory",
         "number": 28,
         "shape": "class",
         "set": "MVX",
-        "position": "325"
+        "position": "324"
     },
     {
         "card_name": "Preserve the Moment",
@@ -88,7 +88,7 @@
         "number": 89,
         "shape": "normal",
         "set": "MVX",
-        "position": "320"
+        "position": "319"
     },
     {
         "card_name": "Hearthsong",
@@ -102,7 +102,7 @@
         "number": 173,
         "shape": "normal",
         "set": "MVX",
-        "position": "272"
+        "position": "271"
     },
     {
         "card_name": "Balcony Chanteur",
@@ -130,7 +130,7 @@
         "number": 109,
         "shape": "normal",
         "set": "MVX",
-        "position": "313"
+        "position": "312"
     },
     {
         "card_name": "Body of Literature",
@@ -144,7 +144,7 @@
         "number": 17,
         "shape": "normal",
         "set": "MVX",
-        "position": "326"
+        "position": "325"
     },
     {
         "card_name": "Houndcrafter Savant",
@@ -158,7 +158,7 @@
         "number": 80,
         "shape": "normal",
         "set": "MVX",
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "Elven Glassblower",
@@ -172,7 +172,7 @@
         "number": 159,
         "shape": "normal",
         "set": "MVX",
-        "position": "264"
+        "position": "263"
     },
     {
         "card_name": "Sauce Flinger",
@@ -186,14 +186,14 @@
         "number": 55,
         "shape": "normal",
         "set": "MVX",
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "Diviner of the Dessert",
         "number": 83,
         "shape": "normal",
         "set": "MVX",
-        "position": "250"
+        "position": "249"
     },
     {
         "card_name": "Festival Revelry",
@@ -214,7 +214,7 @@
         "number": 32,
         "shape": "normal",
         "set": "MVX",
-        "position": "268"
+        "position": "267"
     },
     {
         "card_name": "Serenade",
@@ -228,7 +228,7 @@
         "number": 90,
         "shape": "normal",
         "set": "MVX",
-        "position": "271"
+        "position": "270"
     },
     {
         "card_name": "Flamesweeper",
@@ -249,7 +249,7 @@
         "number": 34,
         "shape": "normal",
         "set": "MVX",
-        "position": "255"
+        "position": "254"
     },
     {
         "card_name": "Solid Fundamentals",
@@ -277,7 +277,7 @@
         "number": 176,
         "shape": "normal",
         "set": "MVX",
-        "position": "282"
+        "position": "281"
     },
     {
         "card_name": "Waxbreath Youngling",
@@ -291,35 +291,35 @@
         "number": 69,
         "shape": "normal",
         "set": "MVX",
-        "position": "305"
+        "position": "304"
     },
     {
         "card_name": "Onerous Old-Timer",
         "number": 98,
         "shape": "normal",
         "set": "MVX",
-        "position": "317"
+        "position": "316"
     },
     {
         "card_name": "Phoenixsong",
         "number": 135,
         "shape": "normal",
         "set": "MVX",
-        "position": "273"
+        "position": "272"
     },
     {
         "card_name": "Vivid Expression",
         "number": 179,
         "shape": "normal",
         "set": "MVX",
-        "position": "270"
+        "position": "269"
     },
     {
         "card_name": "Bolstering Chefbot",
         "number": 2,
         "shape": "normal",
         "set": "MVX",
-        "position": "295"
+        "position": "294"
     },
     {
         "card_name": "Birdsong",
@@ -368,7 +368,7 @@
         "number": 79,
         "shape": "normal",
         "set": "MVX",
-        "position": "249"
+        "position": "248"
     },
     {
         "card_name": "Dragonsong",
@@ -431,21 +431,21 @@
         "number": 48,
         "shape": "saga",
         "set": "MVX",
-        "position": "289"
+        "position": "288"
     },
     {
         "card_name": "Dishearten",
         "number": 82,
         "shape": "normal",
         "set": "MVX",
-        "position": "269"
+        "position": "268"
     },
     {
         "card_name": "Impassioned Singer",
         "number": 127,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "279"
+        "position": "278"
     },
     {
         "card_name": "Cost of Perfection",
@@ -515,21 +515,21 @@
         "number": 136,
         "shape": "saga",
         "set": "MVX",
-        "position": "299"
+        "position": "298"
     },
     {
         "card_name": "Kitty Connoisseur",
         "number": 167,
         "shape": "normal",
         "set": "MVX",
-        "position": "296"
+        "position": "295"
     },
     {
         "card_name": "Parts Picker",
         "number": 22,
         "shape": "normal",
         "set": "MVX",
-        "position": "252"
+        "position": "251"
     },
     {
         "card_name": "Redesign",
@@ -641,14 +641,14 @@
         "number": 70,
         "shape": "normal",
         "set": "MVX",
-        "position": "280"
+        "position": "279"
     },
     {
         "card_name": "Witch of Forbidden Treats",
         "number": 108,
         "shape": "normal",
         "set": "MVX",
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "Waxcrafter",
@@ -676,7 +676,7 @@
         "number": 37,
         "shape": "normal",
         "set": "MVX",
-        "position": "311"
+        "position": "310"
     },
     {
         "card_name": "Artistic Benefactor",
@@ -711,7 +711,7 @@
         "number": 38,
         "shape": "normal",
         "set": "MVX",
-        "position": "323"
+        "position": "322"
     },
     {
         "card_name": "Aspiring Performer",
@@ -760,14 +760,14 @@
         "number": 116,
         "shape": "normal",
         "set": "MVX",
-        "position": "291"
+        "position": "290"
     },
     {
         "card_name": "Bite Down on Treats",
         "number": 151,
         "shape": "normal",
         "set": "MVX",
-        "position": "290"
+        "position": "289"
     },
     {
         "card_name": "Deride",
@@ -809,7 +809,7 @@
         "number": 7,
         "shape": "normal",
         "set": "MVX",
-        "position": "260"
+        "position": "259"
     },
     {
         "card_name": "Change Perspective",
@@ -893,21 +893,21 @@
         "number": 92,
         "shape": "normal",
         "set": "MVX",
-        "position": "248"
+        "position": "326"
     },
     {
         "card_name": "Forgehammer",
         "number": 123,
         "shape": "normal",
         "set": "MVX",
-        "position": "281"
+        "position": "280"
     },
     {
         "card_name": "Cookie Snatcher",
         "number": 156,
         "shape": "normal",
         "set": "MVX",
-        "position": "294"
+        "position": "293"
     },
     {
         "card_name": "Inspirational Performer",
@@ -998,7 +998,7 @@
         "number": 96,
         "shape": "normal",
         "set": "MVX",
-        "position": "253"
+        "position": "252"
     },
     {
         "card_name": "Ironstreet Welders",
@@ -1040,7 +1040,7 @@
         "number": 131,
         "shape": "saga",
         "set": "MVX",
-        "position": "288"
+        "position": "287"
     },
     {
         "card_name": "Green Thumbed Growth",
@@ -1054,7 +1054,7 @@
         "number": 23,
         "shape": "normal",
         "set": "MVX",
-        "position": "316"
+        "position": "315"
     },
     {
         "card_name": "Prevent Catastrophe",
@@ -1103,7 +1103,7 @@
         "number": 102,
         "shape": "normal",
         "set": "MVX",
-        "position": "309"
+        "position": "308"
     },
     {
         "card_name": "Merry Troubadour",
@@ -1173,7 +1173,7 @@
         "number": 105,
         "shape": "normal",
         "set": "MVX",
-        "position": "312"
+        "position": "311"
     },
     {
         "card_name": "See the Sights",
@@ -1201,7 +1201,7 @@
         "number": 71,
         "shape": "normal",
         "set": "MVX",
-        "position": "306"
+        "position": "305"
     },
     {
         "card_name": "Understudy",
@@ -1291,7 +1291,7 @@
         "number": 232,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "258"
+        "position": "257"
     },
     {
         "card_name": "Elaphia, Full of Wonder",
@@ -1326,14 +1326,14 @@
         "number": 247,
         "shape": "normal",
         "set": "MVX",
-        "position": "257"
+        "position": "256"
     },
     {
         "card_name": "Diego, Slam Poet",
         "number": 197,
         "shape": "normal",
         "set": "MVX",
-        "position": "315"
+        "position": "314"
     },
     {
         "card_name": "Sylvie, Garden Tender",
@@ -1368,7 +1368,7 @@
         "number": 225,
         "shape": "normal",
         "set": "MVX",
-        "position": "277"
+        "position": "276"
     },
     {
         "card_name": "Chicken Coop",
@@ -1389,21 +1389,21 @@
         "number": 190,
         "shape": "normal",
         "set": "MVX",
-        "position": "266"
+        "position": "265"
     },
     {
         "card_name": "Lament",
         "number": 218,
         "shape": "normal",
         "set": "MVX",
-        "position": "251"
+        "position": "250"
     },
     {
         "card_name": "Show of Strength",
         "number": 236,
         "shape": "normal",
         "set": "MVX",
-        "position": "302"
+        "position": "301"
     },
     {
         "card_name": "Gustatorie Mixer",
@@ -1445,7 +1445,7 @@
         "number": 235,
         "shape": "normal",
         "set": "MVX",
-        "position": "298"
+        "position": "297"
     },
     {
         "card_name": "Meticulous Sculptor",
@@ -1487,7 +1487,7 @@
         "number": 259,
         "shape": "normal",
         "set": "MVX",
-        "position": "324"
+        "position": "323"
     },
     {
         "card_name": "Paper Familiars",
@@ -1579,28 +1579,28 @@
         "number": 186,
         "shape": "saga",
         "set": "MVX",
-        "position": "314"
+        "position": "313"
     },
     {
         "card_name": "Frymaster's Pan",
         "number": 205,
         "shape": "normal",
         "set": "MVX",
-        "position": "276"
+        "position": "275"
     },
     {
         "card_name": "Scrapsmelt Foundry",
         "number": 234,
         "shape": "class",
         "set": "MVX",
-        "position": "263"
+        "position": "262"
     },
     {
         "card_name": "Starlit Horizons",
         "number": 240,
         "shape": "normal",
         "set": "MVX",
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "Festival Puppeteer",
@@ -1628,7 +1628,7 @@
         "number": 185,
         "shape": "normal",
         "set": "MVX",
-        "position": "301"
+        "position": "300"
     },
     {
         "card_name": "Inkblot Familiar",
@@ -1649,7 +1649,7 @@
         "number": 207,
         "shape": "saga",
         "set": "MVX",
-        "position": "297"
+        "position": "296"
     },
     {
         "card_name": "Free-Range Foraging",
@@ -1677,7 +1677,7 @@
         "number": 230,
         "shape": "normal",
         "set": "MVX",
-        "position": "275"
+        "position": "274"
     },
     {
         "card_name": "Valiant Versemaker",
@@ -1733,7 +1733,7 @@
         "number": 254,
         "shape": "normal",
         "set": "MVX",
-        "position": "310"
+        "position": "309"
     },
     {
         "card_name": "Inspiring Walk",
@@ -1762,7 +1762,7 @@
         "number": 208,
         "shape": "normal",
         "set": "MVX",
-        "position": "307"
+        "position": "306"
     },
     {
         "card_name": "Song of Creation",
@@ -1783,21 +1783,21 @@
         "number": 181,
         "shape": "normal",
         "set": "MVX",
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "Far-off Places",
         "number": 200,
         "shape": "normal",
         "set": "MVX",
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Knockout Performance",
         "number": 216,
         "shape": "normal",
         "set": "MVX",
-        "position": "308"
+        "position": "307"
     },
     {
         "card_name": "Hymn to the Wilds",
@@ -1811,14 +1811,14 @@
         "number": 183,
         "shape": "normal",
         "set": "MVX",
-        "position": "304"
+        "position": "303"
     },
     {
         "card_name": "Plan by Committee",
         "number": 229,
         "shape": "normal",
         "set": "MVX",
-        "position": "292"
+        "position": "291"
     },
     {
         "card_name": "Reconceptualize",
@@ -1832,7 +1832,7 @@
         "number": 248,
         "shape": "normal",
         "set": "MVX",
-        "position": "293"
+        "position": "292"
     },
     {
         "card_name": "Partners in Rhyme",
@@ -1942,7 +1942,7 @@
         "number": 267,
         "shape": "normal",
         "set": "MVX",
-        "position": "278"
+        "position": "277"
     },
     {
         "card_name": "Inkbottle",
@@ -1956,7 +1956,7 @@
         "number": 274,
         "shape": "normal",
         "set": "MVX",
-        "position": "259"
+        "position": "258"
     },
     {
         "card_name": "Trash-eater Gnome",
@@ -2250,35 +2250,35 @@
         "number": 9,
         "shape": "normal",
         "set": "MVX",
-        "position": "283"
+        "position": "282"
     },
     {
         "card_name": "PROMO Plains",
         "number": 7,
         "shape": "normal",
         "set": "MVX",
-        "position": "284"
+        "position": "283"
     },
     {
         "card_name": "PROMO Mountain",
         "number": 6,
         "shape": "normal",
         "set": "MVX",
-        "position": "285"
+        "position": "284"
     },
     {
         "card_name": "PROMO Island",
         "number": 5,
         "shape": "normal",
         "set": "MVX",
-        "position": "286"
+        "position": "285"
     },
     {
         "card_name": "PROMO Forest",
         "number": 4,
         "shape": "normal",
         "set": "MVX",
-        "position": "287"
+        "position": "286"
     },
     {
         "card_name": "er"
@@ -2305,7 +2305,7 @@
         "number": 12,
         "shape": "token",
         "set": "MVX",
-        "position": "300"
+        "position": "299"
     },
     {
         "card_name": "Construct",
@@ -2417,7 +2417,7 @@
         "number": 7,
         "shape": "token",
         "set": "MVX",
-        "position": "322"
+        "position": "321"
     },
     {
         "card_name": "Elemental",
