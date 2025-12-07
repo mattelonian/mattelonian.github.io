@@ -1,7 +1,7 @@
 ﻿{
     "name": "Beyond the Aurora",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -5908,6 +5908,5 @@
             "position": "294",
             "notes": "!tokentag Aurora Reminder\nbuff it"
         }
-    ],
-    "version": 2
+    ]
 }

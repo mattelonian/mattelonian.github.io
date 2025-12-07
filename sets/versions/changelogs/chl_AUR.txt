@@ -1,4 +1,905 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Hungering Lights
+rules_text: When this creature enters or dies, exile target card from an opponent’s graveyard. => When this creature enters or dies, exile target card from an opponent's graveyard.
+
+Prophetic Prism
+
+Skullcreeper Blossom
+
+Gorehorn Baloth
+rules_text: Menace
+Scavenge {5}{B} [i]({5}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => Menace
+Scavenge {5}{B} [i]({5}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Bloodmark Beetle
+
+Carrion Shrieker
+
+Sporespewer
+
+Gore
+
+Drag Below
+
+Hyperventilate
+
+Toskari Lookout
+
+Crystalglow Brute
+rules_text: Aurora [i](When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)[/i]
+This creature can’t be blocked by creatures with power less than or equal to the number of colors in your aurora. => Aurora [i](When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)[/i]
+This creature can't be blocked by creatures with power less than or equal to the number of colors in your aurora.
+
+Pinewreathed Prowler
+
+King of the Forest
+
+Suffuse with Power
+
+Predate the Skies
+rules_text: Destroy target artifact, enchantment, or creature with flying. If that permanent’s mana value was 3 or less, surveil 2. => Destroy target artifact, enchantment, or creature with flying. If that permanent's mana value was 3 or less, surveil 2.
+
+Magmashell Turtle
+
+Volcanic Toad
+rules_text: When this creature enters, choose one —
+• It deals 2 damage to each opponent.
+• Create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature enters, choose one —
+• It deals 2 damage to each opponent.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Dolnjar Crusher
+
+Spirit of the Canyon
+
+Conflagration Wurm
+
+Volatile Leap
+rules_text: Target creature you control gets +1/+0 and gains first strike until end of turn. Aetherize it. [i](Create a token that’s a copy of it, then exile that token. Copies include merged parts.)[/i] => Target creature you control gets +1/+0 and gains first strike until end of turn. Aetherize it. [i](Create a token that's a copy of it, then exile that token. Copies include merged parts.)[/i]
+
+Ephemeral Civet
+rules_text: Menace
+When a creature scavenges this creature, return up to one target instant or sorcery card from your graveyard to your hand.
+Scavenge {4}{U} [i]({4}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => Menace
+When a creature scavenges this creature, return up to one target instant or sorcery card from your graveyard to your hand.
+Scavenge {4}{U} [i]({4}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Berryfield Drakeling
+
+Everfrost Hawk
+
+Adventurous Ursine
+
+Wavecrash Colossus
+
+Negate
+
+Luminous Communion
+
+Return to Aether
+rules_text: Return target creature to its owner’s hand. If you controlled that creature, aetherize it. [i](Create a token that’s a copy of it, then exile that token. Copies include merged parts.)[/i]
+Draw a card. => Return target creature to its owner's hand. If you controlled that creature, aetherize it. [i](Create a token that's a copy of it, then exile that token. Copies include merged parts.)[/i]
+Draw a card.
+
+Berry Picker
+
+Pack Scrounger
+rules_text: Scavenge {2}{W} [i]({2}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => Scavenge {2}{W} [i]({2}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Witness of the Skies
+
+Toskari Hero
+
+Infused Owlbear
+
+Dawnfeather Roc
+
+Protector of the Meek
+
+Pick Off
+
+The Self Is A Reflection
+
+Prismatic Rage
+
+Fleeting Memories
+
+Lone Spirit
+
+Rampaging Hipposaur
+rules_text: This spell can’t be countered.
+This creature enters with your choice of a vigilance or trample counter.
+{1}, Remove a counter from this creature: It gains indestructible until end of turn. Tap it. => This spell can't be countered.
+This creature enters with your choice of a vigilance or trample counter.
+{1}, Remove a counter from this creature: It gains indestructible until end of turn. Tap it.
+
+Stampede of Beasts
+
+Quiet Never Truly Falls
+
+Manifest from Beyond
+
+Crest the Stars
+
+Stalk the Mind
+rules_text: Exile the top two cards of target opponent’s library. Until the end of your next turn, you may play those cards and mana of any type can be spent to cast them. => Exile the top two cards of target opponent's library. Until the end of your next turn, you may play those cards and mana of any type can be spent to cast them.
+
+Manablossom
+
+Final Confrontation
+
+Hunter of Streams
+rules_text: Menace
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. If this isn’t the first time this ability has resolved this turn, create a 2/1 red Crocodile creature token with menace and “This token can’t block.” => Menace
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. If this isn't the first time this ability has resolved this turn, create a 2/1 red Crocodile creature token with menace and “This token can't block.”
+
+Unearthed Past
+
+Burn the Sky Down
+
+Howl of Ancestry
+
+Dolnjar Terror
+
+Doln, End of All Things
+
+Molten Infusion
+
+Shardback Leviathan
+rules_text: When this creature enters, if it was cast, return each other nonland permanent with mana value less than the number of land cards in your graveyard to their owners’ hands. => When this creature enters, if it was cast, return each other nonland permanent with mana value less than the number of land cards in your graveyard to their owners' hands.
+
+Manahunter Griffin
+
+Vali's Yearning
+rules_text: Draw X cards, then discard a card.
+Search your library for a Vali card, reveal it, put it into your hand, then shuffle.
+Exile Vali’s Yearning. => Draw X cards, then discard a card.
+Search your library for a Vali card, reveal it, put it into your hand, then shuffle.
+Exile Vali's Yearning.
+
+Writ in Starlight
+
+Aethergorged Condor
+
+Step Among Clouds
+
+Trek Upwards
+
+Wandering Lustre
+
+Eiyo's Guardian
+rules_text: Trample
+{3}, Discard Eiyo’s Guardian: Draw a card and create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+{3}, Discard Eiyo's Guardian: Draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Igneous Tiger
+rules_text: This creature enters tapped.
+{1}{B}: Return this creature from your graveyard to your hand. Activate only if you’ve cast a noncreature spell this turn. => This creature enters tapped.
+{1}{B}: Return this card from your graveyard to your hand. Activate only if you've cast a noncreature spell this turn.
+
+Return Through Rot
+
+Starvation
+
+The Mind's Eye Slips All Bonds
+
+Aether Parasite
+
+Skolweald Veteran
+
+Cragskin Rhino
+
+Firebelly Frogan
+
+Crystal Carapace
+
+Mire Blossoms
+
+Memories of Forgotten Heroes
+
+Luminous Fen
+
+Luminous Peaks
+
+Luminous Copse
+
+Ashcrystal Moloch
+
+Slag Gorger
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+This creature has menace as long as you’ve sacrificed a Treasure this turn. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+This creature has menace as long as you've sacrificed a Treasure this turn.
+
+Solar Eclipse
+
+Young Hipposaur
+
+Tidemare
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature attacks, if you’ve cast a noncreature spell this turn, tap up to one target creature. => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever this creature attacks, if you've cast a noncreature spell this turn, tap up to one target creature.
+
+Borealis Swimmer
+
+Icicle Tromper
+
+Fledgeling Forager
+
+Polar Moose
+rules_text: When this creature enters or a creature scavenges it, tap target creature an opponent controls.
+Scavenge {4}{W} [i]({4}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => When this creature enters or a creature scavenges it, tap target creature an opponent controls.
+Scavenge {4}{W} [i]({4}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Apprentice Luminant
+
+Run with the Spirit Pack
+rules_text: Whenever you attack, aetherize target attacking creature you control. [i](Create a token that’s a copy of it, then exile that token. Copies include merged parts.)[/i] => Whenever you attack, aetherize target attacking creature you control. [i](Create a token that's a copy of it, then exile that token. Copies include merged parts.)[/i]
+
+Wayfarer's Shrine
+
+Prey On The Frailty of Strength
+
+Passion's Warmth Burns
+rules_text: Incarnate {3}{R} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Passion’s Warmth Burns deals 2 damage to any target. => Incarnate {3}{R} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Passion's Warmth Burns deals 2 damage to any target.
+
+The Careful Designs of Instinct
+
+The Forest Of A Tree
+rules_text: Incarnate {6}{G} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. You gain 3 life.  => Incarnate {6}{G} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. You gain 3 life.
+
+Lucent Quag
+
+Sundappled Cove
+
+Glistering Canopy
+
+Swooping Strix
+rules_text: Flash
+Flying
+When this creature enters, you may return another creature you control to its owner’s hand. [i](All merged parts return.)[/i] => Flash
+Flying
+When this creature enters, you may return another creature you control to its owner's hand. [i](All merged parts return.)[/i]
+
+Lies Are Themselves A Truth
+
+Walker of Starlit Paths
+
+Hellfire Maw
+
+Empyrean Stalker
+
+Fungal Glow
+rules_text: When this enchantment enters, create two 1/1 black Fungus creature tokens with “During your turn, this token has deathtouch.”
+Whenever a creature you control dies, if it wasn’t blocking, each opponent loses 1 life and you gain 1 life. => When this enchantment enters, create two 1/1 black Fungus creature tokens with “During your turn, this token has deathtouch.”
+Whenever a creature you control dies, if it wasn't blocking, each opponent loses 1 life and you gain 1 life.
+
+Frosthorn Akhos
+
+The Reflection Gazes Back
+
+Time's Waves Ripple
+rules_text: Incarnate {6}{U}{U} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Take an extra turn after this one.
+This Revelation can’t be blocked.
+If Time’s Waves Ripple would be put into a graveyard from anywhere, exile it instead. => Incarnate {6}{U}{U} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Take an extra turn after this one.
+This Revelation can't be blocked.
+If Time's Waves Ripple would be put into a graveyard from anywhere, exile it instead.
+
+Permanence Is Temporary
+
+The Unseen Eternity of Night
+
+The Body Masters The Mind
+
+The Sun Rises As It Falls
+rules_text: Incarnate {3}{R}{W} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Create a token that’s a copy of up to one target creature you control, except it has haste. Exile the token at the beginning of the next end step. If it’s your combat phase, it enters tapped and attacking.
+Double strike
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. [i](You still pay its costs.)[/i] => Incarnate {3}{R}{W} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Create a token that's a copy of up to one target creature you control, except it has haste. Exile the token at the beginning of the next end step. If it's your combat phase, it enters tapped and attacking.
+Double strike
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. [i](You still pay its costs.)[/i]
+
+The Circle Of Life Is A Spiral
+
+The End of Infinity
+rules_text: Incarnate {4}{U}{R} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Target opponent may have The End of Infinity deal 4 damage to them. If that player doesn’t, you draw three cards.
+Flying
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. [i](You still pay its costs.)[/i]                => Incarnate {4}{U}{R} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Target opponent may have The End of Infinity deal 4 damage to them. If that player doesn't, you draw three cards.
+Flying
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. [i](You still pay its costs.)[/i]
+
+The Space Between Moments
+
+Growth Is Mere Perspective
+
+Bask in Sunlight
+rules_text: Choose one or both —
+• Destroy target artifact or enchantment.
+• Aetherize target creature you control. [i](Create a token that’s a copy of it, then exile that token. Copies include merged parts.)[/i] => Choose one or both —
+• Destroy target artifact or enchantment.
+• Aetherize target creature you control. [i](Create a token that's a copy of it, then exile that token. Copies include merged parts.)[/i]
+
+Elk Token
+
+Wolf Token
+
+Veil of the Aurora
+
+Touch of Flame
+
+Majestic Frosthorn
+
+Invoke the Lights
+
+Phoenixfire
+
+Radiant Rebuff
+
+Inferno Breath
+rules_text: Target creature you control gets +2/+1 until end of turn if {R}{G} was spent to cast this spell. Then it fights target creature you don’t control. [i](Each deals damage equal to its power to the other.)[/i] => Target creature you control gets +2/+1 until end of turn if {R}{G} was spent to cast this spell. Then it fights target creature you don't control. [i](Each deals damage equal to its power to the other.)[/i]
+
+Boreal Expanse
+
+Celestial Grotto
+
+Bird Token
+
+Lifter Griffin
+rules_text: Flying
+As a creature scavenges this creature, put a flying counter on that creature.
+Scavenge {4}{W} [i]({4}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => Flying
+As a creature scavenges this creature, put a flying counter on that creature.
+Scavenge {4}{W} [i]({4}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Grassland Jackalope
+rules_text: When this creature enters or a creature scavenges it, you gain 2 life.
+Scavenge {W} [i]({W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => When this creature enters or a creature scavenges it, you gain 2 life.
+Scavenge {W} [i]({W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Honeyfield Shepherd
+
+Wyrmsbane
+rules_text: Deathtouch
+As a creature scavenges this creature, put a deathtouch counter on that creature.
+Scavenge {3}{G} [i]({3}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => Deathtouch
+As a creature scavenges this creature, put a deathtouch counter on that creature.
+Scavenge {3}{G} [i]({3}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Vanguard Longsword
+rules_text: Equipped creature gets +2/+1.
+Equipped creature can’t be blocked by creatures with power 4 or greater.
+Equip {3} => Equipped creature gets +2/+1.
+Equipped creature can't be blocked by creatures with power 4 or greater.
+Equip {3}
+
+Infernal Morass
+
+Spiring Rime
+
+Flowering Vista
+
+Autumnal Thicket
+
+Shrouded Heath
+
+Deathbloom
+
+Ambling Dewdrop
+
+Lustrous Lurker
+rules_text: Aurora [i](When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)[/i]
+{4}{U}: Lustrous Lurker can’t be blocked this turn. This ability costs {1} less to activate for each color in your aurora. => Aurora [i](When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)[/i]
+{4}{U}: Lustrous Lurker can't be blocked this turn. This ability costs {1} less to activate for each color in your aurora.
+
+Plaguewolf
+rules_text: When this creature enters or a creature scavenges it, you lose 2 life.
+Scavenge {1}{B} [i]({1}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => When this creature enters or a creature scavenges it, you lose 2 life.
+Scavenge {1}{B} [i]({1}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Charging Visceram
+rules_text: When this creature dies or a creature scavenges it, each opponent loses 2 life.
+Scavenge {4}{B} [i]({4}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => When this creature dies or a creature scavenges it, each opponent loses 2 life.
+Scavenge {4}{B} [i]({4}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Eiyo Ascendant
+rules_text:  => [+2]: Create a token that's a copy of up to one target artifact or creature you control, except it's an artifact and loses all other types.
+[+1]: Target artifact or creature you control becomes a 3/3 Dragon creature with flying and haste in addition to its other types.
+[-3]: Eiyo deals 4 damage to any nonplayer target and you gain 4 life. Create X Treasure tokens, where X is the excess damage dealt this way.
+[-8]: You get an emblem with “You may cast copies of cards in your graveyard by sacrificing an artifact and exiling the card in addition to its other costs.”
+special_text: [+2]: Create a token that’s a copy of up to one target artifact or creature you control, except it’s an artifact and loses all other types.
+[+1]: Target artifact or creature you control becomes a 3/3 Dragon creature with flying and haste in addition to its other types.
+[-3]: Eiyo deals 4 damage to any nonplayer target and you gain 4 life. Create X Treasure tokens, where X is the excess damage dealt this way.
+[-8]: You get an emblem with “You may cast copies of cards in your graveyard by sacrificing an artifact and exiling the card in addition to its other costs.” => [+2]: Create a token that's a copy of up to one target artifact or creature you control, except it's an artifact and loses all other types.
+[+1]: Target artifact or creature you control becomes a 3/3 Dragon creature with flying and haste in addition to its other types.
+[-3]: Eiyo deals 4 damage to any nonplayer target and you gain 4 life. Create X Treasure tokens, where X is the excess damage dealt this way.
+[-8]: You get an emblem with “You may cast copies of cards in your graveyard by sacrificing an artifact and exiling the card in addition to its other costs.”
+
+Gloomstep Panther
+
+PROMO Wayfarer's Shrine
+
+Lurking in the Shallows
+rules_text: You may cast this spell as though it had flash if {U}{B} is spent to cast it.
+Create a 2/1 red Crocodile creature token with menace and “This token can’t block.” => You may cast this spell as though it had flash if {U}{B} is spent to cast it.
+Create a 2/1 red Crocodile creature token with menace and “This token can't block.”
+
+Feverbloom
+
+To Fall Forever Is To Fly
+
+Stormshrike
+
+Adaptive Combat
+
+Autumnal Summons
+
+Humiliate
+
+Omen of Woe
+rules_text: Whenever this creature deals combat damage to a player, create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Whenever this creature deals combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Luminous Sheets
+
+The Illusion of a Chill
+
+Reefcrown Drake
+rules_text: Prowess, ward {1}
+This creature can’t be blocked by creatures with power less than or equal to the total number of instant and sorcery cards you own in exile and in your graveyard. => Prowess, ward {1}
+This creature can't be blocked by creatures with power less than or equal to the total number of instant and sorcery cards you own in exile and in your graveyard.
+
+Efferpheasant
+
+Bloomwarden
+
+Elemental Token
+
+Vali the Curious
+rules_text:  => [+1]: Draw a card. Then discard a card unless you've cast an instant or sorcery spell this turn.
+[-1]: Exile target instant or sorcery card from a graveyard and copy it. You may cast the copy and mana of any type can be spent to cast it.
+[-5]: For each player, search their library for an instant or sorcery card, exile it, then shuffle that library. You may cast any number of cards exiled this way without paying their mana costs.
+special_text: [+1]: Draw a card. Then discard a card unless you’ve cast an instant or sorcery spell this turn.
+[-1]: Exile target instant or sorcery card from a graveyard and copy it. You may cast the copy and mana of any type can be spent to cast it.
+[-5]: For each player, search their library for an instant or sorcery card, exile it, then shuffle that library. You may cast any number of cards exiled this way without paying their mana costs. => [+1]: Draw a card. Then discard a card unless you've cast an instant or sorcery spell this turn.
+[-1]: Exile target instant or sorcery card from a graveyard and copy it. You may cast the copy and mana of any type can be spent to cast it.
+[-5]: For each player, search their library for an instant or sorcery card, exile it, then shuffle that library. You may cast any number of cards exiled this way without paying their mana costs.
+
+Treetop Pangolin
+
+The Moon Howls Back
+
+Rabbit Token
+
+Aether Scrounger
+
+Elemental Burst
+
+Tectonic Hazard
+
+Fox of the Verdant Grove
+
+Kitstealer
+
+AUR DRAFT ARCHETYPES
+rules_text: {W}{U} REVELATIONS Witness the majesty of the ascendant by turning your small creatures and spells into powerful combinations!
+{U}{B} SABOTEURS Predate the night by slinking past your opponent’s blockers and going for the life total directly.
+{B}{R} AURORA CONTROL Play the long game as you remove threats, cast off-color spells and accrue value until your aurora is complete.
+{R}{G} AURORA MIDRANGE Beat your opponent down with on-curve threats then boost them all with your aurora!
+{G}{W} ABILITY COUNTERS Have your creatures share their abilities for the good of the collective as you capitalize off different counters.
+{W}{B} +1/+1 COUNTERS Scavenge the flesh of the dead to grow your threats. Your opponent’s life total is next!
+{B}{G} GO-WIDE Grow your board before you infect them all with a fungal buff to swing for lethal.
+{G}{U} LANDS Put lands in your graveyard and onto the battlefield to cast your huge threats faster!
+{U}{R} SPELLSLINGER AGGRO Use elemental infusions to blast your opponent with spells before they can react.
+{R}{W} BLINK Aetherize and reuse your powerful enters effects until nobody can compete with the value. => {W}{U} REVELATIONS Witness the majesty of the ascendant by turning your small creatures and spells into powerful combinations!
+{U}{B} SABOTEURS Predate the night by slinking past your opponent's blockers and going for the life total directly.
+{B}{R} AURORA CONTROL Play the long game as you remove threats, cast off-color spells and accrue value until your aurora is complete.
+{R}{G} AURORA MIDRANGE Beat your opponent down with on-curve threats then boost them all with your aurora!
+{G}{W} ABILITY COUNTERS Have your creatures share their abilities for the good of the collective as you capitalize off different counters.
+{W}{B} +1/+1 COUNTERS Scavenge the flesh of the dead to grow your threats. Your opponent's life total is next!
+{B}{G} GO-WIDE Grow your board before you infect them all with a fungal buff to swing for lethal.
+{G}{U} LANDS Put lands in your graveyard and onto the battlefield to cast your huge threats faster!
+{U}{R} SPELLSLINGER AGGRO Use elemental infusions to blast your opponent with spells before they can react.
+{R}{W} BLINK Aetherize and reuse your powerful enters effects until nobody can compete with the value.
+
+Flamewalker Hart
+
+Plant Token
+
+Beast Token
+
+Glimmerstalker
+rules_text: Trample
+This creature gets +1/+1 as long as you’ve cast a spell that’s white, blue, black, or green this turn. => Trample
+This creature gets +1/+1 as long as you've cast a spell that's white, blue, black, or green this turn.
+
+Myriad Shades of Silence
+
+The Unending Never Began
+
+Become What Always Was
+
+Skolweald Vanguard
+
+A Calm Rage Simmers
+
+Treasure Token
+
+Pouncing Jackewolf
+
+Rocktusk Boar
+rules_text: When this creature dies, surveil 1, then create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature dies, surveil 1, then create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Aurora Reminder
+
+Everywhere
+
+Parasitize
+
+Hunted by the Pack
+rules_text: This spell costs {1} less to cast for each creature you’ve attacked with this turn.
+Target creature gets -4/-4 until end of turn. => This spell costs {1} less to cast for each creature you've attacked with this turn.
+Target creature gets -4/-4 until end of turn.
+
+Gemeye Crab
+rules_text: Defender
+As long as you control an Avatar, this creature gets +1/+1 and can attack as though it didn’t have defender. => Defender
+As long as you control an Avatar, this creature gets +1/+1 and can attack as though it didn't have defender.
+
+Dreadbore
+
+Tunnelling Slugmole
+rules_text: When this creature enters or a creature scavenges it, you may discard a card. If you do, draw a card.
+Scavenge {3}{R} [i]({3}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => When this creature enters or a creature scavenges it, you may discard a card. If you do, draw a card.
+Scavenge {3}{R} [i]({3}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Silence of the Drowned
+rules_text: Choose one —
+• Counter target spell unless its controller pays {2}.
+• Tap target permanent. If it’s a creature, it doesn’t untap during its controller’s next untap step.  => Choose one —
+• Counter target spell unless its controller pays {2}.
+• Tap target permanent. If it's a creature, it doesn't untap during its controller's next untap step.
+
+Distraction
+rules_text: Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step. => Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+
+Transfixed by Wonder
+rules_text: This spell costs {2} less to cast if you control an Avatar.
+Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t be activated. => This spell costs {2} less to cast if you control an Avatar.
+Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+
+Curiosity
+
+Light of the Phoenix
+rules_text: Create a token that’s a copy of target creature you control. It gains haste until end of turn. Exile it at the beginning of the next end step. [i](Copies include merged parts.)[/i] => Create a token that's a copy of target creature you control. It gains haste until end of turn. Exile it at the beginning of the next end step. [i](Copies include merged parts.)[/i]
+
+Crystal Breath
+rules_text: Crystal Breath deals 4 damage to any nonplayer target.
+Create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Crystal Breath deals 4 damage to any nonplayer target.
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Aetherflame Hunting
+
+Violent Thrash
+rules_text: Choose two —
+• Target player creates a 2/1 red Crocodile creature token with menace and “This token can’t block.”
+• Destroy up to one target artifact.
+• Up to two target creatures can’t block this turn. => Choose two —
+• Target player creates a 2/1 red Crocodile creature token with menace and “This token can't block.”
+• Destroy up to one target artifact.
+• Up to two target creatures can't block this turn.
+
+Cosmic Figment
+
+Verdant Bloom
+
+Imbued with Aether
+rules_text: Enchant creature
+Enchanted creature gets +2/+1.
+When this Aura enters, create a Treasure token. [i](It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Enchant creature
+Enchanted creature gets +2/+1.
+When this Aura enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Eddies In The Stream Of Fate
+
+Unity Through Difference
+
+Peculiar Pollywogs
+rules_text: This creature has flying as long as you’ve cast an instant or sorcery spell this turn.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card. => This creature has flying as long as you've cast an instant or sorcery spell this turn.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.
+
+Only Love Births True Hate
+
+Toskari Aetherblade
+
+Nurturing Shelter
+
+Pondstepper Chick
+rules_text: Whenever a land enters under your control, you gain 1 life and surveil 1.
+As long as there are seven or more lands you control and/or land cards in your graveyard, this creature gets +1/+1 and has flying. => Whenever a land you control enters, you gain 1 life and surveil 1.
+As long as there are seven or more lands you control and/or land cards in your graveyard, this creature gets +1/+1 and has flying.
+
+Repel with Flame
+rules_text: Choose one. If you’ve cast another instant or sorcery spell this turn, you may choose both instead.
+• Counter target spell unless its controller pays {2}.
+• Draw two cards, then discard a card. Repel with Flame deals 2 damage to each opponent. => Choose one. If you've cast another instant or sorcery spell this turn, you may choose both instead.
+• Counter target spell unless its controller pays {2}.
+• Draw two cards, then discard a card. Repel with Flame deals 2 damage to each opponent.
+
+Winter's Stash
+
+Vulpine Razer
+
+Hydroid Krasis
+
+Mold Frog
+rules_text: Haste
+This creature can’t block.
+At the beginning of combat on your turn, you may sacrifice a token. If you do, return Mold Frog from your graveyard to the battlefield. => Haste
+This creature can't block.
+At the beginning of combat on your turn, you may sacrifice a token. If you do, return Mold Frog from your graveyard to the battlefield.
+
+Refraction Lynx
+
+Fungus Token
+
+Ascend
+rules_text: Flash
+Enchant creature
+When this Aura enters, enchanted creature phases out. [i](Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)[/i]
+Enchanted creature has flying and ward {2}. => Flash
+Enchant creature
+When this Aura enters, enchanted creature phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+Enchanted creature has flying and ward {2}.
+
+Glow
+rules_text: If you’ve attacked this turn, surveil 2.
+Draw a card. => If you've attacked this turn, surveil 2.
+Draw a card.
+
+Toskari Trueshot
+
+Essence Gouger
+
+Quag Festerer
+
+Bloodleecher Drake
+
+Effigy of Tranquility
+
+Effigy of Shelter
+
+Autumn Strider
+
+Simul, Aether Scholar
+rules_text:  => You may play land cards you own from outside the game.
+[+1]: Draw a card, then discard a card. If you discard a nonland card this way, put a loyalty counter on a planeswalker you control.
+[-5]: For each land you control, put your choice of a +1/+1 or loyalty counter on another creature or planeswalker you control.
+
+Suffocate in Aether
+
+Shadecrawler
+
+Shimmer Pack
+rules_text: When this creature enters, if it was cast, aetherize target creature you control. [i](Create a token that’s a copy of it, then exile that token. Copies include merged parts.)[/i] => When this creature enters, if it was cast, aetherize target creature you control. [i](Create a token that's a copy of it, then exile that token. Copies include merged parts.)[/i]
+
+Keep Vigil
+rules_text: When this enchantment enters, exile target creature or planeswalker an opponent controls until it leaves the battlefield.
+At the beginning of your end step, if you don’t control a creature with power 2 or less, sacrifice this enchantment. => When this enchantment enters, exile target creature or planeswalker an opponent controls until it leaves the battlefield.
+At the beginning of your end step, if you don't control a creature with power 2 or less, sacrifice this enchantment.
+
+Spirits' Protection
+
+Vorzanthirax, the Riftdweller
+
+Aether Invigoration
+
+Wings of the Aurora
+
+Gemstone Tyrant
+
+Return from Ash
+rules_text: Return from Ash deals 2 damage to each creature and each planeswalker. If a creature you control dealt damage this way would die this turn, return it to its owner’s hand instead. => Return from Ash deals 2 damage to each creature and each planeswalker. If a creature you control dealt damage this way would die this turn, return it to its owner's hand instead.
+
+Firemane Charger
+rules_text: Vigilance, haste
+Whenever this creature attacks, aetherize another target creature you control. [i](Create a token that’s a copy of it, then exile that token. Copies include merged parts.)[/i] => Vigilance, haste
+Whenever this creature attacks, aetherize another target creature you control. [i](Create a token that's a copy of it, then exile that token. Copies include merged parts.)[/i]
+
+Gilded Flower
+
+Borewurm
+rules_text: Trample
+This creature gets +1/+0 for each differently named land among lands you don’t control. => Trample
+This creature gets +1/+0 for each differently named land among lands you don't control.
+
+Crocodile Token
+rules_text: Menace
+This token can’t block. => Menace
+This token can't block.
+
+Cruel Survival
+rules_text: When this enchantment enters, target creature you control fights target creature you don’t control.
+Whenever a creature you control deals excess damage, mill that many cards, then return up to one creature or land card milled this way to your hand. => When this enchantment enters, target creature you control fights target creature you don't control.
+Whenever a creature you control deals excess damage, mill that many cards, then return up to one creature or land card milled this way to your hand.
+
+Phantasmal Stride
+rules_text: This spell costs {2} less to cast if a creature you control dealt combat damage to an opponent this turn.
+Return target creature to its owner’s hand. Its controller discards a card. => This spell costs {2} less to cast if a creature you control dealt combat damage to an opponent this turn.
+Return target creature to its owner's hand. Its controller discards a card.
+
+Spirits of the Weald
+
+Fluffle
+type: Instant => Sorcery
+rules_text: Create two 1/1 green Rabbit creature tokens. Then if {G}{W} was spent to cast this spell, distribute a vigilance and a trample counter among them. => Create two 1/1 green Rabbit creature tokens. Then if {G}{W} was spent to cast this spell, distribute a vigilance and a trample counter among creatures you control.
+
+Luminous Pasture
+
+Start Over
+
+The Dreadmold
+
+Askalla, Stars' Conduit
+rules_text: If a spell would incarnate onto Askalla, put it onto the battlefield as an Avatar creature instead.
+Whenever a card is put into your graveyard from the battlefield, you may cast a copy of it without paying its mana cost if it’s a Revelation. => If a spell would incarnate onto Askalla, put it onto the battlefield as an Avatar creature instead.
+Whenever a card is put into your graveyard from the battlefield, you may cast a copy of it without paying its mana cost if it's a Revelation.
+
+Skorag, Toskari Elder
+
+Banefeather Griffin
+rules_text: Flying, deathtouch, lifelink
+When a creature scavenges this creature, it gains flying, deathtouch and lifelink until end of turn.
+Scavenge {1}{W}{B} [i]({1}{W}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => Flying, deathtouch, lifelink
+When a creature scavenges this creature, it gains flying, deathtouch and lifelink until end of turn.
+Scavenge {1}{W}{B} [i]({1}{W}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Chosen of the Heavens
+
+Craneriders
+rules_text: Flying
+As this creature or another creature enters under your control, put a counter on it that hasn’t been chosen yet —
+• +1/+1                      • Vigilance 
+• Lifelink                    • Trample
+• Deathtouch              • Ward {2} => Flying
+As this creature or another creature you control enters, put a counter on it that hasn't been chosen yet —
+• +1/+1 • Vigilance 
+• Lifelink • Trample
+• Deathtouch • Ward {2}
+
+Beast Avatar
+
+Beyond the Aurora
+rules_text: You may pay {W}{U}{B}{R}{G} rather than pay this spell’s mana cost.
+Whenever you cast a noncreature spell, create a colorless 0/0 Beast Avatar creature token. If that spell was a Revelation, instead create a token that’s a copy of it, except it’s an Avatar creature. Put X +1/+1 counters on it, where X is the amount of mana spent to cast that spell. => You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+Whenever you cast a noncreature spell, create a colorless 0/0 Beast Avatar creature token. If that spell was a Revelation, instead create a token that's a copy of it, except it's an Avatar creature. Put X +1/+1 counters on it, where X is the amount of mana spent to cast that spell.
+
+Lifestep Caribou
+
+Dawn's Inexorable Creep
+rules_text: Incarnate {5}{W} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Exile up to one target creature if it’s tapped or this spell was incarnated.
+Flying => Incarnate {5}{W} [i](If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)[/i]
+Exile up to one target creature if it's tapped or this spell was incarnated.
+Flying
+
+A Fragment Contains The Whole
+
+Transplanar Epiphany
+
+Territorial Arynx
+rules_text: {1}, Sacrifice this creature: Target creature you control gains indestructible until end of turn.
+Scavenge {3}{W}{W} [i]({3}{W}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => {1}, Sacrifice this creature: Target creature you control gains indestructible until end of turn.
+Scavenge {3}{W}{W} [i]({3}{W}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Aspect of Radiance
+
+Eiyo's Understanding
+rules_text: Exile up to one target creature you control. Return it to the battlefield under its owner’s control at the beginning of the next end step.
+Search your library for an Eiyo card, reveal it, put it into your hand, then shuffle. => Exile up to one target creature you control. Return it to the battlefield under its owner's control at the beginning of the next end step.
+Search your library for an Eiyo card, reveal it, put it into your hand, then shuffle.
+
+Wei Ji's Judgement
+
+Prowling Wolfshark
+rules_text: Flash
+This creature can’t be blocked unless each other attacking creature you control is blocked.
+Whenever this creature deals combat damage to a player, surveil 2. => Flash
+This creature can't be blocked unless each other attacking creature you control is blocked.
+Whenever this creature deals combat damage to a player, surveil 2.
+
+Celestial Swallower
+
+Unbreakable Ironhide
+rules_text: When a creature scavenges this creature, you may play it as long as it remains exiled.
+Scavenge {2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)[/i] => When a creature scavenges this creature, you may play it as long as it remains exiled.
+Scavenge {2}{B}{B} [i]({2}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Frostarmor Wolf
+
+Forgotten Idol
+rules_text: Cards outside the game can’t enter the game.
+Activated abilities of planeswalkers cost an additional [-1] to activate.
+{1}, {T}, Sacrifice this artifact: Add one mana of any color. Draw a card. => Cards outside the game can't enter the game.
+Activated abilities of planeswalkers cost an additional [-1] to activate.
+{1}, {T}, Sacrifice this artifact: Add one mana of any color. Draw a card.
+
+Herald the End
+
+Florescence
+rules_text: For each land you don’t control, create a tapped token that’s a copy of it. => For each land you don't control, create a tapped colorless land token named Everywhere that is every basic land type.
+
+Perdition Mare
+
+Wei Ji of the Veil
+rules_text:  => [+1]: Surveil 2. If you mill a nonland card this way, create a 1/1 white Bird creature token with flying.
+[0]: Sacrifice a creature. If you do, return a creature card with mana value less than or equal to the sacrificed creature's power to the battlefield.
+[-2]: Target creature gets -2/-2 until end of turn. Put two +1/+1 counters on up to one target creature you control.
+special_text: [+1]: Surveil 2. If you mill a nonland card this way, create a 1/1 white Bird creature token with flying.
+[0]: Sacrifice a creature. If you do, return a creature card with mana value less than or equal to the sacrificed creature’s power to the battlefield.
+[-2]: Target creature gets -2/-2 until end of turn. Put two +1/+1 counters on up to one target creature you control. => [+1]: Surveil 2. If you mill a nonland card this way, create a 1/1 white Bird creature token with flying.
+[0]: Sacrifice a creature. If you do, return a creature card with mana value less than or equal to the sacrificed creature's power to the battlefield.
+[-2]: Target creature gets -2/-2 until end of turn. Put two +1/+1 counters on up to one target creature you control.
+
+Swamp Forest Token
+
+Infected Touch
+
+Aetherflame Pouncer
+rules_text: If you would aetherize a creature, create a token that’s a copy of it instead. That tokens gains haste. If it’s your combat phase, it enters tapped and attacking. Exile it at the beginning of the next end step. => If you would aetherize a creature, create a token that's a copy of it instead. That tokens gains haste. If it's your combat phase, it enters tapped and attacking. Exile it at the beginning of the next end step.
+
+Fall for the Bait
+
+Seek the Rift
+rules_text: Search your library for a instant or sorcery card, reveal it, put it into your hand, then shuffle. If it’s a Revelation, create a 2/2 blue Bear creature token. => Search your library for a instant or sorcery card, reveal it, put it into your hand, then shuffle. If it's a Revelation, create a 2/2 blue Bear creature token.
+
+Bear Token
+
+Dandecrab
+rules_text: {T}: Add {G}. If this creature’s power is 2 or greater, add {G}{G} instead. => {T}: Add {G}. If this creature's power is 2 or greater, add {G}{G} instead.
+
+Squirrel Token
+
+Simul's Exploration
+
+Alexa, Whose Steps Blossom
+rules_text:  => Aurora [i](When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)[/i]
+[+1]: Put a +1/+1 counter on up to one target creature. If your aurora has three or more colors, it gains vigilance, trample and haste until end of turn.
+[-2]: Choose a basic land type. Create a tapped basic land token with that type.
+[-2]: Create a 0/0 green Plant creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.
+
+Rend and Tear
+rules_text: Rend and Tear deals X damage to any nonplayer target. Create a number of 2/1 red Crocodile creature tokens with menace and “This token can’t block.” equal to the amount of excess damage dealt this way. => Rend and Tear deals X damage to any nonplayer target. Create a number of 2/1 red Crocodile creature tokens with menace and “This token can't block.” equal to the amount of excess damage dealt this way.
+
+Light Too Casts Shadow
+
+The Still Breeze Blows
+
+Alexa's Catharsis
+
+Coruscating Lynx
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
