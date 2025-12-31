@@ -1,4 +1,796 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+
+
+MVX DRAFT ARCHETYPES
+rules_text: {R}{W}{U} ARTIFACTS 
+ {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+ {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} SAGAS/REGALE
+ {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+ {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!
+{G}{U}{B} DELIRIUM 
+ {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+ {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W} FEAST
+ {B}{G} LIFEGAIN Devour food with your creatures by paying off lifegain synergies.
+ {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} EXPLOIT
+ {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
+ {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends. => {R}{W}{U} ARTIFACTS 
+ {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
+ {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} SAGAS/REGALE
+ {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
+ {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!
+{G}{U}{B} DELIRIUM 
+ {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
+ {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W} FEAST
+ {B}{G} LIFEGAIN [/i][i]Feast[/i][i] on food with your creatures by paying off lifegain synergies.
+ {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} EXPLOIT
+ {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
+ {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.
+
+Pascal, Critics' Favorite
+
+Lyon, Aged Inventor
+
+PROMO Back-Alley Theatre
+
+PROMO Sunlit Park
+
+PROMO Discreet Gallery
+
+PROMO Vibrant Concourse
+
+PROMO Delightful Patisserie
+
+Back-Alley Theatre
+
+Sunlit Park
+
+Discreet Gallery
+
+Vibrant Concourse
+
+Delightful Patisserie
+
+Serene Museum
+
+Hushed Library
+
+Charming Playhouse
+
+Orator's Forum
+
+Abundant Garden
+
+Muted Auditorium
+
+Seedy Kitchen
+
+Lively Tavern
+
+Artificer's Workshop
+
+Gorge on Snacks
+
+Change Perspective
+
+Rushed Production
+
+Clash of Egos
+
+Soup Elemental
+
+Mechanical Strix
+
+Prolific Novelist
+
+Prevent Catastrophe
+
+Fiendish Fromager
+
+Artistic Benefactor
+
+Motivation Sapper
+
+Exhausting Rehearsal
+
+Macabre Prop
+
+Overworked
+
+Casting Call
+
+Understudy
+
+Aspiring Performer
+
+Leading Lady
+
+Forge Gnome
+
+Harbinger of Festivity
+
+Spit Fire
+
+Fiery Setpiece
+
+Spoil the Broth
+
+Inspired Reader
+
+Librarian's Assistant
+
+Cartographer's Eyes
+
+Gnomestack
+
+Rancid Meal
+
+Prophetic Prism
+
+Tragic Soloist
+
+Fanciful Flier
+
+Forlorn Author
+
+Dancing Troupe
+
+Wandering Connoisseur
+
+Meticulous Sculptor
+
+Turnip Trimmer
+
+Free-Range Foraging
+
+Valiant Versemaker
+
+Keen Guardcog
+
+Merry Troubadour
+
+Bookwyrm
+
+Cheerful Painter
+
+Candied Colossus
+
+Colorful Rendition
+
+Inspiring Melody
+
+Highbrow Critic
+
+Houndcrafter Savant
+
+Jacques, Harsh Conductor
+
+Distracting Song
+
+Blood Artist
+
+Merrymaker
+
+Skillful Landscapist
+
+Civil Engineer
+
+Dreamquill
+
+Gnomish Tinkerer
+
+Worksite Visionary
+
+Distracting Charcuterie
+
+Sunstreet Clocktower
+
+Encore
+
+Gustatorie Tastemaker
+
+Greenpark Strummer
+
+Belligerence
+
+Natural Harmony
+
+Farmstead Butcher
+
+Tavern Talesmith
+
+Flamethumper
+
+Opening Act
+rules_text: 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+special_text: 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+
+Spirit of the Opera
+
+Fine Diner
+
+Song of Creation
+
+Ironflow Forge
+
+Odette L'or, Fickle Painter
+
+Niels, Cogmaster
+
+Elven Glassblower
+
+Heartblaze Theatre
+
+Audition
+
+Reptilian Rhymester
+
+Dragonsong
+
+Waxcrafter
+
+Soliloquist
+
+Avian Auteur
+
+Operahouse Headliner
+
+Discouraging Flop
+
+Second Showing
+
+Garden Guardian
+
+Dour Chorister
+
+Benevolent Florist
+
+Wolfsong
+
+Tend the Garden
+
+Gemcrafter
+
+Birdsong
+
+Michel, Strummer of Heartstrings
+
+Bard
+
+Boar
+
+Dog
+
+Elemental
+
+Food
+
+Gnome
+
+Illusion
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Artist's Easel
+
+Stew Stirrer
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+
+Retrospection
+
+Skilled Sous-Chef
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+
+Copy
+
+Waxbreath Youngling
+
+Castleway Crane
+
+Hunt for Inspiration
+
+Painter's Studio
+
+Teatime Two
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+
+Concordia, Angel of Glass
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+Ambrosian Tower
+
+Cogturn Laboratory
+
+Festival Puppeteer
+
+Roland's Solo
+
+Bombastic Performance
+
+Petite Patissier
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+
+Moonridge Tailors
+
+Skystone Gargoyle
+
+Rousing Read
+
+Atelier Exemplar
+
+Forest Plains
+
+Berengar, Kitchen Tyrant
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Vehicle
+
+Stew
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+
+Flamesweeper
+
+Cost of Perfection
+
+Season to Perfection
+
+Bird
+
+Chicken Coop
+
+Gustbrook Library
+
+Deafening Duo
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+La Chaconne de Soupir No 3
+rules_text: 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+special_text: 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+
+Gustatorie Mixer
+rules_text: Vigilance, trample
+Whenever an opponent casts a noncreature spell, create a 1/1 green Plant creature token unless that player pays {1}. => Vigilance, lifelink
+Whenever an opponent casts a noncreature spell, create a 1/1 green Plant creature token.
+
+Spirit Elemental
+
+Keeper of the Archives
+
+Construct
+
+Solid Fundamentals
+
+Sylvie, Garden Tender
+
+Gleeful Amateur
+
+Body of Literature
+
+Writer's Desk
+
+Sate the Critics
+
+Redesign
+
+Wicked Wordsmith
+
+Esteemed Author Davriel Cane
+
+Invocation of Creativity
+
+See the Sights
+
+Ironstreet Welders
+
+Ingenuity
+
+Chromatic Lantern
+
+Lyon's Contemplation
+
+Foundry Assistant
+
+Blueprints
+
+Footlight Fiend
+
+Enraged Essayist
+
+Tear Through
+
+Constructed Whelp
+
+Parkland Flautist
+
+Distracted Apprentice
+
+Gastronomical Hubris
+
+Elaphia, Full of Wonder
+
+Chorus Machine
+
+Enraptured Watcher
+
+Tavern Reveler
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+
+Green Thumbed Growth
+
+Serenade
+
+Inkblot Familiar
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+cost: {X}{W}{W} => {X}{W}
+
+Witch of Forbidden Treats
+
+Velda, Opera Diva
+
+Roland, Second Fiddle
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+rules_text: Exile target creature or planeswalker.
+[i]Delirium[/i] — If there are four or more card types among cards in your graveyard, its controller's graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way. => Exile target creature or planeswalker.
+[i]Delirium[/i] — If there are four or more card types among cards in your graveyard, search its controller's graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way.
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Jaunty Tune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​
+
+Bite Down on Treats
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+
+Secret Ingredients
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token.
+
+Chisel
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+rules_text: Menace
+When Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don't, each player sacrifices a creature. Then repeat this process three more times. => Menace
+When Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don't, each player sacrifices a creature. Then repeat this process four more times.
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Annul
+
+Stage Double
+
+Arbiter of Taste
+
+The Bardenmoot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+I, II, III, IV — You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+I, II, III, IV — You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.
+
+Diego, Slam Poet
+
+Reconstruct
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i][/i]Create a 3/3 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+III — Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i][/i]Create a 3/3 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+III — Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}.
+
+Demon of Many Pages
+
+First Chair Violinist
+
+Nature's Bounty
+
+Dragon
+pt: 3/3 => 4/4
+
+Atelier Artisan
+
+Parapet Percher
+
+Skystone Sculptory
+
+Iterate Over
+type: Sorcery => Instant
+
+Gustatorie Explorateur
+
+Antoine, Chef Extraordinaire
+
+Marquis Vaasco de Moraes
+
+Nicola, Inspired Artist
+
+Isabella, City Builder
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of target artifact or enchantment you control not named The Flourishing.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Create a 1/1 blue Illusion enchantment creature token with flying.
+Put X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of target artifact or enchantment you control not named The Flourishing.
+
+Brasio, Bardic Chronicler
+rules_text: Regale — {T}: Scry 1. Brasio deals 1 damage to each opponent. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+Legacy {G}{U}{R} => Regale — {T}: Add {R}. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+Legacy {G}{U}{R}
+pt: 1/2 => 1/1
+
+Frymaster's Pan
+rules_text: [i]Feast[/i] — Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.
+{T}, Remove an oil counter from Frymaster's Pan: Add {B} or {G}.
+{T}, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery. => Frymaster's Pan enters tapped.
+{T}: Add {B} or {G}.
+[i]Feast[/i] — {T}: Add {B}{G}. Activate only if you've gained life or created a token this turn.
+
+
+VERSION 23 CHANGELOG
 ====================
 
 

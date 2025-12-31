@@ -4,700 +4,700 @@
         "number": 16,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "166"
+        "position": "323"
     },
     {
         "card_name": "Nicola, Inspired Artist",
         "number": 58,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "239"
+        "position": "322"
     },
     {
         "card_name": "Marquis Vaasco de Moraes",
         "number": 95,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "13"
+        "position": "321"
     },
     {
         "card_name": "Brasio, Bardic Chronicler",
         "number": 111,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "141"
+        "position": "325"
     },
     {
         "card_name": "Antoine, Chef Extraordinaire",
         "number": 145,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "226"
+        "position": "320"
     },
     {
         "card_name": "Monument to Ascension",
         "number": 20,
         "shape": "normal",
         "set": "MVX",
-        "position": "260"
+        "position": "255"
     },
     {
         "card_name": "Demon of Many Pages",
         "number": 44,
         "shape": "normal",
         "set": "MVX",
-        "position": "318"
+        "position": "311"
     },
     {
         "card_name": "Dramatis Personae",
         "number": 85,
         "shape": "normal",
         "set": "MVX",
-        "position": "302"
+        "position": "295"
     },
     {
         "card_name": "Coax the Worldsongs",
         "number": 113,
         "shape": "saga",
         "set": "MVX",
-        "position": "317"
+        "position": "310"
     },
     {
         "card_name": "Nature's Bounty",
         "number": 169,
         "shape": "normal",
         "set": "MVX",
-        "position": "320"
+        "position": "313"
     },
     {
         "card_name": "Skystone Sculptory",
         "number": 28,
         "shape": "class",
         "set": "MVX",
-        "position": "324"
+        "position": "317"
     },
     {
         "card_name": "Preserve the Moment",
         "number": 59,
         "shape": "normal",
         "set": "MVX",
-        "position": "171"
+        "position": "168"
     },
     {
         "card_name": "First Chair Violinist",
         "number": 89,
         "shape": "normal",
         "set": "MVX",
-        "position": "319"
+        "position": "312"
     },
     {
         "card_name": "Hearthsong",
         "number": 126,
         "shape": "normal",
         "set": "MVX",
-        "position": "173"
+        "position": "170"
     },
     {
         "card_name": "Soup Serpent",
         "number": 173,
         "shape": "normal",
         "set": "MVX",
-        "position": "271"
+        "position": "266"
     },
     {
         "card_name": "Balcony Chanteur",
         "number": 1,
         "shape": "normal",
         "set": "MVX",
-        "position": "207"
+        "position": "204"
     },
     {
         "card_name": "Gleeful Amateur",
         "number": 50,
         "shape": "normal",
         "set": "MVX",
-        "position": "215"
+        "position": "212"
     },
     {
         "card_name": "Chorus Machine",
         "number": 78,
         "shape": "normal",
         "set": "MVX",
-        "position": "240"
+        "position": "235"
     },
     {
         "card_name": "Arbiter of Taste",
         "number": 109,
         "shape": "normal",
         "set": "MVX",
-        "position": "312"
+        "position": "305"
     },
     {
         "card_name": "Body of Literature",
         "number": 152,
         "shape": "normal",
         "set": "MVX",
-        "position": "216"
+        "position": "213"
     },
     {
         "card_name": "Iterate Over",
         "number": 17,
         "shape": "normal",
         "set": "MVX",
-        "position": "325"
+        "position": "318"
     },
     {
         "card_name": "Houndcrafter Savant",
         "number": 54,
         "shape": "normal",
         "set": "MVX",
-        "position": "81"
+        "position": "80"
     },
     {
         "card_name": "Davriel's Bargain",
         "number": 80,
         "shape": "normal",
         "set": "MVX",
-        "position": "264"
+        "position": "259"
     },
     {
         "card_name": "Elven Glassblower",
         "number": 117,
         "shape": "normal",
         "set": "MVX",
-        "position": "108"
+        "position": "107"
     },
     {
         "card_name": "Food Flood",
         "number": 159,
         "shape": "normal",
         "set": "MVX",
-        "position": "263"
+        "position": "258"
     },
     {
         "card_name": "Sauce Flinger",
         "number": 25,
         "shape": "normal",
         "set": "MVX",
-        "position": "206"
+        "position": "203"
     },
     {
         "card_name": "Inkshaping",
         "number": 55,
         "shape": "normal",
         "set": "MVX",
-        "position": "266"
+        "position": "261"
     },
     {
         "card_name": "Diviner of the Dessert",
         "number": 83,
         "shape": "normal",
         "set": "MVX",
-        "position": "249"
+        "position": "244"
     },
     {
         "card_name": "Festival Revelry",
         "number": 119,
         "shape": "normal",
         "set": "MVX",
-        "position": "182"
+        "position": "179"
     },
     {
         "card_name": "Parkland Flautist",
         "number": 170,
         "shape": "normal",
         "set": "MVX",
-        "position": "235"
+        "position": "231"
     },
     {
         "card_name": "Stage Fright",
         "number": 32,
         "shape": "normal",
         "set": "MVX",
-        "position": "267"
+        "position": "262"
     },
     {
         "card_name": "Serenade",
         "number": 64,
         "shape": "normal",
         "set": "MVX",
-        "position": "246"
+        "position": "241"
     },
     {
         "card_name": "Gallery Curator",
         "number": 90,
         "shape": "normal",
         "set": "MVX",
-        "position": "270"
+        "position": "265"
     },
     {
         "card_name": "Flamesweeper",
         "number": 121,
         "shape": "normal",
         "set": "MVX",
-        "position": "198"
+        "position": "195"
     },
     {
         "card_name": "Retrospection",
         "number": 171,
         "shape": "normal",
         "set": "MVX",
-        "position": "146"
+        "position": "144"
     },
     {
         "card_name": "Tidy Up",
         "number": 34,
         "shape": "normal",
         "set": "MVX",
-        "position": "254"
+        "position": "249"
     },
     {
         "card_name": "Solid Fundamentals",
         "number": 67,
         "shape": "normal",
         "set": "MVX",
-        "position": "213"
+        "position": "210"
     },
     {
         "card_name": "Gastronomical Hubris",
         "number": 91,
         "shape": "normal",
         "set": "MVX",
-        "position": "237"
+        "position": "233"
     },
     {
         "card_name": "Invocation of Creativity",
         "number": 129,
         "shape": "normal",
         "set": "MVX",
-        "position": "222"
+        "position": "219"
     },
     {
         "card_name": "Swaying Smorgasbord",
         "number": 176,
         "shape": "normal",
         "set": "MVX",
-        "position": "281"
+        "position": "275"
     },
     {
         "card_name": "Waxbreath Youngling",
         "number": 35,
         "shape": "normal",
         "set": "MVX",
-        "position": "157"
+        "position": "155"
     },
     {
         "card_name": "Songweaver Adept",
         "number": 69,
         "shape": "normal",
         "set": "MVX",
-        "position": "304"
+        "position": "297"
     },
     {
         "card_name": "Onerous Old-Timer",
         "number": 98,
         "shape": "normal",
         "set": "MVX",
-        "position": "316"
+        "position": "309"
     },
     {
         "card_name": "Phoenixsong",
         "number": 135,
         "shape": "normal",
         "set": "MVX",
-        "position": "272"
+        "position": "267"
     },
     {
         "card_name": "Vivid Expression",
         "number": 179,
         "shape": "normal",
         "set": "MVX",
-        "position": "269"
+        "position": "264"
     },
     {
         "card_name": "Bolstering Chefbot",
         "number": 2,
         "shape": "normal",
         "set": "MVX",
-        "position": "294"
+        "position": "287"
     },
     {
         "card_name": "Birdsong",
         "number": 39,
         "shape": "normal",
         "set": "MVX",
-        "position": "125"
+        "position": "124"
     },
     {
         "card_name": "Blood Artist",
         "number": 76,
         "shape": "normal",
         "set": "MVX",
-        "position": "84"
+        "position": "83"
     },
     {
         "card_name": "Audition",
         "number": 110,
         "shape": "normal",
         "set": "MVX",
-        "position": "110"
+        "position": "109"
     },
     {
         "card_name": "Artist's Easel",
         "number": 147,
         "shape": "normal",
         "set": "MVX",
-        "position": "140"
+        "position": "139"
     },
     {
         "card_name": "Distracted Apprentice",
         "number": 8,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "236"
+        "position": "232"
     },
     {
         "card_name": "Civil Engineer",
         "number": 43,
         "shape": "normal",
         "set": "MVX",
-        "position": "87"
+        "position": "86"
     },
     {
         "card_name": "Criticize",
         "number": 79,
         "shape": "normal",
         "set": "MVX",
-        "position": "248"
+        "position": "243"
     },
     {
         "card_name": "Dragonsong",
         "number": 115,
         "shape": "normal",
         "set": "MVX",
-        "position": "112"
+        "position": "111"
     },
     {
         "card_name": "Atelier Exemplar",
         "number": 148,
         "shape": "normal",
         "set": "MVX",
-        "position": "187"
+        "position": "184"
     },
     {
         "card_name": "Distracting Charcuterie",
         "number": 9,
         "shape": "normal",
         "set": "MVX",
-        "position": "91"
+        "position": "90"
     },
     {
         "card_name": "Dreamquill",
         "number": 46,
         "shape": "normal",
         "set": "MVX",
-        "position": "88"
+        "position": "87"
     },
     {
         "card_name": "Discouraging Flop",
         "number": 81,
         "shape": "normal",
         "set": "MVX",
-        "position": "117"
+        "position": "116"
     },
     {
         "card_name": "Heartblaze Theatre",
         "number": 125,
         "shape": "class",
         "set": "MVX",
-        "position": "109"
+        "position": "108"
     },
     {
         "card_name": "Benevolent Florist",
         "number": 150,
         "shape": "normal",
         "set": "MVX",
-        "position": "121"
+        "position": "120"
     },
     {
         "card_name": "Encore",
         "number": 10,
         "shape": "normal",
         "set": "MVX",
-        "position": "93"
+        "position": "92"
     },
     {
         "card_name": "The Flourishing",
         "number": 48,
         "shape": "saga",
         "set": "MVX",
-        "position": "288"
+        "position": "324"
     },
     {
         "card_name": "Dishearten",
         "number": 82,
         "shape": "normal",
         "set": "MVX",
-        "position": "268"
+        "position": "263"
     },
     {
         "card_name": "Impassioned Singer",
         "number": 127,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "278"
+        "position": "272"
     },
     {
         "card_name": "Cost of Perfection",
         "number": 157,
         "shape": "normal",
         "set": "MVX",
-        "position": "199"
+        "position": "196"
     },
     {
         "card_name": "Fine Diner",
         "number": 12,
         "shape": "normal",
         "set": "MVX",
-        "position": "103"
+        "position": "102"
     },
     {
         "card_name": "Gustbrook Library",
         "number": 52,
         "shape": "class",
         "set": "MVX",
-        "position": "203"
+        "position": "200"
     },
     {
         "card_name": "Dour Chorister",
         "number": 84,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "120"
+        "position": "119"
     },
     {
         "card_name": "Merrymaker",
         "number": 134,
         "shape": "normal",
         "set": "MVX",
-        "position": "85"
+        "position": "84"
     },
     {
         "card_name": "The Founding of the City",
         "number": 160,
         "shape": "saga",
         "set": "MVX",
-        "position": "244"
+        "position": "239"
     },
     {
         "card_name": "Gnomish Tinkerer",
         "number": 14,
         "shape": "normal",
         "set": "MVX",
-        "position": "89"
+        "position": "88"
     },
     {
         "card_name": "Keeper of the Archives",
         "number": 56,
         "shape": "normal",
         "set": "MVX",
-        "position": "211"
+        "position": "208"
     },
     {
         "card_name": "Enraged Essayist",
         "number": 86,
         "shape": "normal",
         "set": "MVX",
-        "position": "232"
+        "position": "228"
     },
     {
         "card_name": "The Rejection of the Monarchy",
         "number": 136,
         "shape": "saga",
         "set": "MVX",
-        "position": "298"
+        "position": "291"
     },
     {
         "card_name": "Kitty Connoisseur",
         "number": 167,
         "shape": "normal",
         "set": "MVX",
-        "position": "295"
+        "position": "288"
     },
     {
         "card_name": "Parts Picker",
         "number": 22,
         "shape": "normal",
         "set": "MVX",
-        "position": "251"
+        "position": "246"
     },
     {
         "card_name": "Redesign",
         "number": 62,
         "shape": "normal",
         "set": "MVX",
-        "position": "219"
+        "position": "216"
     },
     {
         "card_name": "Operahouse Headliner",
         "number": 99,
         "shape": "normal",
         "set": "MVX",
-        "position": "116"
+        "position": "115"
     },
     {
         "card_name": "Reptilian Rhymester",
         "number": 137,
         "shape": "normal",
         "set": "MVX",
-        "position": "111"
+        "position": "110"
     },
     {
         "card_name": "Skilled Sous-Chef",
         "number": 172,
         "shape": "normal",
         "set": "MVX",
-        "position": "147"
+        "position": "145"
     },
     {
         "card_name": "Spirit of the Opera",
         "number": 31,
         "shape": "normal",
         "set": "MVX",
-        "position": "102"
+        "position": "101"
     },
     {
         "card_name": "Skillful Landscapist",
         "number": 65,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "86"
+        "position": "85"
     },
     {
         "card_name": "Petite Patissier",
         "number": 101,
         "shape": "normal",
         "set": "MVX",
-        "position": "179"
+        "position": "176"
     },
     {
         "card_name": "Sparks of Invention",
         "number": 140,
         "shape": "normal",
         "set": "MVX",
-        "position": "191"
+        "position": "188"
     },
     {
         "card_name": "Stew Stirrer",
         "number": 175,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "142"
+        "position": "140"
     },
     {
         "card_name": "Sunstreet Clocktower",
         "number": 33,
         "shape": "class",
         "set": "MVX",
-        "position": "92"
+        "position": "91"
     },
     {
         "card_name": "Songcrafting",
         "number": 68,
         "shape": "normal",
         "set": "MVX",
-        "position": "205"
+        "position": "202"
     },
     {
         "card_name": "Second Showing",
         "number": 104,
         "shape": "normal",
         "set": "MVX",
-        "position": "118"
+        "position": "117"
     },
     {
         "card_name": "Stunning Soprano",
         "number": 142,
         "shape": "normal",
         "set": "MVX",
-        "position": "168"
+        "position": "165"
     },
     {
         "card_name": "Tend the Garden",
         "number": 178,
         "shape": "normal",
         "set": "MVX",
-        "position": "123"
+        "position": "122"
     },
     {
         "card_name": "Worksite Visionary",
         "number": 36,
         "shape": "normal",
         "set": "MVX",
-        "position": "90"
+        "position": "89"
     },
     {
         "card_name": "Spectral Scribe",
         "number": 70,
         "shape": "normal",
         "set": "MVX",
-        "position": "279"
+        "position": "273"
     },
     {
         "card_name": "Witch of Forbidden Treats",
         "number": 108,
         "shape": "normal",
         "set": "MVX",
-        "position": "255"
+        "position": "250"
     },
     {
         "card_name": "Waxcrafter",
         "number": 144,
         "shape": "normal",
         "set": "MVX",
-        "position": "113"
+        "position": "112"
     },
     {
         "card_name": "Wolfsong",
         "number": 180,
         "shape": "normal",
         "set": "MVX",
-        "position": "122"
+        "position": "121"
     },
     {
         "card_name": "Cogwrench",
         "number": 3,
         "shape": "normal",
         "set": "MVX",
-        "position": "148"
+        "position": "146"
     },
     {
         "card_name": "Annul",
         "number": 37,
         "shape": "normal",
         "set": "MVX",
-        "position": "310"
+        "position": "303"
     },
     {
         "card_name": "Artistic Benefactor",
         "number": 73,
         "shape": "normal",
         "set": "MVX",
-        "position": "44"
+        "position": "43"
     },
     {
         "card_name": "Clash of Egos",
         "number": 112,
         "shape": "normal",
         "set": "MVX",
-        "position": "38"
+        "position": "37"
     },
     {
         "card_name": "Arboreal Artist",
         "number": 146,
         "shape": "normal",
         "set": "MVX",
-        "position": "170"
+        "position": "167"
     },
     {
         "card_name": "Colossal Puppetry",
@@ -711,28 +711,28 @@
         "number": 38,
         "shape": "normal",
         "set": "MVX",
-        "position": "322"
+        "position": "315"
     },
     {
         "card_name": "Aspiring Performer",
         "number": 74,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "51"
+        "position": "50"
     },
     {
         "card_name": "Deafening Duo",
         "number": 114,
         "shape": "normal",
         "set": "MVX",
-        "position": "204"
+        "position": "201"
     },
     {
         "card_name": "Belligerence",
         "number": 149,
         "shape": "normal",
         "set": "MVX",
-        "position": "96"
+        "position": "95"
     },
     {
         "card_name": "Congregation Aspirant",
@@ -746,28 +746,28 @@
         "number": 40,
         "shape": "normal",
         "set": "MVX",
-        "position": "230"
+        "position": "226"
     },
     {
         "card_name": "Avian Auteur",
         "number": 75,
         "shape": "normal",
         "set": "MVX",
-        "position": "115"
+        "position": "114"
     },
     {
         "card_name": "Dramatic Organ",
         "number": 116,
         "shape": "normal",
         "set": "MVX",
-        "position": "290"
+        "position": "283"
     },
     {
         "card_name": "Bite Down on Treats",
         "number": 151,
         "shape": "normal",
         "set": "MVX",
-        "position": "289"
+        "position": "282"
     },
     {
         "card_name": "Deride",
@@ -781,98 +781,98 @@
         "number": 41,
         "shape": "normal",
         "set": "MVX",
-        "position": "75"
+        "position": "74"
     },
     {
         "card_name": "Casting Call",
         "number": 77,
         "shape": "normal",
         "set": "MVX",
-        "position": "49"
+        "position": "48"
     },
     {
         "card_name": "Extravagant Channeler",
         "number": 118,
         "shape": "normal",
         "set": "MVX",
-        "position": "181"
+        "position": "178"
     },
     {
         "card_name": "Candied Colossus",
         "number": 153,
         "shape": "normal",
         "set": "MVX",
-        "position": "77"
+        "position": "76"
     },
     {
         "card_name": "Diligent Architect",
         "number": 7,
         "shape": "normal",
         "set": "MVX",
-        "position": "259"
+        "position": "254"
     },
     {
         "card_name": "Change Perspective",
         "number": 42,
         "shape": "normal",
         "set": "MVX",
-        "position": "36"
+        "position": "35"
     },
     {
         "card_name": "Exhausting Rehearsal",
         "number": 87,
         "shape": "normal",
         "set": "MVX",
-        "position": "46"
+        "position": "45"
     },
     {
         "card_name": "Fiery Setpiece",
         "number": 120,
         "shape": "normal",
         "set": "MVX",
-        "position": "56"
+        "position": "55"
     },
     {
         "card_name": "Cheerful Painter",
         "number": 154,
         "shape": "normal",
         "set": "MVX",
-        "position": "76"
+        "position": "75"
     },
     {
         "card_name": "Enraptured Watcher",
         "number": 11,
         "shape": "normal",
         "set": "MVX",
-        "position": "241"
+        "position": "236"
     },
     {
         "card_name": "Distracting Song",
         "number": 45,
         "shape": "normal",
         "set": "MVX",
-        "position": "83"
+        "position": "82"
     },
     {
         "card_name": "Fiendish Fromager",
         "number": 88,
         "shape": "normal",
         "set": "MVX",
-        "position": "43"
+        "position": "42"
     },
     {
         "card_name": "Forge Gnome",
         "number": 122,
         "shape": "normal",
         "set": "MVX",
-        "position": "53"
+        "position": "52"
     },
     {
         "card_name": "Colorful Rendition",
         "number": 155,
         "shape": "normal",
         "set": "MVX",
-        "position": "78"
+        "position": "77"
     },
     {
         "card_name": "Forgefire Spray",
@@ -886,28 +886,28 @@
         "number": 47,
         "shape": "normal",
         "set": "MVX",
-        "position": "65"
+        "position": "64"
     },
     {
         "card_name": "Gustatorie Explorateur",
         "number": 92,
         "shape": "normal",
         "set": "MVX",
-        "position": "326"
+        "position": "319"
     },
     {
         "card_name": "Forgehammer",
         "number": 123,
         "shape": "normal",
         "set": "MVX",
-        "position": "280"
+        "position": "274"
     },
     {
         "card_name": "Cookie Snatcher",
         "number": 156,
         "shape": "normal",
         "set": "MVX",
-        "position": "293"
+        "position": "286"
     },
     {
         "card_name": "Inspirational Performer",
@@ -921,273 +921,273 @@
         "number": 49,
         "shape": "normal",
         "set": "MVX",
-        "position": "229"
+        "position": "225"
     },
     {
         "card_name": "Highbrow Critic",
         "number": 93,
         "shape": "normal",
         "set": "MVX",
-        "position": "80"
+        "position": "79"
     },
     {
         "card_name": "Harbinger of Festivity",
         "number": 124,
         "shape": "normal",
         "set": "MVX",
-        "position": "54"
+        "position": "53"
     },
     {
         "card_name": "Farmstead Butcher",
         "number": 158,
         "shape": "normal",
         "set": "MVX",
-        "position": "98"
+        "position": "97"
     },
     {
         "card_name": "Keen Guardcog",
         "number": 18,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "73"
+        "position": "72"
     },
     {
         "card_name": "Gobsmack",
         "number": 51,
         "shape": "normal",
         "set": "MVX",
-        "position": "165"
+        "position": "163"
     },
     {
         "card_name": "Macabre Prop",
         "number": 94,
         "shape": "normal",
         "set": "MVX",
-        "position": "47"
+        "position": "46"
     },
     {
         "card_name": "Inspiring Melody",
         "number": 128,
         "shape": "normal",
         "set": "MVX",
-        "position": "79"
+        "position": "78"
     },
     {
         "card_name": "Garden Guardian",
         "number": 161,
         "shape": "normal",
         "set": "MVX",
-        "position": "119"
+        "position": "118"
     },
     {
         "card_name": "Lunch Rush",
         "number": 19,
         "shape": "normal",
         "set": "MVX",
-        "position": "149"
+        "position": "147"
     },
     {
         "card_name": "Haunting Lullaby",
         "number": 53,
         "shape": "normal",
         "set": "MVX",
-        "position": "183"
+        "position": "180"
     },
     {
         "card_name": "Moment of Craving",
         "number": 96,
         "shape": "normal",
         "set": "MVX",
-        "position": "252"
+        "position": "247"
     },
     {
         "card_name": "Ironstreet Welders",
         "number": 130,
         "shape": "normal",
         "set": "MVX",
-        "position": "224"
+        "position": "221"
     },
     {
         "card_name": "Gorge on Snacks",
         "number": 162,
         "shape": "normal",
         "set": "MVX",
-        "position": "35"
+        "position": "34"
     },
     {
         "card_name": "Moonridge Tailors",
         "number": 21,
         "shape": "class",
         "set": "MVX",
-        "position": "184"
+        "position": "181"
     },
     {
         "card_name": "Mechanical Strix",
         "number": 57,
         "shape": "normal",
         "set": "MVX",
-        "position": "40"
+        "position": "39"
     },
     {
         "card_name": "Motivation Sapper",
         "number": 97,
         "shape": "normal",
         "set": "MVX",
-        "position": "45"
+        "position": "44"
     },
     {
         "card_name": "Jaunty Tune",
         "number": 131,
         "shape": "saga",
         "set": "MVX",
-        "position": "287"
+        "position": "281"
     },
     {
         "card_name": "Green Thumbed Growth",
         "number": 163,
         "shape": "normal",
         "set": "MVX",
-        "position": "245"
+        "position": "240"
     },
     {
         "card_name": "Reconstruct",
         "number": 23,
         "shape": "normal",
         "set": "MVX",
-        "position": "315"
+        "position": "308"
     },
     {
         "card_name": "Prevent Catastrophe",
         "number": 60,
         "shape": "normal",
         "set": "MVX",
-        "position": "42"
+        "position": "41"
     },
     {
         "card_name": "Overworked",
         "number": 100,
         "shape": "normal",
         "set": "MVX",
-        "position": "48"
+        "position": "47"
     },
     {
         "card_name": "Leading Lady",
         "number": 132,
         "shape": "normal",
         "set": "MVX",
-        "position": "52"
+        "position": "51"
     },
     {
         "card_name": "Greenpark Strummer",
         "number": 164,
         "shape": "normal",
         "set": "MVX",
-        "position": "95"
+        "position": "94"
     },
     {
         "card_name": "Rushed Production",
         "number": 24,
         "shape": "normal",
         "set": "MVX",
-        "position": "37"
+        "position": "36"
     },
     {
         "card_name": "Prolific Novelist",
         "number": 61,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "41"
+        "position": "40"
     },
     {
         "card_name": "Pompous Thespian",
         "number": 102,
         "shape": "normal",
         "set": "MVX",
-        "position": "308"
+        "position": "301"
     },
     {
         "card_name": "Merry Troubadour",
         "number": 133,
         "shape": "normal",
         "set": "MVX",
-        "position": "74"
+        "position": "73"
     },
     {
         "card_name": "Gustatorie Tastemaker",
         "number": 165,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "94"
+        "position": "93"
     },
     {
         "card_name": "Season to Perfection",
         "number": 26,
         "shape": "normal",
         "set": "MVX",
-        "position": "200"
+        "position": "197"
     },
     {
         "card_name": "Rousing Read",
         "number": 63,
         "shape": "normal",
         "set": "MVX",
-        "position": "186"
+        "position": "183"
     },
     {
         "card_name": "Sate the Critics",
         "number": 103,
         "shape": "normal",
         "set": "MVX",
-        "position": "218"
+        "position": "215"
     },
     {
         "card_name": "Rooftop Rapscallion",
         "number": 138,
         "shape": "normal",
         "set": "MVX",
-        "position": "196"
+        "position": "193"
     },
     {
         "card_name": "Inspired Reader",
         "number": 166,
         "shape": "normal",
         "set": "MVX",
-        "position": "58"
+        "position": "57"
     },
     {
         "card_name": "Skystone Gargoyle",
         "number": 27,
         "shape": "normal",
         "set": "MVX",
-        "position": "185"
+        "position": "182"
     },
     {
         "card_name": "Slinking Scribbler",
         "number": 66,
         "shape": "normal",
         "set": "MVX",
-        "position": "195"
+        "position": "192"
     },
     {
         "card_name": "Stage Double",
         "number": 105,
         "shape": "normal",
         "set": "MVX",
-        "position": "311"
+        "position": "304"
     },
     {
         "card_name": "See the Sights",
         "number": 139,
         "shape": "normal",
         "set": "MVX",
-        "position": "223"
+        "position": "220"
     },
     {
         "card_name": "Natural Harmony",
         "number": 168,
         "shape": "normal",
         "set": "MVX",
-        "position": "97"
+        "position": "96"
     },
     {
         "card_name": "Skystone Seraph",
@@ -1201,63 +1201,63 @@
         "number": 71,
         "shape": "normal",
         "set": "MVX",
-        "position": "305"
+        "position": "298"
     },
     {
         "card_name": "Understudy",
         "number": 106,
         "shape": "normal",
         "set": "MVX",
-        "position": "50"
+        "position": "49"
     },
     {
         "card_name": "Spit Fire",
         "number": 141,
         "shape": "normal",
         "set": "MVX",
-        "position": "55"
+        "position": "54"
     },
     {
         "card_name": "Spoil the Broth",
         "number": 174,
         "shape": "normal",
         "set": "MVX",
-        "position": "57"
+        "position": "56"
     },
     {
         "card_name": "Soup Elemental",
         "number": 30,
         "shape": "normal",
         "set": "MVX",
-        "position": "39"
+        "position": "38"
     },
     {
         "card_name": "Tragic Soloist",
         "number": 72,
         "shape": "normal",
         "set": "MVX",
-        "position": "64"
+        "position": "63"
     },
     {
         "card_name": "Vamp",
         "number": 107,
         "shape": "normal",
         "set": "MVX",
-        "position": "150"
+        "position": "148"
     },
     {
         "card_name": "Tavern Reveler",
         "number": 143,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "242"
+        "position": "237"
     },
     {
         "card_name": "Tavern Talesmith",
         "number": 177,
         "shape": "normal",
         "set": "MVX",
-        "position": "99"
+        "position": "98"
     },
     {
         "card_name": "er"
@@ -1277,217 +1277,217 @@
         "number": 219,
         "shape": "planeswalker",
         "set": "MVX",
-        "position": "15"
+        "position": "14"
     },
     {
         "card_name": "Esteemed Author Davriel Cane",
         "number": 199,
         "shape": "planeswalker",
         "set": "MVX",
-        "position": "221"
+        "position": "218"
     },
     {
         "card_name": "Roland, Second Fiddle",
         "number": 232,
         "shape": "transform double faced",
         "set": "MVX",
-        "position": "257"
+        "position": "252"
     },
     {
         "card_name": "Elaphia, Full of Wonder",
         "number": 198,
         "shape": "planeswalker",
         "set": "MVX",
-        "position": "238"
+        "position": "234"
     },
     {
         "card_name": "Pascal, Critics' Favorite",
         "number": 228,
         "shape": "planeswalker",
         "set": "MVX",
-        "position": "14"
+        "position": "13"
     },
     {
         "card_name": "Concordia, Angel of Glass",
         "number": 194,
         "shape": "normal",
         "set": "MVX",
-        "position": "167"
+        "position": "164"
     },
     {
         "card_name": "Belphegor, Infernal Publisher",
         "number": 187,
         "shape": "normal",
         "set": "MVX",
-        "position": "243"
+        "position": "238"
     },
     {
         "card_name": "Velda, Opera Diva",
         "number": 247,
         "shape": "normal",
         "set": "MVX",
-        "position": "256"
+        "position": "251"
     },
     {
         "card_name": "Diego, Slam Poet",
         "number": 197,
         "shape": "normal",
         "set": "MVX",
-        "position": "314"
+        "position": "307"
     },
     {
         "card_name": "Sylvie, Garden Tender",
         "number": 243,
         "shape": "normal",
         "set": "MVX",
-        "position": "214"
+        "position": "211"
     },
     {
         "card_name": "Cogturn Laboratory",
         "number": 193,
         "shape": "class",
         "set": "MVX",
-        "position": "175"
+        "position": "172"
     },
     {
         "card_name": "Writer's Desk",
         "number": 251,
         "shape": "normal",
         "set": "MVX",
-        "position": "217"
+        "position": "214"
     },
     {
         "card_name": "Roland's Solo",
         "number": 233,
         "shape": "normal",
         "set": "MVX",
-        "position": "177"
+        "position": "174"
     },
     {
         "card_name": "Oft-Told Tales",
         "number": 225,
         "shape": "normal",
         "set": "MVX",
-        "position": "276"
+        "position": "270"
     },
     {
         "card_name": "Chicken Coop",
         "number": 192,
         "shape": "normal",
         "set": "MVX",
-        "position": "202"
+        "position": "199"
     },
     {
         "card_name": "Lyon's Contemplation",
         "number": 220,
         "shape": "normal",
         "set": "MVX",
-        "position": "228"
+        "position": "224"
     },
     {
         "card_name": "Break from Stress",
         "number": 190,
         "shape": "normal",
         "set": "MVX",
-        "position": "265"
+        "position": "260"
     },
     {
         "card_name": "Lament",
         "number": 218,
         "shape": "normal",
         "set": "MVX",
-        "position": "250"
+        "position": "245"
     },
     {
         "card_name": "Show of Strength",
         "number": 236,
         "shape": "normal",
         "set": "MVX",
-        "position": "301"
+        "position": "294"
     },
     {
         "card_name": "Gustatorie Mixer",
         "number": 210,
         "shape": "normal",
         "set": "MVX",
-        "position": "209"
+        "position": "206"
     },
     {
         "card_name": "Castleway Crane",
         "number": 191,
         "shape": "class",
         "set": "MVX",
-        "position": "158"
+        "position": "156"
     },
     {
         "card_name": "Forlorn Author",
         "number": 203,
         "shape": "normal",
         "set": "MVX",
-        "position": "66"
+        "position": "65"
     },
     {
         "card_name": "Bombastic Performance",
         "number": 189,
         "shape": "normal",
         "set": "MVX",
-        "position": "178"
+        "position": "175"
     },
     {
         "card_name": "Flamethumper",
         "number": 202,
         "shape": "normal",
         "set": "MVX",
-        "position": "100"
+        "position": "99"
     },
     {
         "card_name": "Secret Ingredients",
         "number": 235,
         "shape": "normal",
         "set": "MVX",
-        "position": "297"
+        "position": "290"
     },
     {
         "card_name": "Meticulous Sculptor",
         "number": 221,
         "shape": "normal",
         "set": "MVX",
-        "position": "69"
+        "position": "68"
     },
     {
         "card_name": "Wicked Wordsmith",
         "number": 250,
         "shape": "normal",
         "set": "MVX",
-        "position": "220"
+        "position": "217"
     },
     {
         "card_name": "Soliloquist",
         "number": 237,
         "shape": "normal",
         "set": "MVX",
-        "position": "114"
+        "position": "113"
     },
     {
         "card_name": "Opening Act",
         "number": 226,
         "shape": "saga",
         "set": "MVX",
-        "position": "101"
+        "position": "100"
     },
     {
         "card_name": "Turnip Trimmer",
         "number": 245,
         "shape": "normal",
         "set": "MVX",
-        "position": "70"
+        "position": "69"
     },
     {
         "card_name": "Parapet Percher",
         "number": 259,
         "shape": "normal",
         "set": "MVX",
-        "position": "323"
+        "position": "316"
     },
     {
         "card_name": "Paper Familiars",
@@ -1501,14 +1501,14 @@
         "number": 255,
         "shape": "normal",
         "set": "MVX",
-        "position": "231"
+        "position": "227"
     },
     {
         "card_name": "Tear Through",
         "number": 261,
         "shape": "normal",
         "set": "MVX",
-        "position": "233"
+        "position": "229"
     },
     {
         "card_name": "Pudding Cat",
@@ -1537,175 +1537,175 @@
         "number": 215,
         "shape": "normal",
         "set": "MVX",
-        "position": "82"
+        "position": "81"
     },
     {
         "card_name": "Michel, Strummer of Heartstrings",
         "number": 222,
         "shape": "normal",
         "set": "MVX",
-        "position": "126"
+        "position": "125"
     },
     {
         "card_name": "Berengar, Kitchen Tyrant",
         "number": 188,
         "shape": "normal",
         "set": "MVX",
-        "position": "189"
+        "position": "186"
     },
     {
         "card_name": "Niels, Cogmaster",
         "number": 223,
         "shape": "normal",
         "set": "MVX",
-        "position": "107"
+        "position": "106"
     },
     {
         "card_name": "Odette L'or, Fickle Painter",
         "number": 224,
         "shape": "normal",
         "set": "MVX",
-        "position": "106"
+        "position": "105"
     },
     {
         "card_name": "La Chaconne de Soupir No 3",
         "number": 217,
         "shape": "saga",
         "set": "MVX",
-        "position": "208"
+        "position": "205"
     },
     {
         "card_name": "The Bardenmoot",
         "number": 186,
         "shape": "saga",
         "set": "MVX",
-        "position": "313"
+        "position": "306"
     },
     {
         "card_name": "Frymaster's Pan",
         "number": 205,
         "shape": "normal",
         "set": "MVX",
-        "position": "275"
+        "position": "326"
     },
     {
         "card_name": "Scrapsmelt Foundry",
         "number": 234,
         "shape": "class",
         "set": "MVX",
-        "position": "262"
+        "position": "257"
     },
     {
         "card_name": "Starlit Horizons",
         "number": 240,
         "shape": "normal",
         "set": "MVX",
-        "position": "261"
+        "position": "256"
     },
     {
         "card_name": "Festival Puppeteer",
         "number": 201,
         "shape": "normal",
         "set": "MVX",
-        "position": "176"
+        "position": "173"
     },
     {
         "card_name": "Stormsinger",
         "number": 242,
         "shape": "normal",
         "set": "MVX",
-        "position": "169"
+        "position": "166"
     },
     {
         "card_name": "Stew",
         "number": 241,
         "shape": "normal",
         "set": "MVX",
-        "position": "193"
+        "position": "190"
     },
     {
         "card_name": "Avian Augmenteers",
         "number": 185,
         "shape": "normal",
         "set": "MVX",
-        "position": "300"
+        "position": "293"
     },
     {
         "card_name": "Inkblot Familiar",
         "number": 213,
         "shape": "normal",
         "set": "MVX",
-        "position": "247"
+        "position": "242"
     },
     {
         "card_name": "Dancing Troupe",
         "number": 196,
         "shape": "normal",
         "set": "MVX",
-        "position": "67"
+        "position": "66"
     },
     {
         "card_name": "The Grand Festival",
         "number": 207,
         "shape": "saga",
         "set": "MVX",
-        "position": "296"
+        "position": "289"
     },
     {
         "card_name": "Free-Range Foraging",
         "number": 204,
         "shape": "normal",
         "set": "MVX",
-        "position": "71"
+        "position": "70"
     },
     {
         "card_name": "Gemcrafter",
         "number": 206,
         "shape": "normal",
         "set": "MVX",
-        "position": "124"
+        "position": "123"
     },
     {
         "card_name": "Grow from Instruction",
         "number": 209,
         "shape": "normal",
         "set": "MVX",
-        "position": "163"
+        "position": "161"
     },
     {
         "card_name": "Profane Performer",
         "number": 230,
         "shape": "normal",
         "set": "MVX",
-        "position": "274"
+        "position": "269"
     },
     {
         "card_name": "Valiant Versemaker",
         "number": 246,
         "shape": "normal",
         "set": "MVX",
-        "position": "72"
+        "position": "71"
     },
     {
         "card_name": "Wandering Connoisseur",
         "number": 249,
         "shape": "normal",
         "set": "MVX",
-        "position": "68"
+        "position": "67"
     },
     {
         "card_name": "Ironflow Forge",
         "number": 214,
         "shape": "class",
         "set": "MVX",
-        "position": "105"
+        "position": "104"
     },
     {
         "card_name": "Hunt for Inspiration",
         "number": 211,
         "shape": "normal",
         "set": "MVX",
-        "position": "160"
+        "position": "158"
     },
     {
         "card_name": "Operahouse Gossip",
@@ -1733,14 +1733,14 @@
         "number": 254,
         "shape": "normal",
         "set": "MVX",
-        "position": "309"
+        "position": "302"
     },
     {
         "card_name": "Inspiring Walk",
         "number": 256,
         "shape": "normal",
         "set": "MVX",
-        "position": "172"
+        "position": "169"
     },
     {
         "card_name": "er"
@@ -1762,105 +1762,105 @@
         "number": 208,
         "shape": "normal",
         "set": "MVX",
-        "position": "306"
+        "position": "299"
     },
     {
         "card_name": "Song of Creation",
         "number": 238,
         "shape": "normal",
         "set": "MVX",
-        "position": "104"
+        "position": "103"
     },
     {
         "card_name": "Ambrosian Tower",
         "number": 182,
         "shape": "normal",
         "set": "MVX",
-        "position": "174"
+        "position": "171"
     },
     {
         "card_name": "Alabaster Guardian",
         "number": 181,
         "shape": "normal",
         "set": "MVX",
-        "position": "253"
+        "position": "248"
     },
     {
         "card_name": "Far-off Places",
         "number": 200,
         "shape": "normal",
         "set": "MVX",
-        "position": "273"
+        "position": "268"
     },
     {
         "card_name": "Knockout Performance",
         "number": 216,
         "shape": "normal",
         "set": "MVX",
-        "position": "307"
+        "position": "300"
     },
     {
         "card_name": "Hymn to the Wilds",
         "number": 212,
         "shape": "normal",
         "set": "MVX",
-        "position": "190"
+        "position": "187"
     },
     {
         "card_name": "Ancestral Guidance",
         "number": 183,
         "shape": "normal",
         "set": "MVX",
-        "position": "303"
+        "position": "296"
     },
     {
         "card_name": "Plan by Committee",
         "number": 229,
         "shape": "normal",
         "set": "MVX",
-        "position": "291"
+        "position": "284"
     },
     {
         "card_name": "Reconceptualize",
         "number": 231,
         "shape": "normal",
         "set": "MVX",
-        "position": "194"
+        "position": "191"
     },
     {
         "card_name": "Vicious Animancer",
         "number": 248,
         "shape": "normal",
         "set": "MVX",
-        "position": "292"
+        "position": "285"
     },
     {
         "card_name": "Partners in Rhyme",
         "number": 227,
         "shape": "normal",
         "set": "MVX",
-        "position": "180"
+        "position": "177"
     },
     {
         "card_name": "Teatime Two",
         "number": 244,
         "shape": "normal",
         "set": "MVX",
-        "position": "162"
+        "position": "160"
     },
     {
         "card_name": "Stained Glass Sentinel",
         "number": 239,
         "shape": "normal",
         "set": "MVX",
-        "position": "197"
+        "position": "194"
     },
     {
         "card_name": "Angel of Iteration",
         "number": 184,
         "shape": "normal",
         "set": "MVX",
-        "position": "164"
+        "position": "162"
     },
     {
         "card_name": "er"
@@ -1914,98 +1914,98 @@
         "number": 269,
         "shape": "normal",
         "set": "MVX",
-        "position": "225"
+        "position": "222"
     },
     {
         "card_name": "Chromatic Lantern",
         "number": 263,
         "shape": "normal",
         "set": "MVX",
-        "position": "227"
+        "position": "223"
     },
     {
         "card_name": "Conceptual Orrery",
         "number": 264,
         "shape": "normal",
         "set": "MVX",
-        "position": "145"
+        "position": "143"
     },
     {
         "card_name": "Constructed Whelp",
         "number": 265,
         "shape": "normal",
         "set": "MVX",
-        "position": "234"
+        "position": "230"
     },
     {
         "card_name": "Flute of Harmony",
         "number": 267,
         "shape": "normal",
         "set": "MVX",
-        "position": "277"
+        "position": "271"
     },
     {
         "card_name": "Inkbottle",
         "number": 270,
         "shape": "normal",
         "set": "MVX",
-        "position": "144"
+        "position": "142"
     },
     {
         "card_name": "Stonework Behemoth",
         "number": 274,
         "shape": "normal",
         "set": "MVX",
-        "position": "258"
+        "position": "253"
     },
     {
         "card_name": "Trash-eater Gnome",
         "number": 275,
         "shape": "normal",
         "set": "MVX",
-        "position": "143"
+        "position": "141"
     },
     {
         "card_name": "Cartographer's Eyes",
         "number": 262,
         "shape": "normal",
         "set": "MVX",
-        "position": "60"
+        "position": "59"
     },
     {
         "card_name": "Fencer's Foil",
         "number": 266,
         "shape": "normal",
         "set": "MVX",
-        "position": "151"
+        "position": "149"
     },
     {
         "card_name": "Gnomestack",
         "number": 268,
         "shape": "normal",
         "set": "MVX",
-        "position": "61"
+        "position": "60"
     },
     {
         "card_name": "Librarian's Assistant",
         "number": 271,
         "shape": "normal",
         "set": "MVX",
-        "position": "59"
+        "position": "58"
     },
     {
         "card_name": "Prophetic Prism",
         "number": 272,
         "shape": "normal",
         "set": "MVX",
-        "position": "63"
+        "position": "62"
     },
     {
         "card_name": "Rancid Meal",
         "number": 273,
         "shape": "normal",
         "set": "MVX",
-        "position": "62"
+        "position": "61"
     },
     {
         "card_name": "e"
@@ -2030,35 +2030,35 @@
         "number": 288,
         "shape": "normal",
         "set": "MVX",
-        "position": "26"
+        "position": "25"
     },
     {
         "card_name": "Hushed Library",
         "number": 282,
         "shape": "normal",
         "set": "MVX",
-        "position": "27"
+        "position": "26"
     },
     {
         "card_name": "Charming Playhouse",
         "number": 279,
         "shape": "normal",
         "set": "MVX",
-        "position": "28"
+        "position": "27"
     },
     {
         "card_name": "Orator's Forum",
         "number": 285,
         "shape": "normal",
         "set": "MVX",
-        "position": "29"
+        "position": "28"
     },
     {
         "card_name": "Abundant Garden",
         "number": 276,
         "shape": "normal",
         "set": "MVX",
-        "position": "30"
+        "position": "29"
     },
     {
         "card_name": "er"
@@ -2080,35 +2080,35 @@
         "number": 284,
         "shape": "normal",
         "set": "MVX",
-        "position": "31"
+        "position": "30"
     },
     {
         "card_name": "Lively Tavern",
         "number": 283,
         "shape": "normal",
         "set": "MVX",
-        "position": "33"
+        "position": "32"
     },
     {
         "card_name": "Seedy Kitchen",
         "number": 287,
         "shape": "normal",
         "set": "MVX",
-        "position": "32"
+        "position": "31"
     },
     {
         "card_name": "Artificer's Workshop",
         "number": 277,
         "shape": "normal",
         "set": "MVX",
-        "position": "34"
+        "position": "33"
     },
     {
         "card_name": "Painter's Studio",
         "number": 286,
         "shape": "normal",
         "set": "MVX",
-        "position": "161"
+        "position": "159"
     },
     {
         "card_name": "er"
@@ -2130,70 +2130,70 @@
         "number": 278,
         "shape": "normal",
         "set": "MVX",
-        "position": "21"
+        "position": "20"
     },
     {
         "card_name": "Delightful Patisserie",
         "number": 280,
         "shape": "normal",
         "set": "MVX",
-        "position": "25"
+        "position": "24"
     },
     {
         "card_name": "Discreet Gallery",
         "number": 281,
         "shape": "normal",
         "set": "MVX",
-        "position": "23"
+        "position": "22"
     },
     {
         "card_name": "Sunlit Park",
         "number": 289,
         "shape": "normal",
         "set": "MVX",
-        "position": "22"
+        "position": "21"
     },
     {
         "card_name": "Vibrant Concourse",
         "number": 290,
         "shape": "normal",
         "set": "MVX",
-        "position": "24"
+        "position": "23"
     },
     {
         "card_name": "PROMO Back-Alley Theatre",
         "number": 1,
         "shape": "normal",
         "set": "MVX",
-        "position": "16"
+        "position": "15"
     },
     {
         "card_name": "PROMO Delightful Patisserie",
         "number": 2,
         "shape": "normal",
         "set": "MVX",
-        "position": "20"
+        "position": "19"
     },
     {
         "card_name": "PROMO Discreet Gallery",
         "number": 3,
         "shape": "normal",
         "set": "MVX",
-        "position": "18"
+        "position": "17"
     },
     {
         "card_name": "PROMO Sunlit Park",
         "number": 8,
         "shape": "normal",
         "set": "MVX",
-        "position": "17"
+        "position": "16"
     },
     {
         "card_name": "PROMO Vibrant Concourse",
         "number": 10,
         "shape": "normal",
         "set": "MVX",
-        "position": "19"
+        "position": "18"
     },
     {
         "card_name": "er"
@@ -2215,70 +2215,70 @@
         "number": 295,
         "shape": "normal",
         "set": "MVX",
-        "position": "153"
+        "position": "151"
     },
     {
         "card_name": "Island MVX",
         "number": 292,
         "shape": "normal",
         "set": "MVX",
-        "position": "154"
+        "position": "152"
     },
     {
         "card_name": "Plains MVX",
         "number": 291,
         "shape": "normal",
         "set": "MVX",
-        "position": "155"
+        "position": "153"
     },
     {
         "card_name": "Swamp MVX",
         "number": 293,
         "shape": "normal",
         "set": "MVX",
-        "position": "156"
+        "position": "154"
     },
     {
         "card_name": "Mountain MVX",
         "number": 294,
         "shape": "normal",
         "set": "MVX",
-        "position": "159"
+        "position": "157"
     },
     {
         "card_name": "PROMO Swamp",
         "number": 9,
         "shape": "normal",
         "set": "MVX",
-        "position": "282"
+        "position": "276"
     },
     {
         "card_name": "PROMO Plains",
         "number": 7,
         "shape": "normal",
         "set": "MVX",
-        "position": "283"
+        "position": "277"
     },
     {
         "card_name": "PROMO Mountain",
         "number": 6,
         "shape": "normal",
         "set": "MVX",
-        "position": "284"
+        "position": "278"
     },
     {
         "card_name": "PROMO Island",
         "number": 5,
         "shape": "normal",
         "set": "MVX",
-        "position": "285"
+        "position": "279"
     },
     {
         "card_name": "PROMO Forest",
         "number": 4,
         "shape": "normal",
         "set": "MVX",
-        "position": "286"
+        "position": "280"
     },
     {
         "card_name": "er"
@@ -2305,147 +2305,147 @@
         "number": 12,
         "shape": "token",
         "set": "MVX",
-        "position": "299"
+        "position": "292"
     },
     {
         "card_name": "Construct",
         "number": 13,
         "shape": "token",
         "set": "MVX",
-        "position": "212"
+        "position": "209"
     },
     {
         "card_name": "Copy",
         "number": 14,
         "shape": "token",
         "set": "MVX",
-        "position": "152"
+        "position": "150"
     },
     {
         "card_name": "Dog",
         "number": 15,
         "shape": "token",
         "set": "MVX",
-        "position": "129"
+        "position": "128"
     },
     {
         "card_name": "Food",
         "number": 16,
         "shape": "token",
         "set": "MVX",
-        "position": "131"
+        "position": "130"
     },
     {
         "card_name": "Gnome",
         "number": 17,
         "shape": "token",
         "set": "MVX",
-        "position": "132"
+        "position": "131"
     },
     {
         "card_name": "Sculpture",
         "number": 18,
         "shape": "token",
         "set": "MVX",
-        "position": "136"
+        "position": "135"
     },
     {
         "card_name": "Thopter",
         "number": 19,
         "shape": "token",
         "set": "MVX",
-        "position": "137"
+        "position": "136"
     },
     {
         "card_name": "Treasure",
         "number": 20,
         "shape": "token",
         "set": "MVX",
-        "position": "138"
+        "position": "137"
     },
     {
         "card_name": "Vehicle",
         "number": 21,
         "shape": "token",
         "set": "MVX",
-        "position": "192"
+        "position": "189"
     },
     {
         "card_name": "Forest Plains",
         "number": 22,
         "shape": "token",
         "set": "MVX",
-        "position": "188"
+        "position": "185"
     },
     {
         "card_name": "Bird",
         "number": 2,
         "shape": "token",
         "set": "MVX",
-        "position": "201"
+        "position": "198"
     },
     {
         "card_name": "Illusion",
         "number": 3,
         "shape": "token",
         "set": "MVX",
-        "position": "133"
+        "position": "132"
     },
     {
         "card_name": "Inkling",
         "number": 4,
         "shape": "token",
         "set": "MVX",
-        "position": "134"
+        "position": "133"
     },
     {
         "card_name": "Vampire Actor",
         "number": 5,
         "shape": "token",
         "set": "MVX",
-        "position": "139"
+        "position": "138"
     },
     {
         "card_name": "Bard",
         "number": 6,
         "shape": "token",
         "set": "MVX",
-        "position": "127"
+        "position": "126"
     },
     {
         "card_name": "Dragon",
         "number": 7,
         "shape": "token",
         "set": "MVX",
-        "position": "321"
+        "position": "314"
     },
     {
         "card_name": "Elemental",
         "number": 8,
         "shape": "token",
         "set": "MVX",
-        "position": "130"
+        "position": "129"
     },
     {
         "card_name": "Spirit Elemental",
         "number": 9,
         "shape": "token",
         "set": "MVX",
-        "position": "210"
+        "position": "207"
     },
     {
         "card_name": "Boar",
         "number": 10,
         "shape": "token",
         "set": "MVX",
-        "position": "128"
+        "position": "127"
     },
     {
         "card_name": "Plant",
         "number": 11,
         "shape": "token",
         "set": "MVX",
-        "position": "135"
+        "position": "134"
     },
     {
         "card_name": "e"

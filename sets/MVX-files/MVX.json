@@ -136,7 +136,7 @@
             "number": 1,
             "color_identity": "WUBRG",
             "cost": "",
-            "rules_text": "{R}{W}{U} ARTIFACTS \n {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!\n {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.\n{U}{R}{G} SAGAS/REGALE\n {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.\n {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!\n{G}{U}{B} DELIRIUM \n {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!\n {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.\n{B}{G}{W} FEAST\n {B}{G} LIFEGAIN Devour food with your creatures by paying off lifegain synergies.\n {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!\n{W}{B}{R} EXPLOIT\n {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.\n {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.",
+            "rules_text": "{R}{W}{U} ARTIFACTS \n {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!\n {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.\n{U}{R}{G} SAGAS/REGALE\n {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.\n {R}{G} AGGRO Regale your prowess to your opponent's face by singing and slinging spells!\n{G}{U}{B} DELIRIUM \n {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!\n {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.\n{B}{G}{W} FEAST\n {B}{G} LIFEGAIN [/i][i]Feast[/i][i] on food with your creatures by paying off lifegain synergies.\n {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!\n{W}{B}{R} EXPLOIT\n {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.\n {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -269,37 +269,6 @@
             "notes": ""
         },
         {
-            "card_name": "Marquis Vaasco de Moraes",
-            "color": "B",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Zombie Warlock",
-            "number": 95,
-            "color_identity": "WBR",
-            "cost": "{4}{B}{B}",
-            "rules_text": "When Vaasco enters, you may return target non-Zombie creature card from your graveyard to the battlefield.\nLegacy {R}{W}{B}",
-            "flavor_text": "[i]\u201cOpera is an expression of power, an imposition into the culture's soul.\u201d[/i]",
-            "pt": "4/4",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Diniece Henderson",
-            "alias": "",
-            "position": "13",
-            "card_name2": "The Grand Revival",
-            "color2": "WBR",
-            "type2": "Legendary Enchantment \u2014 Saga",
-            "cost2": "",
-            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nSacrifice a creature or Marquis Vaasco de Moraes.\nYou gain 3 life.\nIf The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. [i](Front face up.)[/i]\nExile The Grand Revival, then return it to the battlefield.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nSacrifice a creature or Marquis Vaasco de Moraes.\nYou gain 3 life.\nIf The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. [i](Front face up.)[/i]\nExile The Grand Revival, then return it to the battlefield.",
-            "loyalty2": "",
-            "artist2": "Thomas Dambreville",
-            "alias2": "",
-            "notes": "!sort mythicflip"
-        },
-        {
             "card_name": "Pascal, Critics' Favorite",
             "color": "WG",
             "rarity": "mythic",
@@ -316,7 +285,7 @@
             "loyalty": "4",
             "artist": "Adrian Pamplona",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "notes": "!sort 2cwalker\ngoblin"
         },
         {
@@ -336,7 +305,7 @@
             "loyalty": "4",
             "artist": "Ondrej Hrdina",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "notes": "!sort 2cwalker\nhuman"
         },
         {
@@ -356,7 +325,7 @@
             "loyalty": "",
             "artist": "Piotr Charchut",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "notes": "!exportname PROMO Back-Alley Theatre\n!tapped"
         },
         {
@@ -376,7 +345,7 @@
             "loyalty": "",
             "artist": "Luis Maldonado",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "notes": "!exportname PROMO Sunlit Park\n!tapped"
         },
         {
@@ -396,7 +365,7 @@
             "loyalty": "",
             "artist": "Piotr Charchut, Edit: Fungustober",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "notes": "!exportname PROMO Discreet Gallery\n!tapped"
         },
         {
@@ -416,7 +385,7 @@
             "loyalty": "",
             "artist": "Matt Sanz",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "notes": "!exportname PROMO Vibrant Concourse\n!tapped"
         },
         {
@@ -436,7 +405,7 @@
             "loyalty": "",
             "artist": "Hyuna Lee",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "notes": "!exportname PROMO Delightful Patisserie\n!tapped"
         },
         {
@@ -456,7 +425,7 @@
             "loyalty": "",
             "artist": "Nikita Bolyakov",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -476,7 +445,7 @@
             "loyalty": "",
             "artist": "Andrew Palyanov",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -496,7 +465,7 @@
             "loyalty": "",
             "artist": "Andrei Riabovitchev",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -516,7 +485,7 @@
             "loyalty": "",
             "artist": "Kou Takano",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -536,7 +505,7 @@
             "loyalty": "",
             "artist": "Ethan Kahn",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -556,7 +525,7 @@
             "loyalty": "",
             "artist": "Igor Artyomenko",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -576,7 +545,7 @@
             "loyalty": "",
             "artist": "Andreas Rocha",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -596,7 +565,7 @@
             "loyalty": "",
             "artist": "Levi Smith",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -616,7 +585,7 @@
             "loyalty": "",
             "artist": "Hidden City: Mystery of Shadows",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -636,7 +605,7 @@
             "loyalty": "",
             "artist": "Hidden City: Mystery of Shadows",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -656,7 +625,7 @@
             "loyalty": "",
             "artist": "Feng Zhu",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -676,7 +645,7 @@
             "loyalty": "",
             "artist": "Cyndhi S",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -696,7 +665,7 @@
             "loyalty": "",
             "artist": "Eddie Mendoza",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -716,7 +685,7 @@
             "loyalty": "",
             "artist": "Xavier Ward",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -736,7 +705,7 @@
             "loyalty": "",
             "artist": "Devin Elle Kurtz",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "notes": "dragon"
         },
         {
@@ -756,7 +725,7 @@
             "loyalty": "",
             "artist": "Aaron Grace",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "notes": ""
         },
         {
@@ -776,7 +745,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "notes": ""
         },
         {
@@ -796,7 +765,7 @@
             "loyalty": "",
             "artist": "Nikita Kapitunov",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "notes": "human\nelf\nnick: POV you are just a little hater"
         },
         {
@@ -816,8 +785,8 @@
             "loyalty": "",
             "artist": "Juan Silva",
             "alias": "",
-            "position": "39",
-            "notes": "FTFLAG"
+            "position": "38",
+            "notes": ""
         },
         {
             "card_name": "Mechanical Strix",
@@ -836,7 +805,7 @@
             "loyalty": "",
             "artist": "Dmytro Krymskyi",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "notes": ""
         },
         {
@@ -856,7 +825,7 @@
             "loyalty": "",
             "artist": "David Alcantara",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "card_name2": "Enchanted Quill",
             "color2": "U",
             "type2": "Artifact \u2014 Equipment",
@@ -887,7 +856,7 @@
             "loyalty": "",
             "artist": "Lee Simpson",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "notes": "djinn"
         },
         {
@@ -907,7 +876,7 @@
             "loyalty": "",
             "artist": "Grafit Studios",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "notes": ""
         },
         {
@@ -927,7 +896,7 @@
             "loyalty": "",
             "artist": "Warmics",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "notes": ""
         },
         {
@@ -947,7 +916,7 @@
             "loyalty": "",
             "artist": "Evan Sanata, edited: me",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "notes": "REART"
         },
         {
@@ -967,7 +936,7 @@
             "loyalty": "",
             "artist": "Johannes Roots",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "notes": ""
         },
         {
@@ -987,8 +956,8 @@
             "loyalty": "",
             "artist": "Bartlomiej Gawel",
             "alias": "",
-            "position": "47",
-            "notes": "CHANGEFLAG"
+            "position": "46",
+            "notes": ""
         },
         {
             "card_name": "Overworked",
@@ -1007,7 +976,7 @@
             "loyalty": "",
             "artist": "Ana Antunes",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "notes": "human"
         },
         {
@@ -1027,7 +996,7 @@
             "loyalty": "",
             "artist": "Samuel Alvarez",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "notes": ""
         },
         {
@@ -1047,7 +1016,7 @@
             "loyalty": "",
             "artist": "Ana Antunes",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "notes": "human\nvampire\nfunc reprint"
         },
         {
@@ -1067,7 +1036,7 @@
             "loyalty": "",
             "artist": "Tytonidae Alba",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "card_name2": "Background Part",
             "color2": "B",
             "type2": "Creature \u2014 Human Actor Warlock",
@@ -1098,7 +1067,7 @@
             "loyalty": "",
             "artist": "Sam Hogg",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "notes": ""
         },
         {
@@ -1118,7 +1087,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "notes": ""
         },
         {
@@ -1138,7 +1107,7 @@
             "loyalty": "",
             "artist": "Michael Howe",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "notes": ""
         },
         {
@@ -1158,7 +1127,7 @@
             "loyalty": "",
             "artist": "Hannah Miller",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "azra"
         },
         {
@@ -1178,7 +1147,7 @@
             "loyalty": "",
             "artist": "Michael Overman",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": ""
         },
         {
@@ -1198,7 +1167,7 @@
             "loyalty": "",
             "artist": "Anzka Nguyen",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": "goblin"
         },
         {
@@ -1218,7 +1187,7 @@
             "loyalty": "",
             "artist": "Federico Lacelli",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": ""
         },
         {
@@ -1238,7 +1207,7 @@
             "loyalty": "",
             "artist": "Jake Siano",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": ""
         },
         {
@@ -1258,7 +1227,7 @@
             "loyalty": "",
             "artist": "Danielle Manganello",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": "func reprint"
         },
         {
@@ -1278,7 +1247,7 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "notes": "nick: is this that comic everyone is obsessed with"
         },
         {
@@ -1298,8 +1267,8 @@
             "loyalty": "",
             "artist": "Tomas Duchek",
             "alias": "",
-            "position": "62",
-            "notes": "KILLFLAG"
+            "position": "61",
+            "notes": ""
         },
         {
             "card_name": "Prophetic Prism",
@@ -1318,7 +1287,7 @@
             "loyalty": "",
             "artist": "Diego Roman",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": "human"
         },
         {
@@ -1338,7 +1307,7 @@
             "loyalty": "",
             "artist": "Alex Allen",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": ""
         },
         {
@@ -1358,7 +1327,7 @@
             "loyalty": "",
             "artist": "Finbeard",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": "nick: idiot bird"
         },
         {
@@ -1378,7 +1347,7 @@
             "loyalty": "",
             "artist": "Linda Lithen",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": ""
         },
         {
@@ -1398,7 +1367,7 @@
             "loyalty": "",
             "artist": "Rachele Marziale",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": ""
         },
         {
@@ -1418,7 +1387,7 @@
             "loyalty": "",
             "artist": "Alex Konstad",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": ""
         },
         {
@@ -1438,7 +1407,7 @@
             "loyalty": "",
             "artist": "Vaiarello Loic",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": ""
         },
         {
@@ -1458,7 +1427,7 @@
             "loyalty": "",
             "artist": "Rafael de Arimatea",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": ""
         },
         {
@@ -1478,7 +1447,7 @@
             "loyalty": "",
             "artist": "Bogna Gawronska",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": ""
         },
         {
@@ -1498,7 +1467,7 @@
             "loyalty": "",
             "artist": "Anthea Wright",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": ""
         },
         {
@@ -1518,7 +1487,7 @@
             "loyalty": "",
             "artist": "Janette Ramos",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "card_name2": "Cogwork Watch",
             "color2": "W",
             "type2": "Artifact \u2014 Equipment",
@@ -1549,7 +1518,7 @@
             "loyalty": "",
             "artist": "bernardo curvello",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": ""
         },
         {
@@ -1569,8 +1538,8 @@
             "loyalty": "",
             "artist": "Charles Urbach",
             "alias": "",
-            "position": "75",
-            "notes": "KILLFLAG\nif you need to buff it, flash?"
+            "position": "74",
+            "notes": "if you need to buff it, flash?"
         },
         {
             "card_name": "Cheerful Painter",
@@ -1589,7 +1558,7 @@
             "loyalty": "",
             "artist": "Annalisa Visconti",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": "tour"
         },
         {
@@ -1609,7 +1578,7 @@
             "loyalty": "",
             "artist": "Valeria Styajkina",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": ""
         },
         {
@@ -1629,7 +1598,7 @@
             "loyalty": "",
             "artist": "Leonid Afremov",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": ""
         },
         {
@@ -1649,7 +1618,7 @@
             "loyalty": "",
             "artist": "Gwennet",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "elf"
         },
         {
@@ -1669,7 +1638,7 @@
             "loyalty": "",
             "artist": "Martin Mottet",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": ""
         },
         {
@@ -1689,7 +1658,7 @@
             "loyalty": "",
             "artist": "Jeshua Turpo",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": ""
         },
         {
@@ -1709,7 +1678,7 @@
             "loyalty": "",
             "artist": "Giovanni Panarello",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "!sort 1commanderbait"
         },
         {
@@ -1729,7 +1698,7 @@
             "loyalty": "",
             "artist": "Chris Dien",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "human"
         },
         {
@@ -1749,7 +1718,7 @@
             "loyalty": "",
             "artist": "Aleksander Karcz",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": ""
         },
         {
@@ -1769,7 +1738,7 @@
             "loyalty": "",
             "artist": "Gabriel Rubio",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": ""
         },
         {
@@ -1789,7 +1758,7 @@
             "loyalty": "",
             "artist": "Loles Romero",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "card_name2": "Vibrant Vision",
             "color2": "U",
             "type2": "Enchantment Artifact",
@@ -1820,7 +1789,7 @@
             "loyalty": "",
             "artist": "Pedro Otelcana",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": ""
         },
         {
@@ -1840,7 +1809,7 @@
             "loyalty": "",
             "artist": "Antonio Caparo",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "gnome"
         },
         {
@@ -1860,7 +1829,7 @@
             "loyalty": "",
             "artist": "Vablo",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "notes": ""
         },
         {
@@ -1880,7 +1849,7 @@
             "loyalty": "",
             "artist": "Nicole Nito",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "notes": ""
         },
         {
@@ -1900,7 +1869,7 @@
             "loyalty": "",
             "artist": "Eva Sokolova",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "notes": ""
         },
         {
@@ -1920,7 +1889,7 @@
             "loyalty": "",
             "artist": "Mei Takizawa",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "notes": ""
         },
         {
@@ -1940,7 +1909,7 @@
             "loyalty": "",
             "artist": "Eneada",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "notes": ""
         },
         {
@@ -1960,7 +1929,7 @@
             "loyalty": "",
             "artist": "Carlos War",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "card_name2": "Abundant Feast",
             "color2": "G",
             "type2": "Enchantment \u2014 Aura",
@@ -1991,7 +1960,7 @@
             "loyalty": "",
             "artist": "Anastasia Aihavo",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": ""
         },
         {
@@ -2011,7 +1980,7 @@
             "loyalty": "",
             "artist": "Caio Santos",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": "gnome\nfunc reprint"
         },
         {
@@ -2031,7 +2000,7 @@
             "loyalty": "",
             "artist": "Maxxkennedy",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "notes": "human"
         },
         {
@@ -2051,7 +2020,7 @@
             "loyalty": "",
             "artist": "Oskar Johannes",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": ""
         },
         {
@@ -2071,7 +2040,7 @@
             "loyalty": "",
             "artist": "Haniel Moreno",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": "Before presenting themselves to the Society, many aspiring skalds practice with more forgiving audiences."
         },
         {
@@ -2091,7 +2060,7 @@
             "loyalty": "",
             "artist": "Nick Silva",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": ""
         },
         {
@@ -2102,16 +2071,16 @@
             "number": 226,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
-            "rules_text": "\nCreate a 1/1 red Bard creature token with prowess.\nWhenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.\n\u200b",
+            "rules_text": "\nI, II \u2014 Create a 1/1 red Bard creature token with prowess.\nIII \u2014 Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nCreate a 1/1 red Bard creature token with prowess.\nWhenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.\n\u200b",
+            "special_text": "\nI, II \u2014 Create a 1/1 red Bard creature token with prowess.\nIII \u2014 Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.\n\u200b",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Cryptozoic Entertainment",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": "satyr\ngnome, maybe?"
         },
         {
@@ -2131,7 +2100,7 @@
             "loyalty": "",
             "artist": "Camille Weefur, Edit: Me",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": ""
         },
         {
@@ -2151,7 +2120,7 @@
             "loyalty": "",
             "artist": "Paul Mafayon",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": "NICK: seasoning hallowblade"
         },
         {
@@ -2171,7 +2140,7 @@
             "loyalty": "",
             "artist": "Ando Gro",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "notes": "!sort 3cae"
         },
         {
@@ -2191,7 +2160,7 @@
             "loyalty": "",
             "artist": "Tarmo Juhola",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": ""
         },
         {
@@ -2211,7 +2180,7 @@
             "loyalty": "",
             "artist": "Viktoria Gavrilenko",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": "!sort 1commanderbait"
         },
         {
@@ -2231,7 +2200,7 @@
             "loyalty": "",
             "artist": "BramastaAji",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": "!sort 1commanderbait\nif you need to buff, remove 'noncreature'"
         },
         {
@@ -2251,7 +2220,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": "elf"
         },
         {
@@ -2271,7 +2240,7 @@
             "loyalty": "",
             "artist": "Jeff Ross",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": ""
         },
         {
@@ -2291,7 +2260,7 @@
             "loyalty": "",
             "artist": "Giuseppe de Iure",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": "human\nfunc reprint"
         },
         {
@@ -2311,7 +2280,7 @@
             "loyalty": "",
             "artist": "Thomas Chamberlain",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": ""
         },
         {
@@ -2331,7 +2300,7 @@
             "loyalty": "",
             "artist": "James Talon",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": ""
         },
         {
@@ -2351,7 +2320,7 @@
             "loyalty": "",
             "artist": "Ken Darmadi",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": ""
         },
         {
@@ -2371,7 +2340,7 @@
             "loyalty": "",
             "artist": "Christian Auer",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": ""
         },
         {
@@ -2391,7 +2360,7 @@
             "loyalty": "",
             "artist": "Verdan Popovic",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": ""
         },
         {
@@ -2411,7 +2380,7 @@
             "loyalty": "",
             "artist": "Gabriel Angelo",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": ""
         },
         {
@@ -2431,7 +2400,7 @@
             "loyalty": "",
             "artist": "Axelle Simon",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": ""
         },
         {
@@ -2451,7 +2420,7 @@
             "loyalty": "",
             "artist": "Lucas Parolin",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "notes": "human"
         },
         {
@@ -2471,7 +2440,7 @@
             "loyalty": "",
             "artist": "L. Lullabi & K. Turovec",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": "reach?"
         },
         {
@@ -2491,7 +2460,7 @@
             "loyalty": "",
             "artist": "Artur Mosca",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "card_name2": "Breakout Role",
             "color2": "B",
             "type2": "Creature \u2014 Vampire Actor Warlock",
@@ -2522,7 +2491,7 @@
             "loyalty": "",
             "artist": "Andreea Barbu",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": ""
         },
         {
@@ -2542,7 +2511,7 @@
             "loyalty": "",
             "artist": "Blend Cota Studios",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": ""
         },
         {
@@ -2562,7 +2531,7 @@
             "loyalty": "",
             "artist": "Angi Pauly",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "notes": "human\nAs much as the Congregation expands the city, the Society are there to remind them the importance of green spaces."
         },
         {
@@ -2582,7 +2551,7 @@
             "loyalty": "",
             "artist": "Annadel Cinco",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": ""
         },
         {
@@ -2602,7 +2571,7 @@
             "loyalty": "",
             "artist": "Blend Cota Studios",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": ""
         },
         {
@@ -2622,7 +2591,7 @@
             "loyalty": "",
             "artist": "Nicolay Kochnev",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": "!sort 1commanderbait\nrat / mouse"
         },
         {
@@ -2642,7 +2611,7 @@
             "loyalty": "",
             "artist": "Vyacheslav Safronov",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": "!related Elaphia, Full of Wonder;Merrymaker;Opening Act;Festival Revelry<2>;"
         },
         {
@@ -2662,7 +2631,7 @@
             "loyalty": "",
             "artist": "Kay Tang",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": "!related Free-Range Foraging;"
         },
         {
@@ -2682,7 +2651,7 @@
             "loyalty": "",
             "artist": "Indar Gunawan",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "!related Houndcrafter Savant;"
         },
         {
@@ -2702,7 +2671,7 @@
             "loyalty": "",
             "artist": "Diego Cunha",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "!related Waxcrafter<2>;"
         },
         {
@@ -2722,7 +2691,7 @@
             "loyalty": "",
             "artist": "Milena Vasyukov",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": "!related Candied Colossus;Fiendish Fromager;Pudding Cat;Soup Elemental;Tempt with Treats;Antoine, Chef Extraordinaire;Pascal, Critics' Favorite;Soup Serpent;Swaying Smorgasbord;Vegetable Chopper;Fine Diner;Petite Patissier;Diviner of the Dessert;Gastronomical Hubris;"
         },
         {
@@ -2742,7 +2711,7 @@
             "loyalty": "",
             "artist": "Matt Dixon",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "!related Gnomestack<3>;Rushed Production<2>;Reprocessing Foundry;Gnomish Tinkerer;Ironflow Forge;Scrapsmelt Foundry;Iterate Over;"
         },
         {
@@ -2762,7 +2731,7 @@
             "loyalty": "",
             "artist": "Elena Kotliarker",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": "!related The Flourishing;"
         },
         {
@@ -2782,7 +2751,7 @@
             "loyalty": "",
             "artist": "Jenner Chen",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": "!related Odette L'or, Fickle Painter;Enraged Essayist;Hunt for Inspiration<2>;Inkbottle;Inkshape;"
         },
         {
@@ -2802,7 +2771,7 @@
             "loyalty": "",
             "artist": "Anoushka Russell",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "!related Gustatorie Tastemaker;Abundant Feast;Soup Elemental;Antoine's Recipe;Pascal, Critics' Favorite;Ambrosian Tower;Gustatorie Mixer;Berengar, Kitchen Tyrant;Benevolent Florist;Stew Stirrer;Family Recipe;Tend the Garden;Turnip Trimmer;Gastronomical Hubris;"
         },
         {
@@ -2822,7 +2791,7 @@
             "loyalty": "",
             "artist": "Bunell",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "!related Meticulous Sculptor;Skystone Sculptory;"
         },
         {
@@ -2842,7 +2811,7 @@
             "loyalty": "",
             "artist": "Rogier Van de Beek",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "!related Lyon, Aged Inventor;Distracted Apprentice;Thopter Workshop;Sunstreet Clocktower;"
         },
         {
@@ -2862,7 +2831,7 @@
             "loyalty": "",
             "artist": "Grace Liu",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "!related Forge Gnome;Elven Glassblower;The Grand Festival;Gemcrafter;Plan by Committee;Scrapsmelt Foundry;Iterate Over;"
         },
         {
@@ -2882,7 +2851,7 @@
             "loyalty": "",
             "artist": "G Redon",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "!related Vamp<2>;Enraptured Watcher;Dour Chorister<2>;Breakout Role;Dramatis Personae;Onerous Old-Timer;"
         },
         {
@@ -2902,39 +2871,8 @@
             "loyalty": "",
             "artist": "Veronika Firsova",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": ""
-        },
-        {
-            "card_name": "Brasio, Bardic Chronicler",
-            "color": "R",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Goblin Bard",
-            "number": 111,
-            "color_identity": "URG",
-            "cost": "{R}",
-            "rules_text": "Regale \u2014 {T}: Scry 1. Brasio deals 1 damage to each opponent. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]\nLegacy {G}{U}{R}",
-            "flavor_text": "[i]\u201cA song is a connection through time, a recollection of emotion long past.\u201d[/i]",
-            "pt": "1/2",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Leonardo Correa",
-            "alias": "",
-            "position": "141",
-            "card_name2": "The Long Chant",
-            "color2": "URG",
-            "type2": "Legendary Enchantment \u2014 Saga",
-            "cost2": "",
-            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nYou may put a +1/+1 counter on target creature.\nThe Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nYou may put a +1/+1 counter on target creature.\nThe Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
-            "loyalty2": "",
-            "artist2": "Leonid Afremov",
-            "alias2": "",
-            "notes": "!sort mythicflip"
         },
         {
             "card_name": "Stew Stirrer",
@@ -2953,7 +2891,7 @@
             "loyalty": "",
             "artist": "Aleksander Karcz",
             "alias": "",
-            "position": "142",
+            "position": "140",
             "card_name2": "Family Recipe",
             "color2": "G",
             "type2": "Enchantment",
@@ -2965,7 +2903,7 @@
             "loyalty2": "",
             "artist2": "Zheng Gin",
             "alias2": "",
-            "notes": "KILLFLAG"
+            "notes": ""
         },
         {
             "card_name": "Trash-eater Gnome",
@@ -2984,8 +2922,8 @@
             "loyalty": "",
             "artist": "rayven studios",
             "alias": "",
-            "position": "143",
-            "notes": "changeflag"
+            "position": "141",
+            "notes": ""
         },
         {
             "card_name": "Inkbottle",
@@ -3004,7 +2942,7 @@
             "loyalty": "",
             "artist": "Janet Ng",
             "alias": "",
-            "position": "144",
+            "position": "142",
             "notes": ""
         },
         {
@@ -3024,7 +2962,7 @@
             "loyalty": "",
             "artist": "Donato Giancola",
             "alias": "",
-            "position": "145",
+            "position": "143",
             "notes": ""
         },
         {
@@ -3044,7 +2982,7 @@
             "loyalty": "",
             "artist": "Geoffroy Thoorens",
             "alias": "",
-            "position": "146",
+            "position": "144",
             "notes": ""
         },
         {
@@ -3064,7 +3002,7 @@
             "loyalty": "",
             "artist": "Lim\u00e3o",
             "alias": "",
-            "position": "147",
+            "position": "145",
             "notes": ""
         },
         {
@@ -3084,7 +3022,7 @@
             "loyalty": "",
             "artist": "Richard Wright",
             "alias": "",
-            "position": "148",
+            "position": "146",
             "notes": ""
         },
         {
@@ -3104,7 +3042,7 @@
             "loyalty": "",
             "artist": "Rafael Zanchetin",
             "alias": "",
-            "position": "149",
+            "position": "147",
             "notes": "dwarf"
         },
         {
@@ -3124,7 +3062,7 @@
             "loyalty": "",
             "artist": "Thomas Dambreville",
             "alias": "",
-            "position": "150",
+            "position": "148",
             "notes": "vampires"
         },
         {
@@ -3144,7 +3082,7 @@
             "loyalty": "",
             "artist": "Blissey1, Billy Wimblett, Edit: Scribbl",
             "alias": "",
-            "position": "151",
+            "position": "149",
             "notes": "Dragon"
         },
         {
@@ -3164,7 +3102,7 @@
             "loyalty": "",
             "artist": "Samantha Shieh",
             "alias": "",
-            "position": "152",
+            "position": "150",
             "notes": "!related Stage Double;Waxbreath Youngling;Grand Overture;Festival Puppeteer;Cogturn Laboratory;The Bardenmoot;"
         },
         {
@@ -3184,7 +3122,7 @@
             "loyalty": "",
             "artist": "MOONYOON",
             "alias": "",
-            "position": "153",
+            "position": "151",
             "notes": "!exportname Forest MVX"
         },
         {
@@ -3204,7 +3142,7 @@
             "loyalty": "",
             "artist": "Anna Shiryaeva",
             "alias": "",
-            "position": "154",
+            "position": "152",
             "notes": "!exportname Island MVX"
         },
         {
@@ -3224,7 +3162,7 @@
             "loyalty": "",
             "artist": "Yewon Im",
             "alias": "",
-            "position": "155",
+            "position": "153",
             "notes": "!exportname Plains MVX"
         },
         {
@@ -3244,7 +3182,7 @@
             "loyalty": "",
             "artist": "Daniel Walker",
             "alias": "",
-            "position": "156",
+            "position": "154",
             "notes": "!exportname Swamp MVX"
         },
         {
@@ -3264,7 +3202,7 @@
             "loyalty": "",
             "artist": "Alena Kubikova",
             "alias": "",
-            "position": "157",
+            "position": "155",
             "notes": "\nGUEST"
         },
         {
@@ -3284,7 +3222,7 @@
             "loyalty": "",
             "artist": "Louie Lin",
             "alias": "",
-            "position": "158",
+            "position": "156",
             "notes": ""
         },
         {
@@ -3304,7 +3242,7 @@
             "loyalty": "",
             "artist": "Andre Pinheiro",
             "alias": "",
-            "position": "159",
+            "position": "157",
             "notes": "!exportname Mountain MVX"
         },
         {
@@ -3324,7 +3262,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "position": "160",
+            "position": "158",
             "notes": ""
         },
         {
@@ -3344,7 +3282,7 @@
             "loyalty": "",
             "artist": "Midhun Francis",
             "alias": "",
-            "position": "161",
+            "position": "159",
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -3364,7 +3302,7 @@
             "loyalty": "",
             "artist": "Carson Lowmiller",
             "alias": "",
-            "position": "162",
+            "position": "160",
             "notes": ""
         },
         {
@@ -3384,7 +3322,7 @@
             "loyalty": "",
             "artist": "u/Kuszalka on reddit",
             "alias": "",
-            "position": "163",
+            "position": "161",
             "notes": "elf"
         },
         {
@@ -3404,7 +3342,7 @@
             "loyalty": "",
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
-            "position": "164",
+            "position": "162",
             "notes": ""
         },
         {
@@ -3424,39 +3362,8 @@
             "loyalty": "",
             "artist": "Neal Hanson",
             "alias": "",
-            "position": "165",
+            "position": "163",
             "notes": ""
-        },
-        {
-            "card_name": "Isabella, City Builder",
-            "color": "W",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Dwarf Artificer",
-            "number": 16,
-            "color_identity": "WUR",
-            "cost": "{3}{W}",
-            "rules_text": "Vigilance\nWhenever Isabella attacks, untap each artifact you control.\nLegacy {2}{U}{R}{W}",
-            "flavor_text": "[i]\u201cCreation is a way to support, a union point of splendor and function.\u201d[/i]",
-            "pt": "3/4",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "ToaMataNui123",
-            "alias": "",
-            "position": "166",
-            "card_name2": "The Spire of Merveaux",
-            "color2": "WUR",
-            "type2": "Legendary Artifact \u2014 Building",
-            "cost2": "",
-            "rules_text2": "At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.\nWard {4}\n Built 2+\nWhenever you cast an artifact spell, untap each artifact you control.\n Built 5+\nArtifacts you control have indestructible.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.\nWard {4}\n Built 2+\nWhenever you cast an artifact spell, untap each artifact you control.\n Built 5+\nArtifacts you control have indestructible.",
-            "loyalty2": "",
-            "artist2": "John Avon",
-            "alias2": "",
-            "notes": "!sort mythicflip"
         },
         {
             "card_name": "Concordia, Angel of Glass",
@@ -3475,7 +3382,7 @@
             "loyalty": "",
             "artist": "Simon Eckbert",
             "alias": "",
-            "position": "167",
+            "position": "164",
             "notes": "!sort 1commanderbait"
         },
         {
@@ -3495,7 +3402,7 @@
             "loyalty": "",
             "artist": "Hua Yecai",
             "alias": "",
-            "position": "168",
+            "position": "165",
             "notes": ""
         },
         {
@@ -3515,7 +3422,7 @@
             "loyalty": "",
             "artist": "Elizabeth Giuchici",
             "alias": "",
-            "position": "169",
+            "position": "166",
             "notes": ""
         },
         {
@@ -3535,7 +3442,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "170",
+            "position": "167",
             "notes": ""
         },
         {
@@ -3555,7 +3462,7 @@
             "loyalty": "",
             "artist": "Leonid Afremov",
             "alias": "",
-            "position": "171",
+            "position": "168",
             "notes": ""
         },
         {
@@ -3575,7 +3482,7 @@
             "loyalty": "",
             "artist": "Hidden City: Mystery of Shadows",
             "alias": "",
-            "position": "172",
+            "position": "169",
             "notes": "HYBRID"
         },
         {
@@ -3595,7 +3502,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "173",
+            "position": "170",
             "notes": ""
         },
         {
@@ -3615,7 +3522,7 @@
             "loyalty": "",
             "artist": "Doodle Hound",
             "alias": "",
-            "position": "174",
+            "position": "171",
             "notes": "!sort 3cae"
         },
         {
@@ -3635,7 +3542,7 @@
             "loyalty": "",
             "artist": "Kevin le Moigne",
             "alias": "",
-            "position": "175",
+            "position": "172",
             "notes": "!sort 2cae"
         },
         {
@@ -3655,7 +3562,7 @@
             "loyalty": "",
             "artist": "Pavel Tomashevskiy, Edit: Me",
             "alias": "",
-            "position": "176",
+            "position": "173",
             "notes": "\nGUEST"
         },
         {
@@ -3675,7 +3582,7 @@
             "loyalty": "",
             "artist": "Step Agustin",
             "alias": "",
-            "position": "177",
+            "position": "174",
             "notes": "!sort 2cae"
         },
         {
@@ -3695,7 +3602,7 @@
             "loyalty": "",
             "artist": "Brollonks",
             "alias": "",
-            "position": "178",
+            "position": "175",
             "notes": ""
         },
         {
@@ -3715,7 +3622,7 @@
             "loyalty": "",
             "artist": "Anna Cavasos",
             "alias": "",
-            "position": "179",
+            "position": "176",
             "notes": "!exportname Petite Patissier"
         },
         {
@@ -3735,7 +3642,7 @@
             "loyalty": "",
             "artist": "Lachlan Page",
             "alias": "",
-            "position": "180",
+            "position": "177",
             "notes": ""
         },
         {
@@ -3755,7 +3662,7 @@
             "loyalty": "",
             "artist": "Joelin Tan",
             "alias": "",
-            "position": "181",
+            "position": "178",
             "notes": "An animancer can turn a fired up crowd into a heated display."
         },
         {
@@ -3775,7 +3682,7 @@
             "loyalty": "",
             "artist": "Karolina Nakazato",
             "alias": "",
-            "position": "182",
+            "position": "179",
             "notes": ""
         },
         {
@@ -3795,7 +3702,7 @@
             "loyalty": "",
             "artist": "Tatjana Sivakozova",
             "alias": "",
-            "position": "183",
+            "position": "180",
             "notes": "satyr"
         },
         {
@@ -3815,7 +3722,7 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "position": "184",
+            "position": "181",
             "notes": ""
         },
         {
@@ -3835,7 +3742,7 @@
             "loyalty": "",
             "artist": "Davesrightmind, edit: me",
             "alias": "",
-            "position": "185",
+            "position": "182",
             "notes": ""
         },
         {
@@ -3855,7 +3762,7 @@
             "loyalty": "",
             "artist": "Counterplay Games",
             "alias": "",
-            "position": "186",
+            "position": "183",
             "notes": "human"
         },
         {
@@ -3875,7 +3782,7 @@
             "loyalty": "",
             "artist": "Joshua Esmeralda",
             "alias": "",
-            "position": "187",
+            "position": "184",
             "notes": ""
         },
         {
@@ -3895,7 +3802,7 @@
             "loyalty": "",
             "artist": "Valentina Nim",
             "alias": "",
-            "position": "188",
+            "position": "185",
             "notes": "!related Sylvie, Garden Tender;"
         },
         {
@@ -3915,7 +3822,7 @@
             "loyalty": "",
             "artist": "Aleksa Stajsic",
             "alias": "",
-            "position": "189",
+            "position": "186",
             "notes": "!sort 1commanderbait"
         },
         {
@@ -3935,7 +3842,7 @@
             "loyalty": "",
             "artist": "Donato Giancola",
             "alias": "",
-            "position": "190",
+            "position": "187",
             "notes": ""
         },
         {
@@ -3955,8 +3862,8 @@
             "loyalty": "",
             "artist": "Dominik Zdenkovic",
             "alias": "",
-            "position": "191",
-            "notes": "human?\nFIELDFLAG"
+            "position": "188",
+            "notes": "human?"
         },
         {
             "card_name": "Vehicle",
@@ -3975,7 +3882,7 @@
             "loyalty": "",
             "artist": "Sean Usyk",
             "alias": "",
-            "position": "192",
+            "position": "189",
             "notes": "!related Avian Augmenteers;"
         },
         {
@@ -3995,7 +3902,7 @@
             "loyalty": "",
             "artist": "Pandu Mahardika",
             "alias": "",
-            "position": "193",
+            "position": "190",
             "notes": ""
         },
         {
@@ -4015,7 +3922,7 @@
             "loyalty": "",
             "artist": "Mariusz Lewandowski",
             "alias": "",
-            "position": "194",
+            "position": "191",
             "notes": ""
         },
         {
@@ -4035,7 +3942,7 @@
             "loyalty": "",
             "artist": "Gerge Coelho, edit: me",
             "alias": "",
-            "position": "195",
+            "position": "192",
             "notes": ""
         },
         {
@@ -4055,7 +3962,7 @@
             "loyalty": "",
             "artist": "MaR-93",
             "alias": "",
-            "position": "196",
+            "position": "193",
             "notes": "HYBRID"
         },
         {
@@ -4075,7 +3982,7 @@
             "loyalty": "",
             "artist": "Plichko Artem",
             "alias": "",
-            "position": "197",
+            "position": "194",
             "notes": ""
         },
         {
@@ -4095,7 +4002,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "198",
+            "position": "195",
             "notes": ""
         },
         {
@@ -4115,7 +4022,7 @@
             "loyalty": "",
             "artist": "Marlene Gray",
             "alias": "",
-            "position": "199",
+            "position": "196",
             "notes": "used to exile\nnick: penelope instinct"
         },
         {
@@ -4135,7 +4042,7 @@
             "loyalty": "",
             "artist": "Flore Lemoine",
             "alias": "",
-            "position": "200",
+            "position": "197",
             "notes": "bird"
         },
         {
@@ -4155,7 +4062,7 @@
             "loyalty": "",
             "artist": "Jonathan Carr",
             "alias": "",
-            "position": "201",
+            "position": "198",
             "notes": "!related Chicken Coop;"
         },
         {
@@ -4175,7 +4082,7 @@
             "loyalty": "",
             "artist": "Joanna Szczepanska",
             "alias": "",
-            "position": "202",
+            "position": "199",
             "notes": "!sort 2cae\norc\nnick: rooster ranges"
         },
         {
@@ -4195,7 +4102,7 @@
             "loyalty": "",
             "artist": "Byung Cheol",
             "alias": "",
-            "position": "203",
+            "position": "200",
             "notes": ""
         },
         {
@@ -4215,7 +4122,7 @@
             "loyalty": "",
             "artist": "Serj Valesian",
             "alias": "",
-            "position": "204",
+            "position": "201",
             "notes": ""
         },
         {
@@ -4235,7 +4142,7 @@
             "loyalty": "",
             "artist": "Neungsonie",
             "alias": "",
-            "position": "205",
+            "position": "202",
             "notes": ""
         },
         {
@@ -4255,7 +4162,7 @@
             "loyalty": "",
             "artist": "Hachi Lee",
             "alias": "",
-            "position": "206",
+            "position": "203",
             "notes": ""
         },
         {
@@ -4275,7 +4182,7 @@
             "loyalty": "",
             "artist": "Carmen Bousquet",
             "alias": "",
-            "position": "207",
+            "position": "204",
             "notes": ""
         },
         {
@@ -4286,16 +4193,16 @@
             "number": 217,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
-            "rules_text": "\nIf you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.\nEach player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.\nReturn a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.",
+            "rules_text": "\nI \u2014 If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.\nII \u2014 Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.\nIII \u2014 Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nIf you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.\nEach player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.\nReturn a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.",
+            "special_text": "\nI \u2014 If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.\nII \u2014 Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.\nIII \u2014 Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Svet Schiel",
             "alias": "",
-            "position": "208",
+            "position": "205",
             "notes": "!exportname La Chaconne de Soupir No 3\n!sort 2cae"
         },
         {
@@ -4306,8 +4213,8 @@
             "number": 210,
             "color_identity": "WG",
             "cost": "{G}{W}",
-            "rules_text": "Vigilance, trample\nWhenever an opponent casts a noncreature spell, create a 1/1 green Plant creature token unless that player pays {1}.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "Vigilance, lifelink\nWhenever an opponent casts a noncreature spell, create a 1/1 green Plant creature token.",
+            "flavor_text": "[i]\u201cI use magic to keep it clean now. I tried using a hair net, but...\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
             "shape": "normal",
@@ -4315,8 +4222,8 @@
             "loyalty": "",
             "artist": "Aaron Blaise",
             "alias": "",
-            "position": "209",
-            "notes": "\u201cI use magic to keep it clean now. I tried using a hair net, but...\u201d\nKILLFLAG"
+            "position": "206",
+            "notes": "FIELDFLAG\nchangeflag"
         },
         {
             "card_name": "Spirit Elemental",
@@ -4335,7 +4242,7 @@
             "loyalty": "",
             "artist": "Ginlun Ho",
             "alias": "",
-            "position": "210",
+            "position": "207",
             "notes": "!related Bombastic Performance;"
         },
         {
@@ -4355,7 +4262,7 @@
             "loyalty": "",
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
-            "position": "211",
+            "position": "208",
             "notes": ""
         },
         {
@@ -4375,7 +4282,7 @@
             "loyalty": "",
             "artist": "Theo Legouis",
             "alias": "",
-            "position": "212",
+            "position": "209",
             "notes": "!related Reprocessing Foundry;Niels, Cogmaster;"
         },
         {
@@ -4395,7 +4302,7 @@
             "loyalty": "",
             "artist": "Saraba",
             "alias": "",
-            "position": "213",
+            "position": "210",
             "notes": ""
         },
         {
@@ -4415,7 +4322,7 @@
             "loyalty": "",
             "artist": "Wysoka",
             "alias": "",
-            "position": "214",
+            "position": "211",
             "notes": "!sort 1commanderbait"
         },
         {
@@ -4435,7 +4342,7 @@
             "loyalty": "",
             "artist": "Diego Gil",
             "alias": "",
-            "position": "215",
+            "position": "212",
             "notes": ""
         },
         {
@@ -4455,7 +4362,7 @@
             "loyalty": "",
             "artist": "Ware Lee",
             "alias": "",
-            "position": "216",
+            "position": "213",
             "notes": "\nWhen magic is art, art becomes magic \u2014 a fact inconvenient to librarians."
         },
         {
@@ -4475,7 +4382,7 @@
             "loyalty": "",
             "artist": "Lily Morran",
             "alias": "",
-            "position": "217",
+            "position": "214",
             "notes": "!sort 2cae"
         },
         {
@@ -4495,7 +4402,7 @@
             "loyalty": "",
             "artist": "Xin Ran Liu",
             "alias": "",
-            "position": "218",
+            "position": "215",
             "notes": ""
         },
         {
@@ -4515,7 +4422,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "219",
+            "position": "216",
             "notes": "human\nKILLFLAG"
         },
         {
@@ -4535,7 +4442,7 @@
             "loyalty": "",
             "artist": "Marie Magny",
             "alias": "",
-            "position": "220",
+            "position": "217",
             "notes": ""
         },
         {
@@ -4555,7 +4462,7 @@
             "loyalty": "3",
             "artist": "Ilya Ozornin",
             "alias": "",
-            "position": "221",
+            "position": "218",
             "notes": "!sort 2cwalker\nhuman"
         },
         {
@@ -4575,7 +4482,7 @@
             "loyalty": "",
             "artist": "E. Li & K. Turovec, Edit: Espithel",
             "alias": "",
-            "position": "222",
+            "position": "219",
             "notes": ""
         },
         {
@@ -4595,8 +4502,8 @@
             "loyalty": "",
             "artist": "Vladis Fender",
             "alias": "",
-            "position": "223",
-            "notes": "KILLFLAG\nscry 3 tbh"
+            "position": "220",
+            "notes": ""
         },
         {
             "card_name": "Ironstreet Welders",
@@ -4615,7 +4522,7 @@
             "loyalty": "",
             "artist": "James-Christopher Fauvelle",
             "alias": "",
-            "position": "224",
+            "position": "221",
             "notes": ""
         },
         {
@@ -4635,39 +4542,8 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "225",
+            "position": "222",
             "notes": ""
-        },
-        {
-            "card_name": "Antoine, Chef Extraordinaire",
-            "color": "G",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Orc Druid",
-            "number": 145,
-            "color_identity": "WBG",
-            "cost": "{2}{G}",
-            "rules_text": "Trample\nWhenever one or more creatures you control deal combat damage to a player, create a Food token.\nLegacy {1}{W}{B}{G}",
-            "flavor_text": "[i]\u201cCooking is a way to bring people together, a universal experience to share!\u201d[/i]",
-            "pt": "3/3",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Daniel Walker",
-            "alias": "",
-            "position": "226",
-            "card_name2": "Antoine's Cookware",
-            "color2": "WBG",
-            "type2": "Legendary Artifact",
-            "cost2": "",
-            "rules_text2": "At the beginning of your end step, you may pay up to {X}, where X is the amount of life you've gained this turn. If you do, create that many 1/1 green Plant creature tokens.\nWhenever a token you control is put into a graveyard from the battlefield, you may pay 2 life. If you do, draw a card.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Yana Efremova",
-            "alias2": "",
-            "notes": "!sort mythicflip"
         },
         {
             "card_name": "Chromatic Lantern",
@@ -4686,7 +4562,7 @@
             "loyalty": "",
             "artist": "Alec Antonov",
             "alias": "",
-            "position": "227",
+            "position": "223",
             "notes": "lyon"
         },
         {
@@ -4706,7 +4582,7 @@
             "loyalty": "",
             "artist": "Thomas Ricci, Edit: Me",
             "alias": "",
-            "position": "228",
+            "position": "224",
             "notes": "human"
         },
         {
@@ -4726,7 +4602,7 @@
             "loyalty": "",
             "artist": "Artlon",
             "alias": "",
-            "position": "229",
+            "position": "225",
             "notes": ""
         },
         {
@@ -4746,7 +4622,7 @@
             "loyalty": "",
             "artist": "Alexander Yakovlev",
             "alias": "",
-            "position": "230",
+            "position": "226",
             "notes": ""
         },
         {
@@ -4766,7 +4642,7 @@
             "loyalty": "",
             "artist": "James Ryman",
             "alias": "",
-            "position": "231",
+            "position": "227",
             "notes": "HYBRID"
         },
         {
@@ -4786,7 +4662,7 @@
             "loyalty": "",
             "artist": "Ts Rodriguez",
             "alias": "",
-            "position": "232",
+            "position": "228",
             "notes": ""
         },
         {
@@ -4806,7 +4682,7 @@
             "loyalty": "",
             "artist": "Ryan Harrell",
             "alias": "",
-            "position": "233",
+            "position": "229",
             "notes": "HYBRID\nbird"
         },
         {
@@ -4826,7 +4702,7 @@
             "loyalty": "",
             "artist": "Jiajun Tian",
             "alias": "",
-            "position": "234",
+            "position": "230",
             "notes": ""
         },
         {
@@ -4846,7 +4722,7 @@
             "loyalty": "",
             "artist": "Julia Metzger",
             "alias": "",
-            "position": "235",
+            "position": "231",
             "notes": ""
         },
         {
@@ -4866,7 +4742,7 @@
             "loyalty": "",
             "artist": "Zhjake Degmmqe",
             "alias": "",
-            "position": "236",
+            "position": "232",
             "card_name2": "Thopter Workshop",
             "color2": "W",
             "type2": "Artifact",
@@ -4897,7 +4773,7 @@
             "loyalty": "",
             "artist": "Ho Pin Ru",
             "alias": "",
-            "position": "237",
+            "position": "233",
             "notes": ""
         },
         {
@@ -4917,39 +4793,8 @@
             "loyalty": "3",
             "artist": "Anna Zhilina, Guillermo Martinez, Edit: Scribbl",
             "alias": "",
-            "position": "238",
+            "position": "234",
             "notes": "!sort 2cwalker\nsatyr"
-        },
-        {
-            "card_name": "Nicola, Inspired Artist",
-            "color": "U",
-            "rarity": "mythic",
-            "type": "Legendary Creature \u2014 Human Artist Wizard",
-            "number": 58,
-            "color_identity": "UBG",
-            "cost": "{1}{U}",
-            "rules_text": "Whenever Nicola attacks, you may draw a card. If you do, discard a card.\nLegacy {1}{B}{G}{U}",
-            "flavor_text": "[i]\u201cArt is a meditation on the remote, a sense of the forever untouchable.\u201d[/i]",
-            "pt": "2/1",
-            "special_text": "",
-            "shape": "transform double faced",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Magdalena Minko",
-            "alias": "",
-            "position": "239",
-            "card_name2": "Night Upon the Cosmos",
-            "color2": "UBG",
-            "type2": "Legendary Enchantment Artifact",
-            "cost2": "",
-            "rules_text2": "[i]Delirium[/i] \u2014 At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, you may sacrifice [i]Night Upon the Cosmos[/i]. If you do, put two cards you own from outside the game into your hand.\n{T}: Draw a card, then discard a card.",
-            "flavor_text2": "[i][/i]",
-            "pt2": "",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "J Edward Neill",
-            "alias2": "",
-            "notes": "!sort mythicflip\nshe wished for perfection, but not the means to enjoy it"
         },
         {
             "card_name": "Chorus Machine",
@@ -4968,7 +4813,7 @@
             "loyalty": "",
             "artist": "Lukasz Cywinski",
             "alias": "",
-            "position": "240",
+            "position": "235",
             "notes": ""
         },
         {
@@ -4988,7 +4833,7 @@
             "loyalty": "",
             "artist": "Milena Leonova",
             "alias": "",
-            "position": "241",
+            "position": "236",
             "notes": "func reprint"
         },
         {
@@ -5008,7 +4853,7 @@
             "loyalty": "",
             "artist": "Aurore Folney",
             "alias": "",
-            "position": "242",
+            "position": "237",
             "card_name2": "Euphoric Stupor",
             "color2": "R",
             "type2": "Enchantment \u2014 Aura",
@@ -5039,7 +4884,7 @@
             "loyalty": "",
             "artist": "Logan Feliciano",
             "alias": "",
-            "position": "243",
+            "position": "238",
             "notes": "!sort 1commanderbait\neats magic\nsince magic is art on merveaux, and then you drain the black mana from artists who want to be famous...\nand demons are black mana constructs"
         },
         {
@@ -5050,16 +4895,16 @@
             "number": 160,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nReveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.\nWhen a creature you control next enters this turn, put a +1/+1 counter on it.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.\nWhen a creature you control next enters this turn, put a +1/+1 counter on it.\n\u200b",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nReveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.\nWhen a creature you control next enters this turn, put a +1/+1 counter on it.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II, III \u2014 Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.\nWhen a creature you control next enters this turn, put a +1/+1 counter on it.\n\u200b",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Scott Duquette",
             "alias": "",
-            "position": "244",
+            "position": "239",
             "notes": "KILLFLAG"
         },
         {
@@ -5079,7 +4924,7 @@
             "loyalty": "",
             "artist": "Andreea Barbu",
             "alias": "",
-            "position": "245",
+            "position": "240",
             "notes": ""
         },
         {
@@ -5099,8 +4944,8 @@
             "loyalty": "",
             "artist": "Zoe Badini",
             "alias": "",
-            "position": "246",
-            "notes": "FIELDFLAG\nCHANGEFLAG"
+            "position": "241",
+            "notes": "FIELDFLAG"
         },
         {
             "card_name": "Inkblot Familiar",
@@ -5119,7 +4964,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "247",
+            "position": "242",
             "notes": ""
         },
         {
@@ -5139,8 +4984,8 @@
             "loyalty": "",
             "artist": "Caroline Nyman",
             "alias": "",
-            "position": "248",
-            "notes": "nick: clearly you dont own an air fryer\nhuman\nchangeflag"
+            "position": "243",
+            "notes": "nick: clearly you dont own an air fryer\nhuman"
         },
         {
             "card_name": "Diviner of the Dessert",
@@ -5159,7 +5004,7 @@
             "loyalty": "",
             "artist": "Stephen Stark",
             "alias": "",
-            "position": "249",
+            "position": "244",
             "notes": ""
         },
         {
@@ -5179,7 +5024,7 @@
             "loyalty": "",
             "artist": "Nia Kowalewski",
             "alias": "",
-            "position": "250",
+            "position": "245",
             "notes": ""
         },
         {
@@ -5199,7 +5044,7 @@
             "loyalty": "",
             "artist": "Zoltan Boros",
             "alias": "",
-            "position": "251",
+            "position": "246",
             "notes": ""
         },
         {
@@ -5219,7 +5064,7 @@
             "loyalty": "",
             "artist": "Alen Rocha",
             "alias": "",
-            "position": "252",
+            "position": "247",
             "notes": ""
         },
         {
@@ -5239,7 +5084,7 @@
             "loyalty": "",
             "artist": "Kudos Production",
             "alias": "",
-            "position": "253",
+            "position": "248",
             "notes": "!sort 3cae"
         },
         {
@@ -5249,7 +5094,7 @@
             "type": "Enchantment",
             "number": 34,
             "color_identity": "W",
-            "cost": "{X}{W}{W}",
+            "cost": "{X}{W}",
             "rules_text": "When Tidy Up enters, if it was cast, exile each other artifact or enchantment with mana value X or less until Tidy Up leaves the battlefield.",
             "flavor_text": "[i]\u201c...who left all this lying around?!\u201d[/i]",
             "pt": "",
@@ -5259,8 +5104,8 @@
             "loyalty": "",
             "artist": "Veronika Firsova",
             "alias": "",
-            "position": "254",
-            "notes": "goblin"
+            "position": "249",
+            "notes": "goblin\nFIELDFLAG\nchangeflag"
         },
         {
             "card_name": "Witch of Forbidden Treats",
@@ -5279,7 +5124,7 @@
             "loyalty": "",
             "artist": "Sam Kanios",
             "alias": "",
-            "position": "255",
+            "position": "250",
             "notes": ""
         },
         {
@@ -5299,7 +5144,7 @@
             "loyalty": "",
             "artist": "Nina-Y",
             "alias": "",
-            "position": "256",
+            "position": "251",
             "notes": "!sort 1commanderbait\n\u201cThere's nothing quite as tasty as an applauding audience.\u201d"
         },
         {
@@ -5319,7 +5164,7 @@
             "loyalty": "",
             "artist": "Medli20",
             "alias": "",
-            "position": "257",
+            "position": "252",
             "card_name2": "Roland, Stunning Soloist",
             "color2": "",
             "type2": "Legendary Planeswalker \u2014 Roland",
@@ -5350,7 +5195,7 @@
             "loyalty": "",
             "artist": "Maxi Thiemer",
             "alias": "",
-            "position": "258",
+            "position": "253",
             "notes": ""
         },
         {
@@ -5370,7 +5215,7 @@
             "loyalty": "",
             "artist": "Adrian Amilhat",
             "alias": "",
-            "position": "259",
+            "position": "254",
             "notes": ""
         },
         {
@@ -5390,7 +5235,7 @@
             "loyalty": "",
             "artist": "Monztre Xenthil",
             "alias": "",
-            "position": "260",
+            "position": "255",
             "notes": "Whenever another creature you control becomes tapped, you may put your choice of a +1/+1, flying, brick or charge counter on it. The same is true for artifacts. (Artifact creatures receive two counters.)"
         },
         {
@@ -5410,8 +5255,8 @@
             "loyalty": "",
             "artist": "Aja Trier",
             "alias": "",
-            "position": "261",
-            "notes": "!exportname Starlit Horizons\n!sort 2cae\nchangeflag"
+            "position": "256",
+            "notes": "!exportname Starlit Horizons\n!sort 2cae"
         },
         {
             "card_name": "Scrapsmelt Foundry",
@@ -5430,7 +5275,7 @@
             "loyalty": "",
             "artist": "Alexander Yakovlev",
             "alias": "",
-            "position": "262",
+            "position": "257",
             "notes": "!sort 2cae"
         },
         {
@@ -5442,7 +5287,7 @@
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "[i]Feast[/i] \u2014 This spell costs {2} less to cast if you've gained life or created a token this turn.\nCreatures you control get +2/+2 and gain trample until end of turn.",
-            "flavor_text": "[i]A lot of fun for someone not cleaning.[/i]",
+            "flavor_text": "[i]A lot of fun for someone not on cleaning.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -5450,7 +5295,7 @@
             "loyalty": "",
             "artist": "Erin Shin, Edit: Me",
             "alias": "",
-            "position": "263",
+            "position": "258",
             "notes": ""
         },
         {
@@ -5470,7 +5315,7 @@
             "loyalty": "",
             "artist": "Gwen Bassett",
             "alias": "",
-            "position": "264",
+            "position": "259",
             "notes": "demon\nazra\nbelphegor"
         },
         {
@@ -5481,7 +5326,7 @@
             "number": 190,
             "color_identity": "UB",
             "cost": "{U}{B}{B}",
-            "rules_text": "Exile target creature or planeswalker.\n[i]Delirium[/i] \u2014 If there are four or more card types among cards in your graveyard, its controller's graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way.",
+            "rules_text": "Exile target creature or planeswalker.\n[i]Delirium[/i] \u2014 If there are four or more card types among cards in your graveyard, search its controller's graveyard, hand, and library for any number of nonland cards with the same name as that permanent and exile them. They shuffle, then draw a card for each card exiled from their hand this way.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5490,7 +5335,7 @@
             "loyalty": "",
             "artist": "Marco Tamura",
             "alias": "",
-            "position": "265",
+            "position": "260",
             "notes": ""
         },
         {
@@ -5510,7 +5355,7 @@
             "loyalty": "",
             "artist": "Yuuza",
             "alias": "",
-            "position": "266",
+            "position": "261",
             "notes": ""
         },
         {
@@ -5530,7 +5375,7 @@
             "loyalty": "",
             "artist": "Olga Krapivina",
             "alias": "",
-            "position": "267",
+            "position": "262",
             "notes": ""
         },
         {
@@ -5550,7 +5395,7 @@
             "loyalty": "",
             "artist": "Marta Meles",
             "alias": "",
-            "position": "268",
+            "position": "263",
             "notes": "human?"
         },
         {
@@ -5570,7 +5415,7 @@
             "loyalty": "",
             "artist": "Rhads",
             "alias": "",
-            "position": "269",
+            "position": "264",
             "notes": ""
         },
         {
@@ -5590,7 +5435,7 @@
             "loyalty": "",
             "artist": "Ernesto Carrasquillo",
             "alias": "",
-            "position": "270",
+            "position": "265",
             "notes": "GUEST"
         },
         {
@@ -5610,7 +5455,7 @@
             "loyalty": "",
             "artist": "Johanna Rupprecht",
             "alias": "",
-            "position": "271",
+            "position": "266",
             "notes": ""
         },
         {
@@ -5630,7 +5475,7 @@
             "loyalty": "",
             "artist": "Manjitsingh Pardesh",
             "alias": "",
-            "position": "272",
+            "position": "267",
             "notes": ""
         },
         {
@@ -5650,7 +5495,7 @@
             "loyalty": "",
             "artist": "Guan Yu",
             "alias": "",
-            "position": "273",
+            "position": "268",
             "notes": "!exportname Far-off Places\n!sort 3cae"
         },
         {
@@ -5670,28 +5515,8 @@
             "loyalty": "",
             "artist": "frank-freire",
             "alias": "",
-            "position": "274",
+            "position": "269",
             "notes": ""
-        },
-        {
-            "card_name": "Frymaster's Pan",
-            "color": "BG",
-            "rarity": "rare",
-            "type": "Artifact",
-            "number": 205,
-            "color_identity": "BG",
-            "cost": "{B}{G}",
-            "rules_text": "[i]Feast[/i] \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\n{T}, Remove an oil counter from Frymaster's Pan: Add {B} or {G}.\n{T}, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "afda trihatma",
-            "alias": "",
-            "position": "275",
-            "notes": "!sort 2cae"
         },
         {
             "card_name": "Oft-Told Tales",
@@ -5710,7 +5535,7 @@
             "loyalty": "",
             "artist": "marabelo",
             "alias": "",
-            "position": "276",
+            "position": "270",
             "notes": "!sort 2cae"
         },
         {
@@ -5730,7 +5555,7 @@
             "loyalty": "",
             "artist": "vera tihonova",
             "alias": "",
-            "position": "277",
+            "position": "271",
             "notes": ""
         },
         {
@@ -5750,7 +5575,7 @@
             "loyalty": "",
             "artist": "lara melo",
             "alias": "",
-            "position": "278",
+            "position": "272",
             "card_name2": "Impassioned Performance",
             "color2": "R",
             "type2": "Enchantment \u2014 Saga",
@@ -5781,7 +5606,7 @@
             "loyalty": "",
             "artist": "Frank Freire",
             "alias": "",
-            "position": "279",
+            "position": "273",
             "notes": "menace"
         },
         {
@@ -5801,7 +5626,7 @@
             "loyalty": "",
             "artist": "Dominik Zdenkovic",
             "alias": "",
-            "position": "280",
+            "position": "274",
             "notes": ""
         },
         {
@@ -5821,7 +5646,7 @@
             "loyalty": "",
             "artist": "Anton Zemskov",
             "alias": "",
-            "position": "281",
+            "position": "275",
             "notes": ""
         },
         {
@@ -5841,7 +5666,7 @@
             "loyalty": "",
             "artist": "David Hernandez",
             "alias": "",
-            "position": "282",
+            "position": "276",
             "notes": "!exportname PROMO Swamp"
         },
         {
@@ -5861,7 +5686,7 @@
             "loyalty": "",
             "artist": "AAA Game Art",
             "alias": "",
-            "position": "283",
+            "position": "277",
             "notes": "!exportname PROMO Plains"
         },
         {
@@ -5881,7 +5706,7 @@
             "loyalty": "",
             "artist": "Mathilde Morcel",
             "alias": "",
-            "position": "284",
+            "position": "278",
             "notes": "!exportname PROMO Mountain"
         },
         {
@@ -5901,7 +5726,7 @@
             "loyalty": "",
             "artist": "Xu Wenshu",
             "alias": "",
-            "position": "285",
+            "position": "279",
             "notes": "!exportname PROMO Island"
         },
         {
@@ -5921,7 +5746,7 @@
             "loyalty": "",
             "artist": "Cherise Punzalan",
             "alias": "",
-            "position": "286",
+            "position": "280",
             "notes": "!exportname PROMO Forest"
         },
         {
@@ -5932,37 +5757,17 @@
             "number": 131,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDiscard a card.\nDraw a card.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Discard a card.\nIII \u2014 Draw a card.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nDiscard a card.\nDraw a card.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Discard a card.\nIII \u2014 Draw a card.\n\u200b",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Ekaterina Tambovceva",
             "alias": "",
-            "position": "287",
+            "position": "281",
             "notes": "human"
-        },
-        {
-            "card_name": "The Flourishing",
-            "color": "U",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Saga",
-            "number": 48,
-            "color_identity": "U",
-            "cost": "{4}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nCreate a 1/1 blue Illusion enchantment creature token with flying.\nPut X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.",
-            "flavor_text": "[i]\u200b[/i]",
-            "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nCreate a 1/1 blue Illusion enchantment creature token with flying.\nPut X +1/+1 counters on up to one target creature, where X is the number of other artifacts and/or enchantments you control.",
-            "shape": "saga",
-            "set": "MVX",
-            "loyalty": "",
-            "artist": "Jung Yeoll",
-            "alias": "",
-            "position": "288",
-            "notes": "KILLFLAG"
         },
         {
             "card_name": "Bite Down on Treats",
@@ -5981,7 +5786,7 @@
             "loyalty": "",
             "artist": "Devin Elle Kurtz",
             "alias": "",
-            "position": "289",
+            "position": "282",
             "notes": "human"
         },
         {
@@ -6001,7 +5806,7 @@
             "loyalty": "",
             "artist": "Miketche",
             "alias": "",
-            "position": "290",
+            "position": "283",
             "notes": ""
         },
         {
@@ -6021,7 +5826,7 @@
             "loyalty": "",
             "artist": "Dagmara Matuszak",
             "alias": "",
-            "position": "291",
+            "position": "284",
             "notes": ""
         },
         {
@@ -6041,7 +5846,7 @@
             "loyalty": "",
             "artist": "Tiago Alexandre",
             "alias": "",
-            "position": "292",
+            "position": "285",
             "notes": ""
         },
         {
@@ -6061,7 +5866,7 @@
             "loyalty": "",
             "artist": "Vitaliy Fyeday",
             "alias": "",
-            "position": "293",
+            "position": "286",
             "notes": ""
         },
         {
@@ -6081,7 +5886,7 @@
             "loyalty": "",
             "artist": "Terrence Gouw",
             "alias": "",
-            "position": "294",
+            "position": "287",
             "notes": ""
         },
         {
@@ -6101,7 +5906,7 @@
             "loyalty": "",
             "artist": "Sam Nassour",
             "alias": "",
-            "position": "295",
+            "position": "288",
             "notes": ""
         },
         {
@@ -6112,16 +5917,16 @@
             "number": 207,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nCreate a tapped Treasure token.\nLook at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n\u200b",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II \u2014 Create a tapped Treasure token.\nIII, IV \u2014 Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nCreate a tapped Treasure token.\nLook at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI, II \u2014 Create a tapped Treasure token.\nIII, IV \u2014 Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\n\u200b",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Denis Kornev",
             "alias": "",
-            "position": "296",
+            "position": "289",
             "notes": ""
         },
         {
@@ -6141,7 +5946,7 @@
             "loyalty": "",
             "artist": "Penelope Dominicali",
             "alias": "",
-            "position": "297",
+            "position": "290",
             "notes": "\nnick: inedible virtue\ndwarf"
         },
         {
@@ -6152,17 +5957,17 @@
             "number": 136,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nThe Rejection of the Monarchy deals 3 damage to any target.\nExile the top card of your library. You may play it until the end of your next turn.\nCreate a Treasure token.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 The Rejection of the Monarchy deals 3 damage to any target.\nII \u2014 Exile the top card of your library. You may play it until the end of your next turn.\nIII \u2014 Create a Treasure token.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nThe Rejection of the Monarchy deals 3 damage to any target.\nExile the top card of your library. You may play it until the end of your next turn.\nCreate a Treasure token.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 The Rejection of the Monarchy deals 3 damage to any target.\nII \u2014 Exile the top card of your library. You may play it until the end of your next turn.\nIII \u2014 Create a Treasure token.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Celticbotan",
             "alias": "",
-            "position": "298",
-            "notes": "FIELDFLAG"
+            "position": "291",
+            "notes": ""
         },
         {
             "card_name": "Chisel",
@@ -6181,7 +5986,7 @@
             "loyalty": "",
             "artist": "Manuel Castanon",
             "alias": "",
-            "position": "299",
+            "position": "292",
             "notes": "!related Skystone Sculptory;"
         },
         {
@@ -6201,7 +6006,7 @@
             "loyalty": "",
             "artist": "Doodle Hound",
             "alias": "",
-            "position": "300",
+            "position": "293",
             "notes": ""
         },
         {
@@ -6221,7 +6026,7 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "position": "301",
+            "position": "294",
             "notes": ""
         },
         {
@@ -6232,7 +6037,7 @@
             "number": 85,
             "color_identity": "B",
             "cost": "{4}{B}{B}",
-            "rules_text": "Menace\nWhen Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don't, each player sacrifices a creature. Then repeat this process three more times.",
+            "rules_text": "Menace\nWhen Dramatis Personae enters, you may create a 1/1 black Vampire Actor creature token with lifelink. If you don't, each player sacrifices a creature. Then repeat this process four more times.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -6241,8 +6046,8 @@
             "loyalty": "",
             "artist": "Jon Neimeister",
             "alias": "",
-            "position": "302",
-            "notes": ""
+            "position": "295",
+            "notes": "changeflag\nfieldflag"
         },
         {
             "card_name": "Ancestral Guidance",
@@ -6261,7 +6066,7 @@
             "loyalty": "",
             "artist": "Joshua Cairos",
             "alias": "",
-            "position": "303",
+            "position": "296",
             "notes": ""
         },
         {
@@ -6281,8 +6086,8 @@
             "loyalty": "",
             "artist": "Zana Arnautovic",
             "alias": "",
-            "position": "304",
-            "notes": "changeflag"
+            "position": "297",
+            "notes": ""
         },
         {
             "card_name": "Storybook Serpent",
@@ -6301,8 +6106,8 @@
             "loyalty": "",
             "artist": "Caio Monteiro",
             "alias": "",
-            "position": "305",
-            "notes": "changeflag"
+            "position": "298",
+            "notes": ""
         },
         {
             "card_name": "Grand Overture",
@@ -6321,8 +6126,8 @@
             "loyalty": "",
             "artist": "Simon Cardinal",
             "alias": "",
-            "position": "306",
-            "notes": "!sort 3cae\nchangeflag\nhuman\nvampire"
+            "position": "299",
+            "notes": "!sort 3cae\nhuman\nvampire"
         },
         {
             "card_name": "Knockout Performance",
@@ -6341,8 +6146,8 @@
             "loyalty": "",
             "artist": "Matthieu Tourdes",
             "alias": "",
-            "position": "307",
-            "notes": "changeflag"
+            "position": "300",
+            "notes": ""
         },
         {
             "card_name": "Pompous Thespian",
@@ -6361,8 +6166,8 @@
             "loyalty": "",
             "artist": "Loloratura Sopranerd",
             "alias": "",
-            "position": "308",
-            "notes": "changeflag"
+            "position": "301",
+            "notes": ""
         },
         {
             "card_name": "Festival Shorthopper",
@@ -6381,8 +6186,8 @@
             "loyalty": "",
             "artist": "Samuel Cunha jr",
             "alias": "",
-            "position": "309",
-            "notes": "HYBRID\nchangeflag"
+            "position": "302",
+            "notes": "HYBRID"
         },
         {
             "card_name": "Annul",
@@ -6401,8 +6206,8 @@
             "loyalty": "",
             "artist": "Livia Prima",
             "alias": "",
-            "position": "310",
-            "notes": "changeflag"
+            "position": "303",
+            "notes": ""
         },
         {
             "card_name": "Stage Double",
@@ -6421,8 +6226,8 @@
             "loyalty": "",
             "artist": "Angelo Bortolini",
             "alias": "",
-            "position": "311",
-            "notes": "vampire\nchangeflag\n\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield tapped.\nYou may pay R. If you do, create a token that's a copy of that creature except it has haste. Sacrifice it at the beginning of the next end step."
+            "position": "304",
+            "notes": "vampire\n\n\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield tapped.\nYou may pay R. If you do, create a token that's a copy of that creature except it has haste. Sacrifice it at the beginning of the next end step."
         },
         {
             "card_name": "Arbiter of Taste",
@@ -6441,7 +6246,7 @@
             "loyalty": "",
             "artist": "Rafael Saito",
             "alias": "",
-            "position": "312",
+            "position": "305",
             "notes": ""
         },
         {
@@ -6452,16 +6257,16 @@
             "number": 186,
             "color_identity": "UR",
             "cost": "{1}{U}{U}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nFlash\nIf you cast The Bardenmoot, counter up to one target spell.\nYou may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nFlash\nIf you cast The Bardenmoot, counter up to one target spell.\nI, II, III, IV \u2014 You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nFlash\nIf you cast The Bardenmoot, counter up to one target spell.\nYou may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nFlash\nIf you cast The Bardenmoot, counter up to one target spell.\nI, II, III, IV \u2014 You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "ade surya",
             "alias": "",
-            "position": "313",
+            "position": "306",
             "notes": "troubadours"
         },
         {
@@ -6481,7 +6286,7 @@
             "loyalty": "",
             "artist": "higor pistori",
             "alias": "",
-            "position": "314",
+            "position": "307",
             "notes": "!sort 1commanderbait"
         },
         {
@@ -6501,7 +6306,7 @@
             "loyalty": "",
             "artist": "HuoMao Studio",
             "alias": "",
-            "position": "315",
+            "position": "308",
             "notes": "congregation"
         },
         {
@@ -6521,7 +6326,7 @@
             "loyalty": "",
             "artist": "Sergey Gurskiy",
             "alias": "",
-            "position": "316",
+            "position": "309",
             "notes": "operahouse"
         },
         {
@@ -6532,17 +6337,17 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i][/i]Create a 3/3 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nTarget creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nIII \u2014 Target creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i][/i]Create a 3/3 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nTarget creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nIII \u2014 Target creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
             "artist": "Zana Arnautovic",
             "alias": "",
-            "position": "317",
-            "notes": "troubadours\nnick: imagine dragon"
+            "position": "310",
+            "notes": "troubadours\nnick: imagine dragon\nchangeflag\nfieldflag"
         },
         {
             "card_name": "Demon of Many Pages",
@@ -6561,7 +6366,7 @@
             "loyalty": "",
             "artist": "Quang Ho",
             "alias": "",
-            "position": "318",
+            "position": "311",
             "notes": "atelier"
         },
         {
@@ -6581,7 +6386,7 @@
             "loyalty": "",
             "artist": "Anastasia",
             "alias": "",
-            "position": "319",
+            "position": "312",
             "notes": ""
         },
         {
@@ -6601,7 +6406,7 @@
             "loyalty": "",
             "artist": "Sonderflex",
             "alias": "",
-            "position": "320",
+            "position": "313",
             "notes": "gustatorie"
         },
         {
@@ -6614,14 +6419,14 @@
             "cost": "",
             "rules_text": "Flying\n{R}: This creature gets +1/+0 until end of turn.",
             "flavor_text": "[i][/i]",
-            "pt": "3/3",
+            "pt": "4/4",
             "special_text": "",
             "shape": "token",
             "set": "MVX",
             "loyalty": "",
             "artist": "bigboxart",
             "alias": "",
-            "position": "321",
+            "position": "314",
             "notes": "!related Coax the Worldsongs;"
         },
         {
@@ -6641,7 +6446,7 @@
             "loyalty": "",
             "artist": "Esther Gal\u00e1n",
             "alias": "",
-            "position": "322",
+            "position": "315",
             "notes": ""
         },
         {
@@ -6661,7 +6466,7 @@
             "loyalty": "",
             "artist": "Bruno Cardoso",
             "alias": "",
-            "position": "323",
+            "position": "316",
             "notes": "HYBRID\nKILLFLAG 2/3"
         },
         {
@@ -6681,14 +6486,14 @@
             "loyalty": "",
             "artist": "Tim Warnock",
             "alias": "",
-            "position": "324",
+            "position": "317",
             "notes": ""
         },
         {
             "card_name": "Iterate Over",
             "color": "W",
             "rarity": "rare",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -6701,8 +6506,8 @@
             "loyalty": "",
             "artist": "Grafit Studio",
             "alias": "",
-            "position": "325",
-            "notes": ""
+            "position": "318",
+            "notes": "FIELDFLAG\nchangeflag"
         },
         {
             "card_name": "Gustatorie Explorateur",
@@ -6721,9 +6526,204 @@
             "loyalty": "",
             "artist": "rayven Studios",
             "alias": "",
-            "position": "326",
+            "position": "319",
             "notes": ""
+        },
+        {
+            "card_name": "Antoine, Chef Extraordinaire",
+            "color": "G",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Orc Druid",
+            "number": 145,
+            "color_identity": "WBG",
+            "cost": "{2}{G}",
+            "rules_text": "Trample\nWhenever one or more creatures you control deal combat damage to a player, create a Food token.\nLegacy {1}{W}{B}{G}",
+            "flavor_text": "[i]\u201cCooking is a way to bring people together, a universal experience to share!\u201d[/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "Daniel Walker",
+            "alias": "",
+            "position": "320",
+            "card_name2": "Antoine's Cookware",
+            "color2": "WBG",
+            "type2": "Legendary Artifact",
+            "cost2": "",
+            "rules_text2": "At the beginning of your end step, you may pay up to {X}, where X is the amount of life you've gained this turn. If you do, create that many 1/1 green Plant creature tokens.\nWhenever a token you control is put into a graveyard from the battlefield, you may pay 2 life. If you do, draw a card.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Yana Efremova",
+            "alias2": "",
+            "notes": "!sort mythicflip\nchangeflag"
+        },
+        {
+            "card_name": "Marquis Vaasco de Moraes",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Zombie Warlock",
+            "number": 95,
+            "color_identity": "WBR",
+            "cost": "{4}{B}{B}",
+            "rules_text": "When Vaasco enters, you may return target non-Zombie creature card from your graveyard to the battlefield.\nLegacy {R}{W}{B}",
+            "flavor_text": "[i]\u201cOpera is an expression of power, an imposition into the cultural soul.\u201d[/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "Diniece Henderson",
+            "alias": "",
+            "position": "321",
+            "card_name2": "The Grand Revival",
+            "color2": "WBR",
+            "type2": "Legendary Enchantment \u2014 Saga",
+            "cost2": "",
+            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nSacrifice a creature or Marquis Vaasco de Moraes.\nYou gain 3 life.\nIf The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. [i](Front face up.)[/i]\nExile The Grand Revival, then return it to the battlefield.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nSacrifice a creature or Marquis Vaasco de Moraes.\nYou gain 3 life.\nIf The Grand Revival would be put into exile this turn, instead exile it, then return it to the battlefield. [i](Front face up.)[/i]\nExile The Grand Revival, then return it to the battlefield.",
+            "loyalty2": "",
+            "artist2": "Thomas Dambreville",
+            "alias2": "",
+            "notes": "!sort mythicflip\nchangeflag"
+        },
+        {
+            "card_name": "Nicola, Inspired Artist",
+            "color": "U",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Human Artist Wizard",
+            "number": 58,
+            "color_identity": "UBG",
+            "cost": "{1}{U}",
+            "rules_text": "Whenever Nicola attacks, you may draw a card. If you do, discard a card.\nLegacy {1}{B}{G}{U}",
+            "flavor_text": "[i]\u201cArt is a meditation on the remote, a sense of the forever untouchable.\u201d[/i]",
+            "pt": "2/1",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "Magdalena Minko",
+            "alias": "",
+            "position": "322",
+            "card_name2": "Night Upon the Cosmos",
+            "color2": "UBG",
+            "type2": "Legendary Enchantment Artifact",
+            "cost2": "",
+            "rules_text2": "[i]Delirium[/i] \u2014 At the beginning of your upkeep, if there are four or more card types among cards in your graveyard, you may sacrifice [i]Night Upon the Cosmos[/i]. If you do, put two cards you own from outside the game into your hand.\n{T}: Draw a card, then discard a card.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "J Edward Neill",
+            "alias2": "",
+            "notes": "!sort mythicflip\nshe wished for perfection, but not the means to enjoy it\nchangeflag"
+        },
+        {
+            "card_name": "Isabella, City Builder",
+            "color": "W",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Dwarf Artificer",
+            "number": 16,
+            "color_identity": "WUR",
+            "cost": "{3}{W}",
+            "rules_text": "Vigilance\nWhenever Isabella attacks, untap each artifact you control.\nLegacy {2}{U}{R}{W}",
+            "flavor_text": "[i]\u201cCreation is a way to support, a union point of splendor and function.\u201d[/i]",
+            "pt": "3/4",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "ToaMataNui123",
+            "alias": "",
+            "position": "323",
+            "card_name2": "The Spire of Merveaux",
+            "color2": "WUR",
+            "type2": "Legendary Artifact \u2014 Building",
+            "cost2": "",
+            "rules_text2": "At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.\nWard {4}\n Built 2+\nWhenever you cast an artifact spell, untap each artifact you control.\n Built 5+\nArtifacts you control have indestructible.",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "At the beginning of your end step, draw a card, then you may put a brick counter on each Building you control.\nWard {4}\n Built 2+\nWhenever you cast an artifact spell, untap each artifact you control.\n Built 5+\nArtifacts you control have indestructible.",
+            "loyalty2": "",
+            "artist2": "John Avon",
+            "alias2": "",
+            "notes": "!sort mythicflip\nchangeflag"
+        },
+        {
+            "card_name": "The Flourishing",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Enchantment \u2014 Saga",
+            "number": 48,
+            "color_identity": "U",
+            "cost": "{4}{U}",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nII \u2014 Artifact and enchantment spells you cast this turn cost {2} less to cast.\nIII \u2014 Create a token that's a copy of target artifact or enchantment you control not named The Flourishing.",
+            "flavor_text": "[i]\u200b[/i]",
+            "pt": "",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nII \u2014 Artifact and enchantment spells you cast this turn cost {2} less to cast.\nIII \u2014 Create a token that's a copy of target artifact or enchantment you control not named The Flourishing.",
+            "shape": "saga",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "Jung Yeoll",
+            "alias": "",
+            "position": "324",
+            "notes": "changeflag"
+        },
+        {
+            "card_name": "Brasio, Bardic Chronicler",
+            "color": "R",
+            "rarity": "mythic",
+            "type": "Legendary Creature \u2014 Goblin Bard",
+            "number": 111,
+            "color_identity": "URG",
+            "cost": "{R}",
+            "rules_text": "Regale \u2014 {T}: Add {R}. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]\nLegacy {G}{U}{R}",
+            "flavor_text": "[i]\u201cA song is a connection through time, a recollection of emotion long past.\u201d[/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "Leonardo Correa",
+            "alias": "",
+            "position": "325",
+            "card_name2": "The Long Chant",
+            "color2": "URG",
+            "type2": "Legendary Enchantment \u2014 Saga",
+            "cost2": "",
+            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nYou may put a +1/+1 counter on target creature.\nThe Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
+            "flavor_text2": "[i][/i]",
+            "pt2": "",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nYou may put a +1/+1 counter on target creature.\nThe Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
+            "loyalty2": "",
+            "artist2": "Leonid Afremov",
+            "alias2": "",
+            "notes": "!sort mythicflip\nchangeflag\nfieldflag"
+        },
+        {
+            "card_name": "Frymaster's Pan",
+            "color": "BG",
+            "rarity": "rare",
+            "type": "Artifact",
+            "number": 205,
+            "color_identity": "BG",
+            "cost": "{B}{G}",
+            "rules_text": "Frymaster's Pan enters tapped.\n{T}: Add {B} or {G}.\n[i]Feast[/i] \u2014 {T}: Add {B}{G}. Activate only if you've gained life or created a token this turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "MVX",
+            "loyalty": "",
+            "artist": "afda trihatma",
+            "alias": "",
+            "position": "326",
+            "notes": "!sort 2cae\nchangeflag\nfieldflag\nFeast \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\nT, Remove an oil counter from Frymaster's Pan: Add B or G.\nT, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery."
         }
     ],
-    "version": 23
+    "version": 24
 }
