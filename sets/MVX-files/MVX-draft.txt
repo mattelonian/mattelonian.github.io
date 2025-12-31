@@ -3407,7 +3407,7 @@
 		9 Roland's Solo
 		9 Show of Strength
 		9 Festival Revelry
-		9 Severin, Kitchen Tyrant
+		9 Berengar, Kitchen Tyrant
 		9 Hymn to the Wilds
 		9 Stew
 		9 Reconceptualize
@@ -3434,13 +3434,12 @@
 		9 Serenade
 		9 Inkblot Familiar
 		9 Avian Augmenteers
-		9 Skilled Animancy
+		9 Arbiter of Taste
 		9 Diviner of the Dessert
 		9 Lament
 		9 Alabaster Guardian
 		9 Tidy Up
 		9 Velda, Opera Diva
-		9 Skystone Sculptory
 		9 Starlit Horizons
 		9 Scrapsmelt Foundry
 		9 Food Flood
@@ -3451,17 +3450,24 @@
 		9 Vivid Expression
 		9 Gallery Curator
 		9 Songweaver Adept
-		9 First Chair Violinist
+		9 Onerous Old-Timer
 		9 Phoenixsong
+		9 Iterate Over
 		9 Far-off Places
 		9 Frymaster's Pan
 		9 Oft-Told Tales
+		9 Knockout Performance
+		3 Skystone Sculptory
+		3 Nature's Bounty
+		3 Coax the Worldsongs
+		3 Demon of Many Pages
+		3 First Chair Violinist
 		3 Creativity
 		3 Marquis Vaasco de Moraes
 		3 Pascal, Critics' Favorite
 		3 Lyon, Aged Inventor
 		3 Brasio, Bardic Chronicler
-		3 Constancia, City Builder
+		3 Isabella, City Builder
 		3 Preserve the Moment
 		3 Hearthsong
 		3 Esteemed Author Davriel Cane
@@ -3537,7 +3543,6 @@
 		20 Cost of Perfection
 		20 Gustbrook Library
 		20 Songcrafting
-		20 Vicious Animancer
 		20 Keeper of the Archives
 		20 Redesign
 		20 Wicked Wordsmith
@@ -3560,7 +3565,7 @@
 		25 Pudding Cat
 		25 Paper Familiars
 		25 Blase Cuisinier
-		25 Mechanical Racer
+		25 Festival Shorthopper
 		25 Bardic Historian
 		25 Inspirational Performer
 		25 Skystone Seraph
@@ -3602,7 +3607,7 @@
 		25 Gnomestack
 		25 Rancid Meal
 		25 Prophetic Prism
-		25 Rebuild from Scratch
+		25 Reconstruct
 		25 Tragic Soloist
 		25 Fanciful Flier
 		25 Keen Guardcog
