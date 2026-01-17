@@ -1,4 +1,493 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+
+Illusion removed.
+
+Opening Act
+rules_text: 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+special_text: 
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Artist's Easel
+
+Stew Stirrer
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+
+Retrospection
+
+Skilled Sous-Chef
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+
+Copy
+
+Waxbreath Youngling
+
+Castleway Crane
+
+Hunt for Inspiration
+
+Painter's Studio
+
+Teatime Two
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+
+Concordia, Angel of Glass
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+Ambrosian Tower
+
+Cogturn Laboratory
+
+Festival Puppeteer
+
+Roland's Solo
+
+Bombastic Performance
+
+Petite Patissier
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+
+Moonridge Tailors
+
+Skystone Gargoyle
+
+Rousing Read
+
+Atelier Exemplar
+
+Forest Plains
+
+Berengar, Kitchen Tyrant
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Vehicle
+
+Stew
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+
+Flamesweeper
+
+Cost of Perfection
+
+Season to Perfection
+
+Bird
+
+Chicken Coop
+
+Gustbrook Library
+
+Deafening Duo
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+La Chaconne de Soupir No 3
+rules_text: 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+special_text: 
+I — If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+II — Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+III — Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control. => 
+If you cast [i]La Chaconne de Soupir No.3[/i], exile all creatures.
+Each player returns a card they own exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under their control.
+Return a card exiled with [i]La Chaconne de Soupir No.3[/i] to the battlefield under your control.
+
+Gustatorie Mixer
+
+Spirit Elemental
+
+Keeper of the Archives
+
+Construct
+
+Solid Fundamentals
+
+Sylvie, Garden Tender
+
+Gleeful Amateur
+
+Body of Literature
+
+Writer's Desk
+
+Sate the Critics
+
+Redesign
+
+Wicked Wordsmith
+
+Esteemed Author Davriel Cane
+
+Invocation of Creativity
+
+See the Sights
+
+Ironstreet Welders
+
+Ingenuity
+
+Chromatic Lantern
+
+Lyon's Contemplation
+
+Foundry Assistant
+
+Blueprints
+
+Footlight Fiend
+
+Enraged Essayist
+
+Tear Through
+
+Constructed Whelp
+
+Parkland Flautist
+
+Distracted Apprentice
+
+Gastronomical Hubris
+
+Elaphia, Full of Wonder
+
+Chorus Machine
+
+Enraptured Watcher
+
+Tavern Reveler
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II, III — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​
+
+Green Thumbed Growth
+
+Serenade
+
+Inkblot Familiar
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+
+Velda, Opera Diva
+
+Roland, Second Fiddle
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Jaunty Tune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Discard a card.
+III — Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​
+
+Bite Down on Treats
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​
+
+Secret Ingredients
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Exile the top card of your library. You may play it until the end of your next turn.
+III — Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token.
+
+Chisel
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Annul
+
+Stage Double
+
+Arbiter of Taste
+
+The Bardenmoot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+I, II, III, IV — You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+I, II, III, IV — You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast The Bardenmoot, counter up to one target spell.
+You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.
+
+Diego, Slam Poet
+
+Reconstruct
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Demon of Many Pages
+
+First Chair Violinist
+
+Nature's Bounty
+
+Dragon
+
+Atelier Artisan
+
+Parapet Percher
+
+Skystone Sculptory
+
+Iterate Over
+
+Gustatorie Explorateur
+
+Antoine, Chef Extraordinaire
+
+Marquis Vaasco de Moraes
+
+Nicola, Inspired Artist
+
+Isabella, City Builder
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of target artifact or enchantment you control not named The Flourishing. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control not named The Flourishing.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of target artifact or enchantment you control not named The Flourishing. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control not named The Flourishing.
+
+Brasio, Bardic Chronicler
+
+Frymaster's Pan
+
+
+VERSION 24 CHANGELOG
 ====================
 
 
