@@ -2351,7 +2351,7 @@
             "number": 75,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flying\n[i]Delirium[/i] \u2014 Avian Auteur gets +1/+0 as long as there are four or more card types among cards in your graveyard.",
+            "rules_text": "Flying, haste\n[i]Delirium[/i] \u2014 Avian Auteur gets +1/+0 as long as there are four or more card types among cards in your graveyard.",
             "flavor_text": "[i]Poets, playwrights and authors gather at the Duskstreet Review, seeking both actionable criticism and strokes to ego.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -5446,7 +5446,7 @@
             "number": 135,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Flying, haste\nPhoenixsong can't block.\nRegale \u2014 {2}{R}: Return Phoenixsong from your graveyard to the battlefield. Activate only on your turn. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]",
+            "rules_text": "Flying, haste\nPhoenixsong can't block.\nRegale \u2014 {2}{R}: Return Phoenixsong from your graveyard to the battlefield. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -6317,10 +6317,10 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nIII \u2014 Target creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i][/i]Create a 4/4 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nTarget creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nIII \u2014 Target creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\n[i][/i]Create a 4/4 red Dragon enchantment creature token with flying and \u201c{R}: This token gets +1/+0 until end of turn.\u201d[i][/i]\nTarget creature you control deals damage equal to its power to up to one nonplayer target.\nAdd six {R}.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
@@ -6675,10 +6675,10 @@
             "color2": "URG",
             "type2": "Legendary Enchantment \u2014 Saga",
             "cost2": "",
-            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nI \u2014 You may put a +1/+1 counter on target creature.\nII, III \u2014 The Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
+            "rules_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nYou may put a +1/+1 counter on target creature.\nThe Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
-            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nI \u2014 You may put a +1/+1 counter on target creature.\nII, III \u2014 The Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
+            "special_text2": "[i](As this Saga enters and after your draw step, add a lore counter.)[/i]\nYou may put a +1/+1 counter on target creature.\nThe Long Chant deals 1 damage to any target.\nDraw a card, then remove all lore counters from The Long Chant. [i](It's not sacrificed.)[/i]",
             "loyalty2": "",
             "artist2": "Leonid Afremov",
             "alias2": "",
@@ -6705,5 +6705,5 @@
             "notes": "!sort 2cae\nchangeflag\nfieldflag\nFeast \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\nT, Remove an oil counter from Frymaster's Pan: Add B or G.\nT, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery."
         }
     ],
-    "version": 25
+    "version": 27
 }

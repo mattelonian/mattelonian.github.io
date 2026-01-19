@@ -1,4 +1,60 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+Discouraging Flop
+rules_text: Exploit [i](When that creature enters, you may sacrifice a creature.)[/i]
+When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, you gain 1 life. => Exploit [i](When this permanent enters, you may sacrifice a creature.)[/i]
+When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, you gain 1 life.
+
+
+VERSION 26 CHANGELOG
+====================
+
+
+
+Avian Auteur
+rules_text: Flying
+[i]Delirium[/i] — Avian Auteur gets +1/+0 as long as there are four or more card types among cards in your graveyard. => Flying, haste
+[i]Delirium[/i] — Avian Auteur gets +1/+0 as long as there are four or more card types among cards in your graveyard.
+
+Discouraging Flop
+rules_text: Exploit [i](When this permanent enters, you may sacrifice a creature.)[/i]
+When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, you gain 1 life. => Exploit [i](When that creature enters, you may sacrifice a creature.)[/i]
+When Discouraging Flop enters or exploits a creature, creatures your opponents control get -1/-1 until end of turn.
+Whenever a creature an opponent controls dies, you gain 1 life.
+
+Phoenixsong
+rules_text: Flying, haste
+Phoenixsong can't block.
+Regale — {2}{R}: Return Phoenixsong from your graveyard to the battlefield. Activate only on your turn. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Flying, haste
+Phoenixsong can't block.
+Regale — {2}{R}: Return Phoenixsong from your graveyard to the battlefield. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Coax the Worldsongs
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+III — Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i][/i]Create a 4/4 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — [i][/i]Create a 4/4 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+III — Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i][/i]Create a 4/4 red Dragon enchantment creature token with flying and “{R}: This token gets +1/+0 until end of turn.”[i][/i]
+Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}.
+
+Brasio, Bardic Chronicler
+
+
+VERSION 25 CHANGELOG
 ====================
 
 
