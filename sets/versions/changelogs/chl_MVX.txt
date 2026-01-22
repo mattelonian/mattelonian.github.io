@@ -1,4 +1,18 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+
+
+Bolstering Chefbot
+rules_text: Vigilance
+[i]Feast[/i] — Once during each of your turns, when you gain life or create a token, other creatures you control get +1/+1 until end of turn. => Vigilance
+[i]Feast[/i] — Once during each of your turns, when you gain life or create a token, you may have other creatures you control get +1/+1 until end of turn.
+
+Kitty Connoisseur
+rules_text: [i]Feast[/i] — Once during each of your turns, when you gain life or create a token, put a +1/+1 counter on Kitty Connoisseur. => [i]Feast[/i] — Once during each of your turns, when you gain life or create a token, you may put a +1/+1 counter on Kitty Connoisseur.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 
