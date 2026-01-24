@@ -1,0 +1,5221 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>AUR</name>
+			<longname>Beyond the Aurora</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Hungering Lights</name>
+			<text>When this creature enters or dies, exile target card from an opponent&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/0.png" num="3">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Prism</name>
+			<text>When this artifact enters, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/1.png" num="251">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skullcreeper Blossom AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When this creature dies, create a Treasure token. Then if your aurora has three or more colors, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/2.png" num="102">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Gorehorn Baloth</name>
+			<text>Menace
+Scavenge {5}{B} ({5}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/3.png" num="86">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodmark Beetle</name>
+			<text>Whenever this creature and at least two other creatures attack, it gains flying and lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/4.png" num="76">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrion Shrieker</name>
+			<text>Flying, deathtouch
+{1}: This creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/5.png" num="77">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sporespewer</name>
+			<text>When this creature enters, mill two cards, then create a 1/1 black Fungus creature token with &quot;During your turn, this token has deathtouch.&quot;</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/6.png" num="103">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gore</name>
+			<text>Destroy target creature or planeswalker. 
+Surveil 2.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/7.png" num="85">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drag Below</name>
+			<text>Target creature gets -3/-3 until end of turn. If that creature would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/8.png" num="80">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hyperventilate</name>
+			<text>Surveil 2, then draw two cards. You lose 2 life unless three or more colors of mana were spent to cast this spell.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/9.png" num="88">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toskari Lookout</name>
+			<text>Reach
+{T}, Tap an untapped creature you control: Add one mana of any color.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/10.png" num="175">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystalglow Brute AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+This creature can&apos;t be blocked by creatures with power less than or equal to the number of colors in your aurora.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/11.png" num="150">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pinewreathed Prowler</name>
+			<text>Vigilance
+When this creature enters, if there are two or more kinds of counters among creatures you control, draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/12.png" num="163">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>King of the Forest</name>
+			<text>When this creature enters, create two 1/1 green Rabbit creature tokens.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/13.png" num="157">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Suffuse with Power</name>
+			<text>Target creature you control gets +3/+3 until end of turn. Put a trample counter on it.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/14.png" num="173">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Predate the Skies</name>
+			<text>Destroy target artifact, enchantment, or creature with flying. If that permanent&apos;s mana value was 3 or less, surveil 2.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/15.png" num="165">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magmashell Turtle AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Reach
+As long as your aurora has three or more colors, this creature gets +2/+0.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/16.png" num="130">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Volcanic Toad</name>
+			<text>When this creature enters, choose one —
+• It deals 2 damage to each opponent.
+• Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/17.png" num="144">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dolnjar Crusher AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Trample
+When this creature dies, it deals damage to each opponent equal to the number of colors in your aurora.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/18.png" num="121">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spirit of the Canyon</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When this creature enters, return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/19.png" num="138">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conflagration Wurm</name>
+			<text>Haste
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/20.png" num="118">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volatile Leap</name>
+			<text>Target creature you control gets +1/+0 and gains first strike until end of turn. Aetherize it. (Create a token that&apos;s a copy of it, then exile that token. Copies include merged parts.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/21.png" num="143">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ephemeral Civet</name>
+			<text>Menace
+When a creature scavenges this creature, return up to one target instant or sorcery card from your graveyard to your hand.
+Scavenge {4}{U} ({4}{U}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/22.png" num="49">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Mongoose Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Berryfield Drakeling</name>
+			<text>Flying
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/23.png" num="44">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everfrost Hawk</name>
+			<text>Flying
+Instant and sorcery spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/24.png" num="50">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adventurous Ursine</name>
+			<text>Vigilance
+As long as there are seven or more lands you control and/or land cards in your graveyard, this creature gets +1/+0 and has menace.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/25.png" num="40">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wavecrash Colossus</name>
+			<text>Flash
+This creature enters tapped.
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/26.png" num="72">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Negate</name>
+			<text>Counter target noncreature spell.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/27.png" num="58">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Luminous Communion</name>
+			<text>This spell costs {2} less to cast if there are seven or more lands you control and/or land cards in your graveyard.
+Surveil 3, then draw three cards.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/28.png" num="55">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Return to Aether</name>
+			<text>Return target creature to its owner&apos;s hand. If you controlled that creature, aetherize it. (Create a token that&apos;s a copy of it, then exile that token. Copies include merged parts.)
+Draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/29.png" num="61">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Berry Picker</name>
+			<text>Vigilance
+When this creature dies, if its power was 2 or greater, draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/30.png" num="8">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pack Scrounger</name>
+			<text>Scavenge {2}{W} ({2}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/31.png" num="21">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witness of the Skies</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a Revelation spell, surveil 1.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/32.png" num="39">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toskari Hero</name>
+			<text>Ward {2}
+When this creature enters, draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/33.png" num="33">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infused Owlbear AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever this creature attacks, if your aurora has three or more colors, it gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/34.png" num="17">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dawnfeather Roc</name>
+			<text>Flying, vigilance
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/35.png" num="9">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protector of the Meek</name>
+			<text>When Protector of the Meek enters, you may return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/36.png" num="24">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Capybara Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pick Off</name>
+			<text>Destroy target creature or artifact. If it was a token or tapped permanent, you gain 3 life.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/37.png" num="22">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Self Is A Reflection</name>
+			<text>Incarnate {3}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Put a +1/+1 counter on each of up to two target creatures you control. They gain first strike until end of turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/38.png" num="26">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Sheep Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Rage AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever you cast an instant or sorcery spell, for each color in your aurora beyond the first, copy it. You may choose new targets for the copies.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/39.png" num="134">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fleeting Memories</name>
+			<text>Mill seven cards. At the beginning of your next upkeep, put seven cards from your graveyard on the bottom of your library.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/40.png" num="83">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lone Spirit AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+You may look at the top card of your library any time.
+As long as there are three or more colors in your aurora, you may play lands and cast creature spells from the top of your library.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/41.png" num="158">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rampaging Hipposaur</name>
+			<text>This spell can&apos;t be countered.
+This creature enters with your choice of a vigilance or trample counter.
+{1}, Remove a counter from this creature: It gains indestructible until end of turn. Tap it.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/42.png" num="167">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Hippo</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stampede of Beasts</name>
+			<text>Create a 1/1 green Rabbit creature token. If X is 1 or more, create a 2/2 green Wolf creature token with trample. The same is true for 2 or more and a 3/3 green Elk creature token and 3 or more and a 4/4 green Beast creature token.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/43.png" num="172">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Quiet Never Truly Falls</name>
+			<text>Incarnate {3}{G}{G} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/44.png" num="166">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elk Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Manifest from Beyond</name>
+			<text>Copy target noncreature spell you control twice. You may choose new targets for the copies.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/45.png" num="214">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crest the Stars</name>
+			<text>Each player mills six cards. You may cast a creature card and a noncreature card not named Crest the Stars milled this way without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/46.png" num="194">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stalk the Mind</name>
+			<text>Exile the top two cards of target opponent&apos;s library. Until the end of your next turn, you may play those cards and mana of any type can be spent to cast them.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/47.png" num="227">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Manablossom</name>
+			<text>You may cast this spell for {3}. Spend only colored mana produced by effects that add mana of any color this way.
+Mill six cards, then return up to one land card, up to one creature card, and up to one noncreature nonland card milled this way to your hand.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/48.png" num="212">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Final Confrontation</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature unless you control a Dragon or planeswalker.
+Exile target nonland permanent.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/49.png" num="200">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunter of Streams</name>
+			<text>Menace
+Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. If this isn&apos;t the first time this ability has resolved this turn, create a 2/1 red Crocodile creature token with menace and &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/50.png" num="208">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unearthed Past</name>
+			<text>Return target creature or land card from your graveyard to the battlefield. If a land card was returned this way, you may have it become a 6/6 Frog Golem creature with trample in addition to its other types.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/51.png" num="229">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burn the Sky Down</name>
+			<text>Choose two —
+• Put two +1/+1 counters on target creature. It gains trample and lifelink until end of turn.
+• Return up to one target noncreature nonland card from your graveyard to your hand.
+• Discard a card. If you do, draw two cards.
+• Create two Treasure tokens.
+Exile Burn the Sky Down.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/52.png" num="190">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Howl of Ancestry</name>
+			<text>Return target card from your graveyard to your hand. Create a 2/2 green Wolf creature token with trample.
+Exile Howl of Ancestry.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/53.png" num="206">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dolnjar Terror AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Flying, haste
+As long as your aurora has three or more colors, this creature gets +1/+1 and has menace.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/54.png" num="122">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Doln, End of All Things</name>
+			<text>This spell costs {X} less to cast, where X is the total number of instant and sorcery cards you own in exile and in your graveyard.
+Menace
+If a source you control would deal damage to a permanent or player, it deals double that damage instead.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/55.png" num="120">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>13RR</manacost>
+				<cmc>15</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Molten Infusion</name>
+			<text>Molten Infusion is all colors. (It can contribute any single color to an aurora.)
+Molten Infusion deals 3 damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/56.png" num="131">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shardback Leviathan</name>
+			<text>When this creature enters, if it was cast, return each other nonland permanent with mana value less than the number of land cards in your graveyard to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/57.png" num="63">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Manahunter Griffin</name>
+			<text>Flying
+Whenever one or more creatures you control deal combat damage to a player, put that many screech counters on this creature.
+As an additional cost to cast spells, you may remove X screech counters from this creature, where X is its mana value. If you do, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/58.png" num="213">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vali&apos;s Yearning</name>
+			<text>Draw X cards, then discard a card.
+Search your library for a Vali card, reveal it, put it into your hand, then shuffle.
+Exile Vali&apos;s Yearning.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/59.png" num="71">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Writ in Starlight</name>
+			<text>You may look at the top card of your library any time.
+You may cast instant or sorcery spells from the top of your library. When you do, you may have this enchantment become an X/X Avatar creature with flying until end of turn, where X is the mana spent to cast that spell.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/60.png" num="73">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aethergorged Condor</name>
+			<text>This spell costs {2} less to cast if you control an Avatar.
+Flying
+Whenever you cast an instant or sorcery spell, create a 1/1 white Bird creature token with flying. If it was a Revelation, put a +1/+1 counter on the token.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/61.png" num="5">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Step Among Clouds</name>
+			<text>Creature tokens you control get +2/+2 and have flying.
+{2}{W}, Discard this: Create a tapped 3/3 green Elk creature token.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/62.png" num="29">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trek Upwards</name>
+			<text>If an opponent has more life than you, you gain 4 life. If an opponent controls more lands than you, create a Treasure token. If an opponent controls more creatures than you, create two 1/1 green Rabbit creature tokens.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/63.png" num="36">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wandering Lustre</name>
+			<text>When this creature enters, choose one —
+• Put a +1/+1 counter on it.
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+• Surveil 2.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/64.png" num="4">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eiyo&apos;s Guardian</name>
+			<text>Trample
+{3}, Discard Eiyo&apos;s Guardian: Draw a card and create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/65.png" num="248">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Igneous Tiger</name>
+			<text>This creature enters tapped.
+{1}{B}: Return this card from your graveyard to your hand. Activate only if you&apos;ve cast a noncreature spell this turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/66.png" num="89">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Return Through Rot</name>
+			<text>Return target creature card from your graveyard to the battlefield. If its power is less than 4, put +1/+1 counters on it equal to the difference.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/67.png" num="100">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Starvation</name>
+			<text>Creatures without counters on them get -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/68.png" num="104">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Mind&apos;s Eye Slips All Bonds</name>
+			<text>Incarnate {3}{B} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+Flying</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/69.png" num="93">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bat Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aether Parasite</name>
+			<text>Deathtouch
+Whenever this creature and another creature attack, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/70.png" num="145">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skolweald Veteran</name>
+			<text>Whenever this creature attacks, you may put a vigilance counter on target attacking creature you control and untap it. If it already has vigilance, put a +1/+1 counter on it instead.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/71.png" num="171">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cragskin Rhino AUR</name>
+			<text>Trample
+Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+This creature gets +X/+X, where X is the number of colors in your aurora.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/72.png" num="147">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Firebelly Frogan</name>
+			<text>This spell costs {1} less to cast for each kind of counter among creatures you control.
+Reach</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/73.png" num="154">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crystal Carapace</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3 and has ward {2}.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/74.png" num="149">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mire Blossoms AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When this enchantment enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{1}{G}, Sacrifice this: Create a tapped 0/0 green Plant creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/75.png" num="160">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Memories of Forgotten Heroes</name>
+			<text>Incarnate {3}{G} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Return up to one target permanent card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/76.png" num="159">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Squirrel Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Luminous Fen</name>
+			<text>This land enters tapped.
+When this land enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {B}.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/77.png" num="260">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Luminous Peaks</name>
+			<text>This land enters tapped.
+When this land enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {R}.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/78.png" num="262">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Luminous Copse</name>
+			<text>This land enters tapped.
+When this land enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {G}.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/79.png" num="259">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ashcrystal Moloch AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as your aurora has three or more colors, this creature gets +2/+1.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/80.png" num="114">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Slag Gorger</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+This creature has menace as long as you&apos;ve sacrificed a Treasure this turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/81.png" num="136">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solar Eclipse</name>
+			<text>Solar Eclipse deals 4 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/82.png" num="137">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Young Hipposaur</name>
+			<text>Vigilance
+When this creature enters, mill two cards.
+{3}{U}, {T}: Draw a card. Activate only if there are seven or more lands you control and/or land cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/83.png" num="74">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Hippo</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tidemare</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever this creature attacks, if you&apos;ve cast a noncreature spell this turn, tap up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/84.png" num="67">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Borealis Swimmer</name>
+			<text>Flying
+When this creature enters, you may search your library for a Revelation card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/85.png" num="45">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Illusion Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Icicle Tromper</name>
+			<text>Ward {3}
+When this creature enters, tap up to one target creature and put a stun counter on it.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/86.png" num="53">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fledgeling Forager</name>
+			<text>Whenever this creature attacks, if there are two or more kinds of counters among creatures you control, it gains flying until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/87.png" num="12">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Polar Moose</name>
+			<text>When this creature enters or a creature scavenges it, tap target creature an opponent controls.
+Scavenge {4}{W} ({4}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/88.png" num="23">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apprentice Luminant</name>
+			<text>During your turn, Avatars you control have lifelink and vigilance.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/89.png" num="6">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Run with the Spirit Pack</name>
+			<text>Whenever you attack, aetherize target attacking creature you control. (Create a token that&apos;s a copy of it, then exile that token. Copies include merged parts.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/90.png" num="25">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wayfarer&apos;s Shrine</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/91.png" num="267">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prey On The Frailty of Strength</name>
+			<text>Incarnate {4}{B} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Each opponent sacrifices a creature or planeswalker. If a token was sacrificed this way, you gain 3 life.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/92.png" num="98">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Crocodile Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Passion&apos;s Warmth Burns</name>
+			<text>Incarnate {3}{R} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Passion&apos;s Warmth Burns deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/93.png" num="132">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Lizard Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Careful Designs of Instinct</name>
+			<text>Incarnate {4}{R} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+You may discard a card. If you do, draw two cards.
+Trample</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/94.png" num="117">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Goat Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Forest Of A Tree</name>
+			<text>Incarnate {6}{G} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. You gain 3 life.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/95.png" num="156">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Elk Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lucent Quag</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/96.png" num="258">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sundappled Cove</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/97.png" num="266">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glistering Canopy</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/98.png" num="256">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swooping Strix</name>
+			<text>Flash
+Flying
+When this creature enters, you may return another creature you control to its owner&apos;s hand. (All merged parts return.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/99.png" num="31">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lies Are Themselves A Truth</name>
+			<text>Incarnate {4}{B} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Choose one —
+• Target opponent discards two cards.
+• You draw two cards and you lose 2 life.
+Menace</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/100.png" num="92">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Fox Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Walker of Starlit Paths</name>
+			<text>Vigilance
+Whenever this creature attacks, you may put a land card from your hand or graveyard onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/101.png" num="178">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Maw AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Menace
+As long as your aurora has three or more colors, this creature has lifelink. As long as it has five or more colors, it has double strike.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/102.png" num="205">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Empyrean Stalker</name>
+			<text>Flying
+At the beginning of combat on your turn, for each +1/+1 counter on each creature you control, that creature gains your choice of vigilance, lifelink or menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/103.png" num="198">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fungal Glow</name>
+			<text>When this enchantment enters, create two 1/1 black Fungus creature tokens with &quot;During your turn, this token has deathtouch.&quot;
+Whenever a creature you control dies, if it wasn&apos;t blocking, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/104.png" num="203">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Frosthorn Akhos</name>
+			<text>Deathtouch
+Whenever one or more creatures you control deal combat damage to a player, mill that many cards, then return a card milled this way to your hand.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/105.png" num="202">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Reflection Gazes Back</name>
+			<text>Incarnate {2}{W}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Draw a card. You gain 3 life.
+Vigilance</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/106.png" num="220">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Elk Revelation</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Time&apos;s Waves Ripple</name>
+			<text>Incarnate {6}{U}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Take an extra turn after this one.
+This Revelation can&apos;t be blocked.
+If Time&apos;s Waves Ripple would be put into a graveyard from anywhere, exile it instead.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/107.png" num="68">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Fish Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Permanence Is Temporary</name>
+			<text>Incarnate {2}{R}{R} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Exile the top two cards of your library. Until the end of your next turn, you may play those cards.
+Flying
+You may incarnate Permanence Is Temporary from your graveyard by exiling another instant or sorcery card from your graveyard as an additional cost.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/108.png" num="133">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Phoenix Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>BL02 Island</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/109.png" num="269">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Unseen Eternity of Night</name>
+			<text>Incarnate {2}{U}{B} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+When target creature you control deals combat damage to a player this turn, draw two cards.
+Menace
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/110.png" num="230">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Otter Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Body Masters The Mind</name>
+			<text>Incarnate {4}{R}{G} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Up to one target creature gets +3/+3 until end of turn and must be blocked this turn if able.
+Trample
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/111.png" num="189">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Rhino Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Sun Rises As It Falls</name>
+			<text>Incarnate {3}{R}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Create a token that&apos;s a copy of up to one target creature you control, except it has haste. Exile the token at the beginning of the next end step. If it&apos;s your combat phase, it enters tapped and attacking.
+Double strike
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/112.png" num="228">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Horse Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Circle Of Life Is A Spiral</name>
+			<text>Incarnate {4}{B}{G} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Destroy up to one target nonland permanent.
+Deathtouch
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/113.png" num="192">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Basilisk Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The End of Infinity</name>
+			<text>Incarnate {4}{U}{R} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Target opponent may have The End of Infinity deal 4 damage to them. If that player doesn&apos;t, you draw three cards.
+Flying
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/114.png" num="199">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Drake Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Space Between Moments</name>
+			<text>Incarnate {3}{W}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+Flying
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/115.png" num="225">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bird Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Growth Is Mere Perspective</name>
+			<text>Incarnate {5}{G}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Draw two cards. You may put a land card from your hand onto the battlefield tapped.
+Trample
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/116.png" num="204">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Hydra Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bask in Sunlight</name>
+			<text>Choose one or both —
+• Destroy target artifact or enchantment.
+• Aetherize target creature you control. (Create a token that&apos;s a copy of it, then exile that token. Copies include merged parts.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/117.png" num="7">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elk Token AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/118.png" num="10">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wolf Token AUR</name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/119.png" num="13">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Veil of the Aurora</name>
+			<text>Target creature you control gets +1/+4 and gains hexproof until end of turn. Then if {W}{U} was spent to cast this spell, untap it.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/120.png" num="245">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W/U</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Touch of Flame</name>
+			<text>Target creature gets +2/-2 until end of turn. Then if {B}{R} was spent to cast this spell, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/121.png" num="244">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B/R</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Majestic Frosthorn</name>
+			<text>Vigilance
+{3}{W}, {T}: Tap target creature. This ability costs {1} less to activate for each kind of counter among creatures you control.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/122.png" num="20">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invoke the Lights</name>
+			<text>Mill three cards, then you may put a creature, Revelation or land card milled this way to your hand. If {G}{U} was spent to cast this spell, you may mill five cards instead.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/123.png" num="240">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/U</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phoenixfire</name>
+			<text>Phoenixfire deals 3 damage to target attacking or blocking creature. Then if {R}{W} was spent to cast this spell, you gain 3 life.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/124.png" num="242">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Radiant Rebuff</name>
+			<text>Put two +1/+1 counters on target creature. It gains indestructible until end of turn. Then if {W}{B} was spent to cast this spell, it gains lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/125.png" num="243">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W/B</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inferno Breath</name>
+			<text>Target creature you control gets +2/+1 until end of turn if {R}{G} was spent to cast this spell. Then it fights target creature you don&apos;t control. (Each deals damage equal to its power to the other.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/126.png" num="239">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R/G</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boreal Expanse</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/127.png" num="253">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Celestial Grotto</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/128.png" num="254">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bird Token AUR</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/129.png" num="3">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Lifter Griffin</name>
+			<text>Flying
+As a creature scavenges this creature, put a flying counter on that creature.
+Scavenge {4}{W} ({4}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/130.png" num="19">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grassland Jackalope</name>
+			<text>When this creature enters or a creature scavenges it, you gain 2 life.
+Scavenge {W} ({W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/131.png" num="15">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Honeyfield Shepherd</name>
+			<text>When this creature enters, put a +1/+1 and a vigilance counter on target creature you control.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/132.png" num="16">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ouphe</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wyrmsbane</name>
+			<text>Deathtouch
+As a creature scavenges this creature, put a deathtouch counter on that creature.
+Scavenge {3}{G} ({3}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/133.png" num="179">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vanguard Longsword</name>
+			<text>Equipped creature gets +2/+1.
+Equipped creature can&apos;t be blocked by creatures with power 4 or greater.
+Equip {3}</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/134.png" num="38">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infernal Morass</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/135.png" num="257">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spiring Rime</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/136.png" num="265">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL01 Plains</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/137.png" num="268">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL05 Forest</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/138.png" num="272">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL03 Swamp</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/139.png" num="270">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL04 Mountain</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/140.png" num="271">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flowering Vista</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/141.png" num="255">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Autumnal Thicket</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/142.png" num="252">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shrouded Heath</name>
+			<text>This land enters tapped.
+When this land enters, you may discard a land card. If you do, draw a card.
+{T}: Add {W} or {B}.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/143.png" num="264">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Deathbloom</name>
+			<text>Mill two cards, then you may return a creature card from your graveyard to your hand. If {B}{G} was spent to cast this spell, create a 1/1 black Fungus creature token with &quot;During your turn, this token has deathtouch.&quot;</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/144.png" num="236">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ambling Dewdrop</name>
+			<text>Flash
+When this creature enters or dies, surveil 1.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/145.png" num="41">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lustrous Lurker AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+{4}{U}: Lustrous Lurker can&apos;t be blocked this turn. This ability costs {1} less to activate for each color in your aurora.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/146.png" num="56">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plaguewolf</name>
+			<text>When this creature enters or a creature scavenges it, you lose 2 life.
+Scavenge {1}{B} ({1}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/147.png" num="97">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charging Visceram</name>
+			<text>When this creature dies or a creature scavenges it, each opponent loses 2 life.
+Scavenge {4}{B} ({4}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/148.png" num="78">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Sheep</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eiyo Ascendant</name>
+			<text>[+2]: Create a token that&apos;s a copy of up to one target artifact or creature you control, except it&apos;s an artifact and loses all other types.
+[+1]: Target artifact or creature you control becomes a 3/3 Dragon creature with flying and haste in addition to its other types.
+[-3]: Eiyo deals 4 damage to any nonplayer target and you gain 4 life. Create X Treasure tokens, where X is the excess damage dealt this way.
+[-8]: You get an emblem with &quot;You may cast copies of cards in your graveyard by sacrificing an artifact and exiling the card in addition to its other costs.&quot;</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/149.png" num="197">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Eiyo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gloomstep Panther AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Menace
+As long as your aurora has three or more colors, Gloomstep Panther gets +1/+1 and has deathtouch.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/150.png" num="84">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>PROMO Wayfarer&apos;s Shrine</name>
+			<text>{T}, Pay 1 life, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/151.png" num="0">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lurking in the Shallows</name>
+			<text>You may cast this spell as though it had flash if {U}{B} is spent to cast it.
+Create a 2/1 red Crocodile creature token with menace and &quot;This token can&apos;t block.&quot;</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/152.png" num="241">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feverbloom AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When this creature dies, if your aurora has three or more colors, you may pay 1 life. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/153.png" num="82">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>To Fall Forever Is To Fly</name>
+			<text>Incarnate {4}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Return up to one target instant or sorcery card from your graveyard to your hand.
+Flying</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/154.png" num="69">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bird Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stormshrike</name>
+			<text>Flying, ward {2}
+When this creature enters, draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/155.png" num="66">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adaptive Combat</name>
+			<text>Target creature you control gets +1/+1 for each kind of counter on it until end of turn. Then, it fights up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/156.png" num="180">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Autumnal Summons</name>
+			<text>Create a 3/3 green Elk creature token. Surveil 2.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/157.png" num="185">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Humiliate</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. Put a +1/+1 counter on a creature you control.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/158.png" num="207">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Omen of Woe</name>
+			<text>Whenever this creature deals combat damage to a player, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/159.png" num="94">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Luminous Sheets</name>
+			<text>This land enters tapped.
+When this land enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {U}.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/160.png" num="263">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Illusion of a Chill</name>
+			<text>Incarnate {5}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Tap up to two target creatures and distribute two stun counters among them.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/161.png" num="54">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bear Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reefcrown Drake</name>
+			<text>Prowess, ward {1}
+This creature can&apos;t be blocked by creatures with power less than or equal to the total number of instant and sorcery cards you own in exile and in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/162.png" num="219">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish Plant Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Efferpheasant</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell, you gain 1 life and draw a card. Then discard a card unless it was a Revelation spell.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/163.png" num="196">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloomwarden AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Trample
+As long as your aurora has three or more colors, Bloomwarden gets +2/+2.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/164.png" num="146">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental Token AUR</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/165.png" num="6">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Vali the Curious</name>
+			<text>[+1]: Draw a card. Then discard a card unless you&apos;ve cast an instant or sorcery spell this turn.
+[-1]: Exile target instant or sorcery card from a graveyard and copy it. You may cast the copy and mana of any type can be spent to cast it.
+[-5]: For each player, search their library for an instant or sorcery card, exile it, then shuffle that library. You may cast any number of cards exiled this way without paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/166.png" num="231">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vali</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treetop Pangolin</name>
+			<text>Reach
+When this creature enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/167.png" num="176">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Pangolin</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Moon Howls Back</name>
+			<text>Incarnate {5}{G} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Create two 2/2 green Wolf creature tokens with trample.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/168.png" num="161">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Wolf Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rabbit Token AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/169.png" num="12">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Aether Scrounger AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever this creature attacks, it gets +1/+0 until end of turn. If your aurora has three or more colors, it gets +2/+0 until end of turn instead.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/170.png" num="110">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental Burst</name>
+			<text>Create two 1/1 blue Elemental creature tokens with prowess. Then if {U}{R} was spent to cast this spell, create a tapped Treasure token.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/171.png" num="237">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tectonic Hazard</name>
+			<text>Tectonic Hazard deals 1 damage to each opponent and each creature they control.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/172.png" num="140">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fox of the Verdant Grove</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/173.png" num="124">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kitstealer</name>
+			<text>When this creature enters, up to one target creature gets +2/+0 and gains deathtouch until end of turn. 
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/174.png" num="91">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>AUR DRAFT ARCHETYPES AUR</name>
+			<text>{W}{U} REVELATIONS Witness the majesty of the ascendant by turning your small creatures and spells into powerful combinations!
+{U}{B} SABOTEURS Predate the night by slinking past your opponent&apos;s blockers and going for the life total directly.
+{B}{R} AURORA CONTROL Play the long game as you remove threats, cast off-color spells and accrue value until your aurora is complete.
+{R}{G} AURORA MIDRANGE Beat your opponent down with on-curve threats then boost them all with your aurora!
+{G}{W} ABILITY COUNTERS Have your creatures share their abilities for the good of the collective as you capitalize off different counters.
+{W}{B} +1/+1 COUNTERS Scavenge the flesh of the dead to grow your threats. Your opponent&apos;s life total is next!
+{B}{G} GO-WIDE Grow your board before you infect them all with a fungal buff to swing for lethal.
+{G}{U} LANDS Put lands in your graveyard and onto the battlefield to cast your huge threats faster!
+{U}{R} SPELLSLINGER AGGRO Use elemental infusions to blast your opponent with spells before they can react.
+{R}{W} BLINK Aetherize and reuse your powerful enters effects until nobody can compete with the value.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/175.png" num="1">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Flamewalker Hart</name>
+			<text>Menace
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/176.png" num="123">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plant Token AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/177.png" num="11">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beast Token AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/178.png" num="9">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Glimmerstalker</name>
+			<text>Trample
+This creature gets +1/+1 as long as you&apos;ve cast a spell that&apos;s white, blue, black, or green this turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/179.png" num="126">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Myriad Shades of Silence</name>
+			<text>Incarnate {3}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Mill three cards, then you may return a card milled this way to your hand.
+Flying</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/180.png" num="57">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bird Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Unending Never Began</name>
+			<text>Incarnate {5}{B}{B} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Destroy target creature. If this spell was incarnated, gain control of it instead.
+Deathtouch</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/181.png" num="107">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Snake Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Become What Always Was</name>
+			<text>Incarnate {4}{G}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Creatures you control get +2/+2 until end of turn.
+Vigilance
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/182.png" num="187">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Sheep Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skolweald Vanguard</name>
+			<text>When this creature dies, create a 1/1 white Squirrel creature token with vigilance.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/183.png" num="170">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Calm Rage Simmers</name>
+			<text>Incarnate {5}{R} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Gain control of up to one target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/184.png" num="116">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Ape Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treasure Token AUR</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/185.png" num="15">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pouncing Jackewolf</name>
+			<text>Vigilance
+This creature enters with your choice of a trample or reach counter.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/186.png" num="164">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rocktusk Boar</name>
+			<text>When this creature dies, surveil 1, then create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/187.png" num="168">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Boar Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aurora Reminder AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/188.png" num="14">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Reminder</type>
+				<maintype>Reminder</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Everywhere AUR</name>
+			<text>This land is a Plains, Island, Swamp, Mountain, and Forest.
+({T}: Add {W}, {U}, {B}, {R}, or {G}.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/189.png" num="16">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Parasitize</name>
+			<text>Target creature gets +2/+0 and gains deathtouch until end of turn. When that creature dies this turn, create a 1/1 black Fungus creature token with &quot;During your turn, this token has deathtouch.&quot;</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/190.png" num="95">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunted by the Pack</name>
+			<text>This spell costs {1} less to cast for each creature you&apos;ve attacked with this turn.
+Target creature gets -4/-4 until end of turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/191.png" num="87">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gemeye Crab</name>
+			<text>Defender
+As long as you control an Avatar, this creature gets +1/+1 and can attack as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/192.png" num="51">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreadbore</name>
+			<text>Destroy target creature or planeswalker.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/193.png" num="195">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tunnelling Slugmole</name>
+			<text>When this creature enters or a creature scavenges it, you may discard a card. If you do, draw a card.
+Scavenge {3}{R} ({3}{R}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/194.png" num="141">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug Mole</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silence of the Drowned</name>
+			<text>Choose one —
+• Counter target spell unless its controller pays {2}.
+• Tap target permanent. If it&apos;s a creature, it doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/195.png" num="64">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Distraction</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, tap enchanted creature.
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/196.png" num="47">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Transfixed by Wonder</name>
+			<text>This spell costs {2} less to cast if you control an Avatar.
+Enchant creature
+Enchanted creature can&apos;t attack or block, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/197.png" num="35">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Curiosity</name>
+			<text>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/198.png" num="46">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Light of the Phoenix</name>
+			<text>Create a token that&apos;s a copy of target creature you control. It gains haste until end of turn. Exile it at the beginning of the next end step. (Copies include merged parts.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/199.png" num="129">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crystal Breath</name>
+			<text>Crystal Breath deals 4 damage to any nonplayer target.
+Create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/200.png" num="119">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aetherflame Hunting</name>
+			<text>Up to two target creatures each get +1/+0 and gain trample until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/201.png" num="111">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Violent Thrash</name>
+			<text>Choose two —
+• Target player creates a 2/1 red Crocodile creature token with menace and &quot;This token can&apos;t block.&quot;
+• Destroy up to one target artifact.
+• Up to two target creatures can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/202.png" num="142">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Figment AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Flying
+As long as your aurora has three or more colors, Cosmic Figment gets +1/+1.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/203.png" num="2">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Verdant Bloom</name>
+			<text>Enchant land
+When this Aura enters, mill three cards. You may put a land card from among the cards milled this way into your hand.
+Enchanted land has &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/204.png" num="177">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imbued with Aether</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+1.
+When this Aura enters, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/205.png" num="128">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eddies In The Stream Of Fate</name>
+			<text>Incarnate {5}{U} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Draw two cards.
+Whenever this Revelation deals combat damage to a player, draw a card.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/206.png" num="48">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Serpent Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unity Through Difference</name>
+			<text>Incarnate {4}{W}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Each player chooses a creature they control. Destroy the rest.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/207.png" num="37">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Cat Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peculiar Pollywogs</name>
+			<text>This creature has flying as long as you&apos;ve cast an instant or sorcery spell this turn.
+Whenever this creature deals combat damage to a player, draw a card, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/208.png" num="59">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Only Love Births True Hate</name>
+			<text>Incarnate {3}{B}{R} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Up to one target creature gets -2/-2 until end of turn. If it would die this turn, exile it instead.
+Menace
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/209.png" num="216">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Ox Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toskari Aetherblade AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Equipped creature gets +3/+3.
+Equip {5}. This ability costs {1} less to activate for each color in your aurora.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/210.png" num="174">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Nurturing Shelter</name>
+			<text>Target creature gets +1/+1 and gains hexproof until end of turn. If there are seven or more lands you control and/or land cards in your graveyard, it gets +4/+4 and gains hexproof instead.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/211.png" num="162">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pondstepper Chick</name>
+			<text>Whenever a land you control enters, you gain 1 life and surveil 1.
+As long as there are seven or more lands you control and/or land cards in your graveyard, this creature gets +1/+1 and has flying.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/212.png" num="218">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Repel with Flame</name>
+			<text>Choose one. If you&apos;ve cast another instant or sorcery spell this turn, you may choose both instead.
+• Counter target spell unless its controller pays {2}.
+• Draw two cards, then discard a card. Repel with Flame deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/213.png" num="222">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winter&apos;s Stash</name>
+			<text>Destroy target artifact or enchantment. If it had mana value less than 4, create a number of 1/1 white Squirrel tokens with vigilance equal to the difference.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/214.png" num="235">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vulpine Razer AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever you cast an instant or sorcery spell, it gains lifelink. If there are three or more colors in your aurora, it gains deathtouch. If there are five or more, copy it. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/215.png" num="232">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Hydroid Krasis</name>
+			<text>When you cast this spell, you gain half X life and draw half X cards. Round down each time.
+Flying, trample
+This creature enters with X +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/216.png" num="209">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish Hydra Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>XGU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mold Frog</name>
+			<text>Haste
+This creature can&apos;t block.
+At the beginning of combat on your turn, you may sacrifice a token. If you do, return Mold Frog from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/217.png" num="215">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Refraction Lynx</name>
+			<text>Vigilance
+Whenever you cast an instant or sorcery spell that targets this creature, you may copy that spell. You may choose new targets for the copy. (This includes incarnated spells.)</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/218.png" num="221">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fungus Token AUR</name>
+			<text>During your turn, this token has deathtouch.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/219.png" num="7">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ascend</name>
+			<text>Flash
+Enchant creature
+When this Aura enters, enchanted creature phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Enchanted creature has flying and ward {2}.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/220.png" num="42">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Glow</name>
+			<text>If you&apos;ve attacked this turn, surveil 2.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/221.png" num="52">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Toskari Trueshot</name>
+			<text>Double strike
+When this creature becomes the target of a spell or ability you control for the first time each turn, you may create a 1/1 white Squirrel creature token with vigilance.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/222.png" num="34">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Essence Gouger AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+{5}{B}, {T}: Each opponent loses 3 life. This ability costs {1} less to activate for each color in your aurora.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/223.png" num="81">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Quag Festerer</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, you may pay 1 life. If you do, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/224.png" num="99">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodleecher Drake</name>
+			<text>Flying, lifelink
+When this creature enters, return up to one target non-Vampire creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/225.png" num="75">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Effigy of Tranquility AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as there are three or more colors in your aurora, this artifact is a 3/3 Frog Golem creature in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/226.png" num="247">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Effigy of Shelter</name>
+			<text>This creature gets +2/+2 as long as there are five or more basic land types among lands you control.
+Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/227.png" num="246">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wolf Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Autumn Strider AUR</name>
+			<text>Trample
+Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+As long as your aurora has three or more colors, this creature gets +2/+2.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/228.png" num="184">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Simul, Aether Scholar</name>
+			<text>You may play land cards you own from outside the game.
+[+1]: Draw a card, then discard a card. If you discard a nonland card this way, put a loyalty counter on a planeswalker you control.
+[-5]: For each land you control, put your choice of a +1/+1 or loyalty counter on another creature or planeswalker you control.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/229.png" num="224">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Simul</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Suffocate in Aether AUR</name>
+			<text>Enchant creature
+Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Enchanted creature gets -X/-X, where X is one plus the number of colors in your aurora.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/230.png" num="105">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Shadecrawler</name>
+			<text>Menace
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/231.png" num="101">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Fungus Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shimmer Pack</name>
+			<text>When this creature enters, if it was cast, aetherize target creature you control. (Create a token that&apos;s a copy of it, then exile that token. Copies include merged parts.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/232.png" num="27">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keep Vigil</name>
+			<text>When this enchantment enters, exile target creature or planeswalker an opponent controls until it leaves the battlefield.
+At the beginning of your end step, if you don&apos;t control a creature with power 2 or less, sacrifice this enchantment.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/233.png" num="18">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spirits&apos; Protection</name>
+			<text>This spell costs {U} less to cast if you control an Avatar.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/234.png" num="65">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vorzanthirax, the Riftdweller AUR</name>
+			<text>Flying
+Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+You may cast spells with mana value less than or equal to the number of colors in your aurora by paying life equal to their mana value rather than pay their mana costs.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/235.png" num="108">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Aether Invigoration</name>
+			<text>Put a +1/+1 counter on each creature you control. Creature tokens you control gain trample and lifelink until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/236.png" num="181">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wings of the Aurora</name>
+			<text>Target creature gets +3/+1 and gains flying until end of turn.
+Exile the top card of your library. You may play it until end of turn.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/237.png" num="234">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gemstone Tyrant AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+When this creature dies, you may discard your hand. If you do, draw a card for each color in your aurora.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/238.png" num="125">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Return from Ash</name>
+			<text>Return from Ash deals 2 damage to each creature and each planeswalker. If a creature you control dealt damage this way would die this turn, return it to its owner&apos;s hand instead.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/239.png" num="223">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Firemane Charger</name>
+			<text>Vigilance, haste
+Whenever this creature attacks, aetherize another target creature you control. (Create a token that&apos;s a copy of it, then exile that token. Copies include merged parts.)</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/240.png" num="201">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gilded Flower</name>
+			<text>{T}: Add {C}.
+{3}, {T}: You gain 1 life and surveil 1.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/241.png" num="250">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Borewurm</name>
+			<text>Trample
+This creature gets +1/+0 for each differently named land among lands you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/242.png" num="115">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crocodile Token AUR</name>
+			<text>Menace
+This token can&apos;t block.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/243.png" num="8">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Cruel Survival</name>
+			<text>When this enchantment enters, target creature you control fights target creature you don&apos;t control.
+Whenever a creature you control deals excess damage, mill that many cards, then return up to one creature or land card milled this way to your hand.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/244.png" num="148">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Phantasmal Stride</name>
+			<text>This spell costs {2} less to cast if a creature you control dealt combat damage to an opponent this turn.
+Return target creature to its owner&apos;s hand. Its controller discards a card.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/245.png" num="217">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirits of the Weald</name>
+			<text>Create two 3/3 green Elk creature tokens. For each land card in your graveyard, distribute a vigilance, reach or trample counter among them.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/246.png" num="226">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4GU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fluffle</name>
+			<text>Create two 1/1 green Rabbit creature tokens. Then if {G}{W} was spent to cast this spell, distribute a vigilance and a trample counter among creatures you control.</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/247.png" num="238">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Luminous Pasture</name>
+			<text>This land enters tapped.
+When this land enters, you may pay 1 life. If you do, add one mana of any color.
+{T}: Add {W}.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/248.png" num="261">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Start Over</name>
+			<text>Discard any number of cards, then draw that many cards plus one.
+Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/249.png" num="139">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Dreadmold</name>
+			<text>When this creature enters, create two 1/1 black Fungus creature tokens with &quot;During your turn, this token has deathtouch.&quot;
+Whenever a token creature you control dies, create a tapped colorless Swamp Forest land token.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/250.png" num="152">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Askalla, Stars&apos; Conduit</name>
+			<text>If a spell would incarnate onto Askalla, put it onto the battlefield as an Avatar creature instead.
+Whenever a card is put into your graveyard from the battlefield, you may cast a copy of it without paying its mana cost if it&apos;s a Revelation.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/251.png" num="43">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Squirrel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skorag, Toskari Elder</name>
+			<text>At the beginning of combat on your turn, creatures you control gain vigilance until end of turn if there is a vigilance counter on a creature you control. The same is true for each other kind of keyword counter and +1/+1 counters.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/252.png" num="28">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Squirrel Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Banefeather Griffin</name>
+			<text>Flying, deathtouch, lifelink
+When a creature scavenges this creature, it gains flying, deathtouch and lifelink until end of turn.
+Scavenge {1}{W}{B} ({1}{W}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/253.png" num="186">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chosen of the Heavens</name>
+			<text>Whenever this creature attacks, if there are two or more kinds of counters among creatures you control, create a 1/1 white Squirrel creature token with vigilance.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/254.png" num="191">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Craneriders</name>
+			<text>Flying
+As this creature or another creature you control enters, put a counter on it that hasn&apos;t been chosen yet —
+• +1/+1 • Vigilance 
+• Lifelink • Trample
+• Deathtouch • Ward {2}</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/255.png" num="193">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beast Avatar AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/256.png" num="2">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beyond the Aurora</name>
+			<text>You may pay {W}{U}{B}{R}{G} rather than pay this spell&apos;s mana cost.
+Whenever you cast a noncreature spell, create a colorless 0/0 Beast Avatar creature token. If that spell was a Revelation, instead create a token that&apos;s a copy of it, except it&apos;s an Avatar creature. Put X +1/+1 counters on it, where X is the amount of mana spent to cast that spell.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/257.png" num="188">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5GU</manacost>
+				<cmc>7</cmc>
+				<colors>UG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lifestep Caribou AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever a creature you control deals combat damage to a player, put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/258.png" num="210">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dawn&apos;s Inexorable Creep</name>
+			<text>Incarnate {5}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Exile up to one target creature if it&apos;s tapped or this spell was incarnated.
+Flying</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/259.png" num="10">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bird Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>A Fragment Contains The Whole</name>
+			<text>Incarnate {4}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Return up to one target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/260.png" num="13">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Ox Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Transplanar Epiphany</name>
+			<text>You may cast planeswalker spells you own from outside the game.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/261.png" num="70">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Territorial Arynx</name>
+			<text>{1}, Sacrifice this creature: Target creature you control gains indestructible until end of turn.
+Scavenge {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/262.png" num="32">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspect of Radiance</name>
+			<text>Flying, lifelink
+When this creature enters, it deals 3 damage to any target.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/263.png" num="183">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eiyo&apos;s Understanding</name>
+			<text>Exile up to one target creature you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Search your library for an Eiyo card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/264.png" num="11">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wei Ji&apos;s Judgement</name>
+			<text>All creatures get -3/-3 until end of turn. You gain 3 life.
+Search your library for a Ji card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/265.png" num="109">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prowling Wolfshark</name>
+			<text>Flash
+This creature can&apos;t be blocked unless each other attacking creature you control is blocked.
+Whenever this creature deals combat damage to a player, surveil 2.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/266.png" num="60">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shark Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Celestial Swallower AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Whenever this creature enters or attacks, create a 0/0 colorless Beast Avatar creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/267.png" num="1">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Unbreakable Ironhide</name>
+			<text>When a creature scavenges this creature, you may play it as long as it remains exiled.
+Scavenge {2}{B}{B} ({2}{B}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/268.png" num="106">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frostarmor Wolf</name>
+			<text>During your turn, this creature has first strike.
+Counters on other creatures you control are shield counters in addition to their other kinds. (If a creature would be dealt damage or destroyed, remove a counter from it instead.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/269.png" num="14">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Idol</name>
+			<text>Cards outside the game can&apos;t enter the game.
+Activated abilities of planeswalkers cost an additional [-1] to activate.
+{1}, {T}, Sacrifice this artifact: Add one mana of any color. Draw a card.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/270.png" num="249">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Herald the End</name>
+			<text>At the beginning of your upkeep and whenever you cast a noncreature spell, put a doom counter on this enchantment. Then if it has seven or more doom counters on it, sacrifice it and create three 1/1 blue Elemental creature tokens with prowess.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/271.png" num="127">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Florescence</name>
+			<text>For each land you don&apos;t control, create a tapped colorless land token named Everywhere that is every basic land type.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/272.png" num="155">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perdition Mare</name>
+			<text>Whenever this creature enters or attacks, mill four cards. When you do, choose up to X, where X is the number of colors among cards milled this way.
+• This creature gains menace until end of turn.
+• Put a +1/+1 counter on this creature.
+• Each opponent loses 1 life and you gain 1 life.
+• Target creature gets -1/-1 until end of turn.
+• You draw a card and you lose 1 life.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/273.png" num="96">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wei Ji of the Veil</name>
+			<text>[+1]: Surveil 2. If you mill a nonland card this way, create a 1/1 white Bird creature token with flying.
+[0]: Sacrifice a creature. If you do, return a creature card with mana value less than or equal to the sacrificed creature&apos;s power to the battlefield.
+[-2]: Target creature gets -2/-2 until end of turn. Put two +1/+1 counters on up to one target creature you control.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/274.png" num="233">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ji</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swamp Forest Token AUR</name>
+			<text>({T}: Add {B} or {G}.)</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/275.png" num="17">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Infected Touch</name>
+			<text>Whenever a creature you control with deathtouch deals combat damage to a player, that player loses 3 life unless they discard a card or sacrifice a nonland permanent.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/276.png" num="90">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aetherflame Pouncer</name>
+			<text>If you would aetherize a creature, create a token that&apos;s a copy of it instead. That tokens gains haste. If it&apos;s your combat phase, it enters tapped and attacking. Exile it at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/277.png" num="112">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fall for the Bait</name>
+			<text>Target creature you control deals damage equal to its power to any nonplayer target. If excess damage was dealt this way, surveil 2.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/278.png" num="153">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seek the Rift</name>
+			<text>Search your library for a instant or sorcery card, reveal it, put it into your hand, then shuffle. If it&apos;s a Revelation, create a 2/2 blue Bear creature token.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/279.png" num="62">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bear Token AUR</name>
+			<text></text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/280.png" num="5">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>BL10 Forest</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/281.png" num="277">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL09 Mountain</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/282.png" num="276">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL08 Swamp</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/283.png" num="275">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL06 Plains</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/284.png" num="273">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>BL07 Island</name>
+			<text></text>
+			<set rarity="special" picurl="https://mattelonian.github.io/sets/AUR-files/img/285.png" num="274">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dandecrab</name>
+			<text>{T}: Add {G}. If this creature&apos;s power is 2 or greater, add {G}{G} instead.</text>
+			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/AUR-files/img/286.png" num="151">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squirrel Token AUR</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/287.png" num="4">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Squirrel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Simul&apos;s Exploration</name>
+			<text>Create a tapped colorless land token named Everywhere that is every basic land type.
+Search your library for a Simul card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/288.png" num="169">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alexa, Whose Steps Blossom</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+[+1]: Put a +1/+1 counter on up to one target creature. If your aurora has three or more colors, it gains vigilance, trample and haste until end of turn.
+[-2]: Choose a basic land type. Create a tapped basic land token with that type.
+[-2]: Create a 0/0 green Plant creature token. Put X +1/+1 counters on it, where X is the number of colors in your aurora.</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/289.png" num="182">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Alexa</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rend and Tear</name>
+			<text>Rend and Tear deals X damage to any nonplayer target. Create a number of 2/1 red Crocodile creature tokens with menace and &quot;This token can&apos;t block.&quot; equal to the amount of excess damage dealt this way.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/290.png" num="135">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Light Too Casts Shadow</name>
+			<text>Incarnate {2}{W}{B} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Search your library for a card, put it into your hand, then shuffle.
+Lifelink
+Whenever this Revelation attacks, you may cast an unincarnated copy of it. (You still pay its costs.)</text>
+			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/AUR-files/img/291.png" num="211">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Cat Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Still Breeze Blows</name>
+			<text>Incarnate {4}{W} (If you cast this for its incarnate cost, as it resolves, merge it over target creature you own as an Avatar. It keeps all abilities from under it.)
+Create two 1/1 white Bird creature tokens with flying.
+Flying</text>
+			<set rarity="common" picurl="https://mattelonian.github.io/sets/AUR-files/img/292.png" num="30">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Bird Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alexa&apos;s Catharsis</name>
+			<text>Up to one target creature gets +3/+2 until end of turn. Put a trample counter on it.
+Search your library for an Alexa card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/293.png" num="113">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Coruscating Lynx AUR</name>
+			<text>Aurora (When this enters and at your end step, this may exile a noncreature from your graveyard into your aurora. Each grants up to one of its colors.)
+Menace
+Whenever this creature attacks, you draw a card unless defending player pays X life, where X is the number of colors in your aurora.</text>
+			<set rarity="rare" picurl="https://mattelonian.github.io/sets/AUR-files/img/294.png" num="79">AUR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

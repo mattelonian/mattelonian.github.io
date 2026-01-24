@@ -1,7 +1,6 @@
 ﻿{
     "name": "Merveaux",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "draft booster",
     "unpreviewed": "card back",
@@ -26,6 +25,7 @@
             "artist": "Bogdan Antoci",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -46,6 +46,7 @@
             "artist": "Daria Ovchinnikova",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -66,6 +67,7 @@
             "artist": "Claire Lin",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -86,6 +88,7 @@
             "artist": "GaudiBuendia",
             "alias": "",
             "position": "3",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -106,6 +109,7 @@
             "artist": "Afda Trihatma",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": "!exportname Blase Cuisinier\n\nHYBRID"
         },
         {
@@ -126,6 +130,7 @@
             "artist": "Linda Lithen",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -146,6 +151,7 @@
             "artist": "",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -166,6 +172,7 @@
             "artist": "Nanda Van Dijk",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -186,6 +193,7 @@
             "artist": "Dallas Williams",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -206,6 +214,7 @@
             "artist": "Dewi Pannadhika",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -226,6 +235,7 @@
             "artist": "Xyra Brittney",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": "human?"
         },
         {
@@ -246,6 +256,7 @@
             "artist": "Alena Zhukova",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": "elf"
         },
         {
@@ -266,6 +277,7 @@
             "artist": "Bo Chen",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -286,6 +298,7 @@
             "artist": "Adrian Pamplona",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": "!sort 2cwalker\ngoblin"
         },
         {
@@ -306,6 +319,7 @@
             "artist": "Ondrej Hrdina",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": "!sort 2cwalker\nhuman"
         },
         {
@@ -326,6 +340,7 @@
             "artist": "Piotr Charchut",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": "!exportname PROMO Back-Alley Theatre\n!tapped"
         },
         {
@@ -346,6 +361,7 @@
             "artist": "Luis Maldonado",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": "!exportname PROMO Sunlit Park\n!tapped"
         },
         {
@@ -366,6 +382,7 @@
             "artist": "Piotr Charchut, Edit: Fungustober",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": "!exportname PROMO Discreet Gallery\n!tapped"
         },
         {
@@ -386,6 +403,7 @@
             "artist": "Matt Sanz",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": "!exportname PROMO Vibrant Concourse\n!tapped"
         },
         {
@@ -406,6 +424,7 @@
             "artist": "Hyuna Lee",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": "!exportname PROMO Delightful Patisserie\n!tapped"
         },
         {
@@ -426,6 +445,7 @@
             "artist": "Nikita Bolyakov",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -446,6 +466,7 @@
             "artist": "Andrew Palyanov",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -466,6 +487,7 @@
             "artist": "Andrei Riabovitchev",
             "alias": "",
             "position": "22",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -486,6 +508,7 @@
             "artist": "Kou Takano",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -506,6 +529,7 @@
             "artist": "Ethan Kahn",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -526,6 +550,7 @@
             "artist": "Igor Artyomenko",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -546,6 +571,7 @@
             "artist": "Andreas Rocha",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -566,6 +592,7 @@
             "artist": "Levi Smith",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -586,6 +613,7 @@
             "artist": "Hidden City: Mystery of Shadows",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -606,6 +634,7 @@
             "artist": "Hidden City: Mystery of Shadows",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -626,6 +655,7 @@
             "artist": "Feng Zhu",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -646,6 +676,7 @@
             "artist": "Cyndhi S",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -666,6 +697,7 @@
             "artist": "Eddie Mendoza",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -686,6 +718,7 @@
             "artist": "Xavier Ward",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -706,6 +739,7 @@
             "artist": "Devin Elle Kurtz",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": "dragon"
         },
         {
@@ -726,6 +760,7 @@
             "artist": "Aaron Grace",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -746,6 +781,7 @@
             "artist": "Grafit Studio",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -766,6 +802,7 @@
             "artist": "Nikita Kapitunov",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": "human\nelf\nnick: POV you are just a little hater"
         },
         {
@@ -786,6 +823,7 @@
             "artist": "Juan Silva",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -806,6 +844,7 @@
             "artist": "Dmytro Krymskyi",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -837,6 +876,8 @@
             "loyalty2": "",
             "artist2": "Craig Morrison",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -857,6 +898,7 @@
             "artist": "Lee Simpson",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "djinn"
         },
         {
@@ -877,6 +919,7 @@
             "artist": "Grafit Studios",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -897,6 +940,7 @@
             "artist": "Warmics",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -917,6 +961,7 @@
             "artist": "Evan Sanata, edited: me",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": "REART"
         },
         {
@@ -937,6 +982,7 @@
             "artist": "Johannes Roots",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -957,6 +1003,7 @@
             "artist": "Bartlomiej Gawel",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -977,6 +1024,7 @@
             "artist": "Ana Antunes",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -997,6 +1045,7 @@
             "artist": "Samuel Alvarez",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1017,6 +1066,7 @@
             "artist": "Ana Antunes",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": "human\nvampire\nfunc reprint"
         },
         {
@@ -1048,6 +1098,8 @@
             "loyalty2": "",
             "artist2": "Todd White",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1068,6 +1120,7 @@
             "artist": "Sam Hogg",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1088,6 +1141,7 @@
             "artist": "Grafit Studio",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1108,6 +1162,7 @@
             "artist": "Michael Howe",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1128,6 +1183,7 @@
             "artist": "Hannah Miller",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": "azra"
         },
         {
@@ -1148,6 +1204,7 @@
             "artist": "Michael Overman",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1168,6 +1225,7 @@
             "artist": "Anzka Nguyen",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": "goblin"
         },
         {
@@ -1188,6 +1246,7 @@
             "artist": "Federico Lacelli",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1208,6 +1267,7 @@
             "artist": "Jake Siano",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1228,6 +1288,7 @@
             "artist": "Danielle Manganello",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": "func reprint"
         },
         {
@@ -1248,6 +1309,7 @@
             "artist": "Grafit Studio",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": "nick: is this that comic everyone is obsessed with"
         },
         {
@@ -1268,6 +1330,7 @@
             "artist": "Tomas Duchek",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1288,6 +1351,7 @@
             "artist": "Diego Roman",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -1308,6 +1372,7 @@
             "artist": "Alex Allen",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1328,6 +1393,7 @@
             "artist": "Finbeard",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": "nick: idiot bird"
         },
         {
@@ -1348,6 +1414,7 @@
             "artist": "Linda Lithen",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1368,6 +1435,7 @@
             "artist": "Rachele Marziale",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1388,6 +1456,7 @@
             "artist": "Alex Konstad",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1408,6 +1477,7 @@
             "artist": "Vaiarello Loic",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1428,6 +1498,7 @@
             "artist": "Rafael de Arimatea",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1448,6 +1519,7 @@
             "artist": "Bogna Gawronska",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1468,6 +1540,7 @@
             "artist": "Anthea Wright",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1499,6 +1572,8 @@
             "loyalty2": "",
             "artist2": "Lucas Ferreira",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1519,6 +1594,7 @@
             "artist": "bernardo curvello",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1539,6 +1615,7 @@
             "artist": "Charles Urbach",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": "if you need to buff it, flash?"
         },
         {
@@ -1559,6 +1636,7 @@
             "artist": "Annalisa Visconti",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": "tour"
         },
         {
@@ -1579,6 +1657,7 @@
             "artist": "Valeria Styajkina",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1599,6 +1678,7 @@
             "artist": "Leonid Afremov",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1619,6 +1699,7 @@
             "artist": "Gwennet",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": "elf"
         },
         {
@@ -1639,6 +1720,7 @@
             "artist": "Martin Mottet",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1659,6 +1741,7 @@
             "artist": "Jeshua Turpo",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1679,6 +1762,7 @@
             "artist": "Giovanni Panarello",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": "!sort 1commanderbait"
         },
         {
@@ -1699,6 +1783,7 @@
             "artist": "Chris Dien",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -1719,6 +1804,7 @@
             "artist": "Aleksander Karcz",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1739,6 +1825,7 @@
             "artist": "Gabriel Rubio",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1770,6 +1857,8 @@
             "loyalty2": "",
             "artist2": "Hanaa Medhat",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1790,6 +1879,7 @@
             "artist": "Pedro Otelcana",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1810,6 +1900,7 @@
             "artist": "Antonio Caparo",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": "gnome"
         },
         {
@@ -1830,6 +1921,7 @@
             "artist": "Vablo",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1850,6 +1942,7 @@
             "artist": "Nicole Nito",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1870,6 +1963,7 @@
             "artist": "Eva Sokolova",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1890,6 +1984,7 @@
             "artist": "Mei Takizawa",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1910,6 +2005,7 @@
             "artist": "Eneada",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1941,6 +2037,8 @@
             "loyalty2": "",
             "artist2": "Livia Prima",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1961,6 +2059,7 @@
             "artist": "Anastasia Aihavo",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1981,6 +2080,7 @@
             "artist": "Caio Santos",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": "gnome\nfunc reprint"
         },
         {
@@ -2001,6 +2101,7 @@
             "artist": "Maxxkennedy",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -2021,6 +2122,7 @@
             "artist": "Oskar Johannes",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2041,6 +2143,7 @@
             "artist": "Haniel Moreno",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "Before presenting themselves to the Society, many aspiring skalds practice with more forgiving audiences."
         },
         {
@@ -2061,6 +2164,7 @@
             "artist": "Nick Silva",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2081,6 +2185,7 @@
             "artist": "Cryptozoic Entertainment",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": "satyr\ngnome, maybe?"
         },
         {
@@ -2101,6 +2206,7 @@
             "artist": "Camille Weefur, Edit: Me",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2121,6 +2227,7 @@
             "artist": "Paul Mafayon",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": "NICK: seasoning hallowblade"
         },
         {
@@ -2141,6 +2248,7 @@
             "artist": "Ando Gro",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": "!sort 3cae"
         },
         {
@@ -2161,6 +2269,7 @@
             "artist": "Tarmo Juhola",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2181,6 +2290,7 @@
             "artist": "Viktoria Gavrilenko",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "!sort 1commanderbait"
         },
         {
@@ -2201,6 +2311,7 @@
             "artist": "BramastaAji",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": "!sort 1commanderbait\nif you need to buff, remove 'noncreature'"
         },
         {
@@ -2221,6 +2332,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": "elf"
         },
         {
@@ -2241,6 +2353,7 @@
             "artist": "Jeff Ross",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2261,6 +2374,7 @@
             "artist": "Giuseppe de Iure",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": "human\nfunc reprint"
         },
         {
@@ -2281,6 +2395,7 @@
             "artist": "Thomas Chamberlain",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2301,6 +2416,7 @@
             "artist": "James Talon",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2321,6 +2437,7 @@
             "artist": "Ken Darmadi",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2341,6 +2458,7 @@
             "artist": "Christian Auer",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2361,6 +2479,7 @@
             "artist": "Verdan Popovic",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2381,6 +2500,7 @@
             "artist": "Gabriel Angelo",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2401,6 +2521,7 @@
             "artist": "Axelle Simon",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2421,6 +2542,7 @@
             "artist": "Lucas Parolin",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -2441,6 +2563,7 @@
             "artist": "L. Lullabi & K. Turovec",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "reach?"
         },
         {
@@ -2472,6 +2595,8 @@
             "loyalty2": "",
             "artist2": "C K Cantatrice",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2492,6 +2617,7 @@
             "artist": "Andreea Barbu",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2512,6 +2638,7 @@
             "artist": "Blend Cota Studios",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2532,6 +2659,7 @@
             "artist": "Angi Pauly",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": "human\nAs much as the Congregation expands the city, the Society are there to remind them the importance of green spaces."
         },
         {
@@ -2552,6 +2680,7 @@
             "artist": "Annadel Cinco",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2572,6 +2701,7 @@
             "artist": "Blend Cota Studios",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2592,6 +2722,7 @@
             "artist": "Nicolay Kochnev",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": "!sort 1commanderbait\nrat / mouse"
         },
         {
@@ -2612,6 +2743,7 @@
             "artist": "Vyacheslav Safronov",
             "alias": "",
             "position": "126",
+            "rotated": false,
             "notes": "!related Elaphia, Full of Wonder;Merrymaker;Opening Act;Festival Revelry<2>;"
         },
         {
@@ -2632,6 +2764,7 @@
             "artist": "Kay Tang",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": "!related Free-Range Foraging;"
         },
         {
@@ -2652,6 +2785,7 @@
             "artist": "Indar Gunawan",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": "!related Houndcrafter Savant;"
         },
         {
@@ -2672,6 +2806,7 @@
             "artist": "Diego Cunha",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": "!related Waxcrafter<2>;"
         },
         {
@@ -2692,6 +2827,7 @@
             "artist": "Milena Vasyukov",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "!related Candied Colossus;Fiendish Fromager;Pudding Cat;Soup Elemental;Tempt with Treats;Antoine, Chef Extraordinaire;Pascal, Critics' Favorite;Soup Serpent;Swaying Smorgasbord;Vegetable Chopper;Fine Diner;Petite Patissier;Diviner of the Dessert;Gastronomical Hubris;"
         },
         {
@@ -2712,6 +2848,7 @@
             "artist": "Matt Dixon",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": "!related Gnomestack<3>;Rushed Production<2>;Reprocessing Foundry;Gnomish Tinkerer;Ironflow Forge;Scrapsmelt Foundry;Iterate Over;"
         },
         {
@@ -2732,6 +2869,7 @@
             "artist": "Jenner Chen",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": "!related Odette L'or, Fickle Painter;Enraged Essayist;Hunt for Inspiration<2>;Inkbottle;Inkshape;"
         },
         {
@@ -2752,6 +2890,7 @@
             "artist": "Anoushka Russell",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": "!related Gustatorie Tastemaker;Abundant Feast;Soup Elemental;Antoine's Recipe;Pascal, Critics' Favorite;Ambrosian Tower;Gustatorie Mixer;Berengar, Kitchen Tyrant;Benevolent Florist;Stew Stirrer;Family Recipe;Tend the Garden;Turnip Trimmer;Gastronomical Hubris;"
         },
         {
@@ -2772,6 +2911,7 @@
             "artist": "Bunell",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": "!related Meticulous Sculptor;Skystone Sculptory;"
         },
         {
@@ -2792,6 +2932,7 @@
             "artist": "Rogier Van de Beek",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "!related Lyon, Aged Inventor;Distracted Apprentice;Thopter Workshop;Sunstreet Clocktower;"
         },
         {
@@ -2812,6 +2953,7 @@
             "artist": "Grace Liu",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": "!related Forge Gnome;Elven Glassblower;The Grand Festival;Gemcrafter;Plan by Committee;Scrapsmelt Foundry;Iterate Over;"
         },
         {
@@ -2832,6 +2974,7 @@
             "artist": "G Redon",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": "!related Vamp<2>;Enraptured Watcher;Dour Chorister<2>;Breakout Role;Dramatis Personae;Onerous Old-Timer;"
         },
         {
@@ -2852,6 +2995,7 @@
             "artist": "Veronika Firsova",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2883,6 +3027,8 @@
             "loyalty2": "",
             "artist2": "Zheng Gin",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2903,6 +3049,7 @@
             "artist": "rayven studios",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2923,6 +3070,7 @@
             "artist": "Janet Ng",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2943,6 +3091,7 @@
             "artist": "Donato Giancola",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2963,6 +3112,7 @@
             "artist": "Geoffroy Thoorens",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2983,6 +3133,7 @@
             "artist": "Lim\u00e3o",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3003,6 +3154,7 @@
             "artist": "Richard Wright",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3023,6 +3175,7 @@
             "artist": "Rafael Zanchetin",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "dwarf"
         },
         {
@@ -3043,6 +3196,7 @@
             "artist": "Thomas Dambreville",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": "vampires"
         },
         {
@@ -3063,6 +3217,7 @@
             "artist": "Blissey1, Billy Wimblett, Edit: Scribbl",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": "Dragon"
         },
         {
@@ -3083,6 +3238,7 @@
             "artist": "Samantha Shieh",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": "!related Stage Double;Waxbreath Youngling;Grand Overture;Festival Puppeteer;Cogturn Laboratory;The Bardenmoot;"
         },
         {
@@ -3103,6 +3259,7 @@
             "artist": "MOONYOON",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": "!exportname Forest MVX"
         },
         {
@@ -3123,6 +3280,7 @@
             "artist": "Anna Shiryaeva",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": "!exportname Island MVX"
         },
         {
@@ -3143,6 +3301,7 @@
             "artist": "Yewon Im",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": "!exportname Plains MVX"
         },
         {
@@ -3163,6 +3322,7 @@
             "artist": "Daniel Walker",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": "!exportname Swamp MVX"
         },
         {
@@ -3183,6 +3343,7 @@
             "artist": "Alena Kubikova",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": "\nGUEST"
         },
         {
@@ -3203,6 +3364,7 @@
             "artist": "Louie Lin",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3223,6 +3385,7 @@
             "artist": "Andre Pinheiro",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": "!exportname Mountain MVX"
         },
         {
@@ -3243,6 +3406,7 @@
             "artist": "Artem Chebokha",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3263,6 +3427,7 @@
             "artist": "Midhun Francis",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": "!note nbslot\n!tapped"
         },
         {
@@ -3283,6 +3448,7 @@
             "artist": "Carson Lowmiller",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3303,6 +3469,7 @@
             "artist": "u/Kuszalka on reddit",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": "elf"
         },
         {
@@ -3323,6 +3490,7 @@
             "artist": "Muhamad Faizal Fikri",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3343,6 +3511,7 @@
             "artist": "Neal Hanson",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3363,6 +3532,7 @@
             "artist": "Simon Eckbert",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": "!sort 1commanderbait"
         },
         {
@@ -3383,6 +3553,7 @@
             "artist": "Hua Yecai",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3403,6 +3574,7 @@
             "artist": "Elizabeth Giuchici",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3423,6 +3595,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3443,6 +3616,7 @@
             "artist": "Leonid Afremov",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3463,6 +3637,7 @@
             "artist": "Hidden City: Mystery of Shadows",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -3483,6 +3658,7 @@
             "artist": "Sam Kanios",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3503,6 +3679,7 @@
             "artist": "Doodle Hound",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": "!sort 3cae"
         },
         {
@@ -3523,6 +3700,7 @@
             "artist": "Kevin le Moigne",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": "!sort 2cae"
         },
         {
@@ -3543,6 +3721,7 @@
             "artist": "Pavel Tomashevskiy, Edit: Me",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": "\nGUEST"
         },
         {
@@ -3563,6 +3742,7 @@
             "artist": "Step Agustin",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": "!sort 2cae"
         },
         {
@@ -3583,6 +3763,7 @@
             "artist": "Brollonks",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3603,6 +3784,7 @@
             "artist": "Anna Cavasos",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "!exportname Petite Patissier"
         },
         {
@@ -3623,6 +3805,7 @@
             "artist": "Lachlan Page",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3643,6 +3826,7 @@
             "artist": "Joelin Tan",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": "An animancer can turn a fired up crowd into a heated display."
         },
         {
@@ -3663,6 +3847,7 @@
             "artist": "Karolina Nakazato",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3683,6 +3868,7 @@
             "artist": "Tatjana Sivakozova",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": "satyr"
         },
         {
@@ -3703,6 +3889,7 @@
             "artist": "Anthony Avon",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3723,6 +3910,7 @@
             "artist": "Davesrightmind, edit: me",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3743,6 +3931,7 @@
             "artist": "Counterplay Games",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -3763,6 +3952,7 @@
             "artist": "Joshua Esmeralda",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3783,6 +3973,7 @@
             "artist": "Valentina Nim",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": "!related Sylvie, Garden Tender;"
         },
         {
@@ -3803,6 +3994,7 @@
             "artist": "Aleksa Stajsic",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": "!sort 1commanderbait"
         },
         {
@@ -3823,6 +4015,7 @@
             "artist": "Donato Giancola",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3843,6 +4036,7 @@
             "artist": "Dominik Zdenkovic",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": "human?"
         },
         {
@@ -3863,6 +4057,7 @@
             "artist": "Sean Usyk",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": "!related Avian Augmenteers;"
         },
         {
@@ -3883,6 +4078,7 @@
             "artist": "Pandu Mahardika",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3903,6 +4099,7 @@
             "artist": "Mariusz Lewandowski",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3923,6 +4120,7 @@
             "artist": "Gerge Coelho, edit: me",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3943,6 +4141,7 @@
             "artist": "MaR-93",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -3963,6 +4162,7 @@
             "artist": "Plichko Artem",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3983,6 +4183,7 @@
             "artist": "Sam Kanios",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4003,6 +4204,7 @@
             "artist": "Marlene Gray",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": "used to exile\nnick: penelope instinct"
         },
         {
@@ -4023,6 +4225,7 @@
             "artist": "Flore Lemoine",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": "bird"
         },
         {
@@ -4043,6 +4246,7 @@
             "artist": "Jonathan Carr",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": "!related Chicken Coop;"
         },
         {
@@ -4063,6 +4267,7 @@
             "artist": "Joanna Szczepanska",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": "!sort 2cae\norc\nnick: rooster ranges"
         },
         {
@@ -4083,6 +4288,7 @@
             "artist": "Byung Cheol",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4103,6 +4309,7 @@
             "artist": "Serj Valesian",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4123,6 +4330,7 @@
             "artist": "Neungsonie",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4143,6 +4351,7 @@
             "artist": "Hachi Lee",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4163,6 +4372,7 @@
             "artist": "Carmen Bousquet",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4183,6 +4393,7 @@
             "artist": "Svet Schiel",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": "!exportname La Chaconne de Soupir No 3\n!sort 2cae"
         },
         {
@@ -4203,6 +4414,7 @@
             "artist": "Aaron Blaise",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": "FIELDFLAG\nchangeflag"
         },
         {
@@ -4223,6 +4435,7 @@
             "artist": "Ginlun Ho",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": "!related Bombastic Performance;"
         },
         {
@@ -4243,6 +4456,7 @@
             "artist": "Irina Nordsol Kuzmina",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4263,6 +4477,7 @@
             "artist": "Theo Legouis",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": "!related Reprocessing Foundry;Niels, Cogmaster;"
         },
         {
@@ -4283,6 +4498,7 @@
             "artist": "Saraba",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4303,6 +4519,7 @@
             "artist": "Wysoka",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": "!sort 1commanderbait"
         },
         {
@@ -4323,6 +4540,7 @@
             "artist": "Diego Gil",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4343,6 +4561,7 @@
             "artist": "Ware Lee",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": "\nWhen magic is art, art becomes magic \u2014 a fact inconvenient to librarians."
         },
         {
@@ -4363,6 +4582,7 @@
             "artist": "Lily Morran",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": "!sort 2cae"
         },
         {
@@ -4383,6 +4603,7 @@
             "artist": "Xin Ran Liu",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4403,6 +4624,7 @@
             "artist": "Billy Christian",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": "human\nKILLFLAG"
         },
         {
@@ -4423,6 +4645,7 @@
             "artist": "Marie Magny",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4443,6 +4666,7 @@
             "artist": "Ilya Ozornin",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": "!sort 2cwalker\nhuman"
         },
         {
@@ -4463,6 +4687,7 @@
             "artist": "E. Li & K. Turovec, Edit: Espithel",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4483,6 +4708,7 @@
             "artist": "Vladis Fender",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4503,6 +4729,7 @@
             "artist": "James-Christopher Fauvelle",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4523,6 +4750,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4543,6 +4771,7 @@
             "artist": "Alec Antonov",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": "lyon"
         },
         {
@@ -4563,6 +4792,7 @@
             "artist": "Thomas Ricci, Edit: Me",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -4583,6 +4813,7 @@
             "artist": "Artlon",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4603,6 +4834,7 @@
             "artist": "Alexander Yakovlev",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4623,6 +4855,7 @@
             "artist": "James Ryman",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -4643,6 +4876,7 @@
             "artist": "Ts Rodriguez",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4663,6 +4897,7 @@
             "artist": "Ryan Harrell",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": "HYBRID\nbird"
         },
         {
@@ -4683,6 +4918,7 @@
             "artist": "Jiajun Tian",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4703,6 +4939,7 @@
             "artist": "Julia Metzger",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4734,6 +4971,8 @@
             "loyalty2": "",
             "artist2": "Emilio Rodriguez",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4754,6 +4993,7 @@
             "artist": "Ho Pin Ru",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4774,6 +5014,7 @@
             "artist": "Anna Zhilina, Guillermo Martinez, Edit: Scribbl",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": "!sort 2cwalker\nsatyr"
         },
         {
@@ -4794,6 +5035,7 @@
             "artist": "Lukasz Cywinski",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4814,6 +5056,7 @@
             "artist": "Milena Leonova",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": "func reprint"
         },
         {
@@ -4845,6 +5088,8 @@
             "loyalty2": "",
             "artist2": "darek zabrocki",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4865,6 +5110,7 @@
             "artist": "Logan Feliciano",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": "!sort 1commanderbait\neats magic\nsince magic is art on merveaux, and then you drain the black mana from artists who want to be famous...\nand demons are black mana constructs"
         },
         {
@@ -4885,6 +5131,7 @@
             "artist": "Scott Duquette",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": "KILLFLAG"
         },
         {
@@ -4905,6 +5152,7 @@
             "artist": "Andreea Barbu",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4925,6 +5173,7 @@
             "artist": "Zoe Badini",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": "!tag wishlist\nFIELDFLAG"
         },
         {
@@ -4945,6 +5194,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4965,6 +5215,7 @@
             "artist": "Caroline Nyman",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": "nick: clearly you dont own an air fryer\nhuman"
         },
         {
@@ -4985,6 +5236,7 @@
             "artist": "Stephen Stark",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5005,6 +5257,7 @@
             "artist": "Nia Kowalewski",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5025,6 +5278,7 @@
             "artist": "Zoltan Boros",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5045,6 +5299,7 @@
             "artist": "Alen Rocha",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5065,6 +5320,7 @@
             "artist": "Kudos Production",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": "!sort 3cae"
         },
         {
@@ -5085,6 +5341,7 @@
             "artist": "Veronika Firsova",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": "goblin\nFIELDFLAG\nchangeflag"
         },
         {
@@ -5105,6 +5362,7 @@
             "artist": "Sam Kanios",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5125,6 +5383,7 @@
             "artist": "Nina-Y",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": "!sort 1commanderbait\n\u201cThere's nothing quite as tasty as an applauding audience.\u201d"
         },
         {
@@ -5156,6 +5415,8 @@
             "loyalty2": "3",
             "artist2": "Medli20",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!sort 2cwalker\nazra\nchange to fast impulse if too much?"
         },
         {
@@ -5176,6 +5437,7 @@
             "artist": "Maxi Thiemer",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5196,6 +5458,7 @@
             "artist": "Adrian Amilhat",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5216,6 +5479,7 @@
             "artist": "Monztre Xenthil",
             "alias": "",
             "position": "254",
+            "rotated": false,
             "notes": "Whenever another creature you control becomes tapped, you may put your choice of a +1/+1, flying, brick or charge counter on it. The same is true for artifacts. (Artifact creatures receive two counters.)"
         },
         {
@@ -5236,6 +5500,7 @@
             "artist": "Aja Trier",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": "!exportname Starlit Horizons\n!sort 2cae"
         },
         {
@@ -5256,6 +5521,7 @@
             "artist": "Alexander Yakovlev",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": "!sort 2cae"
         },
         {
@@ -5276,6 +5542,7 @@
             "artist": "Erin Shin, Edit: Me",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5296,6 +5563,7 @@
             "artist": "Gwen Bassett",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": "demon\nazra\nbelphegor"
         },
         {
@@ -5316,6 +5584,7 @@
             "artist": "Marco Tamura",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5336,6 +5605,7 @@
             "artist": "Yuuza",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5356,6 +5626,7 @@
             "artist": "Olga Krapivina",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5376,6 +5647,7 @@
             "artist": "Marta Meles",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": "human?"
         },
         {
@@ -5396,6 +5668,7 @@
             "artist": "Rhads",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "!tag wishlist"
         },
         {
@@ -5416,6 +5689,7 @@
             "artist": "Ernesto Carrasquillo",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": "GUEST"
         },
         {
@@ -5436,6 +5710,7 @@
             "artist": "Johanna Rupprecht",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5456,6 +5731,7 @@
             "artist": "Manjitsingh Pardesh",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5476,6 +5752,7 @@
             "artist": "Guan Yu",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": "!exportname Far-off Places\n!sort 3cae"
         },
         {
@@ -5496,6 +5773,7 @@
             "artist": "frank-freire",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5516,6 +5794,7 @@
             "artist": "marabelo",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "!sort 2cae"
         },
         {
@@ -5536,6 +5815,7 @@
             "artist": "vera tihonova",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5567,6 +5847,8 @@
             "loyalty2": "",
             "artist2": "alexandr leskinen",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5587,6 +5869,7 @@
             "artist": "Frank Freire",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": "menace"
         },
         {
@@ -5607,6 +5890,7 @@
             "artist": "Dominik Zdenkovic",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5627,6 +5911,7 @@
             "artist": "Anton Zemskov",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5647,6 +5932,7 @@
             "artist": "David Hernandez",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": "!exportname PROMO Swamp"
         },
         {
@@ -5667,6 +5953,7 @@
             "artist": "AAA Game Art",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": "!exportname PROMO Plains"
         },
         {
@@ -5687,6 +5974,7 @@
             "artist": "Mathilde Morcel",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": "!exportname PROMO Mountain"
         },
         {
@@ -5707,6 +5995,7 @@
             "artist": "Xu Wenshu",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": "!exportname PROMO Island"
         },
         {
@@ -5727,6 +6016,7 @@
             "artist": "Cherise Punzalan",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": "!exportname PROMO Forest"
         },
         {
@@ -5747,6 +6037,7 @@
             "artist": "Ekaterina Tambovceva",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -5767,6 +6058,7 @@
             "artist": "Devin Elle Kurtz",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": "human"
         },
         {
@@ -5787,6 +6079,7 @@
             "artist": "Miketche",
             "alias": "",
             "position": "282",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5807,6 +6100,7 @@
             "artist": "Dagmara Matuszak",
             "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5827,6 +6121,7 @@
             "artist": "Tiago Alexandre",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5847,6 +6142,7 @@
             "artist": "Vitaliy Fyeday",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5867,6 +6163,7 @@
             "artist": "Terrence Gouw",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5887,6 +6184,7 @@
             "artist": "Sam Nassour",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5907,6 +6205,7 @@
             "artist": "Denis Kornev",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5927,6 +6226,7 @@
             "artist": "Penelope Dominicali",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": "\nnick: inedible virtue\ndwarf"
         },
         {
@@ -5947,6 +6247,7 @@
             "artist": "Celticbotan",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5967,6 +6268,7 @@
             "artist": "Manuel Castanon",
             "alias": "",
             "position": "291",
+            "rotated": false,
             "notes": "!related Skystone Sculptory;"
         },
         {
@@ -5987,6 +6289,7 @@
             "artist": "Doodle Hound",
             "alias": "",
             "position": "292",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6007,6 +6310,7 @@
             "artist": "Andy Aslamov",
             "alias": "",
             "position": "293",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6027,6 +6331,7 @@
             "artist": "Jon Neimeister",
             "alias": "",
             "position": "294",
+            "rotated": false,
             "notes": "!tag wishlist\nchangeflag\nfieldflag"
         },
         {
@@ -6047,6 +6352,7 @@
             "artist": "Joshua Cairos",
             "alias": "",
             "position": "295",
+            "rotated": false,
             "notes": "!tag wishlist"
         },
         {
@@ -6067,6 +6373,7 @@
             "artist": "Zana Arnautovic",
             "alias": "",
             "position": "296",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6087,6 +6394,7 @@
             "artist": "Caio Monteiro",
             "alias": "",
             "position": "297",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6107,6 +6415,7 @@
             "artist": "Simon Cardinal",
             "alias": "",
             "position": "298",
+            "rotated": false,
             "notes": "!sort 3cae\nhuman\nvampire"
         },
         {
@@ -6127,6 +6436,7 @@
             "artist": "Matthieu Tourdes",
             "alias": "",
             "position": "299",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6147,6 +6457,7 @@
             "artist": "Loloratura Sopranerd",
             "alias": "",
             "position": "300",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6167,6 +6478,7 @@
             "artist": "Samuel Cunha jr",
             "alias": "",
             "position": "301",
+            "rotated": false,
             "notes": "HYBRID"
         },
         {
@@ -6187,6 +6499,7 @@
             "artist": "Livia Prima",
             "alias": "",
             "position": "302",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6207,6 +6520,7 @@
             "artist": "Angelo Bortolini",
             "alias": "",
             "position": "303",
+            "rotated": false,
             "notes": "vampire\n\n\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield tapped.\nYou may pay R. If you do, create a token that's a copy of that creature except it has haste. Sacrifice it at the beginning of the next end step."
         },
         {
@@ -6227,6 +6541,7 @@
             "artist": "Rafael Saito",
             "alias": "",
             "position": "304",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6247,6 +6562,7 @@
             "artist": "ade surya",
             "alias": "",
             "position": "305",
+            "rotated": false,
             "notes": "troubadours"
         },
         {
@@ -6267,6 +6583,7 @@
             "artist": "higor pistori",
             "alias": "",
             "position": "306",
+            "rotated": false,
             "notes": "!sort 1commanderbait"
         },
         {
@@ -6287,6 +6604,7 @@
             "artist": "HuoMao Studio",
             "alias": "",
             "position": "307",
+            "rotated": false,
             "notes": "congregation"
         },
         {
@@ -6307,6 +6625,7 @@
             "artist": "Sergey Gurskiy",
             "alias": "",
             "position": "308",
+            "rotated": false,
             "notes": "operahouse"
         },
         {
@@ -6327,6 +6646,7 @@
             "artist": "Zana Arnautovic",
             "alias": "",
             "position": "309",
+            "rotated": false,
             "notes": "troubadours\nnick: imagine dragon\nchangeflag\nfieldflag"
         },
         {
@@ -6347,6 +6667,7 @@
             "artist": "Quang Ho",
             "alias": "",
             "position": "310",
+            "rotated": false,
             "notes": "atelier"
         },
         {
@@ -6367,6 +6688,7 @@
             "artist": "Anastasia",
             "alias": "",
             "position": "311",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6387,6 +6709,7 @@
             "artist": "Sonderflex",
             "alias": "",
             "position": "312",
+            "rotated": false,
             "notes": "gustatorie"
         },
         {
@@ -6407,6 +6730,7 @@
             "artist": "bigboxart",
             "alias": "",
             "position": "313",
+            "rotated": false,
             "notes": "!related Coax the Worldsongs;"
         },
         {
@@ -6427,6 +6751,7 @@
             "artist": "Esther Gal\u00e1n",
             "alias": "",
             "position": "314",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6447,6 +6772,7 @@
             "artist": "Bruno Cardoso",
             "alias": "",
             "position": "315",
+            "rotated": false,
             "notes": "HYBRID\nKILLFLAG 2/3"
         },
         {
@@ -6467,6 +6793,7 @@
             "artist": "Tim Warnock",
             "alias": "",
             "position": "316",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6487,6 +6814,7 @@
             "artist": "Grafit Studio",
             "alias": "",
             "position": "317",
+            "rotated": false,
             "notes": "FIELDFLAG\nchangeflag"
         },
         {
@@ -6507,6 +6835,7 @@
             "artist": "rayven Studios",
             "alias": "",
             "position": "318",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6538,6 +6867,8 @@
             "loyalty2": "",
             "artist2": "Yana Efremova",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!sort mythicflip\nchangeflag"
         },
         {
@@ -6569,6 +6900,8 @@
             "loyalty2": "",
             "artist2": "Thomas Dambreville",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!sort mythicflip\nchangeflag"
         },
         {
@@ -6600,6 +6933,8 @@
             "loyalty2": "",
             "artist2": "J Edward Neill",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!sort mythicflip\nshe wished for perfection, but not the means to enjoy it\nchangeflag"
         },
         {
@@ -6631,6 +6966,8 @@
             "loyalty2": "",
             "artist2": "John Avon",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!sort mythicflip\nchangeflag"
         },
         {
@@ -6651,6 +6988,7 @@
             "artist": "Jung Yeoll",
             "alias": "",
             "position": "323",
+            "rotated": false,
             "notes": "changeflag"
         },
         {
@@ -6682,6 +7020,8 @@
             "loyalty2": "",
             "artist2": "Leonid Afremov",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!sort mythicflip\n!tag wishlist\nchangeflag\nfieldflag"
         },
         {
@@ -6702,6 +7042,7 @@
             "artist": "afda trihatma",
             "alias": "",
             "position": "325",
+            "rotated": false,
             "notes": "!sort 2cae\nchangeflag\nfieldflag\nFeast \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\nT, Remove an oil counter from Frymaster's Pan: Add B or G.\nT, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery."
         }
     ]
