@@ -1942,7 +1942,7 @@
 		{
 			"name": "Stew",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
 			"collector_number": "241",
 			"image_uris": {
@@ -2694,7 +2694,7 @@
 			"name": "Dishearten",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/262.png"

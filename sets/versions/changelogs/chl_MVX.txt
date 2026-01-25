@@ -1,4 +1,18 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+
+
+Second Showing
+
+Stew
+cost: {1}{B}{G} => {B}{G}
+
+Dishearten
+type: Sorcery => Instant
+
+
+VERSION 29 CHANGELOG
 ====================
 
 

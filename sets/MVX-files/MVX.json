@@ -2543,7 +2543,7 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": "human"
+            "notes": "human\nfieldflag"
         },
         {
             "card_name": "Garden Guardian",
@@ -4067,7 +4067,7 @@
             "type": "Sorcery",
             "number": 241,
             "color_identity": "BG",
-            "cost": "{1}{B}{G}",
+            "cost": "{B}{G}",
             "rules_text": "As an additional cost to cast this spell, you may pay any amount of life.\nDestroy target nonland permanent if its mana value is X or less, where X is the life paid as you cast this spell plus the amount of life you've gained this turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4079,7 +4079,7 @@
             "alias": "",
             "position": "189",
             "rotated": false,
-            "notes": ""
+            "notes": "fieldflag"
         },
         {
             "card_name": "Reconceptualize",
@@ -5633,7 +5633,7 @@
             "card_name": "Dishearten",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Sorcery",
+            "type": "Instant",
             "number": 82,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -5648,7 +5648,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "human?"
+            "notes": "human?\nfieldflag"
         },
         {
             "card_name": "Vivid Expression",
@@ -7046,5 +7046,5 @@
             "notes": "!sort 2cae\nchangeflag\nfieldflag\nFeast \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\nT, Remove an oil counter from Frymaster's Pan: Add B or G.\nT, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery."
         }
     ],
-    "version": 29
+    "version": 30
 }

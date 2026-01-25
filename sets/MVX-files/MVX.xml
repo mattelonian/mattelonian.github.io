@@ -5,7 +5,7 @@
 			<name>MVX</name>
 			<longname>Merveaux</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-24</releasedate>
+			<releasedate>2026-01-25</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3577,8 +3577,8 @@ Destroy target nonland permanent if its mana value is X or less, where X is the 
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1BG</manacost>
-				<cmc>3</cmc>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
 				<colors>BG</colors>
 				<coloridentity>BG</coloridentity>
 			</prop>
@@ -4940,8 +4940,8 @@ When Stage Fright enters, if you cast it, exile target creature until Stage Frig
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
 				<manacost>1B</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
