@@ -1,4 +1,630 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+
+
+Lyon, Aged Inventor
+
+PROMO Back-Alley Theatre
+
+PROMO Sunlit Park
+
+PROMO Discreet Gallery
+
+PROMO Vibrant Concourse
+
+PROMO Delightful Patisserie
+
+Back-Alley Theatre
+
+Sunlit Park
+
+Discreet Gallery
+
+Vibrant Concourse
+
+Delightful Patisserie
+
+Serene Museum
+
+Hushed Library
+
+Charming Playhouse
+
+Orator's Forum
+
+Abundant Garden
+
+Muted Auditorium
+
+Seedy Kitchen
+
+Lively Tavern
+
+Artificer's Workshop
+
+Gorge on Snacks
+
+Change Perspective
+
+Rushed Production
+
+Clash of Egos
+
+Soup Elemental
+
+Mechanical Strix
+
+Prolific Novelist
+
+Prevent Catastrophe
+
+Fiendish Fromager
+
+Artistic Benefactor
+
+Motivation Sapper
+
+Exhausting Rehearsal
+
+Macabre Prop
+
+Overworked
+
+Casting Call
+
+Understudy
+
+Aspiring Performer
+
+Leading Lady
+
+Forge Gnome
+
+Harbinger of Festivity
+
+Spit Fire
+
+Fiery Setpiece
+
+Spoil the Broth
+
+Inspired Reader
+
+Librarian's Assistant
+
+Cartographer's Eyes
+
+Gnomestack
+
+Rancid Meal
+
+Prophetic Prism
+
+Tragic Soloist
+
+Fanciful Flier
+
+Forlorn Author
+
+Dancing Troupe
+
+Wandering Connoisseur
+
+Meticulous Sculptor
+
+Turnip Trimmer
+
+Free-Range Foraging
+
+Valiant Versemaker
+
+Keen Guardcog
+
+Merry Troubadour
+
+Bookwyrm
+
+Cheerful Painter
+
+Candied Colossus
+
+Colorful Rendition
+
+Inspiring Melody
+
+Highbrow Critic
+
+Houndcrafter Savant
+
+Jacques, Harsh Conductor
+
+Distracting Song
+
+Blood Artist
+
+Merrymaker
+
+Skillful Landscapist
+
+Civil Engineer
+
+Dreamquill
+
+Gnomish Tinkerer
+
+Worksite Visionary
+
+Distracting Charcuterie
+
+Sunstreet Clocktower
+
+Encore
+
+Gustatorie Tastemaker
+
+Greenpark Strummer
+
+Belligerence
+
+Natural Harmony
+
+Farmstead Butcher
+
+Tavern Talesmith
+
+Flamethumper
+
+Opening Act
+
+Spirit of the Opera
+
+Fine Diner
+
+Song of Creation
+
+Ironflow Forge
+
+Odette L'or, Fickle Painter
+
+Niels, Cogmaster
+
+Elven Glassblower
+
+Heartblaze Theatre
+
+Audition
+
+Reptilian Rhymester
+
+Dragonsong
+
+Waxcrafter
+
+Soliloquist
+
+Avian Auteur
+
+Operahouse Headliner
+
+Discouraging Flop
+
+Second Showing
+
+Garden Guardian
+
+Dour Chorister
+
+Benevolent Florist
+
+Wolfsong
+
+Tend the Garden
+
+Gemcrafter
+
+Birdsong
+
+Michel, Strummer of Heartstrings
+
+Bard
+
+Boar
+
+Dog
+
+Elemental
+
+Food
+
+Gnome
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Artist's Easel
+
+Stew Stirrer
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+
+Retrospection
+
+Skilled Sous-Chef
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+
+Copy
+
+Waxbreath Youngling
+
+Castleway Crane
+
+Hunt for Inspiration
+
+Painter's Studio
+
+Teatime Two
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+
+Concordia, Angel of Glass
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+Ambrosian Tower
+
+Cogturn Laboratory
+
+Festival Puppeteer
+
+Roland's Solo
+
+Bombastic Performance
+
+Petite Patissier
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+
+Moonridge Tailors
+
+Skystone Gargoyle
+
+Rousing Read
+
+Atelier Exemplar
+
+Forest Plains
+
+Berengar, Kitchen Tyrant
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Vehicle
+
+Stew
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+
+Flamesweeper
+
+Cost of Perfection
+
+Season to Perfection
+
+Bird
+
+Chicken Coop
+
+Gustbrook Library
+
+Deafening Duo
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+La Chaconne de Soupir No 3
+
+Gustatorie Mixer
+
+Spirit Elemental
+
+Keeper of the Archives
+
+Construct
+
+Solid Fundamentals
+
+Sylvie, Garden Tender
+
+Gleeful Amateur
+
+Body of Literature
+
+Writer's Desk
+
+Sate the Critics
+
+Redesign
+
+Wicked Wordsmith
+
+Esteemed Author Davriel Cane
+
+Invocation of Creativity
+
+See the Sights
+
+Ironstreet Welders
+
+Ingenuity
+
+Chromatic Lantern
+
+Lyon's Contemplation
+
+Foundry Assistant
+
+Blueprints
+
+Footlight Fiend
+
+Enraged Essayist
+
+Tear Through
+
+Constructed Whelp
+
+Parkland Flautist
+
+Distracted Apprentice
+
+Gastronomical Hubris
+
+Elaphia, Full of Wonder
+
+Chorus Machine
+
+Enraptured Watcher
+
+Tavern Reveler
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+
+Green Thumbed Growth
+
+Serenade
+
+Inkblot Familiar
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+
+Velda, Opera Diva
+
+Roland, Second Fiddle
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Jaunty Tune
+
+Bite Down on Treats
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+
+Secret Ingredients
+cost: {1}{G}{W} => {G}{W}
+
+The Rejection of the Monarchy
+
+Chisel
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Annul
+
+Stage Double
+
+Arbiter of Taste
+
+The Bardenmoot
+
+Diego, Slam Poet
+
+Reconstruct
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Demon of Many Pages
+
+First Chair Violinist
+
+Nature's Bounty
+
+Dragon
+
+Atelier Artisan
+
+Parapet Percher
+
+Skystone Sculptory
+
+Iterate Over
+
+Gustatorie Explorateur
+
+Antoine, Chef Extraordinaire
+
+Marquis Vaasco de Moraes
+
+Nicola, Inspired Artist
+
+Isabella, City Builder
+
+The Flourishing
+
+Brasio, Bardic Chronicler
+
+Frymaster's Pan
+
+Pascal, Critics' Favorite
+rules_text: [+1]: Put a +1/+1 counter on up to one target creature. If it's a token, put an additional 
++1/+1 counter on it.
+[-2]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
+[-3]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of noncreature tokens you control. => [+1]: Create a 1/1 green Plant creature token and a Food token.
+[-2]: Put a +1/+1 counter on each creature you control. Token creatures you control gain first strike and trample until end of turn.
+[-5]: You get an emblem with “Creatures you control get +X/+X, where X is the amount of life you've gained this turn.”
+special_text: [+1]: Put a +1/+1 counter on up to one target creature. If it's a token, put an additional 
++1/+1 counter on it.
+[-2]: Create your choice of a 1/1 green Plant creature token or a Food token, then create both.
+[-3]: Creatures you control get +X/+X and gain trample until end of turn, where X is the number of noncreature tokens you control. => [+1]: Create a 1/1 green Plant creature token and a Food token.
+[-2]: Put a +1/+1 counter on each creature you control. Token creatures you control gain first strike and trample until end of turn.
+[-5]: You get an emblem with “Creatures you control get +X/+X, where X is the amount of life you've gained this turn.”
+loyalty: 4 => 3
+
+
+VERSION 30 CHANGELOG
 ====================
 
 
