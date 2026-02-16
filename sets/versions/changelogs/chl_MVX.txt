@@ -1,4 +1,587 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+
+Tragic Soloist
+rules_text: Regale — {T}: Tap or untap target permanent not named Tragic Soloist. You can't activate this ability during combat. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i] => Regale — {T}: Tap or untap target permanent with a different name. You can't activate this ability during combat. [i](Activate only if you've cast a noncreature spell or put a counter on a noncreature permanent this turn.)[/i]
+
+Sunstreet Clocktower
+rules_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on Sunstreet Clocktower. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
+special_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on Sunstreet Clocktower. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
+
+Niels, Cogmaster
+
+Elven Glassblower
+
+Heartblaze Theatre
+
+Audition
+
+Reptilian Rhymester
+
+Dragonsong
+
+Waxcrafter
+
+Soliloquist
+
+Avian Auteur
+
+Operahouse Headliner
+
+Discouraging Flop
+
+Second Showing
+cost: {4}{B} => {3}{B}{B}
+
+Garden Guardian
+
+Dour Chorister
+
+Benevolent Florist
+
+Wolfsong
+
+Tend the Garden
+
+Gemcrafter
+
+Birdsong
+
+Michel, Strummer of Heartstrings
+
+Bard
+
+Boar
+
+Dog
+
+Elemental
+
+Food
+
+Gnome
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Artist's Easel
+
+Stew Stirrer
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+
+Retrospection
+
+Skilled Sous-Chef
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+
+Copy
+
+Waxbreath Youngling
+
+Hunt for Inspiration
+
+Painter's Studio
+
+Teatime Two
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+
+Concordia, Angel of Glass
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+Ambrosian Tower
+
+Cogturn Laboratory
+
+Festival Puppeteer
+
+Roland's Solo
+
+Bombastic Performance
+
+Petite Patissier
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+
+Moonridge Tailors
+rules_text: 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​ => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on Moonridge Tailors
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​
+special_text: 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this artifact.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​ => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on Moonridge Tailors
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​
+
+Rousing Read
+
+Atelier Exemplar
+
+Forest Plains
+
+Berengar, Kitchen Tyrant
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Vehicle
+
+Stew
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+rules_text: Flying, ward {1}
+Whenever Stained Glass Sentinel attacks, choose up to X, where X is the number of other artifacts you control —
+• Stained Glass Sentinel gets +1/+1 until end of turn.
+• Untap Stained Glass Sentinel.
+• Scry 2. => Flying, ward {1}
+Whenever Stained Glass Sentinel attacks, choose up to X, where X is the number of other artifacts you control —
+• It gets +1/+1 until end of turn.
+• Untap it.
+• Scry 2.
+
+Flamesweeper
+
+Cost of Perfection
+
+Season to Perfection
+
+Bird
+
+Chicken Coop
+
+Gustbrook Library
+
+Deafening Duo
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+La Chaconne de Soupir No 3
+
+Gustatorie Mixer
+
+Spirit Elemental
+
+Keeper of the Archives
+
+Construct
+
+Solid Fundamentals
+
+Sylvie, Garden Tender
+
+Gleeful Amateur
+
+Body of Literature
+
+Writer's Desk
+
+Sate the Critics
+
+Redesign
+
+Wicked Wordsmith
+
+Esteemed Author Davriel Cane
+
+Invocation of Creativity
+
+See the Sights
+
+Ironstreet Welders
+
+Ingenuity
+
+Chromatic Lantern
+
+Lyon's Contemplation
+
+Foundry Assistant
+
+Blueprints
+
+Footlight Fiend
+
+Enraged Essayist
+
+Tear Through
+
+Constructed Whelp
+
+Parkland Flautist
+
+Distracted Apprentice
+
+Gastronomical Hubris
+
+Elaphia, Full of Wonder
+rules_text: [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you've put a counter on a Saga this turn, create two of those tokens instead.
+[-4]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase. => [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you've put a counter on a Saga this turn, create two of those tokens instead.
+[-3]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase.
+special_text: [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you've put a counter on a Saga this turn, create two of those tokens instead.
+[-4]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase. => [+2]: Up to two target creatures each get +1/+0 and gain trample and haste until end of turn.
+[-1]: Create a 1/1 red Bard creature token with prowess. If you've put a counter on a Saga this turn, create two of those tokens instead.
+[-3]: Untap up to two creatures you control. After this phase, there is an additional combat phase followed by an additional main phase.
+loyalty: 3 => 2
+
+Chorus Machine
+
+Enraptured Watcher
+
+Tavern Reveler
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+
+Green Thumbed Growth
+
+Serenade
+
+Inkblot Familiar
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Moment of Craving
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+
+Velda, Opera Diva
+rules_text: Exploit [i](When this creature enters, you may sacrifice a creature.)[/i]
+Other creatures you control have exploit.
+Whenever a creature you control exploits, put a +1/+1 counter on Velda and each other creature that exploited. She gains flying and haste until end of turn. => Exploit [i](When this creature enters, you may sacrifice a creature.)[/i]
+Other creatures you control have exploit.
+Whenever a permanent you control exploits, put a +1/+1 counter on Velda and each other creature that exploited. She gains flying and haste until end of turn.
+
+Roland, Second Fiddle
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Scrapsmelt Foundry
+cost: {1}{R}{W} => {R}{W}
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Impassioned Singer
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Jaunty Tune
+
+Bite Down on Treats
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+The Grand Festival
+
+Secret Ingredients
+
+Chisel
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Annul
+
+Stage Double
+
+Arbiter of Taste
+
+The Bardenmoot
+
+Diego, Slam Poet
+
+Reconstruct
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Demon of Many Pages
+
+First Chair Violinist
+rules_text: Exploit, exploit, exploit, exploit [i](When this enters, for each exploit, you may sacrifice a creature. Exploits trigger sequentially.)[/i]
+Whenever a creature you control exploits, exile the top card of target opponent's library face down. You may look at and play that card for as long as it remains exiled, and mana of any type can be spent to cast it. => Exploit, exploit, exploit, exploit [i](When this enters, for each exploit, you may sacrifice a creature. Exploits trigger sequentially.)[/i]
+Whenever a permanent you control exploits, exile the top card of target opponent's library face down. You may look at and play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
+
+Nature's Bounty
+
+Dragon
+
+Atelier Artisan
+
+Parapet Percher
+
+Skystone Sculptory
+
+Iterate Over
+
+Gustatorie Explorateur
+
+Antoine, Chef Extraordinaire
+
+Marquis Vaasco de Moraes
+
+Nicola, Inspired Artist
+
+Isabella, City Builder
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control not named The Flourishing. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of up to one target artifact or enchantment you control with a different name.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control not named The Flourishing. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of up to one target artifact or enchantment you control with a different name.
+
+Brasio, Bardic Chronicler
+
+Frymaster's Pan
+
+Pascal, Critics' Favorite
+rules_text: [+1]: Create a 1/1 green Plant creature token and a Food token.
+[-2]: Put a +1/+1 counter on each creature you control. Token creatures you control gain first strike and trample until end of turn.
+[-5]: You get an emblem with “Creatures you control get +X/+X, where X is the amount of life you've gained this turn.” => [+1]: Create a 1/1 green Plant creature token and a Food token.
+[-2]: Put a +1/+1 counter on each creature you control. Creature tokens you control gain first strike and trample until end of turn.
+[-5]: You get an emblem with “Creatures you control get +X/+X, where X is the amount of life you've gained this turn.”
+special_text: [+1]: Create a 1/1 green Plant creature token and a Food token.
+[-2]: Put a +1/+1 counter on each creature you control. Token creatures you control gain first strike and trample until end of turn.
+[-5]: You get an emblem with “Creatures you control get +X/+X, where X is the amount of life you've gained this turn.” => [+1]: Create a 1/1 green Plant creature token and a Food token.
+[-2]: Put a +1/+1 counter on each creature you control. Creature tokens you control gain first strike and trample until end of turn.
+[-5]: You get an emblem with “Creatures you control get +X/+X, where X is the amount of life you've gained this turn.”
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Create a tapped Treasure token.
+III — Exile the top card of your library. You may play it this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Exile the top card of your library. You may play it until the end of your next turn.
+Create a Treasure token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Create a tapped Treasure token.
+III — Exile the top card of your library. You may play it this turn.
+
+Castleway Crane
+cost: {W}{U} => {1}{W}{U}
+rules_text: Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card. => Whenever one or more other artifacts you control enter, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}.
+ Built 1+
+{T}: Untap target artifact with a different name.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card.
+special_text: Whenever another artifact you control enters, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}. This mana can't be spent to cast nonartifact spells.
+ Built 1+
+{T}: Untap target artifact not named Castleway Crane.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card. => Whenever one or more other artifacts you control enter, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}.
+ Built 1+
+{T}: Untap target artifact with a different name.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card.
+
+Odette L'or, Fickle Painter
+cost: {G}{U} => {1}{G}{U}
+pt: 1/3 => 1/4
+
+Skystone Gargoyle
+rules_text: Flying
+When Skystone Gargoyle enters, you may return target artifact card not named Skystone Gargoyle from your graveyard to your hand. => Flying
+When Skystone Gargoyle enters, you may return target artifact card with a different name from your graveyard to your hand.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 
