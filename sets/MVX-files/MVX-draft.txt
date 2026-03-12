@@ -2466,7 +2466,7 @@
 		{
 			"name": "Lament",
 			"rarity": "rare",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
 			"collector_number": "218",
 			"image_uris": {
@@ -3201,7 +3201,7 @@
 			"name": "Iterate Over",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/312.png"

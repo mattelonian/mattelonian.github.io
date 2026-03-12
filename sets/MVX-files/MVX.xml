@@ -5,7 +5,7 @@
 			<name>MVX</name>
 			<longname>Merveaux</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-02-16</releasedate>
+			<releasedate>2026-03-12</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2911,7 +2911,7 @@ Equip {2}</text>
 		</card>
 		<card>
 			<name>Waxbreath Youngling</name>
-			<text>Flying, vigilance
+			<text>Flying
 When Waxbreath Youngling enters, if it was cast, create a token that&apos;s a copy of another target artifact or creature you control, except it&apos;s an artifact and loses all other types.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/152.png" num="35">MVX</set>
 			<prop>
@@ -4528,8 +4528,8 @@ At the beginning of each end step, each opponent loses X life unless they discar
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1BR</manacost>
-				<cmc>3</cmc>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -5677,7 +5677,7 @@ Whenever Onerous Old-Timer attacks, you lose 3 life unless you sacrifice a creat
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>4/3</pt>
+				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5838,8 +5838,8 @@ When Parapet Percher enters, scry 3.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
@@ -6041,9 +6041,9 @@ Artifacts you control have indestructible.
 		<card>
 			<name>The Flourishing</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
-II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
-III — Create a token that&apos;s a copy of up to one target artifact or enchantment you control with a different name.</text>
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that&apos;s a copy of up to one target artifact or enchantment you control with a different name.</text>
 			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/MVX-files/img/318.png" num="48">MVX</set>
 			<prop>
 				<layout>saga</layout>
@@ -6140,9 +6140,9 @@ Feast — {T}: Add {B}{G}. Activate only if you&apos;ve gained life or created a
 		<card>
 			<name>The Rejection of the Monarchy</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — The Rejection of the Monarchy deals 3 damage to any target.
-II — Create a tapped Treasure token.
-III — Exile the top card of your library. You may play it this turn.</text>
+The Rejection of the Monarchy deals 3 damage to any target.
+Create a tapped Treasure token.
+Exile the top card of your library. You may play it this turn.</text>
 			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/MVX-files/img/322.png" num="136">MVX</set>
 			<prop>
 				<layout>saga</layout>

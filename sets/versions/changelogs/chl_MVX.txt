@@ -1,4 +1,68 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Waxbreath Youngling
+rules_text: Flying, vigilance
+When Waxbreath Youngling enters, if it was cast, create a token that's a copy of another target artifact or creature you control, except it's an artifact and loses all other types. => Flying
+When Waxbreath Youngling enters, if it was cast, create a token that's a copy of another target artifact or creature you control, except it's an artifact and loses all other types.
+
+Stew
+
+Lament
+cost: {1}{B}{R} => {2}{B}{R}
+
+Dishearten
+
+Onerous Old-Timer
+pt: 4/3 => 3/3
+
+Iterate Over
+type: Instant => Sorcery
+
+Antoine, Chef Extraordinaire
+
+Nicola, Inspired Artist
+
+Isabella, City Builder
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of up to one target artifact or enchantment you control with a different name. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control with a different name.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of up to one target artifact or enchantment you control with a different name. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control with a different name.
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Create a tapped Treasure token.
+III — Exile the top card of your library. You may play it this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Create a tapped Treasure token.
+Exile the top card of your library. You may play it this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — The Rejection of the Monarchy deals 3 damage to any target.
+II — Create a tapped Treasure token.
+III — Exile the top card of your library. You may play it this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+The Rejection of the Monarchy deals 3 damage to any target.
+Create a tapped Treasure token.
+Exile the top card of your library. You may play it this turn.
+
+Odette L'or, Fickle Painter
+
+
+VERSION 32 CHANGELOG
 ====================
 
 

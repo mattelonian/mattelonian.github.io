@@ -3291,7 +3291,7 @@
             "number": 35,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Flying, vigilance\nWhen Waxbreath Youngling enters, if it was cast, create a token that's a copy of another target artifact or creature you control, except it's an artifact and loses all other types.",
+            "rules_text": "Flying\nWhen Waxbreath Youngling enters, if it was cast, create a token that's a copy of another target artifact or creature you control, except it's an artifact and loses all other types.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3302,7 +3302,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "\nGUEST"
+            "notes": "FIELDFLAG\nCHANGEFLAG\nGUEST"
         },
         {
             "card_name": "Mountain MVX",
@@ -3995,7 +3995,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "fieldflag"
+            "notes": "fieldflag\nchangeflag"
         },
         {
             "card_name": "Reconceptualize",
@@ -5162,7 +5162,7 @@
             "type": "Sorcery",
             "number": 218,
             "color_identity": "BR",
-            "cost": "{1}{B}{R}",
+            "cost": "{2}{B}{R}",
             "rules_text": "Choose two. You may choose the same mode more than once.\n\u2022 Lament deals 2 damage to target creature.\n\u2022 Target opponent sacrifices a noncreature, nonland permanent.\n\u2022 Return target creature card from your graveyard to your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -5174,7 +5174,7 @@
             "alias": "",
             "position": "240",
             "rotated": false,
-            "notes": ""
+            "notes": "changeflag"
         },
         {
             "card_name": "Parts Picker",
@@ -5564,7 +5564,7 @@
             "alias": "",
             "position": "258",
             "rotated": false,
-            "notes": "human?\nfieldflag"
+            "notes": "human?\nfieldflag\nchangeflag"
         },
         {
             "card_name": "Vivid Expression",
@@ -6512,7 +6512,7 @@
             "cost": "{1}{B}{B}",
             "rules_text": "Flying\nWhen Onerous Old-Timer enters, create a 1/1 black Vampire Actor creature token with lifelink.\nWhenever Onerous Old-Timer attacks, you lose 3 life unless you sacrifice a creature.",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "MVX",
@@ -6521,7 +6521,7 @@
             "alias": "",
             "position": "303",
             "rotated": false,
-            "notes": "operahouse"
+            "notes": "operahouse\nfieldflag\nchangeflag"
         },
         {
             "card_name": "Coax the Worldsongs",
@@ -6695,7 +6695,7 @@
             "card_name": "Iterate Over",
             "color": "W",
             "rarity": "rare",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 17,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -6764,7 +6764,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!sort mythicflip\nchangeflag"
+            "notes": "!sort mythicflip"
         },
         {
             "card_name": "Marquis Vaasco de Moraes",
@@ -6830,7 +6830,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!sort mythicflip\nshe wished for perfection, but not the means to enjoy it\nchangeflag"
+            "notes": "!sort mythicflip\nshe wished for perfection, but not the means to enjoy it"
         },
         {
             "card_name": "Isabella, City Builder",
@@ -6863,7 +6863,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!sort mythicflip\nchangeflag"
+            "notes": "!sort mythicflip"
         },
         {
             "card_name": "The Flourishing",
@@ -6873,10 +6873,10 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nII \u2014 Artifact and enchantment spells you cast this turn cost {2} less to cast.\nIII \u2014 Create a token that's a copy of up to one target artifact or enchantment you control with a different name.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nArtifact and enchantment spells you cast this turn cost {2} less to cast.\nCreate a token that's a copy of up to one target artifact or enchantment you control with a different name.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nII \u2014 Artifact and enchantment spells you cast this turn cost {2} less to cast.\nIII \u2014 Create a token that's a copy of up to one target artifact or enchantment you control with a different name.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nMill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.\nArtifact and enchantment spells you cast this turn cost {2} less to cast.\nCreate a token that's a copy of up to one target artifact or enchantment you control with a different name.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
@@ -6969,10 +6969,10 @@
             "number": 136,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 The Rejection of the Monarchy deals 3 damage to any target.\nII \u2014 Create a tapped Treasure token.\nIII \u2014 Exile the top card of your library. You may play it this turn.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nThe Rejection of the Monarchy deals 3 damage to any target.\nCreate a tapped Treasure token.\nExile the top card of your library. You may play it this turn.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 The Rejection of the Monarchy deals 3 damage to any target.\nII \u2014 Create a tapped Treasure token.\nIII \u2014 Exile the top card of your library. You may play it this turn.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nThe Rejection of the Monarchy deals 3 damage to any target.\nCreate a tapped Treasure token.\nExile the top card of your library. You may play it this turn.",
             "shape": "saga",
             "set": "MVX",
             "loyalty": "",
@@ -7022,7 +7022,7 @@
             "alias": "",
             "position": "324",
             "rotated": false,
-            "notes": "!sort 1commanderbait"
+            "notes": "!sort 1commanderbait\nchangeflag"
         },
         {
             "card_name": "Skystone Gargoyle",
