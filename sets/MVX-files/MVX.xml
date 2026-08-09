@@ -5,7 +5,7 @@
 			<name>MVX</name>
 			<longname>Merveaux</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-14</releasedate>
+			<releasedate>2026-08-09</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -115,21 +115,21 @@ When this creature enters, you gain 2 life.</text>
 		</card>
 		<card>
 			<name>MVX DRAFT ARCHETYPES MVX</name>
-			<text>{R}{W}{U} ARTIFACTS 
- {R}{W} GO-WIDE Engineer ways to kill your foes fast using your wide array of artifacts!
- {W}{U} BUILDINGS Develop your buildings to generate value nobody can compete with.
-{U}{R}{G} SAGAS/REGALE
- {U}{R} CONTROL Accrue long-term advantage by consistently casting noncreature spells.
- {R}{G} AGGRO Regale your prowess to your opponent&apos;s face by singing and slinging spells!
-{G}{U}{B} DELIRIUM 
- {G}{U} RAMP Fill your graveyard to help paint more mana into casting powerful spells!
- {U}{B} TEMPO Use your late-night motivation to empower evasive threats and disrupt your opponent.
-{B}{G}{W} FEAST
- {B}{G} LIFEGAIN Feast on food with your creatures by paying off lifegain synergies.
- {G}{W} TOKENS Prepare your opponent a twenty-course meal of plants and pain!
-{W}{B}{R} EXPLOIT
- {W}{B} ENTERS Blink and reanimate your actors to give their enters triggers an encore.
- {B}{R} SACRIFICE The show must go on, even if it means sacrificing a few friends.</text>
+			<text>{R}{W}{U} [b]ARTIFACTS [/b]
+ {R}{W} [b]GO-WIDE[/b] Engineer ways to kill your foes fast using your wide array of artifacts!
+ {W}{U} [b]BUILDINGS[/b] Develop your buildings to generate value nobody can compete with.
+{U}{R}{G} [b]SAGAS/REGALE[/b]
+ {U}{R} [b]CONTROL[/b] Accrue long-term advantage by consistently casting noncreature spells.
+ {R}{G} [b]AGGRO[/b] Regale your prowess to your opponent&apos;s face by singing and slinging spells!
+{G}{U}{B} [b]DELIRIUM [/b]
+ {G}{U} [b]RAMP[/b] Fill your graveyard to help paint more mana into casting powerful spells!
+ {U}{B} [b]TEMPO[/b] Use your late-night motivation to empower evasive threats and disrupt your opponent.
+{B}{G}{W}[b] FEAST[/b]
+ {B}{G} [b]LIFEGAIN [/b]Feast on food with your creatures by paying off lifegain synergies.
+ {G}{W} [b]TOKENS[/b] Prepare your opponent a twenty-course meal of plants and pain!
+{W}{B}{R} [b]EXPLOIT[/b]
+ {W}{B} [b]ENTERS[/b] Blink and reanimate your actors to give their enters triggers an encore.
+ {B}{R} [b]SACRIFICE[/b] The show must go on, even if it means sacrificing a few friends.</text>
 			<set rarity="common" picurl="https://mattelonian.github.io/sets/MVX-files/img/6.png" num="1">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -736,8 +736,8 @@ Legacy {1}{U} (You may cast this transformed from your graveyard for its legacy 
 		</card>
 		<card>
 			<name>Enchanted Quill</name>
-			<text>Equipped creature gets +1/+0.
-When this Equipment enters, you may draw a card. If you do, discard a card.
+			<text>When this Equipment enters, you may draw a card. If you do, discard a card.
+Equipped creature gets +1/+0.
 Equip {1}
 ---
 (Front): Prolific Novelist</text>
@@ -1172,7 +1172,7 @@ When this creature dies, create three 1/1 Gnome artifact creature tokens.</text>
 		<card>
 			<name>Fanciful Flier</name>
 			<text>Flying
-Regale — This creature gets +1/+1. (Activate only if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+Regale — This creature gets +1/+1. (You&apos;re regaling if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
 			<set rarity="common" picurl="https://mattelonian.github.io/sets/MVX-files/img/63.png" num="47">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1354,7 +1354,7 @@ Equip {2}
 		</card>
 		<card>
 			<name>Merry Troubadour</name>
-			<text>Regale — This creature gets +1/+1. (Activate only if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+			<text>Regale — This creature gets +1/+1. (You&apos;re regaling if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
 			<set rarity="common" picurl="https://mattelonian.github.io/sets/MVX-files/img/72.png" num="133">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1847,7 +1847,7 @@ Enchanted creature gets +1/+1.</text>
 		<card>
 			<name>Tavern Talesmith</name>
 			<text>Trample
-Regale — This creature gets +1/+1. (Activate only if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+Regale — This creature gets +1/+1. (You&apos;re regaling if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
 			<set rarity="common" picurl="https://mattelonian.github.io/sets/MVX-files/img/97.png" num="177">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -1865,7 +1865,7 @@ Regale — This creature gets +1/+1. (Activate only if you&apos;ve cast a noncre
 		<card>
 			<name>Flamethumper</name>
 			<text>Trample, haste
-Regale — This creature gets +2/+2. (Activate only if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
+Regale —This creature gets +2/+2. (You&apos;re regaling if you&apos;ve cast a noncreature spell or put a counter on a noncreature permanent this turn.)</text>
 			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/MVX-files/img/98.png" num="202">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -2160,7 +2160,7 @@ When this creature exploits, you draw two cards and you lose 2 life.</text>
 		</card>
 		<card>
 			<name>Discouraging Flop</name>
-			<text>Exploit (When this permanent enters, you may sacrifice a creature.)
+			<text>Exploit (When this enchantment enters, you may sacrifice a creature.)
 When this enchantment enters or exploits, creatures your opponents control get -1/-1 until end of turn.
 Whenever a creature an opponent controls dies, you gain 1 life.</text>
 			<set rarity="uncommon" picurl="https://mattelonian.github.io/sets/MVX-files/img/114.png" num="81">MVX</set>
@@ -3728,7 +3728,7 @@ Whenever another enchantment you control enters, put a +1/+1 counter on this enc
 			<name>Balcony Chanteur</name>
 			<text>Flying
 Exploit (When this creature enters, you may sacrifice a creature.)
-When this creature, target creature gets +2/+2 and gains flying, first strike, vigilance, and lifelink until end of turn.</text>
+When this creature exploits, target creature gets +2/+2 and gains flying, vigilance, and lifelink until end of turn.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/198.png" num="1">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4264,7 +4264,7 @@ Legacy {3}{W} (You may cast this transformed from your graveyard for its legacy 
 		<card>
 			<name>Gastronomical Hubris</name>
 			<text>This enchantment enters with up to three hunger counters on it.
-At the beginning of your upkeep, you lose X life and choose up to X, where X is the number of hunger counters on this —
+At the beginning of your upkeep, you lose X life and choose up to X, where X is the number of hunger counters on this enchantment —
 • Target creature gets -1/-1 until end of turn.
 • Create a 1/1 green Plant creature token.
 • Create a Food token.</text>
@@ -4302,7 +4302,7 @@ At the beginning of your upkeep, you lose X life and choose up to X, where X is 
 		</card>
 		<card>
 			<name>Chorus Machine</name>
-			<text>Whenever a nontoken, nonland permanent you control enters, if it wasn&apos;t cast from your hand, put a harmony counter on Chorus Machine.
+			<text>Whenever a nonland, nontoken permanent you control enters, if it wasn&apos;t cast from your hand, put a harmony counter on this artifact.
 {B}, {T}, Remove X harmony counters from this artifact and sacrifice it: You draw X cards and you lose X life.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/229.png" num="78">MVX</set>
 			<prop>
@@ -4415,7 +4415,7 @@ When a creature you control next enters this turn, put a +1/+1 counter on it.
 		<card>
 			<name>Green Thumbed Growth</name>
 			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-Feast — As long as you&apos;ve gained life or created a token this turn, Green Thumbed Growth has flashback {G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Feast — As long as you&apos;ve gained life or created a token this turn, this card has flashback {G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://mattelonian.github.io/sets/MVX-files/img/234.png" num="163">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4807,7 +4807,7 @@ Delirium — If there are four or more card types among cards in your graveyard,
 		</card>
 		<card>
 			<name>Inkshaping</name>
-			<text>Whenever you cast a multicolored spell, you may copy that spell. You may choose new targets for the copy. (Copies of permanent spells enter as tokens.)
+			<text>Whenever you cast a multicolored spell, you may copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
 {1}{U}, Discard this card: Create a 2/1 blue Inkling creature token with flying. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/255.png" num="55">MVX</set>
 			<prop>
@@ -5572,8 +5572,8 @@ If {R} was spent to cast this spell, create a 1/1 black Vampire Actor creature t
 		</card>
 		<card>
 			<name>Arbiter of Taste</name>
-			<text>Ward—Pay 3 life.
-Menace
+			<text>Menace
+Ward—Pay 3 life.
 Whenever an opponent gains life, put a +1/+1 counter on this creature.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/298.png" num="109">MVX</set>
 			<prop>
@@ -5666,7 +5666,8 @@ Whenever this creature attacks, you lose 3 life unless you sacrifice a creature.
 		<card>
 			<name>Coax the Worldsongs</name>
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Create a 4/4 red Dragon enchantment creature token with flying and &quot;{R}: This token gets +1/+0 until end of turn.&quot;
+Create a 4/4 
+red Dragon enchantment creature token with flying and &quot;{R}: This creature gets +1/+0 until end of turn.&quot;
 Target creature you control deals damage equal to its power to up to one nonplayer target.
 Add six {R}.</text>
 			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/MVX-files/img/303.png" num="113">MVX</set>
@@ -5702,7 +5703,7 @@ When this creature enters, if you cast it, draw X cards, where X is the number o
 		</card>
 		<card>
 			<name>First Chair Violinist</name>
-			<text>Exploit, exploit, exploit, exploit (When this enters, for each exploit, you may sacrifice a creature. Exploits trigger sequentially.)
+			<text>Exploit, exploit, exploit, exploit (When this creature enters, for each exploit, you may sacrifice a creature. Exploits trigger sequentially.)
 Whenever a permanent you control exploits, exile the top card of target opponent&apos;s library face down. You may look at and play that card for as long as it remains exiled, and mana of any type can be spent to cast it.</text>
 			<set rarity="mythic" picurl="https://mattelonian.github.io/sets/MVX-files/img/305.png" num="89">MVX</set>
 			<prop>
