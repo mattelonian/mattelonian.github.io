@@ -1,4 +1,85 @@
-﻿VERSION 38 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+Rushed Production
+
+Second Showing
+
+Michel, Strummer of Heartstrings
+
+Retrospection
+
+Waxbreath Youngling
+
+Arboreal Artist
+
+Ambrosian Tower
+
+Festival Revelry
+
+Hymn to the Wilds
+
+Stew
+
+Reconceptualize
+
+Gustatorie Mixer
+
+Redesign
+
+Elaphia, Full of Wonder
+
+The Founding of the City
+
+Serenade
+
+Lament
+
+Tidy Up
+
+Stage Fright
+rules_text: Flash
+When this enchantment enters, if you cast it, exile target creature until this enchantment leaves the battlefield. At the beginning of the next end step, sacrifice a creature or this enchantment. => When this enchantment enters, if you cast it, exile target creature until this enchantment leaves the battlefield. At the beginning of the next end step, sacrifice a creature or this enchantment.
+
+Dishearten
+
+Far-off Places
+rules_text: If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only as a sorcery. => If you would draw one or more cards, instead draw twice that many cards, then discard a card.
+{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only as a sorcery.
+
+Secret Ingredients
+
+Dramatis Personae
+
+Onerous Old-Timer
+
+Coax the Worldsongs
+
+Parapet Percher
+
+Iterate Over
+
+Marquis Vaasco de Moraes
+
+The Flourishing
+
+Brasio, Bardic Chronicler
+
+Frymaster's Pan
+
+Pascal, Critics' Favorite
+
+The Rejection of the Monarchy
+
+Odette L'or, Fickle Painter
+rules_text: Whenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying. => Ward {1}
+Whenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying.
+
+
+VERSION 38 CHANGELOG
 ====================
 
 

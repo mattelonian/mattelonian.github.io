@@ -7304,7 +7304,7 @@
             "color_identity": "WR",
             "cost": "{1}{W}",
             "rules_text": "Create two 1/1 colorless Gnome artifact creature tokens.\nIf {R} was spent to cast this spell, they gain haste until end of turn.",
-            "flavor_text": "[i]Much to the chagrin of more entrenched artisans, many artificers will slap together gnomes as needed out of junk.[/i]",
+            "flavor_text": "[i]Much to the chagrin of more established artisans, many artificers will slap together gnomes as needed out of junk.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -9214,7 +9214,7 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": "human\nfieldflag",
+            "notes": "human\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9410,7 +9410,7 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": "!sort 1commanderbait\nrat / mouse",
+            "notes": "!sort 1commanderbait\nrat / mouse\nFIELDTESTFLAG\ndrop haste?",
             "image_type": "png",
             "v_mana": ""
         },
@@ -9836,7 +9836,7 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": "",
+            "notes": "FIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10089,7 +10089,7 @@
             "alias": "",
             "position": "152",
             "rotated": false,
-            "notes": "FIELDFLAG\nCHANGEFLAG\nGUEST",
+            "notes": "GUEST",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10332,17 +10332,17 @@
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Reach\nWhen this creature dies, mill three cards, then you may return a land card from your graveyard to your hand.",
-            "flavor_text": "[i]The city's parks occupy a lot of space, but its inhabitants rarely complain.[/i]",
+            "flavor_text": "[i]FT\nFT[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
             "set": "MVX",
             "loyalty": "",
-            "artist": "Sandara Tang",
+            "artist": "Bryan c Syme",
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": "",
+            "notes": "FTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10434,7 +10434,7 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": "!sort 3cae",
+            "notes": "!sort 3cae\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10595,7 +10595,7 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": "",
+            "notes": "FIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10756,7 +10756,7 @@
             "alias": "",
             "position": "181",
             "rotated": false,
-            "notes": "",
+            "notes": "FIELDTESTFLAG\nto sorcery?",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10825,7 +10825,7 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": "fieldflag\nchangeflag",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -10848,7 +10848,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": "",
+            "notes": "FIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11193,7 +11193,7 @@
             "alias": "",
             "position": "200",
             "rotated": false,
-            "notes": "FIELDFLAG\nchangeflag",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11423,7 +11423,7 @@
             "alias": "",
             "position": "210",
             "rotated": false,
-            "notes": "human\nKILLFLAG",
+            "notes": "human",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11849,7 +11849,7 @@
             "alias": "",
             "position": "228",
             "rotated": false,
-            "notes": "!sort 2cwalker\nCHANGEFLAG\nsatyr",
+            "notes": "!sort 2cwalker\nFIELDTESTFLAG\nsatyr",
             "image_type": "png",
             "v_mana": ""
         },
@@ -11976,7 +11976,7 @@
             "alias": "",
             "position": "233",
             "rotated": false,
-            "notes": "KILLFLAG",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12022,7 +12022,7 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": "!tag wishlist\nFIELDFLAG",
+            "notes": "!tag wishlist\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12114,7 +12114,7 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": "changeflag",
+            "notes": "FIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12206,7 +12206,7 @@
             "alias": "",
             "position": "243",
             "rotated": false,
-            "notes": "goblin\nFIELDFLAG\nchangeflag",
+            "notes": "goblin",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12506,8 +12506,8 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Flash\nWhen this enchantment enters, if you cast it, exile target creature until this enchantment leaves the battlefield. At the beginning of the next end step, sacrifice a creature or this enchantment.",
-            "flavor_text": "[i][/i]",
+            "rules_text": "When this enchantment enters, if you cast it, exile target creature until this enchantment leaves the battlefield. At the beginning of the next end step, sacrifice a creature or this enchantment.",
+            "flavor_text": "[i]FT\nFT[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -12517,7 +12517,7 @@
             "alias": "",
             "position": "256",
             "rotated": false,
-            "notes": "",
+            "notes": "FIELDTESTFLAG\ngive it ft if it works\nFTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12540,7 +12540,7 @@
             "alias": "",
             "position": "257",
             "rotated": false,
-            "notes": "human?\nfieldflag\nchangeflag",
+            "notes": "human?\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -12644,7 +12644,7 @@
             "number": 200,
             "color_identity": "UBG",
             "cost": "{2}{B}{G}{U}",
-            "rules_text": "If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.\n{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only as a sorcery.",
+            "rules_text": "If you would draw one or more cards, instead draw twice that many cards, then discard a card.\n{X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that's a copy of it. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -12655,7 +12655,7 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": "!exportname Far-off Places\n!sort 3cae",
+            "notes": "!exportname Far-off Places\n!sort 3cae\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13173,7 +13173,7 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": "FIELDFLAG\nchangeflag\nnick: inedible virtue\ndwarf",
+            "notes": "nick: inedible virtue\ndwarf",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13265,7 +13265,7 @@
             "alias": "",
             "position": "288",
             "rotated": false,
-            "notes": "!tag wishlist\nchangeflag\nfieldflag",
+            "notes": "!tag wishlist\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13587,7 +13587,7 @@
             "alias": "",
             "position": "302",
             "rotated": false,
-            "notes": "operahouse\nfieldflag\nchangeflag",
+            "notes": "operahouse",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13610,7 +13610,7 @@
             "alias": "",
             "position": "303",
             "rotated": false,
-            "notes": "troubadours\nnick: imagine dragon\nchangeflag\nfieldflag",
+            "notes": "troubadours\nnick: imagine dragon",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13748,7 +13748,7 @@
             "alias": "",
             "position": "309",
             "rotated": false,
-            "notes": "HYBRID\nKILLFLAG 2/3",
+            "notes": "HYBRID",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13794,7 +13794,7 @@
             "alias": "",
             "position": "311",
             "rotated": false,
-            "notes": "FIELDFLAG\nchangeflag",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13887,7 +13887,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!sort mythicflip\nchangeflag",
+            "notes": "!sort mythicflip",
             "image_type": "png",
             "v_mana": ""
         },
@@ -13980,7 +13980,7 @@
             "alias": "",
             "position": "317",
             "rotated": false,
-            "notes": "changeflag",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14015,7 +14015,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "!sort mythicflip\n!tag wishlist\nchangeflag\nfieldflag",
+            "notes": "!sort mythicflip\n!tag wishlist\nFIELDTESTFLAG",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14038,7 +14038,7 @@
             "alias": "",
             "position": "319",
             "rotated": false,
-            "notes": "!sort 2cae\nchangeflag\nfieldflag\nFeast \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\nT, Remove an oil counter from Frymaster's Pan: Add B or G.\nT, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",
+            "notes": "!sort 2cae\nFeast \u2014 Whenever you gain life or create a token, put an oil counter on Frymaster's Pan.\nT, Remove an oil counter from Frymaster's Pan: Add B or G.\nT, Remove an oil counter from Frymaster's Pan: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14061,7 +14061,7 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": "!sort 2cwalker\nchangeflag\nfieldflag\ngoblin",
+            "notes": "!sort 2cwalker\nFIELDTESTFLAG\ngoblin",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14084,7 +14084,7 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": "FIELDFLAG\nCHANGEFLAG",
+            "notes": "",
             "image_type": "png",
             "v_mana": ""
         },
@@ -14119,7 +14119,7 @@
             "number": 224,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
-            "rules_text": "Whenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying.",
+            "rules_text": "Ward {1}\nWhenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying.",
             "flavor_text": "[i]\u201cArt isn't an assignment, or an obligation. It's fun, so have fun with it!\u201d[/i]",
             "pt": "1/4",
             "special_text": "",
@@ -14130,7 +14130,7 @@
             "alias": "",
             "position": "323",
             "rotated": false,
-            "notes": "!sort 1commanderbait\nchangeflag",
+            "notes": "!sort 1commanderbait\nFIELDTESTFLAG\ncan i give her ward 1 back",
             "image_type": "png",
             "v_mana": ""
         },

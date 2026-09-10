@@ -5,7 +5,7 @@
 			<name>MVX</name>
 			<longname>Merveaux</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-09</releasedate>
+			<releasedate>2026-09-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4824,8 +4824,7 @@ Delirium — If there are four or more card types among cards in your graveyard,
 		</card>
 		<card>
 			<name>Stage Fright</name>
-			<text>Flash
-When this enchantment enters, if you cast it, exile target creature until this enchantment leaves the battlefield. At the beginning of the next end step, sacrifice a creature or this enchantment.</text>
+			<text>When this enchantment enters, if you cast it, exile target creature until this enchantment leaves the battlefield. At the beginning of the next end step, sacrifice a creature or this enchantment.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/256.png" num="32">MVX</set>
 			<prop>
 				<layout>normal</layout>
@@ -4930,7 +4929,7 @@ Regale — {2}{R}: Return this card from your graveyard to the battlefield. (Act
 		</card>
 		<card>
 			<name>Far-off Places</name>
-			<text>If you would draw one or more cards, instead draw twice that many cards, then discard that many cards.
+			<text>If you would draw one or more cards, instead draw twice that many cards, then discard a card.
 {X}, {T}: Exile target permanent card from your graveyard with mana value X. Create a token that&apos;s a copy of it. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/262.png" num="200">MVX</set>
 			<prop>
@@ -6162,7 +6161,8 @@ Once each turn, when you cast an artifact spell, you may draw a card.</text>
 		</card>
 		<card>
 			<name>Odette L&apos;or, Fickle Painter</name>
-			<text>Whenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying.</text>
+			<text>Ward {1}
+Whenever you cast a multicolored spell, create a 2/1 blue Inkling creature token with flying.</text>
 			<set rarity="rare" picurl="https://mattelonian.github.io/sets/MVX-files/img/323.png" num="224">MVX</set>
 			<prop>
 				<layout>normal</layout>
