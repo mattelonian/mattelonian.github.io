@@ -1,4 +1,598 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Hungering Lights
+
+Skullcreeper Blossom
+
+Gorehorn Baloth
+
+Bloodmark Beetle
+
+Carrion Shrieker
+
+Sporespewer
+
+Gore
+
+Drag Below
+
+Hyperventilate
+
+Toskari Lookout
+
+Crystalglow Brute
+
+Pinewreathed Prowler
+
+King of the Forest
+
+Suffuse with Power
+
+Magmashell Turtle
+
+Volcanic Toad
+rules_text: When this creature enters, choose one —
+• It deals 2 damage to each opponent.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature enters, choose one —
+• It deals 2 damage to each opponent.
+• Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Dolnjar Crusher
+
+Spirit of the Canyon
+
+Conflagration Wurm
+
+Volatile Leap
+
+Ephemeral Civet
+
+Everfrost Hawk
+
+Adventurous Ursine
+
+Wavecrash Colossus
+
+Luminous Communion
+
+Return to Aether
+
+Berry Picker
+
+Pack Scrounger
+
+Witness of the Skies
+
+Toskari Hero
+
+Infused Owlbear
+
+Dawnfeather Roc
+
+Protector of the Meek
+
+Pick Off
+
+The Self Is A Reflection
+
+Prismatic Rage
+
+Lone Spirit
+
+Rampaging Hipposaur
+
+Stampede of Beasts
+
+Quiet Never Truly Falls
+
+Crest the Stars
+
+Stalk the Mind
+
+Manablossom
+
+Final Confrontation
+
+Hunter of Streams
+
+Unearthed Past
+
+Burn the Sky Down
+
+Howl of Ancestry
+
+Dolnjar Terror
+
+Molten Infusion
+
+Shardback Leviathan
+
+Manahunter Griffin
+
+Vali's Yearning
+
+Writ in Starlight
+
+Aethergorged Condor
+
+Step Among Clouds
+
+Trek Upwards
+
+Wandering Lustre
+
+Eiyo's Guardian
+rules_text: Trample
+{3}, Discard Eiyo's Guardian: Draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Trample
+{3}, Discard Eiyo's Guardian: Draw a card and create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Igneous Tiger
+
+Return Through Rot
+
+Starvation
+
+The Mind's Eye Slips All Bonds
+
+Aether Parasite
+
+Skolweald Veteran
+
+Cragskin Rhino
+
+Firebelly Frogan
+
+Crystal Carapace
+
+Mire Blossoms
+
+Memories of Forgotten Heroes
+
+Luminous Fen
+
+Luminous Peaks
+
+Luminous Copse
+
+Ashcrystal Moloch
+
+Slag Gorger
+
+Solar Eclipse
+
+Young Hipposaur
+
+Tidemare
+
+Borealis Swimmer
+
+Icicle Tromper
+
+Fledgeling Forager
+
+Polar Moose
+
+Apprentice Luminant
+
+Run with the Spirit Pack
+
+Prey On The Frailty of Strength
+
+Passion's Warmth Burns
+
+The Careful Designs of Instinct
+
+The Forest Of A Tree
+
+Swooping Strix
+
+Lies Are Themselves A Truth
+
+Walker of Starlit Paths
+
+Hellfire Maw
+
+Empyrean Stalker
+
+Fungal Glow
+
+The Reflection Gazes Back
+
+Time's Waves Ripple
+
+Permanence Is Temporary
+
+The Unseen Eternity of Night
+
+The Body Masters The Mind
+
+The Sun Rises As It Falls
+
+The Circle Of Life Is A Spiral
+
+The End of Infinity
+
+The Space Between Moments
+
+Growth Is Mere Perspective
+
+Bask in Sunlight
+
+Veil of the Aurora
+
+Touch of Flame
+
+Majestic Frosthorn
+
+Invoke the Lights
+
+Phoenixfire
+
+Radiant Rebuff
+
+Inferno Breath
+
+Lifter Griffin
+
+Grassland Jackalope
+
+Honeyfield Shepherd
+
+Wyrmsbane
+
+Vanguard Longsword
+
+Deathbloom
+
+Ambling Dewdrop
+
+Lustrous Lurker
+
+Plaguewolf
+
+Charging Visceram
+
+Gloomstep Panther
+
+PROMO Wayfarer's Shrine
+
+Lurking in the Shallows
+
+Feverbloom
+
+To Fall Forever Is To Fly
+
+Adaptive Combat
+
+Omen of Woe
+rules_text: Whenever this creature deals combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Whenever this creature deals combat damage to a player, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Luminous Sheets
+
+The Illusion of a Chill
+
+Reefcrown Drake
+
+Efferpheasant
+
+Bloomwarden
+
+Treetop Pangolin
+
+The Moon Howls Back
+
+Aether Scrounger
+
+Elemental Burst
+
+Fox of the Verdant Grove
+
+Kitstealer
+
+Flamewalker Hart
+
+Glimmerstalker
+
+Myriad Shades of Silence
+
+The Unending Never Began
+
+Become What Always Was
+
+Skolweald Vanguard
+
+A Calm Rage Simmers
+
+Pouncing Jackewolf
+
+Rocktusk Boar
+rules_text: When this creature dies, surveil 1, then create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When this creature dies, surveil 1, then create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Parasitize
+
+Hunted by the Pack
+
+Gemeye Crab
+
+Tunnelling Slugmole
+
+Distraction
+
+Transfixed by Wonder
+
+Curiosity
+
+Light of the Phoenix
+
+Crystal Breath
+rules_text: Crystal Breath deals 4 damage to any nonplayer target.
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Crystal Breath deals 4 damage to any nonplayer target.
+Create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Violent Thrash
+
+Cosmic Figment
+
+Verdant Bloom
+
+Imbued with Aether
+rules_text: Enchant creature
+Enchanted creature gets +2/+1.
+When this Aura enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Enchant creature
+Enchanted creature gets +2/+1.
+When this Aura enters, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Eddies In The Stream Of Fate
+
+Unity Through Difference
+
+Peculiar Pollywogs
+
+Only Love Births True Hate
+
+Toskari Aetherblade
+
+Nurturing Shelter
+
+Pondstepper Chick
+
+Repel with Flame
+
+Vulpine Razer
+
+Mold Frog
+
+Refraction Lynx
+
+Ascend
+
+Glow
+
+Toskari Trueshot
+
+Essence Gouger
+
+Bloodleecher Drake
+
+Effigy of Tranquility
+
+Effigy of Shelter
+
+Autumn Strider
+
+Suffocate in Aether
+
+Shadecrawler
+
+Shimmer Pack
+
+Keep Vigil
+
+Spirits' Protection
+
+Aether Invigoration
+
+Wings of the Aurora
+
+Gemstone Tyrant
+
+Return from Ash
+
+Firemane Charger
+
+Gilded Flower
+
+Borewurm
+
+Cruel Survival
+
+Phantasmal Stride
+
+Spirits of the Weald
+
+Fluffle
+
+Luminous Pasture
+
+Start Over
+
+Banefeather Griffin
+
+Chosen of the Heavens
+
+Craneriders
+
+Beyond the Aurora
+
+Lifestep Caribou
+
+Dawn's Inexorable Creep
+
+A Fragment Contains The Whole
+
+Transplanar Epiphany
+
+Territorial Arynx
+
+Aspect of Radiance
+
+Eiyo's Understanding
+
+Wei Ji's Judgement
+
+Prowling Wolfshark
+
+Celestial Swallower
+
+Frostarmor Wolf
+
+Forgotten Idol
+
+Herald the End
+
+Florescence
+
+Infected Touch
+
+Aetherflame Pouncer
+
+Fall for the Bait
+
+Seek the Rift
+
+Dandecrab
+
+Simul's Exploration
+
+Rend and Tear
+
+Light Too Casts Shadow
+
+The Still Breeze Blows
+
+Alexa's Catharsis
+
+Coruscating Lynx
+
+Prophetic Prism
+
+Predate the Skies
+
+Berryfield Drakeling
+
+Negate
+
+Fleeting Memories
+
+Manifest from Beyond
+
+Doln, End of All Things
+
+Wayfarer's Shrine
+
+Lucent Quag
+
+Sundappled Cove
+
+Glistering Canopy
+
+Frosthorn Akhos
+
+Elk Token
+
+Wolf Token
+
+Boreal Expanse
+
+Celestial Grotto
+
+Bird Token
+
+Infernal Morass
+
+Spiring Rime
+
+Flowering Vista
+
+Autumnal Thicket
+
+Shrouded Heath
+
+Eiyo Ascendant
+
+Stormshrike
+
+Autumnal Summons
+
+Humiliate
+
+Elemental Token
+
+Vali the Curious
+
+Rabbit Token
+
+Tectonic Hazard
+
+AUR DRAFT ARCHETYPES
+
+Plant Token
+
+Beast Token
+
+Treasure Token
+
+Aurora Reminder
+
+Everywhere
+
+Dreadbore
+
+Silence of the Drowned
+
+Aetherflame Hunting
+
+Winter's Stash
+
+Hydroid Krasis
+
+Fungus Token
+
+Quag Festerer
+
+Simul, Aether Scholar
+
+Crocodile Token
+
+The Dreadmold
+
+Askalla, Stars' Conduit
+
+Skorag, Toskari Elder
+
+Beast Avatar
+
+Unbreakable Ironhide
+
+Perdition Mare
+
+Wei Ji of the Veil
+
+Swamp Forest Token
+
+Bear Token
+
+Squirrel Token
+
+Alexa, Whose Steps Blossom
+
+Vorzanthirax, the Riftdweller
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

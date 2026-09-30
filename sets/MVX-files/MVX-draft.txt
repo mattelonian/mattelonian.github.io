@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}",
 			"type": "Creature — Vampire Actor Warlock",
-			"collector_number": "257",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Artifact Creature — Food Cat",
-			"collector_number": "260",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}",
 			"type": "Artifact Creature — Cat",
-			"collector_number": "258",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Dwarf Druid",
-			"collector_number": "253",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/4.png"
 			}
@@ -55,19 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U/R}",
 			"type": "Creature — Elf Bard",
-			"collector_number": "252",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/5.png"
-			}
-		},
-		{
-			"name": "MVX DRAFT ARCHETYPES",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/6.png"
 			}
 		},
 		{
@@ -75,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Bard Warlock",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/7.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/6.png"
 			}
 		},
 		{
@@ -85,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Angel Artificer",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/8.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/7.png"
 			}
 		},
 		{
@@ -95,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Artifact Creature — Cat Dog Scarecrow",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/9.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/8.png"
 			}
 		},
 		{
@@ -105,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/10.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/9.png"
 			}
 		},
 		{
@@ -115,29 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/11.png"
-			}
-		},
-		{
-			"name": "Creativity",
-			"rarity": "mythic",
-			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Enchantment Creature — Incarnation",
-			"collector_number": "195",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/12.png"
-			}
-		},
-		{
-			"name": "Lyon, Aged Inventor",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}{U}",
-			"type": "Legendary Planeswalker — Lyon",
-			"collector_number": "219",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/13.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/10.png"
 			}
 		},
 		{
@@ -147,7 +117,7 @@
 			"type": "Land",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/14.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/11.png"
 			}
 		},
 		{
@@ -157,7 +127,7 @@
 			"type": "Land",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/15.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/12.png"
 			}
 		},
 		{
@@ -167,7 +137,7 @@
 			"type": "Land",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/16.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/13.png"
 			}
 		},
 		{
@@ -177,7 +147,7 @@
 			"type": "Land",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/17.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/14.png"
 			}
 		},
 		{
@@ -187,7 +157,7 @@
 			"type": "Land",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/18.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/15.png"
 			}
 		},
 		{
@@ -195,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/19.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/16.png"
 			}
 		},
 		{
@@ -205,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "289",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/20.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/17.png"
 			}
 		},
 		{
@@ -215,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/21.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/18.png"
 			}
 		},
 		{
@@ -225,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "290",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/22.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/19.png"
 			}
 		},
 		{
@@ -235,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/23.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/20.png"
 			}
 		},
 		{
@@ -245,9 +215,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/24.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/21.png"
 			}
 		},
 		{
@@ -255,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/25.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/22.png"
 			}
 		},
 		{
@@ -265,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/26.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/23.png"
 			}
 		},
 		{
@@ -275,9 +245,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/27.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/24.png"
 			}
 		},
 		{
@@ -285,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "276",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/28.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/25.png"
 			}
 		},
 		{
@@ -295,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "300",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/29.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/26.png"
 			}
 		},
 		{
@@ -305,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "303",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/30.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/27.png"
 			}
 		},
 		{
@@ -315,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/31.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/28.png"
 			}
 		},
 		{
@@ -325,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "277",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/32.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/29.png"
 			}
 		},
 		{
@@ -335,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "162",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/33.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/30.png"
 			}
 		},
 		{
@@ -345,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Sorcery",
-			"collector_number": "42",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/34.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/31.png"
 			}
 		},
 		{
@@ -355,9 +325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/35.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/32.png"
 			}
 		},
 		{
@@ -365,9 +335,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/36.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/33.png"
 			}
 		},
 		{
@@ -375,9 +345,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Food Elemental",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/37.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/34.png"
 			}
 		},
 		{
@@ -385,26 +355,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Bird",
-			"collector_number": "57",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/38.png"
-			}
-		},
-		{
-			"name": "Prolific Novelist",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Dwarf Artist Wizard",
-			"collector_number": "61",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/39_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/39_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/35.png"
 			}
 		},
 		{
@@ -412,9 +365,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/40.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/36.png"
 			}
 		},
 		{
@@ -422,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Warlock Druid",
-			"collector_number": "88",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/41.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/37.png"
 			}
 		},
 		{
@@ -432,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire Actor Warlock",
-			"collector_number": "73",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/42.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/38.png"
 			}
 		},
 		{
@@ -442,9 +395,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "97",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/43.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/39.png"
 			}
 		},
 		{
@@ -452,9 +405,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "87",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/44.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/40.png"
 			}
 		},
 		{
@@ -462,9 +415,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact",
-			"collector_number": "94",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/45.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/41.png"
 			}
 		},
 		{
@@ -472,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "100",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/46.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/42.png"
 			}
 		},
 		{
@@ -482,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
-			"collector_number": "77",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/47.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/43.png"
 			}
 		},
 		{
@@ -492,26 +445,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/48.png"
-			}
-		},
-		{
-			"name": "Aspiring Performer",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Creature — Human Actor Warlock",
-			"collector_number": "74",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/49_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/49_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/44.png"
 			}
 		},
 		{
@@ -519,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Azra Bard Warlock",
-			"collector_number": "132",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/50.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/45.png"
 			}
 		},
 		{
@@ -529,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Gnome",
-			"collector_number": "122",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/51.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/46.png"
 			}
 		},
 		{
@@ -539,9 +475,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Bard",
-			"collector_number": "124",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/52.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/47.png"
 			}
 		},
 		{
@@ -549,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/53.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/48.png"
 			}
 		},
 		{
@@ -559,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/54.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/49.png"
 			}
 		},
 		{
@@ -569,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/55.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/50.png"
 			}
 		},
 		{
@@ -579,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Orc Wizard",
-			"collector_number": "166",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/56.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/51.png"
 			}
 		},
 		{
@@ -589,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "271",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/57.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/52.png"
 			}
 		},
 		{
@@ -599,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Bird",
-			"collector_number": "262",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/58.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/53.png"
 			}
 		},
 		{
@@ -609,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Gnome",
-			"collector_number": "268",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/59.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/54.png"
 			}
 		},
 		{
@@ -619,19 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Food",
-			"collector_number": "273",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/60.png"
-			}
-		},
-		{
-			"name": "Prophetic Prism",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact",
-			"collector_number": "272",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/61.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/55.png"
 			}
 		},
 		{
@@ -639,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Azra Bard",
-			"collector_number": "72",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/62.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/56.png"
 			}
 		},
 		{
@@ -649,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bird Bard",
-			"collector_number": "47",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/63.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/57.png"
 			}
 		},
 		{
@@ -659,9 +585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Human Artist Wizard",
-			"collector_number": "203",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/64.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/58.png"
 			}
 		},
 		{
@@ -669,9 +595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Creature — Azra Bard Warlock",
-			"collector_number": "196",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/65.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/59.png"
 			}
 		},
 		{
@@ -679,9 +605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Ogre Ranger",
-			"collector_number": "249",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/66.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/60.png"
 			}
 		},
 		{
@@ -689,9 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "221",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/67.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/61.png"
 			}
 		},
 		{
@@ -699,9 +625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Devil Druid",
-			"collector_number": "245",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/68.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/62.png"
 			}
 		},
 		{
@@ -709,9 +635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "204",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/69.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/63.png"
 			}
 		},
 		{
@@ -719,26 +645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Azra Bard",
-			"collector_number": "246",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/70.png"
-			}
-		},
-		{
-			"name": "Keen Guardcog",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Dog",
-			"collector_number": "18",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/71_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/71_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/64.png"
 			}
 		},
 		{
@@ -746,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Bard",
-			"collector_number": "133",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/72.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/65.png"
 			}
 		},
 		{
@@ -756,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Dragon",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/73.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/66.png"
 			}
 		},
 		{
@@ -766,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Gnome Artist Wizard",
-			"collector_number": "154",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/74.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/67.png"
 			}
 		},
 		{
@@ -776,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Artifact Creature — Food Elemental",
-			"collector_number": "153",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/75.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/68.png"
 			}
 		},
 		{
@@ -786,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "155",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/76.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/69.png"
 			}
 		},
 		{
@@ -796,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "128",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/77.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/70.png"
 			}
 		},
 		{
@@ -806,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Azra Advisor",
-			"collector_number": "93",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/78.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/71.png"
 			}
 		},
 		{
@@ -816,19 +725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Gnome Artificer",
-			"collector_number": "54",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/79.png"
-			}
-		},
-		{
-			"name": "Jacques, Harsh Conductor",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Bard",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/80.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/72.png"
 			}
 		},
 		{
@@ -836,19 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "45",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/81.png"
-			}
-		},
-		{
-			"name": "Blood Artist",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Vampire Artist",
-			"collector_number": "76",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/82.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/73.png"
 			}
 		},
 		{
@@ -856,26 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Satyr Bard",
-			"collector_number": "134",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/83.png"
-			}
-		},
-		{
-			"name": "Skillful Landscapist",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Artist Wizard",
-			"collector_number": "65",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/84_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/84_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/74.png"
 			}
 		},
 		{
@@ -883,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "43",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/85.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/75.png"
 			}
 		},
 		{
@@ -893,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "46",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/86.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/76.png"
 			}
 		},
 		{
@@ -903,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Gnome Artificer",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/87.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/77.png"
 			}
 		},
 		{
@@ -913,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Artificer Advisor",
-			"collector_number": "36",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/88.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/78.png"
 			}
 		},
 		{
@@ -923,19 +795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact — Food",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/89.png"
-			}
-		},
-		{
-			"name": "Sunstreet Clocktower",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact — Building",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/90.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/79.png"
 			}
 		},
 		{
@@ -943,26 +805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/91.png"
-			}
-		},
-		{
-			"name": "Gustatorie Tastemaker",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Elf Druid",
-			"collector_number": "165",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/92_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/92_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/80.png"
 			}
 		},
 		{
@@ -970,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Cat Bard",
-			"collector_number": "164",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/93.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/81.png"
 			}
 		},
 		{
@@ -980,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "149",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/94.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/82.png"
 			}
 		},
 		{
@@ -990,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "168",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/95.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/83.png"
 			}
 		},
 		{
@@ -1000,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Dwarf Ranger",
-			"collector_number": "158",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/96.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/84.png"
 			}
 		},
 		{
@@ -1010,9 +855,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Orc Bard",
-			"collector_number": "177",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/97.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/85.png"
 			}
 		},
 		{
@@ -1020,19 +865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Dragon Bard",
-			"collector_number": "202",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/98.png"
-			}
-		},
-		{
-			"name": "Opening Act",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Enchantment — Saga",
-			"collector_number": "226",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/99.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/86.png"
 			}
 		},
 		{
@@ -1040,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/100.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/87.png"
 			}
 		},
 		{
@@ -1050,39 +885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Dwarf Cleric",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/101.png"
-			}
-		},
-		{
-			"name": "Song of Creation",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}{U}{R}",
-			"type": "Enchantment",
-			"collector_number": "238",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/102.png"
-			}
-		},
-		{
-			"name": "Ironflow Forge",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Artifact — Building",
-			"collector_number": "214",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/103.png"
-			}
-		},
-		{
-			"name": "Niels, Cogmaster",
-			"rarity": "rare",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — Dwarf Artificer",
-			"collector_number": "223",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/104.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/88.png"
 			}
 		},
 		{
@@ -1090,19 +895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Artificer",
-			"collector_number": "117",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/105.png"
-			}
-		},
-		{
-			"name": "Heartblaze Theatre",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Artifact — Building",
-			"collector_number": "125",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/106.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/89.png"
 			}
 		},
 		{
@@ -1110,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/107.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/90.png"
 			}
 		},
 		{
@@ -1120,9 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Dragon Bard",
-			"collector_number": "137",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/108.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/91.png"
 			}
 		},
 		{
@@ -1130,9 +925,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment Creature — Dragon Illusion",
-			"collector_number": "115",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/109.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/92.png"
 			}
 		},
 		{
@@ -1140,9 +935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "144",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/110.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/93.png"
 			}
 		},
 		{
@@ -1150,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Creature — Elf Actor Warlock",
-			"collector_number": "237",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/111.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/94.png"
 			}
 		},
 		{
@@ -1160,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Artist Wizard",
-			"collector_number": "75",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/112.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/95.png"
 			}
 		},
 		{
@@ -1170,9 +965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Azra Actor Warlock",
-			"collector_number": "99",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/113.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/96.png"
 			}
 		},
 		{
@@ -1180,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "81",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/114.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/97.png"
 			}
 		},
 		{
@@ -1190,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/115.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/98.png"
 			}
 		},
 		{
@@ -1200,26 +995,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "161",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/116.png"
-			}
-		},
-		{
-			"name": "Dour Chorister",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{B}",
-			"type": "Creature — Vampire Actor Warlock",
-			"collector_number": "84",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/117_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/117_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/99.png"
 			}
 		},
 		{
@@ -1227,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Azra Druid",
-			"collector_number": "150",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/118.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/100.png"
 			}
 		},
 		{
@@ -1237,9 +1015,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment Creature — Wolf Illusion",
-			"collector_number": "180",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/119.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/101.png"
 			}
 		},
 		{
@@ -1247,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "178",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/120.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/102.png"
 			}
 		},
 		{
@@ -1257,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "206",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/121.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/103.png"
 			}
 		},
 		{
@@ -1267,139 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Enchantment Creature — Bird Illusion",
-			"collector_number": "39",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/122.png"
-			}
-		},
-		{
-			"name": "Michel, Strummer of Heartstrings",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Legendary Creature — Mouse Bard",
-			"collector_number": "222",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/123.png"
-			}
-		},
-		{
-			"name": "Bard",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Bard",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/124.png"
-			}
-		},
-		{
-			"name": "Boar",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Boar",
-			"collector_number": "9",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/125.png"
-			}
-		},
-		{
-			"name": "Dog",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Dog",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/126.png"
-			}
-		},
-		{
-			"name": "Elemental",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Elemental",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/127.png"
-			}
-		},
-		{
-			"name": "Food",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Food",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/128.png"
-			}
-		},
-		{
-			"name": "Gnome",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Gnome",
-			"collector_number": "16",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/129.png"
-			}
-		},
-		{
-			"name": "Inkling",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Inkling",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/130.png"
-			}
-		},
-		{
-			"name": "Plant",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Plant",
-			"collector_number": "10",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/131.png"
-			}
-		},
-		{
-			"name": "Sculpture",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Sculpture",
-			"collector_number": "17",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/132.png"
-			}
-		},
-		{
-			"name": "Thopter",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Thopter",
-			"collector_number": "18",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/133.png"
-			}
-		},
-		{
-			"name": "Treasure",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/134.png"
-			}
-		},
-		{
-			"name": "Vampire Actor",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Vampire Actor",
-			"collector_number": "4",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/135.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/104.png"
 			}
 		},
 		{
@@ -1407,26 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Artifact",
-			"collector_number": "147",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/136.png"
-			}
-		},
-		{
-			"name": "Stew Stirrer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid",
-			"collector_number": "175",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/137_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/137_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/105.png"
 			}
 		},
 		{
@@ -1434,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Gnome",
-			"collector_number": "275",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/138.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/106.png"
 			}
 		},
 		{
@@ -1444,9 +1075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "270",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/139.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/107.png"
 			}
 		},
 		{
@@ -1454,9 +1085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "264",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/140.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/108.png"
 			}
 		},
 		{
@@ -1464,9 +1095,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "171",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/141.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/109.png"
 			}
 		},
 		{
@@ -1474,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "172",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/142.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/110.png"
 			}
 		},
 		{
@@ -1484,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/143.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/111.png"
 			}
 		},
 		{
@@ -1494,9 +1125,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/144.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/112.png"
 			}
 		},
 		{
@@ -1504,9 +1135,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/145.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/113.png"
 			}
 		},
 		{
@@ -1514,19 +1145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "266",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/146.png"
-			}
-		},
-		{
-			"name": "Copy",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/147.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/114.png"
 			}
 		},
 		{
@@ -1534,9 +1155,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "295",
+			"collector_number": "311",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/148.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/115.png"
 			}
 		},
 		{
@@ -1544,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "292",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/149.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/116.png"
 			}
 		},
 		{
@@ -1554,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "291",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/150.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/117.png"
 			}
 		},
 		{
@@ -1564,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "293",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/151.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/118.png"
 			}
 		},
 		{
@@ -1574,9 +1195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Dragon Artificer",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/152.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/119.png"
 			}
 		},
 		{
@@ -1584,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "294",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/153.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/120.png"
 			}
 		},
 		{
@@ -1594,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "211",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/154.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/121.png"
 			}
 		},
 		{
@@ -1604,9 +1225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/155.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/122.png"
 			}
 		},
 		{
@@ -1614,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}{G}",
 			"type": "Creature — Azra Orc Druid",
-			"collector_number": "244",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/156.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/123.png"
 			}
 		},
 		{
@@ -1624,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "209",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/157.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/124.png"
 			}
 		},
 		{
@@ -1634,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Artifact Creature — Angel",
-			"collector_number": "184",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/158.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/125.png"
 			}
 		},
 		{
@@ -1644,19 +1265,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "51",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/159.png"
-			}
-		},
-		{
-			"name": "Concordia, Angel of Glass",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{U}",
-			"type": "Legendary Creature — Angel Artificer",
-			"collector_number": "194",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/160.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/126.png"
 			}
 		},
 		{
@@ -1664,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Vampire Actor Warlock",
-			"collector_number": "142",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/161.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/127.png"
 			}
 		},
 		{
@@ -1674,9 +1285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Creature — Elf Bard",
-			"collector_number": "242",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/162.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/128.png"
 			}
 		},
 		{
@@ -1684,9 +1295,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Artist Wizard",
-			"collector_number": "146",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/163.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/129.png"
 			}
 		},
 		{
@@ -1694,9 +1305,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/164.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/130.png"
 			}
 		},
 		{
@@ -1704,9 +1315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}",
 			"type": "Sorcery",
-			"collector_number": "256",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/165.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/131.png"
 			}
 		},
 		{
@@ -1714,9 +1325,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "126",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/166.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/132.png"
 			}
 		},
 		{
@@ -1724,19 +1335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Artifact — Food",
-			"collector_number": "182",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/167.png"
-			}
-		},
-		{
-			"name": "Cogturn Laboratory",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Artifact — Building",
-			"collector_number": "193",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/168.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/133.png"
 			}
 		},
 		{
@@ -1744,9 +1345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Human Actor Warlock",
-			"collector_number": "201",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/169.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/134.png"
 			}
 		},
 		{
@@ -1754,9 +1355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "233",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/170.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/135.png"
 			}
 		},
 		{
@@ -1764,9 +1365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "189",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/171.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/136.png"
 			}
 		},
 		{
@@ -1774,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Creature — Azra Bard",
-			"collector_number": "227",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/172.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/137.png"
 			}
 		},
 		{
@@ -1784,9 +1385,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vampire Actor Warlock",
-			"collector_number": "118",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/173.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/138.png"
 			}
 		},
 		{
@@ -1794,9 +1395,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/174.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/139.png"
 			}
 		},
 		{
@@ -1804,29 +1405,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "53",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/175.png"
-			}
-		},
-		{
-			"name": "Moonridge Tailors",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Artifact — Building",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/176.png"
-			}
-		},
-		{
-			"name": "Rousing Read",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "63",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/177.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/140.png"
 			}
 		},
 		{
@@ -1834,29 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Orc Artist Wizard",
-			"collector_number": "148",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/178.png"
-			}
-		},
-		{
-			"name": "Forest Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Land — Forest Plains",
-			"collector_number": "21",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/179.png"
-			}
-		},
-		{
-			"name": "Berengar, Kitchen Tyrant",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Legendary Creature — Dwarf Druid",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/180.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/141.png"
 			}
 		},
 		{
@@ -1864,9 +1425,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}{R}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/181.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/142.png"
 			}
 		},
 		{
@@ -1874,19 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/182.png"
-			}
-		},
-		{
-			"name": "Vehicle",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Vehicle",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/183.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/143.png"
 			}
 		},
 		{
@@ -1894,9 +1445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "241",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/184.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/144.png"
 			}
 		},
 		{
@@ -1904,9 +1455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Instant",
-			"collector_number": "231",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/185.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/145.png"
 			}
 		},
 		{
@@ -1914,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Artist Wizard",
-			"collector_number": "66",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/186.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/146.png"
 			}
 		},
 		{
@@ -1924,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Bard",
-			"collector_number": "138",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/187.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/147.png"
 			}
 		},
 		{
@@ -1934,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "239",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/188.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/148.png"
 			}
 		},
 		{
@@ -1944,9 +1495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Actor Warlock",
-			"collector_number": "121",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/189.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/149.png"
 			}
 		},
 		{
@@ -1954,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/190.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/150.png"
 			}
 		},
 		{
@@ -1964,19 +1515,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/191.png"
-			}
-		},
-		{
-			"name": "Bird",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Bird",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/192.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/151.png"
 			}
 		},
 		{
@@ -1984,19 +1525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "192",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/193.png"
-			}
-		},
-		{
-			"name": "Gustbrook Library",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Artifact — Building",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/194.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/152.png"
 			}
 		},
 		{
@@ -2004,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Elf Dwarf Bard",
-			"collector_number": "114",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/195.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/153.png"
 			}
 		},
 		{
@@ -2014,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "68",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/196.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/154.png"
 			}
 		},
 		{
@@ -2024,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/197.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/155.png"
 			}
 		},
 		{
@@ -2036,17 +1567,7 @@
 			"type": "Creature — Spirit Bard",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/198.png"
-			}
-		},
-		{
-			"name": "La Chaconne de Soupir No 3",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{B}",
-			"type": "Enchantment — Saga",
-			"collector_number": "217",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/199.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/156.png"
 			}
 		},
 		{
@@ -2054,19 +1575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Bear Druid",
-			"collector_number": "210",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/200.png"
-			}
-		},
-		{
-			"name": "Spirit Elemental",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Spirit Elemental",
-			"collector_number": "8",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/201.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/157.png"
 			}
 		},
 		{
@@ -2074,19 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{U}",
 			"type": "Creature — Sphinx",
-			"collector_number": "56",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/202.png"
-			}
-		},
-		{
-			"name": "Construct",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
-			"collector_number": "12",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/203.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/158.png"
 			}
 		},
 		{
@@ -2094,19 +1595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "67",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/204.png"
-			}
-		},
-		{
-			"name": "Sylvie, Garden Tender",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Legendary Creature — Satyr Druid",
-			"collector_number": "243",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/205.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/159.png"
 			}
 		},
 		{
@@ -2114,9 +1605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Gnome Artist Wizard",
-			"collector_number": "50",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/206.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/160.png"
 			}
 		},
 		{
@@ -2124,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Inkling Elemental",
-			"collector_number": "152",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/207.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/161.png"
 			}
 		},
 		{
@@ -2134,9 +1625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/208.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/162.png"
 			}
 		},
 		{
@@ -2144,9 +1635,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/209.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/163.png"
 			}
 		},
 		{
@@ -2154,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "62",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/210.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/164.png"
 			}
 		},
 		{
@@ -2164,19 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Artist Wizard",
-			"collector_number": "250",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/211.png"
-			}
-		},
-		{
-			"name": "Esteemed Author Davriel Cane",
-			"rarity": "mythic",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Planeswalker — Davriel",
-			"collector_number": "199",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/212.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/165.png"
 			}
 		},
 		{
@@ -2184,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "129",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/213.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/166.png"
 			}
 		},
 		{
@@ -2194,9 +1675,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/214.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/167.png"
 			}
 		},
 		{
@@ -2204,29 +1685,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Goblin Artificer",
-			"collector_number": "130",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/215.png"
-			}
-		},
-		{
-			"name": "Ingenuity",
-			"rarity": "mythic",
-			"mana_cost": "{6}",
-			"type": "Legendary Artifact Creature — Incarnation",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/216.png"
-			}
-		},
-		{
-			"name": "Chromatic Lantern",
-			"rarity": "rare",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/217.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/168.png"
 			}
 		},
 		{
@@ -2234,9 +1695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "220",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/218.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/169.png"
 			}
 		},
 		{
@@ -2244,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "49",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/219.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/170.png"
 			}
 		},
 		{
@@ -2254,19 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "40",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/220.png"
-			}
-		},
-		{
-			"name": "Footlight Fiend",
-			"rarity": "common",
-			"mana_cost": "{B/R}",
-			"type": "Creature — Devil",
-			"collector_number": "255",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/221.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/171.png"
 			}
 		},
 		{
@@ -2274,19 +1725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Dwarf Artist Wizard",
-			"collector_number": "86",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/222.png"
-			}
-		},
-		{
-			"name": "Tear Through",
-			"rarity": "common",
-			"mana_cost": "{R/G}",
-			"type": "Instant",
-			"collector_number": "261",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/223.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/172.png"
 			}
 		},
 		{
@@ -2294,9 +1735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Dragon",
-			"collector_number": "265",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/224.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/173.png"
 			}
 		},
 		{
@@ -2304,26 +1745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Bard",
-			"collector_number": "170",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/225.png"
-			}
-		},
-		{
-			"name": "Distracted Apprentice",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Artificer",
-			"collector_number": "8",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/226_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/226_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/174.png"
 			}
 		},
 		{
@@ -2331,19 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "91",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/227.png"
-			}
-		},
-		{
-			"name": "Elaphia, Full of Wonder",
-			"rarity": "mythic",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Planeswalker — Elaphia",
-			"collector_number": "198",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/228.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/175.png"
 			}
 		},
 		{
@@ -2351,9 +1765,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Artifact",
-			"collector_number": "78",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/229.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/176.png"
 			}
 		},
 		{
@@ -2361,46 +1775,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/230.png"
-			}
-		},
-		{
-			"name": "Tavern Reveler",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Satyr Bard",
-			"collector_number": "143",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/231_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/231_front.png"
-			}
-		},
-		{
-			"name": "Belphegor, Infernal Publisher",
-			"rarity": "rare",
-			"mana_cost": "{2}{U}{B}",
-			"type": "Legendary Creature — Demon Advisor",
-			"collector_number": "187",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/232.png"
-			}
-		},
-		{
-			"name": "The Founding of the City",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Saga",
-			"collector_number": "160",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/233.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/177.png"
 			}
 		},
 		{
@@ -2408,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "163",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/234.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/178.png"
 			}
 		},
 		{
@@ -2418,9 +1795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "64",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/235.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/179.png"
 			}
 		},
 		{
@@ -2428,9 +1805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Inkling Beast",
-			"collector_number": "213",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/236.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/180.png"
 			}
 		},
 		{
@@ -2438,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/237.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/181.png"
 			}
 		},
 		{
@@ -2448,9 +1825,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Human Druid",
-			"collector_number": "83",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/238.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/182.png"
 			}
 		},
 		{
@@ -2458,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/239.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/183.png"
 			}
 		},
 		{
@@ -2468,19 +1845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Gnome",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/240.png"
-			}
-		},
-		{
-			"name": "Moment of Craving",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "96",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/241.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/184.png"
 			}
 		},
 		{
@@ -2488,9 +1855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}{W}",
 			"type": "Artifact Creature — Dog Sculpture",
-			"collector_number": "181",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/242.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/185.png"
 			}
 		},
 		{
@@ -2498,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}",
 			"type": "Enchantment",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/243.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/186.png"
 			}
 		},
 		{
@@ -2508,36 +1875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Druid",
-			"collector_number": "108",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/244.png"
-			}
-		},
-		{
-			"name": "Velda, Opera Diva",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Legendary Creature — Vampire Actor Warlock",
-			"collector_number": "247",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/245.png"
-			}
-		},
-		{
-			"name": "Roland, Second Fiddle",
-			"rarity": "mythic",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Creature — Azra Bard",
-			"collector_number": "232",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/246_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/246_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/187.png"
 			}
 		},
 		{
@@ -2545,9 +1885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "274",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/247.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/188.png"
 			}
 		},
 		{
@@ -2555,9 +1895,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Orc Artificer",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/248.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/189.png"
 			}
 		},
 		{
@@ -2565,9 +1905,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Artifact Creature — Griffin",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/249.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/190.png"
 			}
 		},
 		{
@@ -2575,19 +1915,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Enchantment Artifact",
-			"collector_number": "240",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/250.png"
-			}
-		},
-		{
-			"name": "Scrapsmelt Foundry",
-			"rarity": "rare",
-			"mana_cost": "{R}{W}",
-			"type": "Artifact — Building",
-			"collector_number": "234",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/251.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/191.png"
 			}
 		},
 		{
@@ -2595,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/252.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/192.png"
 			}
 		},
 		{
@@ -2605,9 +1935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/253.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/193.png"
 			}
 		},
 		{
@@ -2615,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{B}",
 			"type": "Instant",
-			"collector_number": "190",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/254.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/194.png"
 			}
 		},
 		{
@@ -2625,9 +1955,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "55",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/255.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/195.png"
 			}
 		},
 		{
@@ -2635,9 +1965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/256.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/196.png"
 			}
 		},
 		{
@@ -2645,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/257.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/197.png"
 			}
 		},
 		{
@@ -2655,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "179",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/258.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/198.png"
 			}
 		},
 		{
@@ -2665,9 +1995,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Azra Advisor",
-			"collector_number": "90",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/259.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/199.png"
 			}
 		},
 		{
@@ -2675,9 +2005,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}",
 			"type": "Artifact Creature — Food Snake",
-			"collector_number": "173",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/260.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/200.png"
 			}
 		},
 		{
@@ -2685,9 +2015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment Creature — Phoenix Illusion",
-			"collector_number": "135",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/261.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/201.png"
 			}
 		},
 		{
@@ -2695,9 +2025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}{U}",
 			"type": "Legendary Enchantment Artifact",
-			"collector_number": "200",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/262.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/202.png"
 			}
 		},
 		{
@@ -2705,9 +2035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Vampire Bard Warlock",
-			"collector_number": "230",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/263.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/203.png"
 			}
 		},
 		{
@@ -2715,9 +2045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "225",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/264.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/204.png"
 			}
 		},
 		{
@@ -2725,26 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "267",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/265.png"
-			}
-		},
-		{
-			"name": "Impassioned Singer",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Elf Bard",
-			"collector_number": "127",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/266_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/266_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/205.png"
 			}
 		},
 		{
@@ -2752,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit Artist",
-			"collector_number": "70",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/267.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/206.png"
 			}
 		},
 		{
@@ -2762,9 +2075,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "123",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/268.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/207.png"
 			}
 		},
 		{
@@ -2772,9 +2085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Food Elemental",
-			"collector_number": "176",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/269.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/208.png"
 			}
 		},
 		{
@@ -2784,7 +2097,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/270.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/209.png"
 			}
 		},
 		{
@@ -2794,7 +2107,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/271.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/210.png"
 			}
 		},
 		{
@@ -2804,7 +2117,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/272.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/211.png"
 			}
 		},
 		{
@@ -2814,7 +2127,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/273.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/212.png"
 			}
 		},
 		{
@@ -2824,17 +2137,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/274.png"
-			}
-		},
-		{
-			"name": "Jaunty Tune",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/275.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/213.png"
 			}
 		},
 		{
@@ -2842,9 +2145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "151",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/276.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/214.png"
 			}
 		},
 		{
@@ -2852,9 +2155,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "116",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/277.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/215.png"
 			}
 		},
 		{
@@ -2862,9 +2165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Instant",
-			"collector_number": "229",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/278.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/216.png"
 			}
 		},
 		{
@@ -2872,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Creature — Vampire Warlock",
-			"collector_number": "248",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/279.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/217.png"
 			}
 		},
 		{
@@ -2882,9 +2185,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Lizard",
-			"collector_number": "156",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/280.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/218.png"
 			}
 		},
 		{
@@ -2894,7 +2197,7 @@
 			"type": "Artifact Creature — Druid",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/281.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/219.png"
 			}
 		},
 		{
@@ -2902,19 +2205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Cat",
-			"collector_number": "167",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/282.png"
-			}
-		},
-		{
-			"name": "The Grand Festival",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "207",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/283.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/220.png"
 			}
 		},
 		{
@@ -2922,19 +2215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "235",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/284.png"
-			}
-		},
-		{
-			"name": "Chisel",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Equipment",
-			"collector_number": "11",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/285.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/221.png"
 			}
 		},
 		{
@@ -2942,9 +2225,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Bird Artificer",
-			"collector_number": "185",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/286.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/222.png"
 			}
 		},
 		{
@@ -2952,9 +2235,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "236",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/287.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/223.png"
 			}
 		},
 		{
@@ -2962,9 +2245,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Avatar",
-			"collector_number": "85",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/288.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/224.png"
 			}
 		},
 		{
@@ -2972,9 +2255,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/289.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/225.png"
 			}
 		},
 		{
@@ -2982,9 +2265,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Azra Bard",
-			"collector_number": "69",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/290.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/226.png"
 			}
 		},
 		{
@@ -2992,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{6}{U}",
 			"type": "Artifact Creature — Serpent",
-			"collector_number": "71",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/291.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/227.png"
 			}
 		},
 		{
@@ -3002,9 +2285,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "208",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/292.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/228.png"
 			}
 		},
 		{
@@ -3012,9 +2295,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Instant",
-			"collector_number": "216",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/293.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/229.png"
 			}
 		},
 		{
@@ -3022,9 +2305,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Azra Actor Warlock",
-			"collector_number": "102",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/294.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/230.png"
 			}
 		},
 		{
@@ -3032,19 +2315,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}",
 			"type": "Artifact Creature — Bird",
-			"collector_number": "254",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/295.png"
-			}
-		},
-		{
-			"name": "Annul",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "37",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/296.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/231.png"
 			}
 		},
 		{
@@ -3052,9 +2325,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/297.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/232.png"
 			}
 		},
 		{
@@ -3062,29 +2335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elf Advisor",
-			"collector_number": "109",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/298.png"
-			}
-		},
-		{
-			"name": "The Bardenmoot",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "186",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/299.png"
-			}
-		},
-		{
-			"name": "Diego, Slam Poet",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Creature — Satyr Bard",
-			"collector_number": "197",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/300.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/233.png"
 			}
 		},
 		{
@@ -3092,9 +2345,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/301.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/234.png"
 			}
 		},
 		{
@@ -3102,19 +2355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Dragon Actor",
-			"collector_number": "98",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/302.png"
-			}
-		},
-		{
-			"name": "Coax the Worldsongs",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "113",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/303.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/235.png"
 			}
 		},
 		{
@@ -3122,9 +2365,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Demon Advisor",
-			"collector_number": "44",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/304.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/236.png"
 			}
 		},
 		{
@@ -3132,9 +2375,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Elf Bard Warlock",
-			"collector_number": "89",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/305.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/237.png"
 			}
 		},
 		{
@@ -3142,19 +2385,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "169",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/306.png"
-			}
-		},
-		{
-			"name": "Dragon",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Enchantment Creature — Dragon",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/307.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/238.png"
 			}
 		},
 		{
@@ -3162,9 +2395,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Artist Wizard",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/308.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/239.png"
 			}
 		},
 		{
@@ -3172,19 +2405,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}",
 			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "259",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/309.png"
-			}
-		},
-		{
-			"name": "Skystone Sculptory",
-			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact — Building",
-			"collector_number": "28",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/310.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/240.png"
 			}
 		},
 		{
@@ -3192,9 +2415,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/311.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/241.png"
 			}
 		},
 		{
@@ -3202,51 +2425,700 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Ogre Druid",
-			"collector_number": "92",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/242.png"
+			}
+		},
+		{
+			"name": "Frymaster's Pan",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/243.png"
+			}
+		},
+		{
+			"name": "Skystone Gargoyle",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/244.png"
+			}
+		},
+		{
+			"name": "Petite Patissier",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat Druid",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/245.png"
+			}
+		},
+		{
+			"name": "MVX DRAFT ARCHETYPES",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/246.png"
+			}
+		},
+		{
+			"name": "Creativity",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Enchantment Creature — Incarnation",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/247.png"
+			}
+		},
+		{
+			"name": "Lyon, Aged Inventor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Planeswalker — Lyon",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/248.png"
+			}
+		},
+		{
+			"name": "Prolific Novelist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Dwarf Artist Wizard",
+			"collector_number": "64",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/249_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/249_front.png"
+			}
+		},
+		{
+			"name": "Aspiring Performer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Actor Warlock",
+			"collector_number": "78",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/251_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/251_front.png"
+			}
+		},
+		{
+			"name": "Prophetic Prism",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/253.png"
+			}
+		},
+		{
+			"name": "Keen Guardcog",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/254_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/254_front.png"
+			}
+		},
+		{
+			"name": "Jacques, Harsh Conductor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/256.png"
+			}
+		},
+		{
+			"name": "Blood Artist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Artist",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/257.png"
+			}
+		},
+		{
+			"name": "Skillful Landscapist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artist Wizard",
+			"collector_number": "68",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/258_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/258_front.png"
+			}
+		},
+		{
+			"name": "Sunstreet Clocktower",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Building",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/260.png"
+			}
+		},
+		{
+			"name": "Gustatorie Tastemaker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "175",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/261_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/261_front.png"
+			}
+		},
+		{
+			"name": "Opening Act",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/263.png"
+			}
+		},
+		{
+			"name": "Song of Creation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/264.png"
+			}
+		},
+		{
+			"name": "Ironflow Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Building",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/265.png"
+			}
+		},
+		{
+			"name": "Niels, Cogmaster",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Dwarf Artificer",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/266.png"
+			}
+		},
+		{
+			"name": "Heartblaze Theatre",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Building",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/267.png"
+			}
+		},
+		{
+			"name": "Dour Chorister",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Vampire Actor Warlock",
+			"collector_number": "90",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/268_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/268_front.png"
+			}
+		},
+		{
+			"name": "Michel, Strummer of Heartstrings",
+			"rarity": "rare",
+			"mana_cost": "{U}{R}",
+			"type": "Legendary Creature — Mouse Bard",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/270.png"
+			}
+		},
+		{
+			"name": "Bard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bard",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/271.png"
+			}
+		},
+		{
+			"name": "Boar",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Boar",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/272.png"
+			}
+		},
+		{
+			"name": "Dog",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Dog",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/273.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Elemental",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/274.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/275.png"
+			}
+		},
+		{
+			"name": "Gnome",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Gnome",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/276.png"
+			}
+		},
+		{
+			"name": "Inkling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Inkling",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/277.png"
+			}
+		},
+		{
+			"name": "Plant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/278.png"
+			}
+		},
+		{
+			"name": "Sculpture",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Sculpture",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/279.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/280.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/281.png"
+			}
+		},
+		{
+			"name": "Vampire Actor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire Actor",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/282.png"
+			}
+		},
+		{
+			"name": "Stew Stirrer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "185",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/283_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/283_front.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/285.png"
+			}
+		},
+		{
+			"name": "Concordia, Angel of Glass",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Creature — Angel Artificer",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/286.png"
+			}
+		},
+		{
+			"name": "Cogturn Laboratory",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact — Building",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/287.png"
+			}
+		},
+		{
+			"name": "Moonridge Tailors",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Building",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/288.png"
+			}
+		},
+		{
+			"name": "Rousing Read",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/289.png"
+			}
+		},
+		{
+			"name": "Forest Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land — Forest Plains",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/290.png"
+			}
+		},
+		{
+			"name": "Berengar, Kitchen Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Dwarf Druid",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/291.png"
+			}
+		},
+		{
+			"name": "Vehicle",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Vehicle",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/292.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/293.png"
+			}
+		},
+		{
+			"name": "Gustbrook Library",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Building",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/294.png"
+			}
+		},
+		{
+			"name": "La Chaconne de Soupir No 3",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/295.png"
+			}
+		},
+		{
+			"name": "Spirit Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Elemental",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/296.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/297.png"
+			}
+		},
+		{
+			"name": "Sylvie, Garden Tender",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Satyr Druid",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/298.png"
+			}
+		},
+		{
+			"name": "Esteemed Author Davriel Cane",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Davriel",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/299.png"
+			}
+		},
+		{
+			"name": "Ingenuity",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Incarnation",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/300.png"
+			}
+		},
+		{
+			"name": "Chromatic Lantern",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/301.png"
+			}
+		},
+		{
+			"name": "Footlight Fiend",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Creature — Devil",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/302.png"
+			}
+		},
+		{
+			"name": "Tear Through",
+			"rarity": "common",
+			"mana_cost": "{R/G}",
+			"type": "Instant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/303.png"
+			}
+		},
+		{
+			"name": "Distracted Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/304_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/304_front.png"
+			}
+		},
+		{
+			"name": "Elaphia, Full of Wonder",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Planeswalker — Elaphia",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/306.png"
+			}
+		},
+		{
+			"name": "Tavern Reveler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Satyr Bard",
+			"collector_number": "151",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/307_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/307_front.png"
+			}
+		},
+		{
+			"name": "Belphegor, Infernal Publisher",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Demon Advisor",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/309.png"
+			}
+		},
+		{
+			"name": "The Founding of the City",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/310.png"
+			}
+		},
+		{
+			"name": "Moment of Craving",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/311.png"
+			}
+		},
+		{
+			"name": "Velda, Opera Diva",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Vampire Actor Warlock",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://mattelonian.github.io/sets/MVX-files/img/312.png"
 			}
 		},
 		{
-			"name": "Antoine, Chef Extraordinaire",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}",
-			"type": "Legendary Creature — Orc Druid",
-			"collector_number": "145",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/313_back.png"
-				}
-			},
+			"name": "Scrapsmelt Foundry",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact — Building",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/313_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/314.png"
 			}
 		},
 		{
-			"name": "Marquis Vaasco de Moraes",
-			"rarity": "mythic",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Legendary Creature — Zombie Warlock",
-			"collector_number": "95",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/314_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/314_front.png"
-			}
-		},
-		{
-			"name": "Nicola, Inspired Artist",
-			"rarity": "mythic",
-			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Human Artist Wizard",
-			"collector_number": "58",
+			"name": "Impassioned Singer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Bard",
+			"collector_number": "135",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3259,20 +3131,93 @@
 			}
 		},
 		{
-			"name": "Isabella, City Builder",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}",
-			"type": "Legendary Creature — Dwarf Artificer",
-			"collector_number": "16",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/316_back.png"
-				}
-			},
+			"name": "Jaunty Tune",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/316_front.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/316.png"
+			}
+		},
+		{
+			"name": "The Grand Festival",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/317.png"
+			}
+		},
+		{
+			"name": "Chisel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/318.png"
+			}
+		},
+		{
+			"name": "Annul",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/319.png"
+			}
+		},
+		{
+			"name": "The Bardenmoot",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/320.png"
+			}
+		},
+		{
+			"name": "Diego, Slam Poet",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Satyr Bard",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/321.png"
+			}
+		},
+		{
+			"name": "Coax the Worldsongs",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/322.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment Creature — Dragon",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/323.png"
+			}
+		},
+		{
+			"name": "Skystone Sculptory",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Building",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/324.png"
 			}
 		},
 		{
@@ -3280,36 +3225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "48",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/317.png"
-			}
-		},
-		{
-			"name": "Brasio, Bardic Chronicler",
-			"rarity": "mythic",
-			"mana_cost": "{R}",
-			"type": "Legendary Creature — Goblin Bard",
-			"collector_number": "111",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://mattelonian.github.io/sets/MVX-files/img/318_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/318_front.png"
-			}
-		},
-		{
-			"name": "Frymaster's Pan",
-			"rarity": "rare",
-			"mana_cost": "{B}{G}",
-			"type": "Artifact",
-			"collector_number": "205",
-			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/319.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/327.png"
 			}
 		},
 		{
@@ -3317,9 +3235,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Planeswalker — Pascal",
-			"collector_number": "228",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/320.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/328.png"
 			}
 		},
 		{
@@ -3327,9 +3245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "136",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/321.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/329.png"
 			}
 		},
 		{
@@ -3337,9 +3255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact — Building",
-			"collector_number": "191",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/322.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/330.png"
 			}
 		},
 		{
@@ -3347,31 +3265,113 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Artist Wizard",
-			"collector_number": "224",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/323.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/331.png"
 			}
 		},
 		{
-			"name": "Skystone Gargoyle",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "27",
+			"name": "Roland, Second Fiddle",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Creature — Azra Bard",
+			"collector_number": "246",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/332_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/324.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/332_front.png"
 			}
 		},
 		{
-			"name": "Petite Patissier",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Creature — Rat Druid",
+			"name": "Antoine, Chef Extraordinaire",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Orc Druid",
+			"collector_number": "154",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/334_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/334_front.png"
+			}
+		},
+		{
+			"name": "Marquis Vaasco de Moraes",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Zombie Warlock",
 			"collector_number": "101",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/335_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://mattelonian.github.io/sets/MVX-files/img/325.png"
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/335_front.png"
 			}
-		}
+		},
+		{
+			"name": "Nicola, Inspired Artist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Artist Wizard",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/337_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/337_front.png"
+			}
+		},
+		{
+			"name": "Isabella, City Builder",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Dwarf Artificer",
+			"collector_number": "17",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/338_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/338_front.png"
+			}
+		},
+		{
+			"name": "Brasio, Bardic Chronicler",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Goblin Bard",
+			"collector_number": "117",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mattelonian.github.io/sets/MVX-files/img/340_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mattelonian.github.io/sets/MVX-files/img/340_front.png"
+			}
+		},
 	]
 	[RareSlot(1)]
 		9 Houndcrafter Savant

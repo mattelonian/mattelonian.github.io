@@ -1,4 +1,1009 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+
+
+Pudding Cat
+rules_text: When this creature dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => When this creature dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Inspirational Performer
+
+Skystone Seraph
+
+Colossal Puppetry
+
+Deride
+
+Forgefire Spray
+
+PROMO Back-Alley Theatre
+
+PROMO Sunlit Park
+
+PROMO Discreet Gallery
+
+PROMO Vibrant Concourse
+
+PROMO Delightful Patisserie
+
+Back-Alley Theatre
+
+Sunlit Park
+
+Discreet Gallery
+
+Vibrant Concourse
+
+Delightful Patisserie
+
+Serene Museum
+
+Hushed Library
+
+Charming Playhouse
+
+Orator's Forum
+
+Abundant Garden
+
+Muted Auditorium
+
+Seedy Kitchen
+
+Lively Tavern
+
+Artificer's Workshop
+
+Gorge on Snacks
+
+Change Perspective
+
+Rushed Production
+
+Clash of Egos
+
+Soup Elemental
+rules_text: When this creature enters, create a 1/1 green Plant creature token.
+When this creature dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => When this creature enters, create a 1/1 green Plant creature token.
+When this creature dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Mechanical Strix
+
+Prevent Catastrophe
+
+Fiendish Fromager
+rules_text: Menace
+When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Menace
+When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Artistic Benefactor
+
+Motivation Sapper
+
+Exhausting Rehearsal
+
+Macabre Prop
+
+Overworked
+
+Casting Call
+
+Understudy
+
+Leading Lady
+
+Forge Gnome
+rules_text: Haste
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => Haste
+When this creature dies, create a Treasure token. [i](It's an artifact with “{T}, Sacrifice this token: Add one mana of any color.”)[/i]
+
+Harbinger of Festivity
+
+Spit Fire
+
+Fiery Setpiece
+
+Spoil the Broth
+rules_text: Choose two —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a single graveyard.
+• Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Choose two —
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a single graveyard.
+• Create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Inspired Reader
+
+Librarian's Assistant
+
+Cartographer's Eyes
+
+Gnomestack
+
+Rancid Meal
+
+Tragic Soloist
+
+Fanciful Flier
+
+Forlorn Author
+
+Dancing Troupe
+
+Wandering Connoisseur
+
+Meticulous Sculptor
+
+Turnip Trimmer
+
+Free-Range Foraging
+
+Valiant Versemaker
+
+Merry Troubadour
+
+Bookwyrm
+
+Cheerful Painter
+
+Candied Colossus
+rules_text: Trample
+When this creature dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Trample
+When this creature dies, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Colorful Rendition
+
+Inspiring Melody
+
+Highbrow Critic
+
+Houndcrafter Savant
+
+Distracting Song
+
+Merrymaker
+
+Civil Engineer
+
+Dreamquill
+
+Gnomish Tinkerer
+
+Worksite Visionary
+
+Distracting Charcuterie
+
+Encore
+
+Greenpark Strummer
+
+Belligerence
+
+Natural Harmony
+
+Farmstead Butcher
+
+Tavern Talesmith
+
+Flamethumper
+
+Spirit of the Opera
+
+Fine Diner
+rules_text: When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+{1}, Sacrifice a token: This creature gains indestructible until end of turn. Tap it. => When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+{1}, Sacrifice a token: This creature gains indestructible until end of turn. Tap it.
+
+Elven Glassblower
+
+Audition
+
+Reptilian Rhymester
+
+Dragonsong
+
+Waxcrafter
+
+Soliloquist
+
+Avian Auteur
+
+Operahouse Headliner
+
+Discouraging Flop
+
+Second Showing
+
+Garden Guardian
+
+Benevolent Florist
+
+Wolfsong
+
+Tend the Garden
+
+Gemcrafter
+
+Birdsong
+
+Artist's Easel
+
+Trash-eater Gnome
+
+Inkbottle
+
+Conceptual Orrery
+
+Retrospection
+
+Skilled Sous-Chef
+
+Cogwrench
+
+Lunch Rush
+
+Vamp
+
+Fencer's Foil
+
+Waxbreath Youngling
+
+Hunt for Inspiration
+
+Painter's Studio
+
+Teatime Two
+
+Grow from Instruction
+
+Angel of Iteration
+
+Gobsmack
+
+Stunning Soprano
+
+Stormsinger
+
+Arboreal Artist
+
+Preserve the Moment
+
+Inspiring Walk
+
+Hearthsong
+
+Ambrosian Tower
+
+Festival Puppeteer
+
+Roland's Solo
+
+Bombastic Performance
+
+Partners in Rhyme
+
+Extravagant Channeler
+
+Festival Revelry
+
+Haunting Lullaby
+
+Atelier Exemplar
+
+Hymn to the Wilds
+
+Sparks of Invention
+
+Stew
+
+Reconceptualize
+
+Slinking Scribbler
+
+Rooftop Rapscallion
+
+Stained Glass Sentinel
+
+Flamesweeper
+
+Cost of Perfection
+
+Season to Perfection
+
+Chicken Coop
+
+Deafening Duo
+
+Songcrafting
+
+Sauce Flinger
+
+Balcony Chanteur
+
+Gustatorie Mixer
+
+Keeper of the Archives
+
+Solid Fundamentals
+
+Gleeful Amateur
+
+Body of Literature
+
+Writer's Desk
+
+Sate the Critics
+
+Redesign
+
+Wicked Wordsmith
+
+Invocation of Creativity
+
+See the Sights
+
+Ironstreet Welders
+
+Lyon's Contemplation
+
+Foundry Assistant
+
+Blueprints
+
+Enraged Essayist
+
+Constructed Whelp
+
+Parkland Flautist
+
+Gastronomical Hubris
+
+Chorus Machine
+
+Enraptured Watcher
+
+Green Thumbed Growth
+
+Serenade
+
+Inkblot Familiar
+
+Criticize
+
+Diviner of the Dessert
+
+Lament
+
+Parts Picker
+
+Alabaster Guardian
+
+Tidy Up
+
+Witch of Forbidden Treats
+
+Stonework Behemoth
+
+Diligent Architect
+
+Monument to Ascension
+
+Starlit Horizons
+
+Food Flood
+
+Davriel's Bargain
+
+Break from Stress
+
+Inkshaping
+
+Stage Fright
+
+Dishearten
+
+Vivid Expression
+
+Gallery Curator
+
+Soup Serpent
+
+Phoenixsong
+
+Far-off Places
+
+Profane Performer
+
+Oft-Told Tales
+
+Flute of Harmony
+
+Spectral Scribe
+
+Forgehammer
+
+Swaying Smorgasbord
+
+Bite Down on Treats
+rules_text: Target creature you control deals damage equal to its power to target creature you don't control. If excess damage was dealt this way, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i] => Target creature you control deals damage equal to its power to target creature you don't control. If excess damage was dealt this way, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+
+Dramatic Organ
+
+Plan by Committee
+
+Vicious Animancer
+
+Cookie Snatcher
+
+Bolstering Chefbot
+
+Kitty Connoisseur
+
+Secret Ingredients
+
+Avian Augmenteers
+
+Show of Strength
+
+Dramatis Personae
+
+Ancestral Guidance
+
+Songweaver Adept
+
+Storybook Serpent
+
+Grand Overture
+
+Knockout Performance
+
+Pompous Thespian
+
+Festival Shorthopper
+
+Stage Double
+
+Arbiter of Taste
+
+Reconstruct
+
+Onerous Old-Timer
+
+Demon of Many Pages
+
+First Chair Violinist
+
+Nature's Bounty
+
+Atelier Artisan
+
+Parapet Percher
+
+Iterate Over
+
+Gustatorie Explorateur
+
+Frymaster's Pan
+
+Skystone Gargoyle
+
+Petite Patissier
+rules_text: When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Once each turn, when you gain life, you may have this creature gain deathtouch until end of turn. Each opponent loses 1 life. => When this creature enters, create a Food token. [i](It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Once each turn, when you gain life, you may have this creature gain deathtouch until end of turn. Each opponent loses 1 life.
+
+MVX DRAFT ARCHETYPES
+
+Creativity
+
+Lyon, Aged Inventor
+
+Prolific Novelist
+
+Aspiring Performer
+
+Prophetic Prism
+
+Keen Guardcog
+
+Jacques, Harsh Conductor
+
+Blood Artist
+
+Skillful Landscapist
+
+Sunstreet Clocktower
+rules_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
+
+special_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Target creature gets +1/+1 until end of turn. Activate only as a sorcery.
+ Built 1+
+{1}{W}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.
+ Built 2+
+{2}{W}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying. Activate only as a sorcery.
+
+
+Gustatorie Tastemaker
+
+Opening Act
+rules_text: 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+special_text: 
+Create a 1/1 red Bard creature token with prowess.
+Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 1/1 red Bard creature token with prowess.
+III — Whenever a creature you control attacks this turn, it gets +1/+1 and gains trample until end of turn.
+
+Song of Creation
+
+Ironflow Forge
+rules_text: Gain the next level as a sorcery to add its ability.
+
+Whenever another artifact you control enters, this Building deals 1 damage to each opponent, then you may put a brick counter on it. [i](It retains abilities.)[/i]
+ Built 2+
+{R}{W}, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+ Level 3
+​ => (Gain the next level as a sorcery to add its ability.)
+
+Whenever another artifact you control enters, this Building deals 1 damage to each opponent, then you may put a brick counter on it. [i](It retains abilities.)[/i]
+ Built 2+
+{R}{W}, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+
+
+special_text: Gain the next level as a sorcery to add its ability.
+
+Whenever another artifact you control enters, this Building deals 1 damage to each opponent, then you may put a brick counter on it. [i](It retains abilities.)[/i]
+ Built 2+
+{R}{W}, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+ Level 3
+​ => (Gain the next level as a sorcery to add its ability.)
+
+Whenever another artifact you control enters, this Building deals 1 damage to each opponent, then you may put a brick counter on it. [i](It retains abilities.)[/i]
+ Built 2+
+{R}{W}, {T}: Create a 1/1 colorless Gnome artifact creature token. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. Activate only as a sorcery.
+
+
+
+Niels, Cogmaster
+
+Heartblaze Theatre
+rules_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{R}, {T}: Target creature gains haste until end of turn.
+ Built 1+
+{R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+ Built 2+
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{R}, {T}: Target creature gains haste until end of turn.
+ Built 1+
+{R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+ Built 2+
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+special_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{R}, {T}: Target creature gains haste until end of turn.
+ Built 1+
+{R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+ Built 2+
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{R}, {T}: Target creature gains haste until end of turn.
+ Built 1+
+{R}, {T}: Creatures you control get +1/+0 until end of turn. Activate only as a sorcery.
+ Built 2+
+{R}, {T}: Target creature gets +2/+0 until end of turn. Activate only as a sorcery.
+
+
+Dour Chorister
+
+Michel, Strummer of Heartstrings
+
+Bard
+
+Boar
+
+Dog
+
+Elemental
+
+Food
+
+Gnome
+
+Inkling
+
+Plant
+
+Sculpture
+
+Thopter
+
+Treasure
+
+Vampire Actor
+
+Stew Stirrer
+
+Copy
+
+Concordia, Angel of Glass
+
+Cogturn Laboratory
+rules_text: Whenever this Building becomes untapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 1 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery. => Whenever this Building becomes untapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 1 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery.
+
+special_text: Whenever this Building becomes untapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 1 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery. => Whenever this Building becomes untapped, you may put a brick counter on it.
+{1}, {T}: Scry 2. You gain 1 life.
+ Built 1+
+{W}{U}, {T}: Copy target noncreature spell you control. You may choose new targets for the copy.
+ Built 2+
+{W}{U}, {T}: Exile target noncreature card from your graveyard. Copy that card. You may cast the copy. Activate only as a sorcery.
+
+
+Moonridge Tailors
+rules_text: 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​ => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+
+
+special_text: 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+ Level 3
+​ => 
+Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building.
+[i](It retains abilities.)[/i]
+{3}{W}, {T}: Tap target creature or artifact.
+ Built 2+
+{1}{W}, {T}: Tap target creature.
+
+
+
+Rousing Read
+
+Forest Plains
+
+Berengar, Kitchen Tyrant
+
+Vehicle
+
+Bird
+
+Gustbrook Library
+rules_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Surveil 1. [i](Look at the top card of your library. You may mill it.)[/i]
+ Built 1+
+{U}, {T}: Draw a card, then discard a card.
+ Built 2+
+{2}{U}, {T}: Draw a card. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Surveil 1. [i](Look at the top card of your library. You may mill it.)[/i]
+ Built 1+
+{U}, {T}: Draw a card, then discard a card.
+ Built 2+
+{2}{U}, {T}: Draw a card.
+
+special_text: Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Surveil 1. [i](Look at the top card of your library. You may mill it.)[/i]
+ Built 1+
+{U}, {T}: Draw a card, then discard a card.
+ Built 2+
+{2}{U}, {T}: Draw a card. => Whenever you cast an artifact or noncreature spell, you may put a brick counter on this Building. [i](It retains abilities.)[/i]
+{T}: Surveil 1. [i](Look at the top card of your library. You may mill it.)[/i]
+ Built 1+
+{U}, {T}: Draw a card, then discard a card.
+ Built 2+
+{2}{U}, {T}: Draw a card.
+
+
+La Chaconne de Soupir No 3
+rules_text: 
+If you cast this Saga, exile all creatures.
+Each player returns a card they own exiled with this Saga to the battlefield under their control.
+Return a card exiled with this Saga to the battlefield under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — If you cast this Saga, exile all creatures.
+II — Each player returns a card they own exiled with this Saga to the battlefield under their control.
+III — Return a card exiled with this Saga to the battlefield under your control.
+special_text: 
+If you cast this Saga, exile all creatures.
+Each player returns a card they own exiled with this Saga to the battlefield under their control.
+Return a card exiled with this Saga to the battlefield under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — If you cast this Saga, exile all creatures.
+II — Each player returns a card they own exiled with this Saga to the battlefield under their control.
+III — Return a card exiled with this Saga to the battlefield under your control.
+
+Spirit Elemental
+
+Construct
+
+Sylvie, Garden Tender
+
+Esteemed Author Davriel Cane
+
+Ingenuity
+
+Chromatic Lantern
+
+Footlight Fiend
+
+Tear Through
+
+Distracted Apprentice
+
+Elaphia, Full of Wonder
+
+Tavern Reveler
+
+Belphegor, Infernal Publisher
+
+The Founding of the City
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+II, III — When a creature you control next enters this turn, put a +1/+1 counter on it.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+When a creature you control next enters this turn, put a +1/+1 counter on it.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Reveal the top three cards of your library. Put a permanent card with mana value 3 or less from among them into your hand and the rest on the bottom of your library in a random order.
+II, III — When a creature you control next enters this turn, put a +1/+1 counter on it.
+
+Moment of Craving
+
+Velda, Opera Diva
+
+Scrapsmelt Foundry
+rules_text: Whenever this Building becomes untapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery. => Whenever this Building becomes untapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery.
+
+special_text: Whenever this Building becomes untapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery. => Whenever this Building becomes untapped, you may put a brick counter on it.
+{T}, Exile an artifact card from your graveyard: Create a Treasure token.
+ Built 1+
+{T}, Sacrifice a noncreature artifact: Create a 1/1 colorless Gnome artifact creature token. Activate only as a sorcery.
+ Built 2+
+{1}, {T}, Sacrifice an artifact creature: 
+Create a 4/4 colorless Construct artifact creature token. Activate only as a sorcery.
+
+
+Impassioned Singer
+
+Jaunty Tune
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II, III — Draw a card.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Discard a card.
+Draw a card.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Discard a card.
+II, III — Draw a card.
+
+The Grand Festival
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Create a tapped Treasure token.
+Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I, II — Create a tapped Treasure token.
+III, IV — Look at the top four cards of your library. You may reveal an instant, sorcery, or enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Chisel
+
+Annul
+
+The Bardenmoot
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast this Saga, counter up to one target spell.
+You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+I — If you cast this Saga, counter up to one target spell.
+II, III, IV — You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+If you cast this Saga, counter up to one target spell.
+You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Flash
+I — If you cast this Saga, counter up to one target spell.
+II, III, IV — You may cast a spell with mana value less than the number of lore counters on this Saga from your hand without paying its mana cost.
+
+Diego, Slam Poet
+
+Coax the Worldsongs
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i][/i]Create a 4/4 
+red Dragon enchantment creature token with flying and “{R}: This creature gets +1/+0 until end of turn.”[i][/i]
+Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — [/i]Create a 4/4 
+red Dragon enchantment creature token with flying and “{R}: This creature gets +1/+0 until end of turn.”[i]
+II — Target creature you control deals damage equal to its power to up to one nonplayer target.
+III — Add six {R}.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+[i][/i]Create a 4/4 
+red Dragon enchantment creature token with flying and “{R}: This creature gets +1/+0 until end of turn.”[i][/i]
+Target creature you control deals damage equal to its power to up to one nonplayer target.
+Add six {R}. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — [/i]Create a 4/4 
+red Dragon enchantment creature token with flying and “{R}: This creature gets +1/+0 until end of turn.”[i]
+II — Target creature you control deals damage equal to its power to up to one nonplayer target.
+III — Add six {R}.
+
+Dragon
+
+Skystone Sculptory
+rules_text: Whenever this Building becomes untapped, you may put a brick counter on it.
+[i][/i]{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.[i][/i]
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control. => Whenever this Building becomes untapped, you may put a brick counter on it.
+[/i]{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.[i]
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control.
+
+special_text: Whenever this Building becomes untapped, you may put a brick counter on it.
+[i][/i]{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.[i][/i]
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control. => Whenever this Building becomes untapped, you may put a brick counter on it.
+[/i]{1}, {T}: Create a colorless Equipment artifact token named Chisel with “Equipped creature gets +1/+0” and equip {1}.[i]
+ Built 1+
+{3}{W}, {T}: Create a tapped 0/0 colorless Sculpture artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+ Built 3+
+{1}, {T}: Create a tapped token that's a copy of an artifact token you control.
+
+
+The Flourishing
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control with a different name. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of up to one target artifact or enchantment you control with a different name.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+Artifact and enchantment spells you cast this turn cost {2} less to cast.
+Create a token that's a copy of up to one target artifact or enchantment you control with a different name. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Mill five cards, then put any number of artifact and/or enchantment cards milled this way into your hand.
+II — Artifact and enchantment spells you cast this turn cost {2} less to cast.
+III — Create a token that's a copy of up to one target artifact or enchantment you control with a different name.
+
+Pascal, Critics' Favorite
+
+The Rejection of the Monarchy
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+This Saga deals 3 damage to any target.
+Create a tapped Treasure token.
+Exile the top card of your library. You may play it this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 3 damage to any target.
+II — Create a tapped Treasure token.
+III — Exile the top card of your library. You may play it this turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+This Saga deals 3 damage to any target.
+Create a tapped Treasure token.
+Exile the top card of your library. You may play it this turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 3 damage to any target.
+II — Create a tapped Treasure token.
+III — Exile the top card of your library. You may play it this turn.
+
+Castleway Crane
+rules_text: Whenever one or more other artifacts you control enter, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}.
+ Built 1+
+{T}: Untap target artifact with a different name.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card. => Whenever one or more other artifacts you control enter, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}.
+ Built 1+
+{T}: Untap target artifact with a different name.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card.
+
+special_text: Whenever one or more other artifacts you control enter, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}.
+ Built 1+
+{T}: Untap target artifact with a different name.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card. => Whenever one or more other artifacts you control enter, you may put a brick counter on a Building you control. [i](It retains abilities.)[/i]
+{T}: Add {W} or {U}.
+ Built 1+
+{T}: Untap target artifact with a different name.
+ Built 3+
+Once each turn, when you cast an artifact spell, you may draw a card.
+
+
+Odette L'or, Fickle Painter
+
+Roland, Second Fiddle
+
+Antoine, Chef Extraordinaire
+
+Marquis Vaasco de Moraes
+
+Nicola, Inspired Artist
+
+Isabella, City Builder
+
+Brasio, Bardic Chronicler
+
+
+VERSION 39 CHANGELOG
 ====================
 
 
